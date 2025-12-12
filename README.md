@@ -29,6 +29,11 @@ data_industry_insights_2020-2025/
 │   │
 │   └── main.py                           # Pipeline entry point
 │
+├── database/                             # Database schema & ERD
+│   ├── schema.sql                        # SQL script to create tables
+│   ├── erd.png                           # Entity Relationship Diagram
+│   └── README.md                         # Explanation of data model
+│
 ├── .streamlit/                           # Streamlit configuration (secrets, settings)
 │   └── secrets.toml
 │
