@@ -21,8 +21,15 @@ data_industry_insights_2020-2025/
 │
 ├── pipeline/                            # Data pipeline: crawlers + processing
 │   ├── crawlers/
-│   │   ├── global_api/
-│   │   └── vn_web/
+│   │   ├── api/
+│   │   │   ├── authenticated/
+│   │   │   └── public/
+│   │   │
+│   │   └── scrape
+│   │       ├── protected/
+│   │       └── public/
+│   │
+│   ├── processing/
 │   │
 │   ├── seeds/
 │   │   └── seed_data.py
