@@ -1,0 +1,1535 @@
+{
+    "count": 21052,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 453832.71,
+    "results": [
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 28.15306,
+            "id": "5529952065",
+            "location": {
+                "display_name": "Midrand, North Johannesburg",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "North Johannesburg",
+                    "Midrand"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": -26.03667,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTk1MjA2NSIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.QYNXsk4sqHkblgkhgB4KSQLr63FpO5R123wMn99Omjg",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Data Engineer - 0122",
+            "description": "Our client is seeking a hands-on Data Engineer with strong experience in building scalable data pipelines and analytics solutions on Databricks. They will design, implement, and maintain end-to-end data flows, optimize performance, and collaborate with data scientists, analytics, and business stakeholders to turn raw data into trusted insights.ESSENTIAL SKILLS:Expertise with Apache Spark (PySpark), Databricks notebooks, Delta Lake, and SQLStrong programming skills in Python for data processingE\u2026",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5529952065?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-05T22:47:40Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNjAyNjM4NCIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.MvmsGOPdDBqgnPP4T85VmA6OzT8-OEOjg4_6PKWAAE8",
+            "latitude": -26.03667,
+            "location": {
+                "display_name": "Midrand, North Johannesburg",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "North Johannesburg",
+                    "Midrand"
+                ]
+            },
+            "id": "5516026384",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.15306,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jordan Human Resources"
+            },
+            "created": "2025-11-27T13:47:52Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5516026384?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "contract_type": "permanent",
+            "description": "Data Engineer Location: Gauteng Contract duration: 01 January 2026 - 31 December 2028 Our client is seeking a hands-on Data Engineer with strong experience in building scalable data pipelines and analytics solutions on Databricks. They will design, implement, and maintain end-to-end data flows, optimize performance, and collaborate with data scientists, analytics, and business stakeholders to turn raw data into trusted insights. ESSENTIAL SKILLS: Expertise with Apache Spark (PySpark), Databrick\u2026",
+            "title": "Data Engineer - 0122"
+        },
+        {
+            "id": "5516018369",
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE2MDE4MzY5In0.dDTPUX7M3EDEj0bmQxTurFwKsHo5B--Nd5QJm1BHgDY",
+            "contract_type": "contract",
+            "title": "Data Engineer Johannesburg",
+            "description": "Our client is looking for a skilled Data Engineer with strong Salesforce experience to support a large-scale data clean-up and migration initiative. This is a 6-month contract opportunity within a fast-paced, collaborative technology environment, ideal for someone who enjoys solving complex data challenges and ensuring high-quality, reliable data ecosystems. Key Responsibilities Analyse existing data sources and identify data quality issues, inconsistencies, and gaps. Design and implement data \u2026",
+            "created": "2025-11-27T13:45:50Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Miprint Consulting"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5516018369?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Junior Data Analyst",
+            "description": "Empowering Africa\u2019s tomorrow, together\u2026one story at a time.With over 100 years of rich history and strongly positioned as a local bank with regional and international expertise, a career with our family offers the opportunity to be part of this exciting growth journey, to reset our future and shape our destiny as a proudly African group.Job SummaryThe role focuses on analyzing and interpreting complex data sets to deliver actionable insights and business recommendations. It involves collaborati\u2026",
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.co.za/details/5510716142?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-24T00:45:30Z",
+            "company": {
+                "display_name": "Absa Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "id": "5510716142",
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTEwNzE2MTQyIn0.EKm8TQPxpD1k8Joh30H1VuEhbSrQp4a0THiEckD0vZ4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "created": "2025-11-29T21:51:31Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5519719866?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "title": "Data Product Manager",
+            "description": "Role:Our client is a Data Product Manager to execute and optimize data products on their B2B data marketplace platform. You'll be responsible for managing the product lifecycle of data solutions that connect data sellers with enterprise buyers seeking actionable insights. This role requires strong data product capabilities, effective stakeholder coordination, and the ability to execute in the technical and business environment of a two-sided marketplace. Reporting to the Head of Data Product Gr\u2026",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": -26.19611,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE5NzE5ODY2In0.-6JL19Ui-sNdBfRsQn-eXFeOxOv4IPxI181RLzoqCf8",
+            "id": "5519719866",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "East Johannesburg",
+                    "Kensington"
+                ],
+                "display_name": "Kensington, East Johannesburg"
+            },
+            "longitude": 28.09694,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDc4OTIxNDUzIn0.pYULy3WLiBCpP-bMSehQ13biCxIyoiQmP7gHzB0VDCU",
+            "latitude": -26.081943,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.17194,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gauteng, South Africa"
+            },
+            "id": "5478921453",
+            "redirect_url": "https://www.adzuna.co.za/details/5478921453?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Teraco"
+            },
+            "created": "2025-11-03T23:04:19Z",
+            "description": "Purpose of the Role The Lead Data Scientist is responsible for: Shaping and executing Teraco's data and analytics strategy, Driving business innovation through the effective use of data and analytics, Fostering a data-driven and model-driven culture, Ensuring that data and analytics capabilities support business objectives. Main Functions of the Job Artificial Intelligence Collaborate with stakeholders to identify opportunities for data and analytics driven solutions. Lead the design, implement\u2026",
+            "title": "Lead Data Scientist",
+            "contract_type": "permanent"
+        },
+        {
+            "title": "Data Product Manager",
+            "salary_min": 36,
+            "description": "Role: Our client is a Data Product Manager to execute and optimize data products on their B2B data marketplace platform. You'll be responsible for managing the product lifecycle of data solutions that connect data sellers with enterprise buyers seeking actionable insights. This role requires strong data product capabilities, effective stakeholder coordination, and the ability to execute in the technical and business environment of a two-sided marketplace. Reporting to the Head of Data Product G\u2026",
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5507235122?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-21T12:42:18Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Recru-IT"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5507235122",
+            "salary_max": 36,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa"
+                ],
+                "display_name": "South Africa"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA3MjM1MTIyIn0.vzFxKs0EkZ7DoiCa6mDHPdSCuWu5HT95ZNWTMmvknpU",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "title": "Senior Data Engineer",
+            "description": "Let's Write Africa's Story Together! Old Mutual is a firm believer in the African opportunity and our diverse talent reflects this. Job Description Senior Data Engineer will lead the development and optimization of our data infrastructure, playing a critical role in shaping the future of our data architecture. They will be responsible for designing and implementing complex data solutions, mentoring team members, and collaborating with stakeholders to drive innovative data initiatives for Old Mu\u2026",
+            "created": "2025-12-10T21:16:38Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Old Mutual"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5536848949?utm_medium=api&utm_source=58c69264",
+            "id": "5536848949",
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM2ODQ4OTQ5In0.HrmfNGwJth8KlxIVIwYr80OJzFnGUHYkledAzNneNzY"
+        },
+        {
+            "title": "Intermediate Data Engineer",
+            "description": "The Intermediae Data Engineer is accountable for creating and maintaining the technological infrastructure of Spot Money and implementing methods to improve data reliability and quality. Ensure the consistent delivery of data architecture throughout ongoing projects by creating data models, building data pipelines and coordinating ETL (extract, transform, load). Responsibilities : Data Ingestion & Processing Assist in building ETL/ELT pipelines using AWS services like AWS Glue, Lambda, and Step\u2026",
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.co.za/details/5113642464?utm_medium=api&utm_source=58c69264",
+            "created": "2025-03-27T16:28:49Z",
+            "company": {
+                "display_name": "Ignition Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5113642464",
+            "location": {
+                "display_name": "Cape Town City Centre, Cape Town Region",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1MTEzNjQyNDY0In0.zMLGAwlAvgnN9jeCr976CKdY5ikz9Qq9dAVCKhP4aMQ",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Centurion, Tshwane",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Centurion"
+                ]
+            },
+            "id": "5520529186",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.18586,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDUyOTE4NiIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.BTjrZCqe1xpMVc91PSNioqC1yZL14DoxlWe9kJrq8vE",
+            "latitude": -25.8425,
+            "description": "We are seeking a Senior Data Engineer to join our team based in Centurion. Onsite, contract.The Senior Data Engineer is responsible for designing, building, and maintaining robust, scalable data pipelines and platforms to support advanced analytics, BI, and data-driven decision-making. This individual brings strong technical experience, shows leadership in data initiatives, and works closely with both technical and business stakeholders to ensure high-quality data solutions.This role bridges im\u2026",
+            "title": "Senior Data Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-30T21:38:16Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5520529186?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDUzNjY4NzQ1In0.u56YXPHNfB11GW54v_8H8Ws8nBHZBVuoGVZBB8oY_Hs",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cape Town City Centre, Cape Town Region"
+            },
+            "id": "5453668745",
+            "redirect_url": "https://www.adzuna.co.za/details/5453668745?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Callforce Direct"
+            },
+            "created": "2025-10-18T12:10:38Z",
+            "description": "The Master Data Analyst plays a critical role in managing and maintaining accurate, consistent, and reliable master data that supports logistics operations. This role ensures that all key datasuch as customer, supplier, product and payment term information is governed according to company standards, enabling smooth operations and data-driven decision-making. Key Responsibilities: Master Data Management: Create, validate, and maintain master data for customers and vendors. Ensure data accuracy, \u2026",
+            "title": "Master Data Administrator"
+        },
+        {
+            "id": "5488503984",
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4ODUwMzk4NCIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.1DyEigOQfvncEqp8CTrsvLVfg73_ceKsbOkogiCZa04",
+            "contract_type": "contract",
+            "title": "AWS Data Engineer",
+            "description": "AWS DATA ENGINEER \u2013 CONTRACT Job Title: AWS Data Engineer Location: [JHB/Hybrid] MUST BE LOCAL IN SOUTH AFRICA Job Type: [Full-Time /Contract] Job Description: We are seeking a skilled AWS Data Engineer to join our dynamic team. The ideal candidate will have a strong background in data engineering, with specific expertise in AWS technologies. You will be responsible for designing, developing, and maintaining our data infrastructure, ensuring efficient data processing and storage solutions. Key \u2026",
+            "created": "2025-11-09T16:56:15Z",
+            "company": {
+                "display_name": "UrbanSoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5488503984?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjg2ODgyNiIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.-W4tk7BR-Gtk6V62QDwgIKesJbHPicnLNNR348hIwlA",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5536868826",
+            "location": {
+                "display_name": "South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa"
+                ]
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5536868826?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T21:19:39Z",
+            "company": {
+                "display_name": "Absa Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Specialist: Data Architecture",
+            "description": "Empowering Africa\u2019s tomorrow, together\u2026one story at a time. With over 100 years of rich history and strongly positioned as a local bank with regional and international expertise, a career with our family offers the opportunity to be part of this exciting growth journey, to reset our future and shape our destiny as a proudly African group. Job Summary The Data Architect is responsible for designing, governing, and optimizing the data architectures that enable analytics, operational systems, regu\u2026"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTExMjM2NjMzIn0._vdZkiMcv6_iGs_QtHi2SVOBCKGavDurIb8Osg65JeI",
+            "id": "5511236633",
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "salary_is_predicted": "0",
+            "created": "2025-11-24T13:33:09Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outsource SA Solutions  Ltd"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5511236633?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "title": "Data Engineer Johannesburg",
+            "description": "Reporting to the CIO of a large organization Client currently implementing MS Fabric (on Azure) with Medalian Architecture. Operations data is in AWS. CRM implementation underway with Salesforce and Datacloud. Must be prepared to work on-site 5 days per week in Johannesburg Build a Modern, Scalable Data Platform Lead the design and rollout of our enterprise data architecture (data models, data lake/warehouse, streaming, integration patterns). Modernise our data stack to cloud-native, event-driv\u2026"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA0ODg4NDQxIn0.u5eUu1WfsYQURD-rznIqlZiRPYx7WSoUcLPd7_TtMB8",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa"
+                ],
+                "display_name": "South Africa"
+            },
+            "salary_max": 12000,
+            "id": "5504888441",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mastech Recruitment"
+            },
+            "created": "2025-11-20T10:43:58Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5504888441?utm_medium=api&utm_source=58c69264",
+            "contract_type": "contract",
+            "salary_min": 0,
+            "description": "Data Engineer Expect required Data Engineering & Pipeline Management \u2022 Design, build, and optimize T-SQL stored procedures, functions, and scripts for high-volume data processing and ECM scoring. \u2022 Develop, deploy, and monitor end-to-end ETL/ELT workflows (e.g., SQL Server Agent, SSIS, Azure Data Factory, or Airflow) with checkpoint/rollback, job tracking, and recovery capabilities. \u2022 Perform data cleansing, preparation, and transformation to support business intelligence and machine learning w\u2026",
+            "title": "Data Engineer Gauteng"
+        },
+        {
+            "id": "5535324023",
+            "location": {
+                "display_name": "Cape Town City Centre, Cape Town Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM1MzI0MDIzIn0.ARtxNDHPycG4MWGxd8bKNtfdabTfp5J_2YsShHB-TD4",
+            "title": "Specialist: Data Architecture",
+            "description": "Empowering Africa\u2019s tomorrow, together\u2026one story at a time.With over 100 years of rich history and strongly positioned as a local bank with regional and international expertise, a career with our family offers the opportunity to be part of this exciting growth journey, to reset our future and shape our destiny as a proudly African group.Job SummaryThe Data Architect is responsible for designing, governing, and optimizing the data architectures that enable analytics, operational systems, regulat\u2026",
+            "created": "2025-12-09T21:28:46Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Absa Group"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5535324023?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Manager Data Johannesburg",
+            "description": "Key responsibilities \u2022Design, develop, and maintain scalable, reliable data pipelines and integration workflows across multiple systems. \u2022Lead a team of data engineers to build and support enterprise-grade data platforms. \u2022Ensure data quality, lineage, and governance are embedded in engineering solutions. \u2022Optimize data ingestion, transformation, and storage in cloud and hybrid environments. \u2022Collaborate with architecture, governance, and analytics teams to ensure alignment with business needs \u2026",
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.co.za/details/5525596625?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-03T13:55:32Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Samaha Consulting"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 28.026104,
+            "id": "5525596625",
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTU5NjYyNSIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.vT8_Gwr7PMyqEjFiIqrGA35lr5aE4r18QK-TSBBBnyE",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1MTE5OTcxMTA4In0.v6uWzQwc9cXSoxNP5-jZ4E1tTFfpW2GKtUf2rOd7GgA",
+            "latitude": -25.8425,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 28.18586,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Centurion, Tshwane",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Centurion"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5119971108",
+            "redirect_url": "https://www.adzuna.co.za/details/5119971108?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "ABC Worldwide",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-03-31T18:53:26Z",
+            "description": "Data Warehouse Manager Job Description Job Responsibilities: Design and implement data warehouse solutions Manage and oversee all data warehouse activities Ensure data quality and accuracy within the data warehouse Develop and implement data security and compliance measures Collaborate with stakeholders to understand data requirements Create and maintain documentation related to data warehouse processes Provide technical support and troubleshooting for data warehouse issues Essential Qualificat\u2026",
+            "title": "Data Warehouse Manager"
+        },
+        {
+            "id": "5504888216",
+            "location": {
+                "display_name": "Pretoria, Tshwane",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Pretoria"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 28.18472,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": -25.725,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA0ODg4MjE2In0.gO7RNdhxlAwmsEGNle7GgTgXsB9UUqfY_SJG5TZ9I2g",
+            "contract_type": "contract",
+            "title": "Data Engineer Pretoria",
+            "description": "Data Engineering & Pipeline Management \u2022 Design, build, and optimize T-SQL stored procedures, functions, and scripts for high-volume data processing and ECM scoring. \u2022 Develop, deploy, and monitor end-to-end ETL/ELT workflows (e.g., SQL Server Agent, SSIS, Azure Data Factory, or Airflow) with checkpoint/rollback, job tracking, and recovery capabilities. \u2022 Perform data cleansing, preparation, and transformation to support business intelligence and machine learning workflows. \u2022 Engineer and maint\u2026",
+            "created": "2025-11-20T10:43:56Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Webs Technology Solutions - WEBS31"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5504888216?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 28.18472,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Pretoria"
+                ],
+                "display_name": "Pretoria, Tshwane"
+            },
+            "id": "5234815782",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1MjM0ODE1NzgyIn0.PqAcGuwAkHnH_4norw3b_gFJtTESoNfMWeOAHHWcs0g",
+            "latitude": -25.725,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Our client in the Retail industry is currently looking for a Master Data Manager , in Pretoria, Gauteng. Responsibilities: Proven experience in identifying, correcting, and preventing data quality issues. Ability to perform data deduplication, validation, standardization, and enrichment. Strong understanding of data governance principles and implementation. Ability to define, enforce, and maintain master data standards and policies. Experience working closely with cross-functional teams to gath\u2026",
+            "title": "Master Data Manager",
+            "redirect_url": "https://www.adzuna.co.za/details/5234815782?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "InspHired Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-06-05T20:04:14Z"
+        },
+        {
+            "longitude": 20.131419,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5502284205",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape"
+                ],
+                "display_name": "Western Cape, South Africa"
+            },
+            "latitude": -33.474809,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjI4NDIwNSIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.IMFQPW7OkfJrp9osA0_k4g-DRmIH4s4l-uOG_Yz5hIk",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "title": "Junior Data Engineer",
+            "description": "Description SQL Hadoop SQL MS data engineering data warehousing Python, Java, or Scala Analytical Machine Learning Responsibilities Job Responsibilities: Data Engineering Design and manage high-throughput, low-latency data pipelines using distributed computing frameworks. Build scalable ETL/ELT workflows using tools like Airflow and Spark. Work with containerised environments (e.g., Kubernetes, OpenShift) and real-time data platforms (e.g., Apache Kafka, Flink). Ensure efficient data ingestion,\u2026",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5502284205?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-18T20:43:04Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Winning Form"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Winning Form"
+            },
+            "created": "2025-11-20T21:09:59Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5505811631?utm_medium=api&utm_source=58c69264",
+            "description": "Description SQL Hadoop SQL MS data engineering data warehousing Python, Java, or Scala Analytical Machine Learning Responsibilities Job Responsibilities: Data Engineering Design and manage high-throughput, low-latency data pipelines using distributed computing frameworks. Build scalable ETL/ELT workflows using tools like Airflow and Spark. Work with containerised environments (e.g., Kubernetes, OpenShift) and real-time data platforms (e.g., Apache Kafka, Flink). Ensure efficient data ingestion,\u2026",
+            "title": "Intermediate Data Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTgxMTYzMSIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.SeH84Xd2vKeZFCJk2FJmCOCXeKp35hUAPnsjdAURhCM",
+            "latitude": -33.474809,
+            "location": {
+                "display_name": "Western Cape, South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape"
+                ]
+            },
+            "id": "5505811631",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 20.131419
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/details/5508956018?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Camino Recruit",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-22T12:02:23Z",
+            "description": "Our client is seeking a passionate and detail-oriented Data Analyst to design, build, and maintain data infrastructure and business intelligence tools that support real-time decision-making across key operational areas such as Quality, Logistics, Finance, and KPI Monitoring. The role acts as a vital link between data systems and business teams, ensuring accurate, accessible, and actionable insights. The ideal candidate is naturally alert to data gaps or inefficiencies and applies strong problem\u2026",
+            "title": "Data Analyst Stellenbosch",
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA4OTU2MDE4In0.2bvsGKqExKcRjyPGW5TqhfXPQ7rK1TNWX9LCVYHPiTA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "South Africa",
+                "area": [
+                    "South Africa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5508956018"
+        },
+        {
+            "location": {
+                "area": [
+                    "South Africa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "South Africa"
+            },
+            "id": "5504888436",
+            "salary_max": 960000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDg4ODQzNiIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.iw5EirZ5e82aNj_CMVQZHzlokDEy2GDNT8jAERb8qOU",
+            "contract_type": "contract",
+            "description": "A great role is here for you to make an impact on systems for this impressive business, worldwide. Their Real Time Analytics system consumes data from various sources, especially Kafka streams in order to provide near real time visualizations (dashboards) for end users, as well as triggering warnings based on simple rules or machine learning model inference. They need a hands-on Data Engineer with strong experience in building scalable data pipelines and analytics solutions on Databricks. You w\u2026",
+            "salary_min": 600000,
+            "title": "Data Engineer Hybrid",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ScoutIT"
+            },
+            "created": "2025-11-20T10:43:58Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5504888436?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/details/5501474948?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Asie Personnel",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-18T10:29:24Z",
+            "description": "Our client, a leading company in the banking industry based in Johannesburg (CBD) is looking for a Data Engineer [Ab initio ETL Developer]. The Data Engineer will ensure effective movement, collection, integration, storage, and provisioning of data to meet business objectives through sound understanding of business unit requirements and frequent collaboration with relevant stakeholders (such as Enterprise Architecture, Database and Solution Architects, Business Intelligence Developers, Data Sci\u2026",
+            "title": "Data Developer Johannesburg",
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTQ3NDk0OCIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.U_CVOBM6J3ZzvIYWBPyhbtZSEumW6EVf7pCOtpIqiXY",
+            "latitude": -26.183117,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng"
+            },
+            "id": "5501474948"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI3MjQyMDg3In0.3HLYIzI504MX0DjFSvnKeJMRzvnYTxADP4b2guDrj9M",
+            "latitude": -26.06861,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "North Johannesburg",
+                    "Sandton"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sandton, North Johannesburg"
+            },
+            "id": "5527242087",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 28.04833,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Paracon - Gauteng"
+            },
+            "created": "2025-12-04T13:48:30Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5527242087?utm_medium=api&utm_source=58c69264",
+            "contract_type": "contract",
+            "description": "Paracon Job Title: Data Engineer / ETL Specialist (Ab Initio) Key Responsibilities Develop, maintain, and optimize data products for enterprise consumption using Ab Initio and SQL-based tools. Perform end-to-end ETL development , including extraction, transformation, and loading of data from multiple sources. Build and maintain scalable data warehousing solutions using Teradata, Snowflake, and DB2. Develop pipelines and frameworks in Ab Initio GDE , Conduct?It, EME, Continuous Flows, and relate\u2026",
+            "title": "Data Engineer Sandton"
+        },
+        {
+            "description": "My client is looking for a Data Product Manager, based remotely in South Africa , with a Remote work model. Requirements: 35 years experience in data-focused roles (Data Engineering, Data Science, BI, or Data Product). 46 years product management experience OR demonstrated product delivery within data/analytics. Strong SQL proficiency and data analysis capability (required). Solid understanding of data pipelines, data quality, governance, and integration patterns. Experience working with cross-\u2026",
+            "salary_min": 600000,
+            "title": "Data Product Manager",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tumaini Consulting"
+            },
+            "created": "2025-11-29T06:00:22Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5518752367?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Gauteng, South Africa",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_max": 840000,
+            "id": "5518752367",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.17194,
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzUyMzY3In0.erCFho9ZnVLIGDIwBEpRiNXttLxhlN8iV6gUv2yXA9I",
+            "latitude": -26.081943
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tumaini Consulting"
+            },
+            "created": "2025-11-29T06:00:22Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5518752372?utm_medium=api&utm_source=58c69264",
+            "salary_min": 600000,
+            "description": "My client is looking for a Data Product Manager, based remotely in South Africa , with a Remote work model. Requirements: 35 years experience in data-focused roles (Data Engineering, Data Science, BI, or Data Product). 46 years product management experience OR demonstrated product delivery within data/analytics. Strong SQL proficiency and data analysis capability (required). Solid understanding of data pipelines, data quality, governance, and integration patterns. Experience working with cross-\u2026",
+            "title": "Data Product Manager",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODc1MjM3MiIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.l4hlPtW4mqFFv5Ga7sG-8KhLXz_UwcRdgaaoTqYxTGQ",
+            "latitude": -28.974671,
+            "location": {
+                "display_name": "KwaZulu-Natal, South Africa",
+                "area": [
+                    "South Africa",
+                    "KwaZulu-Natal"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_max": 840000,
+            "id": "5518752372",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 30.72022
+        },
+        {
+            "salary_min": 600000,
+            "description": "My client is looking for a Data Product Manager, based remotely in South Africa , with a Remote work model. Requirements: 35 years experience in data-focused roles (Data Engineering, Data Science, BI, or Data Product). 46 years product management experience OR demonstrated product delivery within data/analytics. Strong SQL proficiency and data analysis capability (required). Solid understanding of data pipelines, data quality, governance, and integration patterns. Experience working with cross-\u2026",
+            "title": "Data Product Manager",
+            "redirect_url": "https://www.adzuna.co.za/details/5518752374?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tumaini Consulting"
+            },
+            "created": "2025-11-29T06:00:22Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 20.131419,
+            "location": {
+                "display_name": "Western Cape, South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape"
+                ]
+            },
+            "salary_max": 840000,
+            "id": "5518752374",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzUyMzc0In0.avGIVp2rM38JqwpW90ORxK0nAaKfBFW5dHbcSNsCock",
+            "latitude": -33.474809,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "contract_type": "contract",
+            "description": "This is a 6 - 8 month contract with our client in the Financial Services Industry This is a pivotal role, responsible for ensuring accurate, compliant, and high-quality data is the backbone of our critical D365 implementations and integrations across the organisation. Key Responsibilities \u00b7 Lead Data Implementation: Lead and support all data activities across major Microsoft D365 implementation projects (Finance, Operations, or CE). \u00b7 Data Pipeline Engineering: Develop and maintain data models,\u2026",
+            "title": "D365 Data Specialist",
+            "company": {
+                "display_name": "Ovations Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-21T01:28:18Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5506421549?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "North Johannesburg, Johannesburg",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "North Johannesburg"
+                ]
+            },
+            "id": "5506421549",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA2NDIxNTQ5In0.h3iarfP2v-GYrO5gVKEkO3bb4QTtRm7t9QK-NBCm8Mo"
+        },
+        {
+            "id": "5529142675",
+            "salary_max": 840000,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gauteng, South Africa"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.17194,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -26.081943,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTE0MjY3NSIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.5-4sYTQRjK2oVsY49n_1xPLbim38FudGCIAbPz8Lq-A",
+            "title": "Data Product Manager",
+            "description": "Join an innovative fintech and data-technology provider at the forefront of privacy-safe data collaboration. This company empowers consumer-facing organisations to extract actionable insights from first-party data while fully protecting personal information. With a strong focus on security, compliance, and ethical data use, they combine advanced cryptography, AI, and predictive analytics to drive operational excellence, customer understanding, and sustainable growth. Their mission-driven approa\u2026",
+            "salary_min": 600000,
+            "created": "2025-12-05T14:16:58Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Goldman Tech Resourcing"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5529142675?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "location": {
+                "display_name": "KwaZulu-Natal, South Africa",
+                "area": [
+                    "South Africa",
+                    "KwaZulu-Natal"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_max": 840000,
+            "id": "5529142713",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 30.72022,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTE0MjcxMyIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.2YzQtcW-c3W-swpZ2TUJJ9fvPtu_LMmHmr-Ut8Q0Tl0",
+            "latitude": -28.974671,
+            "description": "Join an innovative fintech and data-technology provider at the forefront of privacy-safe data collaboration. This company empowers consumer-facing organisations to extract actionable insights from first-party data while fully protecting personal information. With a strong focus on security, compliance, and ethical data use, they combine advanced cryptography, AI, and predictive analytics to drive operational excellence, customer understanding, and sustainable growth. Their mission-driven approa\u2026",
+            "salary_min": 600000,
+            "title": "Data Product Manager",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Goldman Tech Resourcing"
+            },
+            "created": "2025-12-05T14:16:59Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5529142713?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_min": 600000,
+            "description": "Join an innovative fintech and data-technology provider at the forefront of privacy-safe data collaboration. This company empowers consumer-facing organisations to extract actionable insights from first-party data while fully protecting personal information. With a strong focus on security, compliance, and ethical data use, they combine advanced cryptography, AI, and predictive analytics to drive operational excellence, customer understanding, and sustainable growth. Their mission-driven approa\u2026",
+            "title": "Data Product Manager",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Goldman Tech Resourcing"
+            },
+            "created": "2025-12-05T14:16:59Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5529142797?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Western Cape"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Western Cape, South Africa"
+            },
+            "salary_max": 840000,
+            "id": "5529142797",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 20.131419,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTE0Mjc5NyIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.SBeOVwB1jIqyEjpX08eR3OAgsF3LZgR87koBDIkBAjA",
+            "latitude": -33.474809
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/details/5525596865?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Sabenza IT Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-03T13:55:35Z",
+            "description": "About the Role: The Data Engineer will work on enterprise-wide data provisioning, spanning multiple data governance domains and data assets. Responsibilities include ensuring secure data sharing, adhering to protection and compliance requirements, supporting enterprise Data & Analytics initiatives (including high-priority use cases), and enabling data provisioning for operational processes. Role Responsibilities: Data Engineers in this environment are custodians of critical data assets and pipe\u2026",
+            "title": "Expert Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTU5Njg2NSIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.MJxHUuCX7yJ1I2BaWtKk_RegCE6oh-W-cAVT47yhKXo",
+            "latitude": -25.725,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.18472,
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Pretoria"
+                ],
+                "display_name": "Pretoria, Tshwane"
+            },
+            "id": "5525596865"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI1NTk2NDMzIn0.1KlfnqWj-TWqAb73EXQoucPccvxe6FnhGysiaDtpSV8",
+            "latitude": -25.725,
+            "location": {
+                "display_name": "Pretoria, Tshwane",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Pretoria"
+                ]
+            },
+            "id": "5525596433",
+            "longitude": 28.18472,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sabenza IT Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-03T13:55:31Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5525596433?utm_medium=api&utm_source=58c69264",
+            "description": "About the Role: The Data Engineer will work on enterprise-wide data provisioning, spanning multiple data governance domains and data assets. Responsibilities include ensuring secure data sharing, adhering to protection and compliance requirements, supporting enterprise Data & Analytics initiatives (including high-priority use cases), and enabling data provisioning for operational processes. Role Responsibilities: Data Engineers in this environment are custodians of critical data assets and pipe\u2026",
+            "title": "Data Engineer Pretoria"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5124532364",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ],
+                "display_name": "Cape Town City Centre, Cape Town Region"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1MTI0NTMyMzY0In0.jTqK3lxLU-VP9nTHXJPVtiZx-edXya6qPdsvRhu2kT0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "title": "Intermediate Data Engineer",
+            "description": "Description The Intermediae Data Engineer is accountable for creating and maintaining the technological infrastructure of Spot Money and implementing methods to improve data reliability and quality. Ensure the consistent delivery of data architecture throughout ongoing projects by creating data models, building data pipelines and coordinating ETL (extract, transform, load). Responsibilities : Data Ingestion & Processing Assist in building ETL/ELT pipelines using AWS services like AWS Glue, Lamb\u2026",
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5124532364?utm_medium=api&utm_source=58c69264",
+            "created": "2025-04-02T18:59:31Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ignition Group"
+            }
+        },
+        {
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMyNzQxNDg1In0.67WR64PmSR54C-dut0tkb-MZAsoLGRpQtWMcpWtYe9k",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": 28.026104,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5532741485",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "display_name": "Johannesburg, Gauteng"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5532741485?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-07T21:42:28Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KPMG South Africa"
+            },
+            "title": "Junior Data Analyst",
+            "description": "Title: Junior Data AnalystBusiness Unit: Clara Analytics NationalReporting to: Head of Data & Analytics \u2013 Ruan van RooyenPurpose Of The JobThe Junior Data Analyst will work collaboratively with a team to assist the Data & Analytics Centre in executing the ETL (Extract, Transform, Load) process of data. This process involves extracting data from various sources, transforming it to fit operational needs, and loading it into the end target. The role aims to develop data models for analytics and co\u2026"
+        },
+        {
+            "title": "Senior Data Engineer",
+            "description": "Are you a Senior Data Engineer with strong expertise in Azure Data Platforms, ready to lead and shape a modern cloud data warehouse? Join a growing team in Parktown, Johannesburg , and take ownership of transitioning from a legacy SSIS-based ETL environment to a scalable Azure-based data warehouse. This is a strategic role where you will lead architectural decisions, mentor junior engineers, and ensure robust data governance and compliance across the enterprise. Requirements: 5 years experience\u2026",
+            "salary_min": 400000,
+            "redirect_url": "https://www.adzuna.co.za/details/5463937912?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-25T12:14:09Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Goldman Tech Resourcing"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "salary_max": 500000,
+            "id": "5463937912",
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng"
+            },
+            "latitude": -26.183117,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MzkzNzkxMiIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.yC0Ypx9gdDTUOoyaYLX0VnIdUnH9AedxWouyrsGqfsY",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "created": "2025-11-27T14:09:41Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Talent Shore SA  Ltd"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5516036936?utm_medium=api&utm_source=58c69264",
+            "title": "Data and Reporting Analyst",
+            "description": "We are seeking a highly motivated and experienced individual to join our team as a Data Analyst. The successful candidate will play a crucial role in sourcing data to answer questions, analysing data trends, generating insights, and supporting decision-making processes to drive business growth and efficiency. Responsibilities: Collect, clean, and analyse large datasets to identify trends and patterns. Develop and maintain dashboards and reports to visualize key metrics. Collaborate with cross-f\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNjAzNjkzNiIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.KEjARP5tgdjWw3hHLRq49lRIQB79uPHQWVQvjDpA_oI",
+            "id": "5516036936",
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cape Town Region, Western Cape"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Data Architect-1",
+            "description": "Job Description Hello Future Data Architect Welcome to FNB, the home of the changeables. We design for the shapeshifters and deliver products and services that make us incredibly proud of people that make it happen. As part of our talent team at FNB Core Banking Platform, you will be surrounded by unique talents, diverse minds, and an adaptable environment that lives up to the promise of staying curious. Now\u2019s the time to imagine your potential in a team where experts come together and ignite e\u2026",
+            "created": "2025-12-04T20:54:59Z",
+            "company": {
+                "display_name": "FirstRand Bank",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5527989351?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "id": "5527989351",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "West Johannesburg",
+                    "Fairland"
+                ],
+                "display_name": "Fairland, West Johannesburg"
+            },
+            "longitude": 27.94444,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -26.13361,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI3OTg5MzUxIn0.M42AGGjPLeM1_GnEe8vkQAGtrcRWE79xbhqDbt7NVUc"
+        },
+        {
+            "title": "Head of Data and Analytics",
+            "description": "Luxaviation is looking for a Head of Data and Analytics to lead the strategy, architecture, and delivery of Luxaviation\u2019s data capability. You will oversee the full data lifecycle, from collection and integration to reporting, dashboarding, and predictive analysis. The role focuses on designing and implementing enterprise dashboards in Power BI, working with modern technologies, and supporting predictive and advanced analytics projects that deliver real business results. Key Responsibilities De\u2026",
+            "created": "2025-11-15T19:48:11Z",
+            "company": {
+                "display_name": "Luxaviation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/5497819447?utm_medium=api&utm_source=58c69264",
+            "id": "5497819447",
+            "location": {
+                "display_name": "Krugersdorp, Mogale City",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "West Rand",
+                    "Mogale City",
+                    "Krugersdorp"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 27.77556,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -26.09556,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODE5NDQ3In0.SEruBipyZ_uFt1A7w6sMi2l0wXc-r-P_6XJhpYy2mlw"
+        },
+        {
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre",
+                    "Kloof Street"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kloof Street, Cape Town City Centre"
+            },
+            "id": "4802264586",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 18.41722,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI0ODAyMjY0NTg2In0.d3eeCKN9DkXGwJQmBemSK5IftNHXrryWU6mZYrBd5hI",
+            "latitude": -33.92889,
+            "description": "Description Position exists for a Data Engineer. This requires an analytical, accountable and multi-talented individual who has a proven development background, good communication skills (written and spoken) and good understanding and experience of data architectures, modelling and design. This person will work with Business Analysts, Application Developers and BI Analyst Developers with the aim of understanding data requirements, designing and implementing new/enhanced data models to support a\u2026",
+            "title": "Data Design and Engineering",
+            "company": {
+                "display_name": "ooba",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-07-31T09:51:52Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.co.za/details/4802264586?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-11-28T13:52:24Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "The Individual Touch"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5517604935?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "title": "Head Of Data Gauteng",
+            "description": "The Executive Head of Data is the architect of intelligence for the Merchant Division. You'll design and execute a data strategy that powers growth, establish a Data Center of Excellence, and embed AI-driven insights into every corner of the business. Your mission? Turn data into value, efficiency, and competitive advantage. What You'll Do Data Strategy Leadership Craft a fit-for-purpose roadmap aligned to Merchant and Group priorities. Define modern architectures, governance frameworks, and co\u2026",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE3NjA0OTM1In0.iPLT1wkXX38aJ0Q_ZrNRtkYlqteimgLpCPLqbqcF8qM",
+            "id": "5517604935",
+            "location": {
+                "area": [
+                    "South Africa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "South Africa"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "contract_type": "permanent",
+            "title": "Data Engineer (Swellendam)",
+            "description": "Description SSK currently has the following career opportunity in its Information Systems department in Swellendam. The position offers a Hybrid work model, subject to the department's needs. The Data Engineer is responsible for designing, building, and maintaining reliable data pipelines and integrations that support SSK\u2019s Snowflake data platform. This role ensures high data quality, performance, and governance across the enterprise, enabling advanced analytics, AI forecasting, and automation \u2026",
+            "created": "2025-11-27T18:05:34Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sentraal-Suid Co-operative Ltd"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5516121812?utm_medium=api&utm_source=58c69264",
+            "id": "5516121812",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Overberg",
+                    "Swellendam"
+                ],
+                "display_name": "Swellendam, Overberg"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 20.495763,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": -34.020278,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE2MTIxODEyIn0.cZdyAz4RQUCDwoRPZkqtrtBs3A-ptmwUkAvRWrN6GhI"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 20.495763,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Overberg",
+                    "Swellendam"
+                ],
+                "display_name": "Swellendam, Overberg"
+            },
+            "id": "5518752414",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzUyNDE0In0.UtSIFru8Jd0V0JyqyZbq8AdLVeIfI-gIixeQmlHf0F4",
+            "latitude": -34.020278,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "description": "Description SSK currently has the following career opportunity in its Information Systems department in Swellendam. The position offers a Hybrid work model, subject to the department's needs. The Data Engineer is responsible for designing, building, and maintaining reliable data pipelines and integrations that support SSKs Snowflake data platform. This role ensures high data quality, performance, and governance across the enterprise, enabling advanced analytics, AI forecasting, and automation i\u2026",
+            "title": "Data Engineer (Swellendam)",
+            "redirect_url": "https://www.adzuna.co.za/details/5518752414?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Sentraal-Suid Ko\u00f6perasie Beperk",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-29T06:00:38Z"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODc1MjM4NCIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.gxPM3KiwDMGfhNLk3UPMVWQgtskJiMkbJ5dXBHUSNhk",
+            "id": "5518752384",
+            "salary_max": 840000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "KwaZulu-Natal",
+                    "eThekwini"
+                ],
+                "display_name": "eThekwini, KwaZulu-Natal"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-29T06:00:22Z",
+            "company": {
+                "display_name": "Goldman Tech Resourcing",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.za/details/5518752384?utm_medium=api&utm_source=58c69264",
+            "title": "Data Product Manager",
+            "description": "We're seeking a Data Product Manager to execute and optimize data products on our clients data marketplace platform. You'll be responsible for managing the product lifecycle of data solutions that connect data sellers with enterprise buyers seeking actionable insights. This is an excellent opportunity for a product manager with strong technical data skills to grow into a senior role Skills Required \u00b7 Bachelor's degree in Computer Science, Statistics, Data Science, Engineering, or related field \u2026",
+            "salary_min": 600000
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/details/5529779685?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-05T20:53:42Z",
+            "company": {
+                "display_name": "Psybergate",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Warehouse Analyst",
+            "description": "Psybergate is an IT company that builds bespoke software solutions and provides highly skilled resources to its clients. We are looking for a Data Warehouse Analyst to join our financial services client based in Centurion. What you will be doing: Requirements Gathering: Collaborate with stakeholders to understand business needs and translate them into specific data and reporting requirements. Data Collection & Preparation: Identify, collect, and clean data from various sources (e.g., databases,\u2026",
+            "latitude": -25.8425,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTc3OTY4NSIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.iDAOJaGSMRzbRnchPLRm0JkqYiOy4Mz2PtxTkMBS45w",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.18586,
+            "salary_is_predicted": "0",
+            "id": "5529779685",
+            "location": {
+                "display_name": "Centurion, Tshwane",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Centurion"
+                ]
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5517607323",
+            "location": {
+                "display_name": "South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa"
+                ]
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzYwNzMyMyIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.l74Zs3AJqth48LzOBL3d6HpgXyqbKjjnyZUmjQujlhU",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Executive Head of Data",
+            "description": "Executive Head of Data - Johannesburg, GP Gauteng Are you ready to lead the future of data, analytics, and AI ? This is your opportunity to shape strategy, build innovation, and unlock new revenue streams for one of the most dynamic divisions in the Group. Why This Role Matters The Executive Head of Data is the architect of intelligence for the Merchant Division. You'll design and execute a data strategy that powers growth , establish a Data Center of Excellence , and embed AI-driven insights i\u2026",
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.co.za/details/5517607323?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-28T13:52:55Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job Crystal"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 28.026104,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng"
+            },
+            "id": "5513579838",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZnAwVlV0SFc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTEzNTc5ODM4In0.o2LUhIh_d5aP18dTfZbUy0P_UyPPYkar3Z3QBxoSuLY",
+            "latitude": -26.183117,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Job DescriptionHello Future Data Analyst IIWelcome to FNB, the home of the changeables. We design for the shapeshifters and deliver products and services that make us incredibly proud of people that make it happen.As part of our talented team, you will be surrounded by unique talents, diverse minds, and an adaptable environment that lives up to the promise of staying curious. Now\u2019s the time to imagine your potential in a team where experts come together and ignite effective change.To understand\u2026",
+            "title": "Data Analyst II",
+            "redirect_url": "https://www.adzuna.co.za/details/5513579838?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "FNB South Africa",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-25T21:22:36Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDg4ODcwNCIsInMiOiJmcDBWVXRIVzhCR2UzS3BfM2VvSDNRIn0.8mOJ_08N2M_-9KMPhLgJub4iYpyOBxJeLdNW8Dg1Ml4",
+            "location": {
+                "area": [
+                    "South Africa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "South Africa"
+            },
+            "id": "5504888704",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "AGC Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-20T10:44:01Z",
+            "redirect_url": "https://www.adzuna.co.za/details/5504888704?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "description": "Our client, a highly respected global legal practice with offices in Johannesburg, Cape Town, and Durban , is seeking an experienced Data Engineer to join their Johannesburg office based in Sandton . This role is ideal for a technical specialist who thrives in a professional services environment and is passionate about developing scalable, secure, and high-performing data infrastructure. Role Summary / Objective The Data Engineer will be responsible for designing, maintaining, and optimizing th\u2026",
+            "title": "Data Engineer Sandton"
+        }
+    ]
+}

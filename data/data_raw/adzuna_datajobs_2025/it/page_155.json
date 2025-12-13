@@ -1,0 +1,1552 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 102155,
+    "results": [
+        {
+            "category": {
+                "tag": "legal-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Affari Legali"
+            },
+            "latitude": 42.110559,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODM2ODM4In0.scSQUBPFusI1vUtQIengMLzjaVSUu4iHEIH8X9q-5VQ",
+            "id": "5497836838",
+            "location": {
+                "display_name": "Vasto, Provincia di Chieti",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Abruzzo",
+                    "Provincia di Chieti",
+                    "Vasto"
+                ]
+            },
+            "longitude": 14.699887,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "created": "2025-11-15T18:56:26Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "STAFF SPA"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5497836838?utm_medium=api&utm_source=58c69264",
+            "title": "FRONT END/ORDER ENTRY SPECIALIST",
+            "description": "STAFF SPA STAFF SpA - Agenzia per il Lavoro - Filiale di ATESSA, Aut. Min. Prot. 11781 - seleziona per azienda cliente una risorsa: Front End/Order Entry Specialist. La risorsa dovr\u00e0 gestire, in collaborazione con il team esistente, tutti gli aspetti legati ai contratti di vendita di energia elettrica e gas della rete commerciale/clienti, interfacciandosi direttamente con i clienti finali. In particolare si occuper\u00e0 delle seguenti attivit\u00e0: - Gestione richieste dei clienti che si recano al poin\u2026"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "created": "2025-10-25T04:23:18Z",
+            "redirect_url": "https://www.adzuna.it/details/5463546537?utm_medium=api&utm_source=58c69264",
+            "description": "Introduction Una carriera nella gestione dei progetti e dei servizi SAP combina solide capacit\u00e0 organizzative con una profonda conoscenza delle soluzioni SAP e della governance IT. Opererai in un ambiente dinamico, dove stabilit\u00e0 dei servizi e innovazione convivono, permettendoti di avere un impatto concreto sulla crescita del business e sull'efficienza operativa. Avrai l'opportunit\u00e0 di lavorare con team diversi, interagire con manager del business e dell'IT, e coordinare fornitori esterni, gar\u2026",
+            "title": "SAP BW/4 HANA Consultant",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MzU0NjUzNyIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.TKKPiP7b5zy2rUkQRik1XqaK1meA31Y1kQZBS91BjNI",
+            "latitude": 45.471322,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5463546537",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5463546562?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-25T04:23:18Z",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "SAP BW/4 HANA Consultant",
+            "description": "Introduction Una carriera nella gestione dei progetti e dei servizi SAP combina solide capacit\u00e0 organizzative con una profonda conoscenza delle soluzioni SAP e della governance IT. Opererai in un ambiente dinamico, dove stabilit\u00e0 dei servizi e innovazione convivono, permettendoti di avere un impatto concreto sulla crescita del business e sull'efficienza operativa. Avrai l'opportunit\u00e0 di lavorare con team diversi, interagire con manager del business e dell'IT, e coordinare fornitori esterni, gar\u2026",
+            "latitude": 40.858097,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDYzNTQ2NTYyIn0.-8-RBKAF6RYh4hDGIEWQIuPF0Y5b_MNvhkRxEycDj8k",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 14.24544,
+            "salary_is_predicted": "0",
+            "id": "5463546562",
+            "location": {
+                "display_name": "Napoli, Provincia di Napoli",
+                "area": [
+                    "Italia",
+                    "Campania",
+                    "Provincia di Napoli",
+                    "Napoli"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5463546532?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-25T04:23:17Z",
+            "description": "Introduction Una carriera nella gestione dei progetti e dei servizi SAP combina solide capacit\u00e0 organizzative con una profonda conoscenza delle soluzioni SAP e della governance IT. Opererai in un ambiente dinamico, dove stabilit\u00e0 dei servizi e innovazione convivono, permettendoti di avere un impatto concreto sulla crescita del business e sull'efficienza operativa. Avrai l'opportunit\u00e0 di lavorare con team diversi, interagire con manager del business e dell'IT, e coordinare fornitori esterni, gar\u2026",
+            "title": "SAP BW/4 HANA Consultant",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDYzNTQ2NTMyIn0.qK_fERMXtVz4_-TihGGvsf0IY69F79sbSO14ogd_hu4",
+            "latitude": 41.120314,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "longitude": 16.876061,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bari, Provincia di Bari",
+                "area": [
+                    "Italia",
+                    "Puglia",
+                    "Provincia di Bari",
+                    "Bari"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5463546532"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5538344621",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MzQ0NjIxIn0.1rFBEr79k8AtX6fWKtlqnhro7i1HNiRJ4aTy4XyC7M0",
+            "latitude": 45.471322,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "description": "Farmapi\u00f9, divisione specialistica di Lavoropi\u00f9, seleziona un/una Junior Process Engineer, per contratto di sostituzione maternit , per azienda del settore chimico in zona Cinisello Balsamo (MI). Requisiti obbligatori: * Laurea Magistrale in Chimica, Chimica Industriale, Ingegneria Chimica o affini. * Capacit di analisi strutturata dei dati, con utilizzo di strumenti statistici (necessario Microsoft Excel, Minitab \u00e8 un plus). * Conoscenza fluente della lingua italiana e inglese, sia scritta che \u2026",
+            "title": "Junior Process Engineer - Settore Chimico",
+            "redirect_url": "https://www.adzuna.it/details/5538344621?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T20:37:39Z"
+        },
+        {
+            "title": "IMPIEGATO/A AMMINISTRATIVO/A - CASTELFRANCO EMILIA",
+            "description": "Lavoropi\u00f9 Spa, filiale di Modena, ricerca UN/UNA IMPIEGATO/A AMMINISTRATIVO/A per sostituzione maternit . Si richiede: - laurea o diploma in ambito economico o affini, - capacit ed esperienza nell'utilizzo del Pacchetto Office (soprattutto Excel), - capacit di lavoro in team, - possibilit di raggiungere la sede di lavoro in autonomia e disponibilit immediata, La risorsa si occuper di: - inserimento dati tramite gestionale, - fatturazione attiva (esperienza di almeno 1 anno), - emissione DDT (es\u2026",
+            "created": "2025-12-08T17:17:23Z",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533585485?utm_medium=api&utm_source=58c69264",
+            "id": "5533585485",
+            "location": {
+                "display_name": "Modena, Provincia di Modena",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Modena",
+                    "Modena"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.928205,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "latitude": 44.646233,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTg1NDg1In0.ZencQlzixkukGERDGfFDRMgaKv-H_-nXTkQKBAMyzqg"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "salary_is_predicted": "0",
+            "id": "5509064738",
+            "location": {
+                "display_name": "Roma, Provincia di Roma",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 41.877339,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA5MDY0NzM4In0.YXyHYyy-JpZvP9agQPt_o5DvC5Dvz8CMQ6Rb0Cst1HA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "title": "Stage Production Assistant/ process engineer",
+            "description": "Luogo: Monterotondo (RM) Orario: Da luned\u00ec a venerd\u00ec, 09:00-18:00 Tipo di contratto: Stage della durata di 6 mesi Rimborso spese di \u20ac800/mese Buono pasto da \u20ac6,00 per ogni giornata lavorata superiore a 7 ore Descrizione del ruolo: LavoroPi\u00f9, filiale di Roma, ricerca uno/a stagista da inserire nel team di produzione, che affiancher il Production Manager nella gestione delle attivit quotidiane del reparto. La risorsa supporter il monitoraggio delle attivit produttive e dei processi di qualit , co\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5509064738?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-22T15:33:57Z",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5533585708?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-08T17:17:27Z",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "CUSTOMER CARE",
+            "description": "Lavoropi\u00f9 Spa, Filiale di Mantova ricerca CUSTOMER CARE Per azienda cliente operante nella consulenza alle imprese ricerchiamo customer care da inserire nell'organico aziendale in un'ottica di potenziamento. MANSIONI - Registrare e aggiornare i dati dei clienti nel CRM, segnalando eventuali necessit o richieste particolari. - spiegare ai clienti quali sono i servizi offerti (es. agevolazioni, bandi, efficientamento) - gestire contatti iniziali e \u201cprimo filtro\u201d per le richieste delle imprese - a\u2026",
+            "latitude": 45.157794,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU4NTcwOCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.csvQYl7Cpv_4unra4JZgBmI7caLL-oXLyIB3okYfmGw",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.835823,
+            "salary_is_predicted": "0",
+            "id": "5533585708",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova",
+                    "Mantova"
+                ],
+                "display_name": "Mantova, Provincia di Mantova"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5537801967?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T18:10:00Z",
+            "description": "Lavoropi\u00f9 S.p.A. - filiale di Pisa - ricerca per azienda cliente la figura di: TIROCINANTE UFFICIO AMMINISTRAZIONE/CONTABILITA' La risorsa sar formata sulle seguenti attivit : Supporto alle attivit amministrative e contabili dell\u2019ufficio, Inserimento e gestione dei dati contabili su software gestionali (Sistemi/Sping, Team System), Collaborazione con il reparto Reception per la gestione operativa e amministrativa tramite Team System Hospitality, Archiviazione documentale e supporto alle attivit\u2026",
+            "title": "TIROCINANTE UFFICIO AMMINISTRAZIONE/CONTABILITA'",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3ODAxOTY3In0.-UPk17sv4oXVVB0Lrc9lHE-9Rcg5fLWYU2zNIx23Jl8",
+            "latitude": 43.689721,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "longitude": 10.417154,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Pisa, Provincia di Pisa",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Pisa",
+                    "Pisa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5537801967"
+        },
+        {
+            "id": "5448302660",
+            "location": {
+                "display_name": "Italia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDQ4MzAyNjYwIn0.HGPyxjXfs08b0ZnlsAyDu8z2KxsxAJ-QhAuV75Ha9Zo",
+            "title": "Junior QC Reviewer",
+            "description": "CHI SIAMO AGAP2 \u00e8 un gruppo europeo di consulenza ingegneristica e operativa facente parte del Gruppo MoOngy. Ruolo: Junior QC Reviewer Descrizione del ruolo Stiamo cercando una risorsa motivata per entrare nel mondo della qualit\u00e0 farmaceutica, supportando la revisione dei dati di laboratorio e garantendo la conformit\u00e0 dei processi secondo gli standard aziendali e normativi. Cosa farai: Controllare e approvare dati analitici prodotti dal laboratorio QC. Verificare la documentazione secondo le n\u2026",
+            "created": "2025-10-15T14:06:35Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "agap2 Italia"
+            },
+            "redirect_url": "https://www.adzuna.it/land/ad/5448302660?se=4JKwkNfW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=9AF925958A2AEFCD061234FCA71EF4A90A27ED20"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "salary_is_predicted": "0",
+            "id": "5492689448",
+            "location": {
+                "display_name": "Lanza, Milano",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano",
+                    "Lanza"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MjY4OTQ0OCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.rfO3uYkj_2bc_vTECduYOIL0_t-Yf0tiv3Y73JWpzRg",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "title": "CONTABILE FORNITORI",
+            "description": "My Name is - societ\u00e0 di headhunting parte del gruppo In Job Spa - specializzata nella ricerca di professionisti qualificati o di middle management, seleziona per una societ\u00e0 operante nel settore e-commerce, un CONTABILE FORNITORI Riportando direttamente al Coordinatore dell\u2019ufficio contabilit\u00e0 fornitori, il professionista ricercato si occuper\u00e0 di assicurare l\u2019efficacia delle operazioni contabili del ciclo passivo. Avr\u00e0 le seguenti mansioni: Registrazione fatture passive garantendo l\u2019accuratezza\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5492689448?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-12T20:53:57Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "My name is"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzYwNDI3NiIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.glhSzmfWrG-cpqv-vmwWEj6IZWQR6_auXUjKt4p_vGQ",
+            "latitude": 45.471322,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5533604276",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.187087,
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:21:31Z",
+            "redirect_url": "https://www.adzuna.it/details/5533604276?utm_medium=api&utm_source=58c69264",
+            "description": "Lavoropi\u00f9 ricerca per importante azienda cliente un/una Elettricista per lavori sulla provincia di Milano. La risorsa, nello specifico, dovr occuparsi in autonomia di: Installazione e manutenzione di impianti elettrici civili ed industriali e rete dati, verr assegnato un mezzo aziendale per gli spostamenti tra cantieri e viene richiesta disponibilit anche per trasferte di pi\u00f9 giorni. Requisiti: Esperienza pregressa nella mansione, almeno tre anni. Conoscenza degli schemi elettrici, Patente: B -\u2026",
+            "title": "Elettricista"
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjEwMjE2MCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.sfZ2GSH1yXmsMByuyr4BwwIcOJnP8eYJJ1gyKbc_6ys",
+            "latitude": 43.766803,
+            "location": {
+                "display_name": "Firenze, Provincia di Firenze",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Firenze",
+                    "Firenze"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5536102160",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.22281,
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-10T13:57:41Z",
+            "redirect_url": "https://www.adzuna.it/details/5536102160?utm_medium=api&utm_source=58c69264",
+            "description": "Lavoropi\u00f9 SpA - Filiale di Firenze cerca per azienda cliente: MAGAZZINIERE/A La risorsa sar inserita all'interno del reparto logistica e si occuper di: - Movimentazione merce, - Gestione resi, - Attivit di picking, - Utilizzo transpallet, - Inserimento dati sul gestionale di magazzino, - Gestione documenti di trasporto. Requisiti - Pregressa esperienza nella mansione, - Possesso del patentino per la guida del muletto, - Buona conoscenza del Pacchetto Office, - Buona conoscenza della lingua ingl\u2026",
+            "title": "MAGAZZINIERE/A"
+        },
+        {
+            "description": "Lavoropi\u00f9 SpA - Filiale di Firenze cerca per azienda cliente: MAGAZZINIERE/A La risorsa sar inserita all'interno del reparto logistica e si occuper di: - Movimentazione merce, - Gestione resi, - Attivit di picking, - Utilizzo transpallet, - Inserimento dati sul gestionale di magazzino, - Gestione documenti di trasporto. Requisiti - Pregressa esperienza nella mansione, - Il possesso del patentino per la guida del muletto rappresenta un plus, - Disponibilit immediata. Altre informazioni Luogo di \u2026",
+            "title": "MAGAZZINIERI/E",
+            "redirect_url": "https://www.adzuna.it/details/5533581034?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-08T17:15:12Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.22281,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Firenze, Provincia di Firenze",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Firenze",
+                    "Firenze"
+                ]
+            },
+            "id": "5533581034",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU4MTAzNCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.E63Z1GpTzG-meYHofFyr0XkEtopWcbNBxA0B_IeudG8",
+            "latitude": 43.766803,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            }
+        },
+        {
+            "description": "Lavoropi\u00f9 ricerca, per azienda del settore agroindustriale, un/una HR account jr. La risorsa, che verr nel team hr, si occuper di amministrazione del personale, ricerca e selezione, data entry e reportistica. E' previsto un periodo iniziale di onboarding presso la sede corporate del gruppo. Requisiti: - Laurea preferibilmente in ambito economico e statistico, giuridico o giuslavoristico, - si valutano anche altri percorsi di studi, - buona conoscenza di Excel, - capacit di muoversi in autonomia\u2026",
+            "title": "HR Account Jr.",
+            "redirect_url": "https://www.adzuna.it/details/5533597966?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:20:16Z",
+            "longitude": 11.341108,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Bologna",
+                    "Bologna"
+                ],
+                "display_name": "Bologna, Provincia di Bologna"
+            },
+            "id": "5533597966",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU5Nzk2NiIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.gTkj19pO-clsRYd4kTbyuboXHl8s1_9PeRpMXtAcm9I",
+            "latitude": 44.498542,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "description": "Lavoropi\u00f9 ricerca un/una HR account jr. per azienda del settore agroindustriale. La risorsa si occuper di supporto ad ampio spettro su processi HR, archivio, supporto per l\u2019organizzazione della sorveglianza sanitaria, supporto per la gestione amministrativa del personale, data entry. Requisiti: - Preferibile laurea in ambito giurdico/giuslaavorsitico, consulenza del lavoro, economico. - Si valutano anche candidati/e con background differenti, ma fortemente motivati/e ad inserirsi in contesto HR\u2026",
+            "title": "HR Specialist Jr.",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-08T16:45:50Z",
+            "redirect_url": "https://www.adzuna.it/details/5533543567?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Bologna, Provincia di Bologna",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Bologna",
+                    "Bologna"
+                ]
+            },
+            "id": "5533543567",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.341108,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU0MzU2NyIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.FDMOoEJjnw1x1qPryqL5mwPffp8MgtONbfBFJlLjbcU",
+            "latitude": 44.498542
+        },
+        {
+            "location": {
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Reggio Emilia",
+                    "Reggio Emilia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Reggio Emilia, Provincia di Reggio Emilia"
+            },
+            "id": "5536127820",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.63065,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM2MTI3ODIwIn0.IKlfSHO5yi8s7zv8xxnhfrS3L2DXKTZyeE7a3AcnHrs",
+            "latitude": 44.697961,
+            "description": "Lavoropi\u00f9 Spa - Divisione Facility - \u00e8 alla ricerca di risorse addette alla sicurezza non armata a reggio emilia. La risorsa si occuper di controllo accessi e servizio ronda in una azienda. Orario: - PART TIME 30 H SETT., da svolgere dal Luned\u00ec alla Domenica, su 6 giorni di lavoro e 1 di riposo a scorrimento, nei seguenti turni: 06:00\u201314:00 / 14:00\u201322:00 / 22:00\u201306:00 Iniziale contratto di 1 mese con possibilit di internalizzazione. Richiesti: - automunito/a - disponibilit immediata, - Buon uti\u2026",
+            "title": "VIGILANTE",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-10T14:11:37Z",
+            "redirect_url": "https://www.adzuna.it/details/5536127820?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "description": "Lavoropi\u00f9 Spa, divisione Logistica, ricerca per importante azienda del settore del trasporto internazionale: una figura da inserire in TD per la posizione di impiegato/a Import Mare per la sede di Segrate Attivit : Supporto nella gestione delle spedizioni marittime internazionali (Import) verifica della documentazione doganale e di trasporto Inserimento dati nei sistemi gestionali e monitoraggio delle spedizioni Interfaccia con compagnie marittime , spedizionieri e clienti Collaborazione con il\u2026",
+            "title": "Addetto/a Import Mare - Segrate",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:19:54Z",
+            "redirect_url": "https://www.adzuna.it/details/5533596056?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5533596056",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.187087,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTk2MDU2In0.6pv3KzjNl8z-zIfo8EzaqAx8f9uI2YSxnCgmoCUcxzY",
+            "latitude": 45.471322
+        },
+        {
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:14:11Z",
+            "redirect_url": "https://www.adzuna.it/details/5533578600?utm_medium=api&utm_source=58c69264",
+            "description": "Lavoropi\u00f9 SPA, filiale di Roma, ricerca per azienda cliente 1 Operatore/trice Call Center Categoria Protetta L68/99 art.1 La Risorsa si occuper di gestione telefonate Inbound, back office e data entry. Requisiti richiesti: * Esperienza, anche minima, nella mansione, * Dimestichezza nell'utilizzo di strumenti digitali, * Conoscenza dell'inglese, preferibile. Si offre iniziale contratto di somministrazione di 12 mesi con possibilit di inserimento. Retribuzione ed inquadramenti in linea con esperi\u2026",
+            "title": "Operatore/trice Call center L68/99 art.1",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU3ODYwMCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.hTdCpi8RdR09mSaFbFIiYRKbmP0sbW_YowvxaMI7Guk",
+            "latitude": 41.877339,
+            "location": {
+                "display_name": "Roma, Provincia di Roma",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5533578600",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-01T15:27:15Z",
+            "redirect_url": "https://www.adzuna.it/details/5521717036?utm_medium=api&utm_source=58c69264",
+            "description": "Lavoropi\u00f9, filiale di Castelfranco Veneto, \u00e8 alla ricerca di un/una back office estero per azienda cliente operante nel settore dell'illuminazione sita a Resana (TV). Mansioni: - gestione ordini, - gestione delle pratiche import/ export, - contatto con clienti e fornitori esteri, - inserimento dati a gestionale, - controllo e verifica delle consegne. Requisiti: - laurea triennale in lingue o economia, - ottima conoscenza inglese e francese, - completano il profilo buona capacit di lavorare in t\u2026",
+            "title": "Back office estero",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTcxNzAzNiIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.-Vnkiw_N8FD-R88YNb8rlE_Ji1XFdW3KNBEqi44PV-g",
+            "latitude": 45.683573,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Treviso",
+                    "Treviso"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Treviso, Provincia di Treviso"
+            },
+            "id": "5521717036",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.189915
+        },
+        {
+            "description": "Lavoropiu' Spa - Filiale di Milano - per importante azienda cliente cerca una risorsa da inserire in qualit di Impiegato/a Customer Service. La risorsa si occuper di: Ricevimento e gestione ordini, Inserimento Ordini a Gestionale SAP, Assistenza clienti, Data entry. Si richiede: - esperienza nel medesimo ruolo, - conoscenza gestionale SAP, - conoscenza della lingua inglese, - preferibile conoscenza lingua francese, - disponibilit immediata. Completano il profilo spirito di squadra e approccio d\u2026",
+            "title": "Customer Service",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:10:12Z",
+            "redirect_url": "https://www.adzuna.it/details/5533570862?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5533570862",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.187087,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTcwODYyIn0.46p5bqsc0GFu87R3zHp4TVRcQcKn3MDQ8NRa-pU0b0Q",
+            "latitude": 45.471322
+        },
+        {
+            "description": "Lavoropi\u00f9 Spa, Filiale di Verona, ricerca ADDETTO/A MAGAZZINO Per azienda operante nel settore metalmeccanico ricerchiamo carrellista/magazziniere che si occupi di:Mansioni:- Trasporto, carico/scarico merce- Inserimento dati PC (utilizzo gestionale)- Stoccaggio prodotti- Utilizzo carrello elevatore Requisiti:- Abilitazione all'utilizzo del carrello elevatore- Utilizzo pistola Barcode e PC- Esperienza minima in magazzino Altre informazioni CONTRATTO: assunzione diretta CCNL: metalmeccanica-indus\u2026",
+            "title": "Magazziniere- Bolzano",
+            "redirect_url": "https://www.adzuna.it/details/5533544975?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-08T16:46:36Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.358005,
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Trentino-Alto Adige",
+                    "Provincia di Bolzano",
+                    "Bolzano"
+                ],
+                "display_name": "Bolzano, Provincia di Bolzano"
+            },
+            "id": "5533544975",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTQ0OTc1In0.oMo6hcJPkNMYnGta0U4XP-RrpWI8jkWjJ15JO-9SJPA",
+            "latitude": 46.496715,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "created": "2025-12-08T17:15:35Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533581848?utm_medium=api&utm_source=58c69264",
+            "title": "ADDETTO/A UFFICIO ACQUISTI",
+            "description": "In Job S.p.A. - Career Center di LEGNAGO seleziona ADDETTA/O UFFICIO ACQUISTI - sostituzione maternit per realt operante nel settore metalmeccanico Mansioni - Gestione e monitoraggio dello stock di magazzino, garantendo l'equilibrio tra disponibilit dei materiali e costi di stoccaggio, - Pianificazione degli approvvigionamenti secondo le previsioni di domanda e le necessit della produzione, - Coordinamento con i fornitori per garantire consegne puntuali e complete, gestendo eventuali criticit o\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "latitude": 45.44205,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTgxODQ4In0.mDHNWksyMbDH6sX6TLvksGao_BndP8NAAkbCWi3KoAs",
+            "id": "5533581848",
+            "location": {
+                "display_name": "Verona, Provincia di Verona",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Verona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.996388
+        },
+        {
+            "title": "DISPONENTE UFFICIO TRAFFICO SETTORE LOGISTICO",
+            "description": "In Job S.p.A. - Career Center di Verona seleziona DISPONENTE UFFICIO TRAFFICO VETTORI TERZI per realt operante nel settore logistico Mansioni - Pianificazione e gestione delle spedizioni FTL nel rispetto delle tempistiche e della qualit del servizio clienti, - Identificazione e coordinamento dei vettori idonei a soddisfare le esigenze dei clienti con attenzione ai costi e all'affidabilit del servizio, - Monitoraggio delle spedizioni e del flusso logistico, con interventi tempestivi per risolver\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5533571741?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-08T17:10:33Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 10.996388,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5533571741",
+            "location": {
+                "display_name": "Verona, Provincia di Verona",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Verona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.44205,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTcxNzQxIn0.34qWThnErPE3M835jc_uZZQkH-8tVmd6hSCF0gYBpWM",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "created": "2025-09-09T00:08:48Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "My name is"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5390008149?utm_medium=api&utm_source=58c69264",
+            "title": "RECRUITER - STAGE \u2013 Engineering, Manufacturing & Operations",
+            "description": "Mynameis \u00e8 il nuovo brand di headhunting di profili senior e middle management pensato da inJob, e specializzata in profili middle e top management. Per ampliamento della nostra Divisione Engineering, Manufacturing & Operations siamo alla ricerca di una/un laureando/a brillante e interessata/o ad approfondire il mondo dell\u2019Head Hunting. La figura che stiamo cercando \u00e8 una persona intraprendente, relazionale, standing e ottimo eloquio, con tanta voglia di imparare e un forte orientamento all\u2019obi\u2026",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5MDAwODE0OSIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.g2dTDUMpvFB_tyn3jQKPgY1cvRghPkCB7ODyDAyk5y8",
+            "id": "5390008149",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano",
+                    "Lanza"
+                ],
+                "display_name": "Lanza, Milano"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "OpenText ECM Developer Middle",
+            "description": "Siamo alla ricerca di un Developer sulla piattaforma OpenText Content Suite da inserire nell'area Enterprise Services & Solutions. La figura ricercata possiede le seguenti competenze: - conoscenza OpenText ECM: Content Server 16 o superiori - conoscenza sviluppi ModuleSuite AnswerModules 3.1 o superiori - develop WebReport e LiveReport - sviluppi WorkFlow OpenText - conoscenze API REST Content Suite - conoscenze base MSSQL o ORACLE Requisiti:  Esperienza di almeno 2 anni sulla piattaforma OpenT\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5413375101?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-24T04:16:25Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT America, Inc."
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "salary_is_predicted": "0",
+            "id": "5413375101",
+            "location": {
+                "display_name": "Milano, Provincia di Milano",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMzM3NTEwMSIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.7k2wm-jfmBgNEuHpT_mKBTWhmVbbduIa_CRQWdWk2ic",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "title": "OpenText ECM Developer Middle",
+            "description": "Siamo alla ricerca di un Developer sulla piattaforma OpenText Content Suite da inserire nell'area Enterprise Services & Solutions. La figura ricercata possiede le seguenti competenze: - conoscenza OpenText ECM: Content Server 16 o superiori - conoscenza sviluppi ModuleSuite AnswerModules 3.1 o superiori - develop WebReport e LiveReport - sviluppi WorkFlow OpenText - conoscenze API REST Content Suite - conoscenze base MSSQL o ORACLE Requisiti:  Esperienza di almeno 2 anni sulla piattaforma OpenT\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5487756864?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-08T23:33:17Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT America, Inc."
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5487756864",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Roma, Provincia di Roma"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Nzc1Njg2NCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.tPUvnu6LIrNDJKe3R3gnCw1LUDTuRb8Hxd1KLuzEWBY",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "id": "5487756858",
+            "location": {
+                "display_name": "Napoli, Provincia di Napoli",
+                "area": [
+                    "Italia",
+                    "Campania",
+                    "Provincia di Napoli",
+                    "Napoli"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 14.24544,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "latitude": 40.858097,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Nzc1Njg1OCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.kGshXkMteQiAXt2ytIWNqwy1AztyMsiXII9XTZgt-vw",
+            "title": "OpenText ECM Developer Middle",
+            "description": "Siamo alla ricerca di un Developer sulla piattaforma OpenText Content Suite da inserire nell'area Enterprise Services & Solutions. La figura ricercata possiede le seguenti competenze: - conoscenza OpenText ECM: Content Server 16 o superiori - conoscenza sviluppi ModuleSuite AnswerModules 3.1 o superiori - develop WebReport e LiveReport - sviluppi WorkFlow OpenText - conoscenze API REST Content Suite - conoscenze base MSSQL o ORACLE Requisiti:  Esperienza di almeno 2 anni sulla piattaforma OpenT\u2026",
+            "created": "2025-11-08T23:33:17Z",
+            "company": {
+                "display_name": "NTT America, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5487756858?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-11-17T21:05:40Z",
+            "company": {
+                "display_name": "My name is",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5500806153?utm_medium=api&utm_source=58c69264",
+            "title": "Contabile - Junior Accountant",
+            "description": "Strutturata azienda del settore servizi, parte di un gruppo multinazionale, con sede in zona S. Siro. Per strutturata azienda del settore servizi, parte di un gruppo multinazionale, stiamo cercando una figura con 3-5 anni di esperienza in ambito contabile, che si occuper\u00e0 della gestione delle attivit\u00e0 amministrative e contabili all\u2019interno di un\u2019organizzazione strutturata. Principali responsabilit\u00e0 Registrazione e gestione delle fatture fornitori e relative scadenze di pagamento Riconciliazioni\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMDgwNjE1MyIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.WvWsL9-BdR1o5PL5PI0mRRtDYMhZBwRtv3qX6QEfQBg",
+            "id": "5500806153",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano",
+                    "Lanza"
+                ],
+                "display_name": "Lanza, Milano"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MzA1NDQ3NSIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.xlf_M4Dxh6cD-TGJjZ3n5Cfifqv11MEJDVrahreEHxI",
+            "latitude": 45.617504,
+            "location": {
+                "display_name": "Roncade, Provincia di Treviso",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Treviso",
+                    "Roncade"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5453054475",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.391233,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "My name is"
+            },
+            "created": "2025-10-18T01:29:31Z",
+            "redirect_url": "https://www.adzuna.it/details/5453054475?utm_medium=api&utm_source=58c69264",
+            "description": "Azienda manifatturiera. A riporto diretto dell'Accounting Manager, la figura ricercata avr\u00e0 le seguenti responsabilit\u00e0: Gestione operativa della tesoreria aziendale, con attivit\u00e0 quotidiane di riconciliazione dei conti bancari, controllo dei flussi finanziari, gestione dei pagamenti e degli incassi. Supervisione delle linee di credito, inclusi i rapporti con gli istituti bancari, l\u2019utilizzo dei fidi e il loro rinnovo. Registrazione delle operazioni contabili, sia attive che passive, e predispos\u2026",
+            "title": "Treasury Specialist"
+        },
+        {
+            "title": "Impiegato/a logistico/a",
+            "description": "Lavoropi\u00f9 filiale di Ozzano dell'Emilia, ricerca per azienda sita nella zona Bologna Est, un/una Impiegato/a logistico/a. La risorsa si occuper di: - gestione contabilit di magazzino, - inserimento ordini e fatture Si offre iniziale contratto a tempo determinato. Orario di lavoro full time da luned\u00ec a venerd\u00ec. Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91 e a perso\u2026",
+            "created": "2025-12-08T16:46:13Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533544244?utm_medium=api&utm_source=58c69264",
+            "id": "5533544244",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Bologna",
+                    "Bologna"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bologna, Provincia di Bologna"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.341108,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "latitude": 44.498542,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTQ0MjQ0In0.LpABiNOMfcV8cFYGU8scELNljnPA5q8A5ECpJ0H1X9c"
+        },
+        {
+            "location": {
+                "display_name": "Rozzano, Provincia di Milano",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Rozzano"
+                ]
+            },
+            "id": "5536018735",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.166125,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Alberghi/Ristoranti/Bar",
+                "tag": "hospitality-catering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM2MDE4NzM1In0.v8zkesCFy23AVZ-0jFsuO-zvUYMHETmPew3BZvA4gDc",
+            "latitude": 45.396404,
+            "description": "InJob S.p.A. \u2013 Career Center di Milano seleziona, per importante realt\u00e0 operante nel settore della ristorazione, attivo nel food service e in continua espansione sul territorio: Addetti/e alla Ristorazione \u2013 Rozzano l'attivit\u00e0 si divide tra cucina e sala ristorante: - In cucina, la risorsa sar\u00e0 coinvolta nella preparazione dei prodotti, collaborando attivamente con il team per soddisfare le richieste dei clienti. Avr\u00e0 l'opportunit\u00e0 di conoscere da vicino l'organizzazione e la gestione di una cu\u2026",
+            "title": "Addetto/a Fast Food - Rozzano",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.P.A."
+            },
+            "created": "2025-12-10T10:20:48Z",
+            "redirect_url": "https://www.adzuna.it/details/5536018735?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "description": "In Job S.p.A. - Career Center di Verona seleziona TECNICO ELETTRICO PREVENTIVISTA Per realt\u00e0 di Verona specializzata in impianti tecnologici, elettrici, costruzioni elettromeccaniche ed automazione Mansioni La risorsa, inserita all'interno dell'ufficio tecnico, si occuper\u00e0 di: Analisi della documentazione tecnica di gara o di progetto Elaborazione di preventivi e offerte economiche per impianti elettrici Stima dei tempi, costi e materiali necessari Interfaccia con fornitori e clienti per chiari\u2026",
+            "title": "Tecnico Elettrico Preventivista",
+            "company": {
+                "display_name": "In Job",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-30T03:54:20Z",
+            "redirect_url": "https://www.adzuna.it/details/5519951847?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona"
+                ],
+                "display_name": "Provincia di Verona, Veneto"
+            },
+            "id": "5519951847",
+            "longitude": 11.050803,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTk1MTg0NyIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.pvq190xKGqpGkxTuF1U2MucNfKwmhOCgmoRMXg8H6QM",
+            "latitude": 45.412497
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5508797984",
+            "location": {
+                "display_name": "Milano, Provincia di Milano",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODc5Nzk4NCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.Sfp8-40tVifbsWUSBAUeafwLOxi4UBW00zUq4S5B0DI",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Informatica/IT"
+            },
+            "title": "IT Technical Consultant",
+            "description": "Mynameis, societ\u00e0 di Head Hunting seleziona IT Technical Consultant per la Divisione dedicata alla progettazione, vendita e realizzazione di soluzioni software per la digitalizzazione dei processi aziendali di un importante player su scala nazionale e internazionale Posizione Scripting (Javascript, VBscript) e configurazione avanzata di parametri concatenati Installazione, setup e configurazione di tool e software di gestione documentale. Gestione ticket di secondo livello su ServiceNow. Proble\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5508797984?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-22T06:31:41Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mynameis"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTc1MTM4OSIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.GRX-ms8ulJYFqscVaCZ5kwZG3fLiTlDi2NfOxAYGkkM",
+            "latitude": 45.068057,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "longitude": 7.673018,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "id": "5525751389",
+            "redirect_url": "https://www.adzuna.it/details/5525751389?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-03T15:28:03Z",
+            "description": "Per inserimento immediato in Comunit Educativa per adulti con disabilit , ricerchiamo una risorsa, disponibile a lavoro full time. - Sede di lavoro: Vigone - Orario di lavoro su turni: 6:00 \u2013 14:00 14:30 \u2013 22:00 22:00 \u2013 6:00 Si richiede qualifica OSS e disponibilit a iniziare in tempi brevi. Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91 e a persone di tutte le et e\u2026",
+            "title": "Oss Comunit Educativa per adulti con disabilit"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTIxNzEwMTIyIn0.jEjBPUPoEWzJHhr_P2nhxP5eyHymxqc-XmashxeWaSk",
+            "latitude": 45.068057,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "longitude": 7.673018,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Torino, Provincia di Torino",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ]
+            },
+            "id": "5521710122",
+            "redirect_url": "https://www.adzuna.it/details/5521710122?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-01T15:25:09Z",
+            "description": "Sanipi\u00f9 Torino- Divisione Specialistica Sanit del GruppoLavoropi\u00f9- ricerca OSS per struttura clinica privata sita a Torino Si ricercano risorse disponibili su turni dal lunedi alla domenica, con riposi Passione per ilproprio lavoro ed empatia completano il profilo Requisiti: Qualifica Oss 1000h. Iscrizione alle liste di collocamento mirato L.68/99 Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi\u2026",
+            "title": "OSS appartenente Cat. Protette L.68/99"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-08T17:21:02Z",
+            "redirect_url": "https://www.adzuna.it/details/5533602420?utm_medium=api&utm_source=58c69264",
+            "description": "Lavoropi\u00f9, filiale di Novellara, per azienda cliente \u00e8 alla ricerca di: ADDETTO/A ALLA LUCIDATURA METALLI La risorsa verr inserita nel comparto produttivo di importante azienda metalmeccanica. La risorsa ideale avr maturato precedente esperienza all'interno di realt operanti nel medesimo settore. Luogo di lavoro: Brescello (RE) Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 \u2026",
+            "title": "addetto/a alla lucidatura metalli",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzYwMjQyMCIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.mLyF5jwZd4drnJiCUqKomo1qwcwxBNiBzULotTZ3DRA",
+            "latitude": 44.697961,
+            "location": {
+                "display_name": "Reggio Emilia, Provincia di Reggio Emilia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Reggio Emilia",
+                    "Reggio Emilia"
+                ]
+            },
+            "id": "5533602420",
+            "longitude": 10.63065,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "pulizie uffici part time",
+            "description": "Lavoropi\u00f9 Divisione Facility \u00e8 alla ricerca di una risorsa addetta alle pulizie civili part time a CITTADELLA. L\u2019orario di lavoro \u00e8 dal luned\u00ec al venerd\u00ec, dalle ore 07.00 alle ore 07.45 oppure dalle ore 18.30 alle ore 19.15 , tot. ore settimanali 03,45 Richiesta disponibilit immediata Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91 e a persone di tutte le et e tutte \u2026",
+            "created": "2025-12-08T16:46:48Z",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533545323?utm_medium=api&utm_source=58c69264",
+            "id": "5533545323",
+            "location": {
+                "display_name": "Padova, Provincia di Padova",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Padova",
+                    "Padova"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.882932,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "latitude": 45.407458,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTQ1MzIzIn0.ycMT7l_uTpeatZpv3foMpm09XBfwKxDrHCul45lIq5k"
+        },
+        {
+            "description": "Si ricerca Addetta/o Amministrazione del Personale per azienda cliente con sede in Bologna est: La risorsa si occuper di: - preparazione documenti per assunzioni - gestione di malattie e di infortuni - inserimento presenze - monitoraggio attestati sicurezza E' richiesta pregressa esperienza nel ruolo. Si offre contratto in somministrazione a tempo determinato, Full time, dal luned\u00ec al venerd\u00ec. Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente a\u2026",
+            "title": "Addetta/o Amministrazione del Personale",
+            "redirect_url": "https://www.adzuna.it/details/5533546770?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T16:47:33Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.341108,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Bologna",
+                    "Bologna"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bologna, Provincia di Bologna"
+            },
+            "id": "5533546770",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTQ2NzcwIn0.WW6pYZkxNf2jgrVp3hVBz8qMlQpoIM14iXJu6FtobXU",
+            "latitude": 44.498542,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5524088631?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-02T15:59:04Z",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "asa/ oss per struttura sanitaria in zona landriano (pavia)",
+            "description": "Sanipi\u00f9Milano- Divisione SpecialisticaSanit del Gruppo Lavoropi\u00f9-ricerca: ASA/OSSperstruttura sanitaria in zona Landriano (Pavia). Requisitirichiesti: - attestatoprofessionale riconosciuto di ASA / OSS, -motivazione eflessibilit , - ottime dotirelazionali, -disponibilit immediata. Siproponecontratto full time 38h settimanali sui tre turni. Maggioridettagliverranno specificati in fase di colloquio conoscitivo. Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/S\u2026",
+            "latitude": 45.200287,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI0MDg4NjMxIn0.OkNRneeNDKGJvauCqWOrvS2VFmiBJDzqtkjVlkFAds4",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.200974,
+            "salary_is_predicted": "0",
+            "id": "5524088631",
+            "location": {
+                "display_name": "Pavia, Provincia di Pavia",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Pavia",
+                    "Pavia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "title": "ADDETTO/A ALLA CARPENTERIA",
+            "description": "Lavoropi\u00f9 spa - filiale di Rimini - ricerca per azienda cliente ADDETTO/A ALLA CARPENTERIA La risorsa si occuper della lavorazione su ferro per infissi, carpenteria medio-leggera e attivit di saldatura a filo. Requisiti: Esperienza nella mansione Luogo di lavoro: Santarcangelo di Romagna Orario di lavoro: Full Time dal luned\u00ec al venerd\u00ec dalle 7.30 alle 12 e dalle 13 alle 17 Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad\u2026",
+            "created": "2025-12-08T16:45:34Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533543322?utm_medium=api&utm_source=58c69264",
+            "id": "5533543322",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Rimini",
+                    "Rimini"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rimini, Provincia di Rimini"
+            },
+            "longitude": 12.569964,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "latitude": 44.066721,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU0MzMyMiIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.ihw-NJybA4umbkvSvGMPqpHRsJvTsBMt3K5daivN3Rc"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.006984,
+            "id": "5521709425",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Liguria",
+                    "Provincia di Imperia",
+                    "Imperia"
+                ],
+                "display_name": "Imperia, Provincia di Imperia"
+            },
+            "latitude": 43.902093,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTIxNzA5NDI1In0.kSy2W0n6sLbJEkpcb4zmPWyBw-RppWyyBX4MsaTlQMA",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "title": "Educatore/Educatrice territoriale Sanremo / Ventimiglia",
+            "description": "Sanipi\u00f9Torino- Divisione Specialistica Sanit del Gruppo Lavoropi\u00f9-ricerca Educatore/Educatrice per servizio territoriale su Sanremo o Ventimiglia. Requisiti: - Laurea in Scienze dell'Educazione e della Formazione L-19 - Laurea educazione professionale sanitaria Servizio territoriale: affidi e incontri protetti Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91 e a perso\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5521709425?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-01T15:24:41Z",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "description": "BARISTA ristorazione veloce La risorsa una volta inserita si occuper di banco bar, caffetteria, tavola calda e cassa. Orario di lavoro: part time 24h a settimana su turni H 24 Luogo di lavoro: SPV, 36064 Colceresa VI REQUISITI: - automuniti/e - disponibilit immediata - disponibilit al part time su turni H 24 - preferibile esperienza pregressa Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi dell\u2026",
+            "title": "Addetto / a al banco - Area di sosta autostrada",
+            "redirect_url": "https://www.adzuna.it/details/5525760088?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-03T15:56:17Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.531162,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Vicenza, Provincia di Vicenza",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Vicenza",
+                    "Vicenza"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5525760088",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI1NzYwMDg4In0.hOyK-B-STZHAky0H7ZRbmIhZ2HNsv_SoyFS9Om0KxnM",
+            "latitude": 45.57009,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "title": "ADDETTO/A ALLE PULIZIE",
+            "description": "Sanipi\u00f9 - Divisione Sanit del Gruppo Lavoropi\u00f9 spa - ricerca per cooperativa cliente: ADDETTO/A PULIZIE La risorsa si occuper di: - pulizia di uffici pubblici Requisiti: - Esperienza - disponibilit immediata - automuniti Orario: part time 20 ore dal luned\u00ec al venerd\u00ec. Luogo di lavoro: Correggio - Rolo - Reggiolo Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91 e a per\u2026",
+            "created": "2025-12-08T17:20:41Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533600810?utm_medium=api&utm_source=58c69264",
+            "id": "5533600810",
+            "location": {
+                "display_name": "Reggio Emilia, Provincia di Reggio Emilia",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Reggio Emilia",
+                    "Reggio Emilia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 10.63065,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "latitude": 44.697961,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNjAwODEwIn0.NMLBeAahApzZtlg5hrrgWd1Ww3Js-aaHCkUBv32y0B0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.673018,
+            "salary_is_predicted": "0",
+            "id": "5524087709",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "latitude": 45.068057,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDA4NzcwOSIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.aqbgDaRShho26Wbncw4C8vcsb_t15qDVdvBZstJat4w",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "title": "Oss per Raf",
+            "description": "Per importante Raf nella prima cintura di Torino ricerchiamo: 2 oss Il/la candidata ideale \u00e8 in possesso dei seguenti requisiti: attestato delle 1000 ore disponibilit sul turno diurno Si offre contratto iniziale in somministrazione finalizzato all'assunzione Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91 e a persone di tutte le et e tutte le nazionalit , ai sensi de\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5524087709?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-02T15:57:20Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            }
+        },
+        {
+            "description": "Lavoropi\u00f9 spa filiale di Rimini ricerca per azienda cliente ADDETTO/A MONTAGGIO INFISSI IN ALLUMINIO La risorsa si occuper della movimentazione e del montaggio infissi in alluminio. Gradita esperienza pregressa nel ruolo. Luogo di lavoro: Santarcangelo di romagna Orario di lavoro: Tempo pieno dal luned\u00ec al venerd\u00ec Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91 e a p\u2026",
+            "title": "ADDETTO/A MONTAGGIO INFISSI IN ALLUMINIO",
+            "redirect_url": "https://www.adzuna.it/details/5533596443?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lavoropi\u00f9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:19:57Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.569964,
+            "location": {
+                "display_name": "Rimini, Provincia di Rimini",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Rimini",
+                    "Rimini"
+                ]
+            },
+            "id": "5533596443",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTk2NDQzIn0.0m0cHtynWsPQRWiGX10Wruuc-l9ClkRasajj2NcFKe4",
+            "latitude": 44.066721,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "id": "5521698911",
+            "location": {
+                "display_name": "Urbino, Provincia di Pesaro e Urbino",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Marche",
+                    "Provincia di Pesaro e Urbino",
+                    "Urbino"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 12.645702,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "latitude": 43.755265,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTIxNjk4OTExIn0.GquIyS4yEK0wMZm0bMQy0oBip9t0juKJzRFyEbY2E4k",
+            "title": "INFERMIERA/E FANO",
+            "description": "Sanipi\u00f9 MARCHE - Divisione Specialistica Sanit del Gruppo Lavoropi\u00f9 - ricerca un/una: INFERMIERE/INFERMIERA La figura inserita si occuper delle mansioni infermieristiche per una Residenza Protetta a Fano Si offre inserimento con scopo assuntivo. Luogo di Lavoro: FANO Orario: Full time, turnazione diurna Requisiti richiesti: - Laurea in Scienze Infermieristiche - Iscrizione all'OPI Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 riv\u2026",
+            "created": "2025-12-01T15:11:56Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5521698911?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEpLd2tOZlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTg5Mzc0In0.uDvnrXPuwuH9Fw0SCr-ZvCZhGMJeP1hdfVmDjKP_Fhg",
+            "latitude": 45.697064,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.673488,
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Bergamo",
+                    "Bergamo"
+                ],
+                "display_name": "Bergamo, Provincia di Bergamo"
+            },
+            "id": "5533589374",
+            "redirect_url": "https://www.adzuna.it/details/5533589374?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-08T17:18:38Z",
+            "description": "Lavoropi\u00f9 spa, filiale di Bergamo, seleziona per azienda alimentare un/una Impiegato/impiegata ufficio acquisti Principali responsabilit : - inserimento ordini - fatturazione passiva - sollecito fornitori Requisiti: - Diploma di ragioneria - Pregressa esperienza di un anno nella mansione - Conoscenza fluente della lingua inglese Si offre contratto di assunzione diretta in azienda, CCNL Alimentare Industria Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. \u2026",
+            "title": "Impiegato/impiegata ufficio acquisti"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5521703467?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "created": "2025-12-01T15:21:20Z",
+            "description": "Lavoropi\u00f9 Spa filiale di Ferrara, ricerca infermiere/a per casa di riposo in provincia di Ferrara. Requisiti: - laurea in Scienze infermieristiche o laurea vecchio ordinamento provvisto di indennit professionale - regolare iscrizione all'Albo Orario di lavoro: full time su turni diurni. Offriamo: iniziale contratto a tempo determinato. Luogo di lavoro: zona Cento (FE) Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annuncio \u00e8 rivolto ad entra\u2026",
+            "title": "INFERMIERE/A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTcwMzQ2NyIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.R2zgCh3zDlbc3qtIev-pe4qK2X_8wWBOuPlfp5T5bSI",
+            "latitude": 44.842288,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 11.621698,
+            "location": {
+                "display_name": "Ferrara, Provincia di Ferrara",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Ferrara",
+                    "Ferrara"
+                ]
+            },
+            "id": "5521703467"
+        },
+        {
+            "latitude": 45.44205,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU3OTMzMyIsInMiOiI0Skt3a05mVzhCR2UzS3BfM2VvSDNRIn0.8QfGBfKOvGCCjuSelrqxvGrdGBXQkl7YLVLL86vKz8A",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.996388,
+            "id": "5533579333",
+            "location": {
+                "display_name": "Verona, Provincia di Verona",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Verona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533579333?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-08T17:14:31Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavoropi\u00f9"
+            },
+            "title": "VIGILANTE",
+            "description": "Lavoropiu Spa, Divisione Facility, ricerca un/una vigilante a VERONA. La risorsa prester\u00f2 servizio in una banca. Orario di lavoro: FULL TIME 40H SETTIMANALI \u2013 turni tra le 7 e le 23, con un giorno di riposo a rotazione. LIVELLO D \u2013 CCNL VIGILANZA con inserimento dal prima possibile REQUISITI: con ottima conoscenza della lingua italiana. Richiesta anche una conoscenza almeno di base del PC. Questo annuncio \u00e8 pubblicato da Lavoropi\u00f9 Spa. Aut. Min. del 26/11/2004 _ Prot. 1104/SG. Il presente annun\u2026"
+        }
+    ],
+    "mean": 26847.31
+}

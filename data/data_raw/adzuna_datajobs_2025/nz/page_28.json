@@ -1,0 +1,766 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "display_name": "Auckland, North Island"
+            },
+            "salary_min": 78126,
+            "title": "Senior Technician Lumi",
+            "contract_type": "contract",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Company Name Ltd"
+            },
+            "salary_max": 84461,
+            "description": "Te t\u016bnga | The role Join our team at PHF Science and help shape the future of forensic drug analysis. We are looking for a Senior Technician to provide specialist chemistry and forensic science expertise for our Lumi Drug Scan service. This role is ideal for someone with strong technical skills, a passion for science, and the ability to work independently in a dynamic laboratory environment. You would join our dedicated team at our Mount Albert Science Centre, where your technical skills and at\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1NzY4ODUyIn0.642LuBgPQHX7v09ob-he-zsx0W24_R-trL7KEbu9jZc",
+            "redirect_url": "https://www.adzuna.co.nz/details/5535768852?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T16:40:03Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "scientific-qa-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Scientific & QA Jobs"
+            },
+            "longitude": 174.7633,
+            "id": "5535768852",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -36.8485
+        },
+        {
+            "description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more - all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstration\u2026",
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rocket Lab"
+            },
+            "contract_type": "permanent",
+            "id": "5528789136",
+            "title": "Senior IT Support Specialist",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "display_name": "Auckland, North Island",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 174.7633,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-05T15:35:08Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5528789136?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODc4OTEzNiIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.-sZU78yj3QHrILNR7Szo0imWEM2s82zccfNdcMs1DLo"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ]
+            },
+            "longitude": 174.7633,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rocket Lab"
+            },
+            "title": "Team Lead - Electron GNC",
+            "id": "5501173730",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more - all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstration\u2026",
+            "latitude": -36.8485,
+            "redirect_url": "https://www.adzuna.co.nz/details/5501173730?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTE3MzczMCIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.lPYK19JczxrdMgxBsrwjOnV5p3qZvriBmQElLBDEOwM",
+            "created": "2025-11-18T15:19:55Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -36.8485,
+            "longitude": 174.7633,
+            "id": "5533636964",
+            "salary_is_predicted": "0",
+            "description": "New Zealand Police is working with the community to make New Zealanders be safe and feel safe. With over 16,000 staff, we provide policing services 24 hours a day, every day. We operate by land, sea and air, manage over 860,000 emergency calls a year and are always actively preventing crime and crashes. We\u2019re working towards specific goals and targets that highlight our intent to work collaboratively with iwi and communities, other government sectors and business partners to deliver and achieve\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "display_name": "Auckland, North Island"
+            },
+            "salary_min": 63526,
+            "contract_type": "permanent",
+            "title": "Alcohol Harm Prevention Support Officer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "New Zealand Government"
+            },
+            "created": "2025-12-09T07:03:25Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMzNjM2OTY0In0.oSUYC6bGu32Ws8ajO12182caTmJjCUDUBDmKKgW-De8",
+            "redirect_url": "https://www.adzuna.co.nz/details/5533636964?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5525882026",
+            "salary_is_predicted": "0",
+            "longitude": 174.7633,
+            "contract_time": "full_time",
+            "category": {
+                "tag": "hr-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "HR & Recruitment Jobs"
+            },
+            "created": "2025-12-04T06:06:11Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTg4MjAyNiIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.EkXxS5ErD7OtALAB69NtFVn1L3n9O82AVSBRzMpE1hg",
+            "redirect_url": "https://www.adzuna.co.nz/details/5525882026?utm_medium=api&utm_source=58c69264",
+            "description": "New Zealand Police is working with the community to make New Zealanders be safe and feel safe. With over 15,000 staff, we provide policing services 24 hours a day, every day. We operate by land, sea and air, manage over 860,000 emergency calls a year and are always actively preventing crime and crashes. We\u2019re working towards specific goals and targets that highlight our intent to work collaboratively with iwi and communities, other government sectors and business partners to deliver and achieve\u2026",
+            "salary_min": 63526,
+            "company": {
+                "display_name": "New Zealand Government",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Workforce Coordinator - \u014ct\u0101huhu",
+            "contract_type": "permanent",
+            "salary_max": 66312,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ]
+            }
+        },
+        {
+            "longitude": 174.7633,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lightspeed Commerce"
+            },
+            "title": "Senior Staff Software Engineer",
+            "id": "5532430459",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -36.8485,
+            "description": "Hi there! Thanks for stopping by  Are you actively looking for a new opportunity? Or just checking the market? Well\u2026 you might just be in the right place! We\u2019re looking for a Senior Staff Software Engineer to join our team in Auckland. In addition to building reliable systems and easy-to-use interfaces with clean, well-tested code, you will also collaborate closely with peers in technical discussions, code reviews, and architecture decisions, helping to elevate our engineering culture and set a\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMyNDMwNDU5In0.JGWOD-Fx6yCxd824QDsEWmM1l2MNxahV42PiLq3UH5Q",
+            "redirect_url": "https://www.adzuna.co.nz/details/5532430459?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-08T06:01:00Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "longitude": 174.319573,
+            "id": "5520187881",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -35.724721,
+            "redirect_url": "https://www.adzuna.co.nz/details/5520187881?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwMTg3ODgxIn0.hbqPTx8K7Y1SZ05QdBXQmGHuk10t5XvFVCcazGCP-eI",
+            "created": "2025-12-01T06:07:46Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Northland",
+                    "Whangarei"
+                ],
+                "display_name": "Whangarei, Northland",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Custody Officer - Kaitaia",
+            "contract_type": "permanent",
+            "salary_max": 78129,
+            "company": {
+                "display_name": "New Zealand Government",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 74748,
+            "description": "New Zealand Police is working with the community to make New Zealanders be safe and feel safe. With over 15,000 staff, we provide policing services 24 hours a day, every day. We operate by land, sea and air, manage over 860,000 emergency calls a year and are always actively preventing crime and crashes. We\u2019re working towards specific goals and targets that highlight our intent to work collaboratively with iwi and communities, other government sectors and business partners to deliver our busines\u2026"
+        },
+        {
+            "description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more \u2013 all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstration\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5224814466",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rocket Lab Corporation"
+            },
+            "contract_type": "permanent",
+            "title": "Senior RF Engineer \u2013 TT & C Systems",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand"
+                ],
+                "display_name": "New Zealand"
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-05-31T22:57:34Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5224814466?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjI0ODE0NDY2In0.tbRHAeZU9QY2pycUsz8LtWuw_IC9-8RklmB2Z6E6wNc"
+        },
+        {
+            "description": "At Too Good To Go, we have an ambitious mission: to inspire and empower everyone to fight food waste together. More than 1/3 of all food produced in the world is wasted. And that has a huge impact on the health of our planet. 10% of greenhouse gas emissions come from food waste and loss. Through our marketplace app, we connect businesses that have unsold, surplus food, with consumers who can buy and enjoy it at \u2153 of retail value. We are a certified B Corporation with a mission to empower everyo\u2026",
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Too Good To Go"
+            },
+            "id": "5454287887",
+            "title": "Sales Development Representative",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 174.7633,
+            "category": {
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs"
+            },
+            "created": "2025-10-19T06:29:51Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5454287887?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDU0Mjg3ODg3In0.DOqNTo1NH4XHd6TcvLdvYflGrXykTdrAPPVq5aOYVJc"
+        },
+        {
+            "created": "2025-11-03T06:36:02Z",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NzMyMDEwNCIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.fgOoIjPYLYwG9XhxxRofSzFHhjINLbkHPVRHoleL2xw",
+            "redirect_url": "https://www.adzuna.co.nz/details/5477320104?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more \u2013 all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstration\u2026",
+            "location": {
+                "area": [
+                    "New Zealand"
+                ],
+                "display_name": "New Zealand",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Incoming Quality Control Inspector",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rocket Lab Corporation"
+            },
+            "id": "5477320104",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI4MTUwNDgwOSIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.JfFZbZaP2Sbei83JzrdJ7Swbd71pFg58kQj56J4idBo",
+            "redirect_url": "https://www.adzuna.co.nz/details/5281504809?utm_medium=api&utm_source=58c69264",
+            "created": "2025-07-04T02:19:12Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand"
+                ],
+                "display_name": "New Zealand"
+            },
+            "company": {
+                "display_name": "Rocket Lab Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Vehicle Design Engineer",
+            "id": "5281504809",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more \u2013 all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstration\u2026"
+        },
+        {
+            "location": {
+                "display_name": "New Zealand",
+                "area": [
+                    "New Zealand"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Alcohol Harm Prevention Support Officer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5534096720",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Type: Ongoing - Full Time Category: Police & emergency services Location: Auckland - Auckland;Auckland - Auckland and Hamilton;Auckland - Auckland Central;Auckland - Helensville;Auckland - Manukau;Auckland - Manurewa;Auckland - Otara;Auckland - Papakura;Auckland - Pukekohe;Auckland Date Advertised: 08-DEC-25 Job Reference: 43828517 Job Title: Alcohol Harm Prevention Support Officer Business Unit: Division: Classification: Work Location: Position Type: Job Duration:N/A Contact Name: Contact \u2026",
+            "redirect_url": "https://www.adzuna.co.nz/details/5534096720?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDA5NjcyMCIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.yaJgIKHmmIpbLMg8zyeCCuvRTuxwbYcKZFfiuhzuD5I",
+            "created": "2025-12-09T12:49:36Z",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-12-11T07:07:51Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5536309029?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjMwOTAyOSIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.0IbhERjxgUtUaUa3KE5NNR-l1Ot7-tqBoeBCFY83SrA",
+            "description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more \u2013 all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstration\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Rocket Lab Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Junior ERP Support Analyst",
+            "id": "5536309029",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "location": {
+                "display_name": "New Zealand",
+                "area": [
+                    "New Zealand"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "Halter is looking for a Launch Modelling Specialist to join our Deployment Operations team to coordinate the journey our farmers go on to get Halter\u2019s revolutionary technology installed on their farm. You will be responsible for the initial part of the customer\u2019s deployment process with Halter. You will work in the high-performing, cross-functional Launch team, playing a key part in our customer\u2019s onboarding experience. You will be directly responsible for delivering the highest quality deploym\u2026",
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Halter"
+            },
+            "salary_is_predicted": "0",
+            "id": "5536309893",
+            "title": "Launch Modelling Specialist",
+            "contract_type": "contract",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ]
+            },
+            "longitude": 174.7633,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T07:08:39Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5536309893?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjMwOTg5MyIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.i9jnQtoDx3tyiNVz46csYjXKndl9iXqaaN1E3x7cMjM"
+        },
+        {
+            "description": "Overview With more than 45,000 employees and partners worldwide, the Customer Experience and Success (CE&S) organization is on a mission to empower customers to accelerate business value through differentiated customer experiences that leverage Microsoft's products and services, ignited by our people and culture. We drive cross-company alignment and execution, ensuring that we consistently exceed customers' expectations in every interaction, whether in-product, digital, or human-centered. CE&S \u2026",
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Microsoft Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538357430",
+            "title": "Technical Support Engineer - Azure / Identity and Access Management",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ]
+            },
+            "longitude": 174.7633,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-12T08:39:51Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5538357430?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM1NzQzMCIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.9uJlL9ZpiJaco0VfApQLhMXiIOqjp-62sPrVAc2y0t8"
+        },
+        {
+            "description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more \u2013 all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstration\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rocket Lab"
+            },
+            "title": "Manager - Engineering",
+            "id": "5407060569",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand"
+                ],
+                "display_name": "New Zealand"
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-20T05:28:06Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5407060569?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwNzA2MDU2OSIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.SlWL7Y9f-NPsMshkPKtofrOFhafDSdJnbPVFWN2ok20"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.nz/details/5162003560?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE2MjAwMzU2MCIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.cy7URhJQq9jmluwfKBw6zYTgRO5SlkS9phomO0_qdwI",
+            "created": "2025-04-25T20:56:56Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Greater Wellington",
+                    "Wellington"
+                ],
+                "display_name": "Wellington, Greater Wellington"
+            },
+            "longitude": 174.777199,
+            "id": "5162003560",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Medtronic"
+            },
+            "salary_is_predicted": "0",
+            "title": "Territory Manager, Acute Care & Monitoring",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You'll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life - Territory Manager, Acute Care and Monitoring - Wellington location - Permanent Full-Time (37.5 hours per week) - NZD $105K base Are you confident in your ability to drive your own success? We are looking for an enthusiastic individual w\u2026",
+            "latitude": -41.278339
+        },
+        {
+            "latitude": -41.278339,
+            "description": "At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You'll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life We have an exciting opportunity for a Territory Manager to join our NZ Surgical Sales team. Based in Wellington, you will be driving sales growth and market share by promoting our surgical technologies to key surgeons and clinical staff i\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Medtronic"
+            },
+            "salary_is_predicted": "0",
+            "id": "5516674833",
+            "title": "Territory Manager - Surgical",
+            "longitude": 174.777199,
+            "location": {
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Greater Wellington",
+                    "Wellington"
+                ],
+                "display_name": "Wellington, Greater Wellington",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-28T07:47:31Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE2Njc0ODMzIn0.MhQmiFgIbf6pfhL3-HnOPdcTNVL2e-mJxRQeqQCqzWo",
+            "redirect_url": "https://www.adzuna.co.nz/details/5516674833?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.nz/details/5529779509?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTc3OTUwOSIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.6t2DeUD5wqyzIh2rBgieySPvtHCqcHIlooj6DGxUtoA",
+            "created": "2025-12-06T07:53:31Z",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "display_name": "Auckland, North Island",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 174.7633,
+            "company": {
+                "display_name": "Mondelez International",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5529779509",
+            "title": "Assistant Brand Manager",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Who are we? Mondelez New Zealand has been distributing delicious snacks in Aotearoa for Kiwis to enjoy for more than 100 years. Our team are the proud custodians of our iconic brands, including Cadbury, Pascall, Toblerone, The Natural Confectionery Co., Sour Patch Kids, Philadelphia, OREO, and Olina's. Why Mondelez? At Mondelez NZ our people are at the heart of everything we do. We're incredibly proud of our team - together we're very good at what we do, because we're connected,\u2026",
+            "latitude": -36.8485
+        },
+        {
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-07T06:01:01Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5531069507?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxMDY5NTA3In0.ri-GKoXiIgrbGgPyuxDGik4ejDKVw3LPpvkodaetElY",
+            "description": "You\u2019ve seen world-class hardware developed. Now, join us to engineer world-class manufacturing at scale. Mechanical engineering at Halter is not just about design; it's about ownership, impact, and survival in the harshest environments on earth. We have just released our best collar yet, and we are aggressively scaling up production to support farmers and ranchers globally. To deliver on this mission, we don't just need engineers we need owners who can define and deploy the next generation of h\u2026",
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Halter",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5531069507",
+            "title": "Mechanical Engineer - Production Engineering",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ]
+            },
+            "longitude": 174.7633
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzk4NjE1NyIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.d9MDx3Q2VbB8Da-Z8DHqvZK_8Uujz0hXsWckWs5Hut4",
+            "redirect_url": "https://www.adzuna.co.nz/details/5527986157?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-05T07:51:43Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 174.7633,
+            "location": {
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "display_name": "Auckland, North Island",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5527986157",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Medtronic"
+            },
+            "salary_is_predicted": "0",
+            "title": "Field Service Engineer, Surgical Robotics",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -36.8485,
+            "description": "At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You'll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life Do you want to write a chapter in our story of innovation? We have a brand new and unique opportunity for an experienced Technical Service Specialist to join Medtronic! You will thrive if you are able to adapt, respond, pivot and be resil\u2026"
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "created": "2025-07-13T22:23:45Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMwMDcyODY0MSIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.VmKzVT6Wq5cnDGAKv_N2RV9e-PTYMXGr5KhvpnzH_pY",
+            "redirect_url": "https://www.adzuna.co.nz/details/5300728641?utm_medium=api&utm_source=58c69264",
+            "latitude": -36.8485,
+            "description": "About the role Mechanical engineering at Halter is about to take off. We\u2019ve just released our best collar yet, and in the next few years, we\u2019re going to aggressively scale up production to support farmers and ranchers all over the world. Our hardware needs to last a very long time in an extremely harsh environment, and this needs to hold true for every collar we build (and we plan to build a lot of them). There are very few applications in the field of mechanical engineering as unique and chall\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Halter",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5300728641",
+            "title": "Experienced Mechanical Engineer",
+            "salary_is_predicted": "0",
+            "longitude": 174.7633,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "display_name": "Auckland, North Island"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-13T03:42:36Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDkyMzUwMDY4In0.ZRes9pBkTC4GdUQtipyWPcSjXBscoquqm8K82Ro8zKI",
+            "redirect_url": "https://www.adzuna.co.nz/details/5492350068?utm_medium=api&utm_source=58c69264",
+            "latitude": -36.8485,
+            "description": "At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You'll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life Our Endoscopy business is growing, and we have an exciting role for a Territory Manager to join a high performing, dedicated and highly respected team, partner with our hospital customer networks and drive territory sales revenue in New Z\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5492350068",
+            "company": {
+                "display_name": "Medtronic",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Territory Manager - Endoscopy",
+            "longitude": 174.7633,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "display_name": "Auckland, North Island"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.nz/details/5532723247?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid293MmFjX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMyNzIzMjQ3In0.wIN_nE-bwmEB0AKAaugIzyi8RnJtY82v1ahYeLDe3TI",
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-08T08:03:49Z",
+            "company": {
+                "display_name": "Microsoft Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5532723247",
+            "title": "Commercial Sales",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ]
+            },
+            "longitude": 174.7633,
+            "description": "Overview Our team of passionate, fun and tech-inspired humans are looking for Commercial Executive to?drive?commercial outcomes in partnership with customers, to achieve business outcomes. The Commercial Executive is a trusted advisor who leads the design and execution of the customer's commercial strategy and negotiation, selling the right commercial solution at the right time and ensuring every deal is compliant and profitable for Microsoft. Responsibilities Deep Proactive Engagement -Partner\u2026",
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "About the role We\u2019re looking for a Brand Manager who\u2019s a creative thinker and organised doer. You\u2019re a person who can take a brand vision and make sure it\u2019s consistently brought to life across every touchpoint. As Halter\u2019s presence has grown in New Zealand, the United States and Australia, we\u2019ve continued to evolve our brand. We are now at the point where we need clear ownership of our image and identity: Any customer, regardless of their farm type or location, should feel connected to us as a \u2026",
+            "latitude": -36.8485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Halter",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5527427603",
+            "title": "Brand Manager",
+            "location": {
+                "display_name": "Auckland, North Island",
+                "area": [
+                    "New Zealand",
+                    "North Island",
+                    "Auckland"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 174.7633,
+            "category": {
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-05T06:00:47Z",
+            "redirect_url": "https://www.adzuna.co.nz/details/5527427603?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzQyNzYwMyIsInMiOiJ3b3cyYWNfVzhCRzdnY3JqVkVhaUR3In0.hkAnKUNfhn8m5tw40UMkDymlpNK800sTk7dJBkxk0pk"
+        }
+    ],
+    "mean": 112935.68,
+    "count": 1375
+}

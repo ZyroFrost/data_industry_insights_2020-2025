@@ -1,0 +1,1552 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Profource",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Rotterdam, Zuid-Holland",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Zuid-Holland",
+                    "Rotterdam"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5401078600?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3EDAD8B16583A9668AD5DBDA9AAF0CCD088D59E8",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.446535,
+            "description": "Start jouw carri\u00e8re op het snijvlak van Business en IT Zie jij de toekomst in IT en wil je ontdekken waar jouw kracht ligt? In het Traineeship Business IT bij Profource ontwikkel jij je tot ERP Consultant. Binnen \u00e9\u00e9n jaar groei je door tot consultant, met een vast contract, een leaseauto en volop kansen om jezelf te ontwikkelen. Wat ga je doen als Trainee Business IT bij Profource? Tijdens het Traineeship Business IT ontdek je hoe bedrijfsprocessen en technologie samenkomen. Vanaf dag \u00e9\u00e9n werk \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMTA3ODYwMCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.X8oliBvZIdSP9w87tI-bnWtREZPNY4tdWOGOPQld7Bc",
+            "latitude": 51.918609,
+            "title": "Traineeship Business IT",
+            "id": "5401078600",
+            "created": "2025-09-16T05:36:27Z"
+        },
+        {
+            "created": "2025-12-01T03:27:23Z",
+            "id": "5520736470",
+            "title": "Kostenadviseur - Regio",
+            "latitude": 52.354996,
+            "company": {
+                "display_name": "Bouwselect",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5520736470?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=BA66299CF88B748A5F23FC4843658B9DEA03D944",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Amsterdam"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Amsterdam, Noord-Holland"
+            },
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDczNjQ3MCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.60AAJawNNMUC2peIF18T-b-SMHXOfDo7jy--tExrp1I",
+            "longitude": 4.919448,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Locatie Regio - Noord-Holland Opleidingsniveau HBO Sector Bouw Salaris 4000 - 4700 Geplaatst op 2025-11-27 10:42:36 Wordt dit jouw nieuwe werkomgeving? De afdeling Bouwkosten & Advies is het financi\u00eble kompas van onze organisatie. Hier werken ervaren kostenadviseurs en kostendeskundigen die met hun technische kennis, analytische scherpte en marktinzicht zorgen voor betrouwbare kostenramingen en gedegen financieel advies. Vanaf de eerste schets tot aan de uitvoeringsfase levert de afdeling cruci\u2026"
+        },
+        {
+            "title": "Traineeship basisregistraties",
+            "latitude": 51.43937,
+            "created": "2025-11-07T19:23:19Z",
+            "id": "5485928307",
+            "longitude": 5.40229,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Start jouw carri\u00e8re als expert in basisregistraties! In samenwerking met DATA-Kracht biedt REEF het modulaire Traineeship Basisregistraties aan. Als trainee maak je een vliegende start in de wereld van geo-informatie en ontwikkel je jezelf tot specialist in belangrijke basisregistraties zoals de BAG (Basisregistratie Adressen en Gebouwen), BGT (Basisregistratie Grootschalige Topografie) en WOZ (Waardering Onroerende Zaken). Dit traject biedt jou de perfecte mix van praktijkervaring en opleiding\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTkyODMwNyIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.xkP5-9C4J2CQXZw_zAXpM0EJ_AyqyXBwqkWBJ8q-2JU",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "REEF"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5485928307?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=99E927463E3E7F0B0EEBE8A52168824A3271A3FD",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Eindhoven"
+                ],
+                "display_name": "Eindhoven, Noord-Brabant",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Administratieve vacatures",
+                "tag": "admin-jobs"
+            }
+        },
+        {
+            "title": "Traineeship basisregistraties",
+            "latitude": 51.73745,
+            "id": "5485928675",
+            "created": "2025-11-07T19:23:21Z",
+            "description": "Start jouw carri\u00e8re als expert in basisregistraties! In samenwerking met DATA-Kracht biedt REEF het modulaire Traineeship Basisregistraties aan. Als trainee maak je een vliegende start in de wereld van geo-informatie en ontwikkel je jezelf tot specialist in belangrijke basisregistraties zoals de BAG (Basisregistratie Adressen en Gebouwen), BGT (Basisregistratie Grootschalige Topografie) en WOZ (Waardering Onroerende Zaken). Dit traject biedt jou de perfecte mix van praktijkervaring en opleiding\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.28255,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTkyODY3NSIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.N7IyjViUraCtMwd5qHcaD-pAB-E5H3iGtWfLTlJ0oCU",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "REEF"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "'s-Hertogenbosch"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "'s-Hertogenbosch, Noord-Brabant"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5485928675?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=9B4FD89CC60E1B574912098E1E9D308E1F7F87C7",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Administratieve vacatures",
+                "tag": "admin-jobs"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Administratieve vacatures",
+                "tag": "admin-jobs"
+            },
+            "location": {
+                "display_name": "Tilburg, Noord-Brabant",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Tilburg"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "REEF"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5485928350?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3714D23C55A21213F287A2A3E711BAE11D4E281E",
+            "longitude": 5.0809,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Start jouw carri\u00e8re als expert in basisregistraties! In samenwerking met DATA-Kracht biedt REEF het modulaire Traineeship Basisregistraties aan. Als trainee maak je een vliegende start in de wereld van geo-informatie en ontwikkel je jezelf tot specialist in belangrijke basisregistraties zoals de BAG (Basisregistratie Adressen en Gebouwen), BGT (Basisregistratie Grootschalige Topografie) en WOZ (Waardering Onroerende Zaken). Dit traject biedt jou de perfecte mix van praktijkervaring en opleiding\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTkyODM1MCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.loN6t7iQfkjKVakTAfJ_nf-aQOnQIE_s8OdZaVar5jo",
+            "latitude": 51.5953,
+            "title": "Trainee basisregistraties geo-informatie",
+            "id": "5485928350",
+            "created": "2025-11-07T19:23:19Z"
+        },
+        {
+            "title": "Junior Business Developer (Recruitment)",
+            "latitude": 52.354996,
+            "created": "2025-11-11T21:07:27Z",
+            "id": "5491113328",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "&Work",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5491113328?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=FC7F28AA38ED722817FDF3A9067AAC129E6E5D3F",
+            "location": {
+                "display_name": "Amsterdam, Noord-Holland",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Amsterdam"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Wil jij bouwen aan je eigen markt en leren hoe je business cre\u00ebert van nul af aan? Als Junior Business Developer (Recruitment) krijg je bij &Work de ruimte om commerci\u00eble kansen te ontdekken, relaties op te bouwen en deals te sluiten. Je werkt volledig op kantoor in Amsterdam, samen met een ervaren team dat je coacht en laat groeien. Jouw rol Business ontwikkelen: je onderzoekt markten, spot kansen en bedenkt slimme manieren om nieuwe klanten aan te trekken. Relatiebeheer: je bouwt partnerships\u2026",
+            "longitude": 4.919448,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MTExMzMyOCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.cnLek0cQD-ixQLCeklxf9qtivGa4s6epUZJDf6s6dRU"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.919448,
+            "description": "Medior Transaction Monitoring Analist Maak impact in de strijd tegen financieel-economische criminaliteit Wil jij een bijdrage leveren aan het tegengaan van witwassen, fraude en andere vormen van financieel-economische criminaliteit? Als Medior Transaction Monitoring Analist onderzoek en analyseer je alerts uit het betalingsverkeer. Met jouw ervaring pak je complexe dossiers op, voer je verdiepende analyses uit en stel je duidelijke, onderbouwde rapportages op. Zo speel jij een directe rol in h\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM2MDAxOTgwIn0.g7QGhj-vjmz74uN-oX0NYqJ07YqgdwZmplQAQtd1m5Y",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.nl/land/ad/5536001980?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=D3DD3C40C781367E1D8E39ED2B19CB1F21BB5E05",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DPA Professionals"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Amsterdam"
+                ],
+                "display_name": "Amsterdam, Noord-Holland",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Medior Transaction Monitoring Analist",
+            "latitude": 52.354996,
+            "id": "5536001980",
+            "created": "2025-12-10T08:46:38Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Utrecht"
+                ],
+                "display_name": "Utrecht, Provincie Utrecht",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "DPA Professionals",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5536001974?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A593DACF9C456CD50CE72F4FB4D252502F72C7FB",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Medior Transaction Monitoring Analist Maak impact in de strijd tegen financieel-economische criminaliteit Wil jij een bijdrage leveren aan het tegengaan van witwassen, fraude en andere vormen van financieel-economische criminaliteit? Als Medior Transaction Monitoring Analist onderzoek en analyseer je alerts uit het betalingsverkeer. Met jouw ervaring pak je complexe dossiers op, voer je verdiepende analyses uit en stel je duidelijke, onderbouwde rapportages op. Zo speel jij een directe rol in h\u2026",
+            "longitude": 5.08298,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM2MDAxOTc0In0.OUj2lJmwizpKYJvoJQWMk0mHD7HtlKylZJ_7an3y5ss",
+            "title": "Medior Transaction Monitoring Analist",
+            "latitude": 52.12147,
+            "created": "2025-12-10T08:46:38Z",
+            "id": "5536001974"
+        },
+        {
+            "longitude": 4.70636,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Wat je gaat doen Onze opdrachtgever is een grote organisatie met een centrale rol in onze samenleving. Je gaat werken in een dynamische werkomgeving die prikkelt, uitdaagt en je aan het denken zet. Je bent onderdeel van een projectteam, het data-analyseteam. Dit team houdt zich bezig met het vaststellen van werk gerelateerde uitkeringen. Samen met je projectleden richt jij het proces in en zorg jij dat problemen snel worden opgespoord en opgelost, maar zijn jullie ook verantwoordelijk voor het \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE2OTk3NDA0In0.jaH5xOa1xvLNut2keAwniktMPqMl6RExDeThZ4bIfeE",
+            "salary_min": 31350,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "location": {
+                "display_name": "Bloemendaal, Gouda",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Zuid-Holland",
+                    "Gouda",
+                    "Bloemendaal"
+                ]
+            },
+            "company": {
+                "display_name": "ASA Talent",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5516997404?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F5FB811EBEA00B412C290803404C07137A0062E5",
+            "salary_max": 31350,
+            "latitude": 52.01687,
+            "title": "Junior Consultant Publieke Sector",
+            "created": "2025-11-27T21:50:08Z",
+            "id": "5516997404"
+        },
+        {
+            "id": "5525973493",
+            "created": "2025-12-03T18:14:19Z",
+            "title": "Project manager remarketing",
+            "latitude": 52.309342,
+            "salary_max": 42000,
+            "redirect_url": "https://www.adzuna.nl/land/ad/5525973493?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=53294E4D17F7D064300DFE5A7D1BFDBD05BA71D4",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Randstad"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Amsterdam",
+                    "Zuidoost"
+                ],
+                "display_name": "Zuidoost, Amsterdam",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 42000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTk3MzQ5MyIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.-hJJXMTI3xaanEG8Ds6OvNmN6phxAiM8nTeKB1_pTzg",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Functieomschrijving Wil jij meebouwen aan de toekomst van de autohandel in Europa? Wij zoeken een slimme en gedreven Project Manager Remarketing! Krijg jij energie van het analyseren van data en het verbeteren van processen? Dan is dit jouw kans om een grote impact te maken bij de AUTO1 Group! wat bieden wij jou Meteen vast op contract bij AUTO1 3500 euro per maand Werken in Amsterdam Een gezellig en gemotiveerd team Aandacht voor je professionele ontwikkeling wie ben jij Je bent een gedreven '\u2026",
+            "longitude": 4.946052
+        },
+        {
+            "longitude": 3.61425,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "De Centrale Commissie voor de Statistiek (CCS) is een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid dat krachtens de Wet op het Centraal bureau voor de statistiek van 2003 (Staatsblad 516) een aantal taken heeft gekregen in verband met het CBS en de statistische informatievoorziening van het rijk. Het CBS levert als h\u00e9t statistische bureau van Nederland met betrouwbare statistische informatie en data inzicht in maatschappelijke vraagstukken. Altijd al willen weten hoe anderen leven, w\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE4NTE2Mjk3In0.uggy2wVUJdCMngzd_Hae8inSvhv-k5EEHj02DPqQrqY",
+            "salary_min": 204,
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "timing"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5518516297?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=98CC355E832775669E7EE349EF06051BE707543E",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Zeeland",
+                    "Vlissingen",
+                    "Oost-Souburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Oost-Souburg, Vlissingen"
+            },
+            "salary_max": 240,
+            "title": "Veldinterviewer voor CBS - Zeeland",
+            "latitude": 51.48075,
+            "created": "2025-11-28T23:16:15Z",
+            "id": "5518516297"
+        },
+        {
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Montfoort",
+                    "Linschoten"
+                ],
+                "display_name": "Linschoten, Montfoort",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "timing"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5484097385?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3D1D8E93576E40EAE116AD1F5BE988DE96DAD0E6",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 204,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDg0MDk3Mzg1In0.sVZmfnBEnLWpjshAyduLkz3kC99Cnu_6ZYOXNVR_o_A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "De Centrale Commissie voor de Statistiek (CCS) is een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid dat krachtens de Wet op het Centraal bureau voor de statistiek van 2003 (Staatsblad 516) een aantal taken heeft gekregen in verband met het CBS en de statistische informatievoorziening van het rijk. Het CBS, als h\u00e9t statistische bureau van Nederland, levert met betrouwbare statistische informatie en data inzicht in maatschappelijke vraagstukken. Ben jij sociaal, nieuwsgierig en woon je \u2026",
+            "longitude": 4.90437,
+            "created": "2025-11-06T17:43:26Z",
+            "id": "5484097385",
+            "latitude": 52.08617,
+            "title": "Veldinterviewer voor het CBS in Woerden",
+            "salary_max": 240
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "timing",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Snakkerburen, Leeuwarden",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Friesland",
+                    "Leeuwarden",
+                    "Snakkerburen"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5473392189?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=BDCF76C2FAE0516E93366FB672612E1486AA2FAF",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDczMzkyMTg5In0.4p-QgImJw8fx1zv-0ZLBZNwyF1L9gqrAiNsAcGEI5Dw",
+            "salary_min": 204,
+            "longitude": 5.80002,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "De Centrale Commissie voor de Statistiek (CCS) is een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid dat krachtens de Wet op het Centraal bureau voor de statistiek van 2003 (Staatsblad 516) een aantal taken heeft gekregen in verband met het CBS en de statistische informatievoorziening van het rijk. Het CBS levert als h\u00e9t statistische bureau van Nederland met betrouwbare statistische informatie en data inzicht in maatschappelijke vraagstukken. Altijd al willen weten hoe anderen leven, w\u2026",
+            "id": "5473392189",
+            "created": "2025-10-31T22:45:59Z",
+            "latitude": 53.20185,
+            "title": "Veldinterviewer voor CBS in Leeuwarden",
+            "salary_max": 240
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "company": {
+                "display_name": "The Keepers",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5514357152?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F20D8E47932AEDBDDDE6F949DD5CF920667AED8F",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Breda"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Breda, Noord-Brabant"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE0MzU3MTUyIn0.0Cl_o7XRWcJqOym5tcLluQDmHLiY5rEYPHkF2iFCNEE",
+            "description": "Word jij de nieuwe stagiair bij The Keepers?  Wil jij \u00e9cht impact maken bij een snelgroeiend bedrijf? Ben jij goed met cijfers \u00e9n wil je bijdragen aan de groei van het best beoordeelde horeca uitzendbureau van Nederland? Dan hebben wij bij The Keepers een toffe stageplek voor jou! Over ons Wij verbinden horeca professionals met de gaafste opdrachtgevers door heel Nederland. Van 5 sterren hotels tot beachclubs en van poppodia tot vakantieparken. We zijn hard aan het groeien en we zijn onze struc\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.69383,
+            "id": "5514357152",
+            "created": "2025-11-26T11:58:53Z",
+            "latitude": 51.58847,
+            "title": "Stagiair(e) Finance & Operations"
+        },
+        {
+            "id": "5490777770",
+            "created": "2025-11-11T14:18:40Z",
+            "title": "Financial Controller | Dutch required",
+            "latitude": 52.19721,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting en Financi\u00eble vacatures"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5490777770?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=69C654FA921CB6185FE2C5D5E4D69AA8699E194C",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Varbisto B.V."
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Baarn, Provincie Utrecht",
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Baarn"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDc3Nzc3MCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.j4-YZUyf59_uTMGLTMy41N9AiQ1wtmOcwhHjpJ2Jp5k",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Bij onze opdrachtgever draait alles om het cre\u00ebren van schaalvoordelen voor klanten. Onze opdrachtgever is een modern bedrijf en is gevestigd in een prachtig gerenoveerd kantoorpand in Baarn. Het team bestaat uit ambitieuze professionals die elke dag de beste deals sluiten voor klanten, een ware salesomgeving waar het bruist van de energie. Er wordt hard gewerkt maar ook veel gelachen en gezellig gekletst. Functieprofiel Baarn | \u20ac 4200 - \u20ac 5200 | Vast dienstverband | 40 uur per week | Hybride w\u2026",
+            "longitude": 5.24219
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE2NjYzOTAyIn0.6MWobxYdPfn8n0b5SVRMIQ87PwJYfw_rfphk5t8hjWE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Werken bij de gemeente Utrechtse Heuvelrug betekent werken in het midden van de samenleving. In de steeds complexer wordende wereld zijn wij een betrouwbare organisatie met een kloppend hart voor onze inwoners, maatschappelijke organisaties en ondernemers. We zijn er voor iedereen. Voor iedereen in onze zeven dorpen met ieder hun eigenheid. Of je nu lekker in je vel zit of een steuntje in de rug kunt gebruiken. Naar school gaat, een bedrijf runt of op de fiets de dorpen verkent. Of je je huis w\u2026",
+            "longitude": 5.08298,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Voort"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Utrecht, Provincie Utrecht",
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Utrecht"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5516663902?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=82DC78604C49059E631B2A81A648FC50410A3443",
+            "salary_is_predicted": "0",
+            "id": "5516663902",
+            "created": "2025-11-27T19:34:28Z",
+            "title": "Tactisch Databeheerder Buitenruimte - Gemeente Utrechtse Heuvelrug",
+            "latitude": 52.12147
+        },
+        {
+            "title": "Operator Spoor",
+            "latitude": 52.3183,
+            "id": "5440598284",
+            "created": "2025-10-10T07:36:40Z",
+            "description": "Dit maak jij als Operator Spoor Als Operator Spoor bij Strukton Rail zorg jij ervoor dat onze spoorinfra veilig en betrouwbaar blijft. Jij bedient de meettreinen die het spoor dagelijks controleren en zorgt dat alle meetdata correct wordt verzameld, verwerkt en klaargezet voor onze specialisten. Je werkt letterlijk op het spoor van de toekomst \u2013 midden in de techniek, met moderne meetsystemen, sensoren en dataregistratie. Geen dag (of nacht) is hetzelfde: je werkt aan boord van de meettrein, bu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.86982,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MDU5ODI4NCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.5bi71rkal-8enEMKg7g_sdK9sJ2msxwojDZ4HnhxuDM",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Strukton"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Amstelveen",
+                    "Noord"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noord, Amstelveen"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5440598284?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=C4AA013CE420467E5C1937759A54027AD3C01482"
+        },
+        {
+            "id": "5515933979",
+            "created": "2025-11-27T11:48:57Z",
+            "title": "Monteur gas & water",
+            "latitude": 53.11603,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1OTMzOTc5In0.zghKHj-6tG-iefRoGNQBWRKvgm1PqHKwAWRCis4yECo",
+            "description": "Over de functie: Lijkt het je leuk om te werken aan diverse projecten op het gebied van gas- en waterleidingen en leerling monteurs te begeleiden? Solliciteer dan snel! Als monteur gas en water ga je zelfstandig of in een team montage- en fitwerkzaamheden uitvoeren met als specialiteit hogedruk leidingen. Je hebt oog voor de klant en de omgeving. Mogelijke problemen merk je snel op en los je zelfstandig of samen op. Je werkt aan diverse projecten in Noord-Nederland en zorgt dat ze succesvol wor\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 6.06173,
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Friesland",
+                    "Smallingerland",
+                    "Drachten"
+                ],
+                "display_name": "Drachten, Smallingerland",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Bureau Techniek"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5515933979?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=BE256B6C7FD2CE4D5A21DA9F760D3E6449DE82A7",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.nl/land/ad/5515934577?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=381D67D4EB50596A86442336444D9F6DC38A5CFD",
+            "company": {
+                "display_name": "Bureau Techniek",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Drachten, Smallingerland",
+                "area": [
+                    "Nederland",
+                    "Friesland",
+                    "Smallingerland",
+                    "Drachten"
+                ]
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 6.06173,
+            "description": "Over de functie: Werken \u00e9n leren als leerling monteur? Binnen de werkzaamheden krijg je begeleiding van een ervaren monteur die oog heeft voor je ontwikkeling. Lees snel meer over de functie! Als leerling monteur voer je montage- en fitwerkzaamheden uit onder begeleiding van een ervaren monteur. Je krijgt begeleiding van de monteur die oog heeft voor je ontwikkeling. Tijdens de werkzaamheden let je op een veilige uitvoering en draag je zorg voor het materiaal. Als leerling monteur volg je de mb\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1OTM0NTc3In0.MuhQ-B00DncMn4YtepitgRFlQS87djNMNuHepX8V-vE",
+            "title": "Leerling monteur",
+            "latitude": 53.11603,
+            "id": "5515934577",
+            "created": "2025-11-27T11:49:08Z"
+        },
+        {
+            "title": "Interim functionaris gegevensbescherming",
+            "latitude": 52.12147,
+            "created": "2025-12-05T11:45:59Z",
+            "id": "5529062338",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DPA Professionals"
+            },
+            "location": {
+                "display_name": "Utrecht, Provincie Utrecht",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Utrecht"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5529062338?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=59054E3BEF1EC5828F2D7517EAFD7E6854D90FD2",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij een ervaren privacyjurist met meer dan drie jaar ervaring als privacy counsel of consultant? Dan is deze interim functie als Functionaris Gegevensbescherming (FG) wellicht jouw volgende stap. Je krijgt de kans om jouw expertise in de praktijk te brengen bij diverse organisaties en een waardevolle bijdrage te leveren aan hun privacybeleid. Dit ga je doen Als FG ben je verantwoordelijk voor: Het uitvoeren en beoordelen van Data Protection Impact Assessments (DPIA's). Het opstellen en onde\u2026",
+            "longitude": 5.08298,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTA2MjMzOCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.vgD4bQi2Tt5Y9XZUTciSKI0g9oaB2GMoWdKrwtJCD1I"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5529062330?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=9B39C1BD4A1DB7A9BAA11440150238146D0A5D23",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DPA Professionals"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Amsterdam"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Amsterdam, Noord-Holland"
+            },
+            "longitude": 4.919448,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij een ervaren privacyjurist met meer dan drie jaar ervaring als privacy counsel of consultant? Dan is deze interim functie als Functionaris Gegevensbescherming (FG) wellicht jouw volgende stap. Je krijgt de kans om jouw expertise in de praktijk te brengen bij diverse organisaties en een waardevolle bijdrage te leveren aan hun privacybeleid. Dit ga je doen Als FG ben je verantwoordelijk voor: Het uitvoeren en beoordelen van Data Protection Impact Assessments (DPIA's). Het opstellen en onde\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI5MDYyMzMwIn0.TgsWmYLLqIxV-OhGtSCyvf0aMj2qXaKlDu4HyDzWgkE",
+            "title": "Interim functionaris gegevensbescherming",
+            "latitude": 52.354996,
+            "created": "2025-12-05T11:45:59Z",
+            "id": "5529062330"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "display_name": "DPA Professionals",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5529062349?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B12EE7B159BD4EFC0803361693B36292B70BCC78",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Zuid-Holland",
+                    "Den Haag"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Den Haag, Zuid-Holland"
+            },
+            "longitude": 4.300003,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij een ervaren privacyjurist met meer dan drie jaar ervaring als privacy counsel of consultant? Dan is deze interim functie als Functionaris Gegevensbescherming (FG) wellicht jouw volgende stap. Je krijgt de kans om jouw expertise in de praktijk te brengen bij diverse organisaties en een waardevolle bijdrage te leveren aan hun privacybeleid. Dit ga je doen Als FG ben je verantwoordelijk voor: Het uitvoeren en beoordelen van Data Protection Impact Assessments (DPIA's). Het opstellen en onde\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTA2MjM0OSIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.WGCQMV3oed3Vm2eFeW0nBualO7A6aF0fepLmEDOM3EY",
+            "title": "Interim functionaris gegevensbescherming",
+            "latitude": 52.071336,
+            "created": "2025-12-05T11:46:00Z",
+            "id": "5529062349"
+        },
+        {
+            "created": "2025-12-05T11:46:00Z",
+            "id": "5529062358",
+            "title": "Interim functionaris gegevensbescherming",
+            "latitude": 51.9508,
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5529062358?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B1651CB84F3BDB01C76D794C8F969088C6794D34",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DPA Professionals"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Arnhem, Gelderland",
+                "area": [
+                    "Nederland",
+                    "Gelderland",
+                    "Arnhem"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTA2MjM1OCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.V1agzsTbzyVK4Ven63K7LvXStUZz_YC2Y3GmgnmpkVw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.835,
+            "description": "Ben jij een ervaren privacyjurist met meer dan drie jaar ervaring als privacy counsel of consultant? Dan is deze interim functie als Functionaris Gegevensbescherming (FG) wellicht jouw volgende stap. Je krijgt de kans om jouw expertise in de praktijk te brengen bij diverse organisaties en een waardevolle bijdrage te leveren aan hun privacybeleid. Dit ga je doen Als FG ben je verantwoordelijk voor: Het uitvoeren en beoordelen van Data Protection Impact Assessments (DPIA's). Het opstellen en onde\u2026"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "display_name": "DPA Professionals",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Eindhoven, Noord-Brabant",
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Eindhoven"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5530732964?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=5A4EB13D673EE159E7B232F5FCEBBD64590649A1",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDczMjk2NCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.YQoNquVAU8r75tuWw73ePWf9cn7zTqVLmmzXbFTknwk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.40229,
+            "description": "Ben jij een ervaren privacyjurist met meer dan drie jaar ervaring als privacy counsel of consultant? Dan is deze interim functie als Functionaris Gegevensbescherming (FG) wellicht jouw volgende stap. Je krijgt de kans om jouw expertise in de praktijk te brengen bij diverse organisaties en een waardevolle bijdrage te leveren aan hun privacybeleid. Dit ga je doen Als FG ben je verantwoordelijk voor: Het uitvoeren en beoordelen van Data Protection Impact Assessments (DPIA's). Het opstellen en onde\u2026",
+            "created": "2025-12-06T11:47:16Z",
+            "id": "5530732964",
+            "title": "Interim functionaris gegevensbescherming",
+            "latitude": 51.43937
+        },
+        {
+            "id": "5424377534",
+            "created": "2025-10-01T14:45:17Z",
+            "title": "Senior FME Specialist",
+            "latitude": 52.12147,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNDM3NzUzNCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.PlMvnbnBRhU2CHRz6QqDO57KK54fezA8QTfnATw1Et4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.08298,
+            "description": "Wat ga je doen als Senior FME Specialist? Als Senior FME Specialist ben je een sparringpartner voor onze klanten die onze hulp inroepen bij het invullen van een complexe klantbehoefte. Je vraagt goed uit wat de klantbehoefte is en waar deze vandaan komt. Vervolgens wijs je klanten op inventieve oplossingen waar ze zelf nog niet aan hebben gedacht. Daarna ga je aan de slag om de oplossing in te regelen. Je bent dus een echte adviseur voor de klant. U vraagt wij draaien is niets voor jou. Je weet\u2026",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5424377534?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=71F54D5ACF8020EF641AEDA97EA367662914563E",
+            "company": {
+                "display_name": "Avineon Tensing",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Utrecht, Provincie Utrecht",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Utrecht"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5529097882",
+            "created": "2025-12-05T11:59:26Z",
+            "latitude": 52.23166,
+            "title": "Recruitment Marketeer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI5MDk3ODgyIn0.bAdAd2BmU_o8AbfoL8nm9dqBSQy0E3aRgBD6LeZWCB4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.35973,
+            "description": "Ben jij klaar om jouw marketingtalenten te gebruiken om het wervingsproces naar een hoger niveau te tillen? Wij zoeken een enthousiaste en innovatieve Recruitment Marketeer. Word jij de sleutel tot het succes in het aantrekken van topkandidaten? Lees dan snel verder! Omschrijving Als Recruitment Marketeer speel je een cruciale rol in het ontwikkelen en uitvoeren van creatieve marketingstrategie\u00ebn om de beste talenten aan te trekken. Je werkt nauw samen met het HR-team om boeiende en effectieve \u2026",
+            "redirect_url": "https://www.adzuna.nl/land/ad/5529097882?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=7C354FC36CEA7AEE2D4A749608DBFD0FB59343DD",
+            "company": {
+                "display_name": "Get Work",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Bunschoten",
+                    "Bunschoten-Spakenburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bunschoten-Spakenburg, Bunschoten"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT ICT vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Customer Support Specialist in Eindhoven",
+            "latitude": 51.43937,
+            "created": "2025-11-26T07:13:48Z",
+            "id": "5514282932",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Eindhoven, Noord-Brabant",
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Eindhoven"
+                ]
+            },
+            "company": {
+                "display_name": "JAM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5514282932?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A156AB478540FFBE7F9DEB5C4459A9AE0F4A2BB0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.40229,
+            "description": "Jij bent de schakel die vragen oplost, processen verbetert en de zakelijke zorgpartners ontzorgt. Wat ga je doen? Als Customer Support Specialist in Eindhoven ben jij het vaste aanspreekpunt voor onze zakelijke partners. Je beantwoordt hun vragen, denkt mee over oplossingen en zorgt dat alles soepel doorloopt. Je begeleidt partners in het gebruik van onze digitale systemen en test nieuwe functies wanneer er updates zijn. Daarnaast duik je geregeld in data om trends te signaleren en rapportages \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE0MjgyOTMyIn0.moxQDoWvAFZ5zzYjc3dMV2tRxTrsVg5xjM6NDOnRK28"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Schildersbuurt"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schildersbuurt, Provincie Utrecht"
+            },
+            "company": {
+                "display_name": "Talent&Pro",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5524122574?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=DB8AB5E1BA055D6B0D3ABC91EB73AA247D5DAF19",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDEyMjU3NCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.uNjDBH9GevqDOClDaTNo517WQ7wCI1XPBJn4HoN2nbg",
+            "salary_min": 45492,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij d\u00e9 Recruitment Manager die precies weet hoe je een team en onze wervingsstrategie naar een nog hoger niveau kan brengen? Ben jij daarnaast een verbinder, forward thinker en ook nog eens procesmatig sterk? En wil je onderdeel zijn van een club waar hard werken altijd hand in hand gaat met plezier? Dan zijn wij op zoek naar jou als Manager Recruitment! Als Corporate Recruitment Manager geef jij leiding aan een enthousiast en ervaren team van 9 recruiters. Jij bent een inspirerende leider \u2026",
+            "longitude": 5.150748,
+            "id": "5524122574",
+            "created": "2025-12-02T17:17:15Z",
+            "latitude": 52.090901,
+            "title": "Corporate Recruitment Manager",
+            "salary_max": 80592
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "DPG Media",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Ermelo, Gelderland",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Gelderland",
+                    "Ermelo"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5529110426?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F872E03FE48F9B4ADC2C8B9D9F9A280CFDF9DC11",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.615487,
+            "description": "Amsterdam & Ermelo - Bereik bijna alle Nederlanders met jouw werk! Als Marktonderzoeker bij Panel Inzicht maak je impact met inzichten die je ontwikkelt voor grote merken \u00e9n voor de nieuws-, magazine-, radio- en tv-titels van DPG Media. Ben jij klaar om jouw onderzoekservaring verder in te zetten en uit te bouwen? Of ben je een starter met uitzonderlijk talent voor data, communicatie en stakeholdermanagement? Dan leren we je graag kennen. Wat ga je doen? Als marktonderzoeker werk je aan uiteenl\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTExMDQyNiIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.YgmczAMsV3vz1IOk-XlYdVo8A1huaN5R24ynZG2-wqU",
+            "latitude": 52.289863,
+            "title": "Marktonderzoeker Panel Inzicht",
+            "id": "5529110426",
+            "created": "2025-12-05T12:32:19Z"
+        },
+        {
+            "created": "2025-12-01T16:11:08Z",
+            "id": "5521764352",
+            "title": "AI & Proces Automation Specialist",
+            "latitude": 52.293185,
+            "salary_max": 43668,
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Haarlemmermeer",
+                    "Rijsenhout"
+                ],
+                "display_name": "Rijsenhout, Haarlemmermeer",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Olympia"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5521764352?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=FDC0FBB2572C837A96B4F10B3871016B555B0F3F",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 43668,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTIxNzY0MzUyIn0.JqBSAZFYASs9l445jTho8WmrzQQelLs13gmo0L521aQ",
+            "description": "Waar ga je werken? Als je bij Olympia komt werken ga je een avontuur aan. Je sluit je aan bij een professionele uitzendorganisatie waar een sfeer heerst van ondernemerschap, collegialiteit en grote ambities. Je gaat werken in een gedreven, gemotiveerd en hecht team. Er is veel ruimte voor eigen inbreng. Binnen Olympia is geen ruimte voor discriminatie. Iedereen doet ertoe, iedereen is welkom. Alle mensen, van jong tot oud en iedere afkomst, geloof, geslacht, seksuele voorkeur, nationaliteit, et\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.697437
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Kom werken met miljarden zorgdata \u00e9n draag bij aan betere zorg voor miljoenen mensen. Als Datawarehouse Ontwikkelaar & Tester Zorgdata bij Vektis zit je op het kruispunt van testen, ontwikkelen en data-innovatie. Jij zorgt ervoor dat onze systemen betrouwbaar functioneren \u00e9n dat zorgdata juist en tijdig beschikbaar is voor beleidsmakers, zorgaanbieders en verzekeraars. Zodat zij de juiste besluiten kunnen nemen. What's in it for you? Impact: jouw werk draagt direct bij aan betaalbare, betrouwba\u2026",
+            "longitude": 5.24484,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzY1MzExIn0.3k4CYD_-GQZj1GNLNZ9h9Il8Szj5bmj3ybijWoi1U2M",
+            "salary_min": 54000,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vektis"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5482365311?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=BEA16F0325D2ECB0C7649997202A1F66EEFE1380",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Zeist",
+                    "Bosch en Duin"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bosch en Duin, Zeist"
+            },
+            "salary_max": 72000,
+            "title": "DWH Ontwikkelaar / Tester Zorgdata - Fluent in Dutch",
+            "latitude": 52.07831,
+            "created": "2025-11-05T16:47:57Z",
+            "id": "5482365311"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Werk waar je trots op kan zijn Dit ga je doen Als proces consultant krijg je een rol waarin je \u00e9cht het verschil maakt. Je werkt aan uitdagende trajecten waarbij je de vrijheid hebt om zelf keuzes te maken. Ook krijg je volop mogelijkheden om door te groeien. Daarnaast bieden we flexibele werktijden, meerdere thuiswerkdagen en een gezellige werkplek in hartje Rotterdam. Zo combineer je impact maken met een fijne werk-priv\u00e9balans. Grip op processen is cruciaal in een organisatie die steeds compl\u2026",
+            "longitude": 4.446535,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0NDkwMjAxIn0.AzgyXN2MVPGoUOjNycltqqDVa-ZPCr168j7oZ3hkONU",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Stedin",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5534490201?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=842B7F9F74EDD55E9C54D5AC4FE18721F39D1842",
+            "location": {
+                "display_name": "Rotterdam, Zuid-Holland",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Zuid-Holland",
+                    "Rotterdam"
+                ]
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 51.918609,
+            "title": "Proces consultant",
+            "id": "5534490201",
+            "created": "2025-12-09T09:51:23Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.nl/land/ad/5515341758?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=929737BED7F76F4D5222F767DC9111CF1515C948",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "independent recruiters"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Zuid-Holland",
+                    "Den Haag",
+                    "Stationsbuurt"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Stationsbuurt, Den Haag"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 60000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1MzQxNzU4In0.RP8zQdJevmyWKXCq-ax2hFgFaMfFxzkYkwT9sWC86L4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.32446,
+            "description": "Ben jij een visionaire leider met een sterke affiniteit voor technologie? Als Manager Network Automation binnen het Data & Media team ben je verantwoordelijk voor het aansturen van een team van specialisten die innovatieve oplossingen ontwikkelen om ons netwerk optimaal te laten functioneren. Jij maakt een verschil voor miljoenen gebruikers en transformeert de communicatiemogelijkheden in Nederland. Het team is toegewijd aan het realiseren van een slim, geautomatiseerd netwerk, waarbij samenwer\u2026",
+            "id": "5515341758",
+            "created": "2025-11-26T21:32:37Z",
+            "title": "Network Automation Manager",
+            "latitude": 52.08174,
+            "salary_max": 72000
+        },
+        {
+            "description": "De Centrale Commissie voor de Statistiek (CCS) is een zelfstandig bestuursorgaan zonder rechtspersoonlijkheid dat krachtens de Wet op het Centraal bureau voor de statistiek van 2003 (Staatsblad 516) een aantal taken heeft gekregen in verband met het CBS en de statistische informatievoorziening van het rijk. Het CBS, als h\u00e9t statistische bureau van Nederland, levert met betrouwbare statistische informatie en data inzicht in maatschappelijke vraagstukken. Ben jij sociaal, nieuwsgierig en woon je \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.523453,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3Mjg2Njg5In0.F7K4RIoNAEOd3MmI6y28_-BRn39LAHgJpw8Gub59Q9I",
+            "salary_min": 204,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "display_name": "Lombardijen, Rotterdam",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Zuid-Holland",
+                    "Rotterdam",
+                    "Lombardijen"
+                ]
+            },
+            "company": {
+                "display_name": "timing",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5537286689?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=4B89915DD3DBA8C9001FC8B00BC10E5CE2B519E0",
+            "salary_max": 240,
+            "title": "Veldinterviewer voor het CBS in Rotterdam-Zuid",
+            "latitude": 51.878688,
+            "id": "5537286689",
+            "created": "2025-12-11T03:23:25Z"
+        },
+        {
+            "title": "Supply Chain Co\u00f6rdinator",
+            "latitude": 52.010692,
+            "created": "2025-10-29T01:09:35Z",
+            "id": "5468761045",
+            "salary_max": 51000,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "TALECT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5468761045?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=D5D5305F15563C2692350B6314BFA7B1D1AC816C",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ijsselstein, Provincie Utrecht",
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Ijsselstein"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.062945,
+            "description": "Word d\u00e9 schakel tussen logistiek, transport, verkoop en operatie. Pak deze unieke kans om vanaf de basis een nieuw proces vorm te geven. Bel of app Alexander via 06 - 30 38 47 42. Wat ga je doen als Supply Chain Co\u00f6rdinator? Dit is geen functie die je instapt \u2013 dit is een functie die je vormgeeft. Als Supply Chain Co\u00f6rdinator (Emballage & Procesoptimalisatie) geef jij structuur aan een proces dat nu nog in beweging is. Jij verbindt de verschillende afdelingen \u2013 van verkoop tot transport, van ad\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY4NzYxMDQ1In0.cHLJ566HyJ5bajg57VWYDNxvbOZ92tBfmd0mvokXXCU",
+            "salary_min": 36000
+        },
+        {
+            "salary_min": 48000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjcyOTg4MSIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.czi0jH26BwolW9l80CY32KUReqWnTvzw-oCF8LDUsB0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.692012,
+            "description": "This role manages customer credit, master data, and KYC checks, ensuring accuracy and compliance in all credit processes. It offers the opportunity to grow into a Credit Analyst role, developing deeper expertise in credit risk assessment and financial analysis. Client Details Our client is a leading international company in the industrial equipment and solutions sector, serving a wide range of customers across Europe, the Middle East, Africa, and India. They are known for their strong customer \u2026",
+            "redirect_url": "https://www.adzuna.nl/land/ad/5496729881?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=86C0191500ACB9A7E666525C183ADAD39A9866CB",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Page Personnel"
+            },
+            "location": {
+                "display_name": "Vijfhuizen, Haarlemmermeer",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Haarlemmermeer",
+                    "Vijfhuizen"
+                ]
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 50000,
+            "created": "2025-11-14T21:59:39Z",
+            "id": "5496729881",
+            "title": "Credit Representative",
+            "latitude": 52.313982
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.nl/land/ad/5517543503?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A455D465BB835BA3165A02E19E5B42FF7FBBC4D0",
+            "company": {
+                "display_name": "Talent&Pro",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Utrecht, Provincie Utrecht",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Utrecht"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "longitude": 5.08298,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Wij Hebben een maandsalaris van \u20ac3.791,67 tot \u20ac6.716,67 (incl. vakantiegeld en afhankelijk van ervaring) voor je klaarliggen. Daarnaast is er een prestatiebonus van toepassing; Faciliteren jou graag met een mobiliteitsbudget van \u20ac850,-. Jij kiest wat het beste bij je past: een auto van de zaak of (gedeeltelijke) uitbetaling bij je salaris. Stimuleren jouw ontwikkeling via ons MT-leadership programma en de T&P Academy met trainingen zoals Management Development. Bieden je de mogelijkheid om als \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE3NTQzNTAzIn0.jlNq0F2QY-xlG1PsFx5ZsP41XK3GNYKtuU6tb5BMtzY",
+            "title": "Corporate Recruitment Manager",
+            "latitude": 52.12147,
+            "created": "2025-11-28T11:55:27Z",
+            "id": "5517543503"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzg5NTk3OTA1In0.1vcWxBTAklw3RoP_8zBngaLjfoJGeUYUYLOLgNiN8FQ",
+            "longitude": 5.715418,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Werk jij graag in een nuchter MKB-bedrijf in de foodsector waar kwaliteit en continu\u00efteit centraal staan? Bij Elings Meat Products krijg je als Financieel Specialist/ Controller de kans om jouw financi\u00eble expertise in te zetten binnen een dynamisch familiebedrijf in de vleesverwerking. Je schakelt tussen meerdere BV\u2019s, houdt grip op de cijfers en adviseert de directie met jouw analyses. Met korte lijnen, een loyaal team en de mogelijkheid om deels hybride te werken, vind je bij Elings de ideale\u2026",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Gelderland",
+                    "Overbetuwe",
+                    "Zetten"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Zetten, Overbetuwe"
+            },
+            "company": {
+                "display_name": "RecruitMens",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5389597905?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=EC19B260CBF06F59BC71CD6841C5B1AA866FF22D",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting en Financi\u00eble vacatures"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-09-08T20:45:42Z",
+            "id": "5389597905",
+            "latitude": 51.914603,
+            "title": "Financieel Specialist/ Controller"
+        },
+        {
+            "category": {
+                "label": "Accounting en Financi\u00eble vacatures",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "RecruitMens",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5469329093?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=7507EBAE6855C7FD8654EEFAE5132379F949269E",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Zetten, Overbetuwe",
+                "area": [
+                    "Nederland",
+                    "Gelderland",
+                    "Overbetuwe",
+                    "Zetten"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY5MzI5MDkzIn0.c8bLCH7VgDsCMOf5QSkuo3-7DHsswsPkmtoRDqlOviU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Werk jij graag in een nuchter MKB-bedrijf in de foodsector waar kwaliteit en continu\u00efteit centraal staan? Bij Elings Meat Products krijg je als Financieel Specialist/ Controller de kans om jouw financi\u00eble expertise in te zetten binnen een dynamisch familiebedrijf in de vleesverwerking. Je schakelt tussen meerdere BV\u2019s, houdt grip op de cijfers en adviseert de directie met jouw analyses. Met korte lijnen, een loyaal team en de mogelijkheid om deels hybride te werken, vind je bij Elings de ideale\u2026",
+            "longitude": 5.715418,
+            "id": "5469329093",
+            "created": "2025-10-29T12:49:03Z",
+            "title": "Financieel Controller",
+            "latitude": 51.914603
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Accounting en Financi\u00eble vacatures",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "RecruitMens",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Gelderland",
+                    "Overbetuwe",
+                    "Zetten"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Zetten, Overbetuwe"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5469329096?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F72ABA9CA9D12E9F60F903DDCF0330E6DE438C0C",
+            "description": "Werk jij graag in een nuchter MKB-bedrijf in de foodsector waar kwaliteit en continu\u00efteit centraal staan? Bij Elings Meat Products krijg je als Financieel Specialist/ Controller de kans om jouw financi\u00eble expertise in te zetten binnen een dynamisch familiebedrijf in de vleesverwerking. Je schakelt tussen meerdere BV\u2019s, houdt grip op de cijfers en adviseert de directie met jouw analyses. Met korte lijnen, een loyaal team en de mogelijkheid om deels hybride te werken, vind je bij Elings de ideale\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.715418,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY5MzI5MDk2In0.50DrYADd7eyw9cT5JdfsfQrDM519uegV1xlUfunh0CA",
+            "title": "Financieel Specialist",
+            "latitude": 51.914603,
+            "created": "2025-10-29T12:49:04Z",
+            "id": "5469329096"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "hospitality-catering-jobs",
+                "label": "Horeca en Catering vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5396204955?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=8412DB444984C7B9581A9D40205B6D3C0DFD6979",
+            "company": {
+                "display_name": "Park Plaza Victoria Amsterdam",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Amsterdam, Noord-Holland",
+                "area": [
+                    "Nederland",
+                    "Noord-Holland",
+                    "Amsterdam"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.919448,
+            "description": "Revenue Intern - Regional Office the Netherlands Are you ready to dive into the dynamic world of hospitality revenue management? At PPHE Hotel Group , we're creators. We create memorable experiences for our guests and meaningful opportunities for our team members. As a Revenue Intern , you'll be part of a passionate team that drives commercial success across our hotels in Europe. What You'll Do: Support the Revenue team in analyzing performance data and market trends. Assist in preparing daily,\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzk2MjA0OTU1In0.MBGeAfMGE6RXCQWmI3CUPP1JrhfXjNxkq0s0RfTQsGg",
+            "title": "Revenue Management Intern",
+            "latitude": 52.354996,
+            "created": "2025-09-12T21:06:24Z",
+            "id": "5396204955"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 6.06173,
+            "description": "Over de functie: Monteren van kabels en leidingen? Als monteur laag- en middenspanning werk je aan diverse projecten in Noord-Nederland. Solliciteer vandaag nog! Als monteur laag- en middenspanning werk je aan diverse projecten in Noord-Nederland. Je voert montagewerkzaamheden uit bij de verschillende projecten. Zo monteer je de kabels en leidingen en zorg je dat deze juist liggen. Mochten er problemen zijn met de kabels of leidingen los je deze op. De projecten zijn zeer divers. Zo kan het zij\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1OTM0NDM5In0.Mm1iZnjbY7PcT4ZujzkGCu95HYIk0Hmfe-YREV5oPLY",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Bureau Techniek"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Friesland",
+                    "Smallingerland",
+                    "Drachten"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Drachten, Smallingerland"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5515934439?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=BB0FB5AF88754DB336811643798FF008D9706D2C",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures"
+            },
+            "title": "Monteur",
+            "latitude": 53.11603,
+            "id": "5515934439",
+            "created": "2025-11-27T11:49:06Z"
+        },
+        {
+            "description": "Functietitel: Technisch Adviseur Drinkwaterkwaliteit Recruiter: Rhobin Brander Vacature-ID: 4252 Technisch Adviseur Drinkwaterkwaliteit, CWI Voor ons team Technologie en Onderzoek van het Waterexpertisecentrum zijn wij op zoek naar een nieuwe collega. Geen dag is hetzelfde en je draagt bij aan iets belangrijks: iedere dag 1 miljard liter drinkwater van topkwaliteit winnen, zuiveren en leveren. Elke druppel telt \u2013 zeker richting onze ambitie om in 2030 elke druppel duurzaam te maken. Als Technis\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzM2NzI1NCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.TaLs7uDeavnLN2aMVw8aytNmXxJsMEe6oBexsd6tHhg",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vitens"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nederland",
+                "area": [
+                    "Nederland"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5533367254?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=E82E515D140A1EA921083DF2D71D893FCEB826DD",
+            "title": "Technisch Adviseur Drinkwaterkwaliteit (Zwolle, NL)",
+            "created": "2025-12-08T12:01:41Z",
+            "id": "5533367254"
+        },
+        {
+            "id": "5473649178",
+            "created": "2025-11-01T01:18:59Z",
+            "title": "Technische medewerker (automotive) in Schijndel",
+            "latitude": 51.64067,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDczNjQ5MTc4In0.HmY0mNN4BcKDnfSX8zqEOXe2WP7WBBpCWiWcSC2xolM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "De vrachtwagens die jij vandaag test, scheuren morgen over de snelweg door heel de wereld! Wat ga je doen? Als Technische medewerker (automotive) in Schijndel werk je mee aan het interieur van trucks voor topmerken als DAF en Mercedes! Jij test onderdelen zoals bedden, lattenbodems en koelkasten op betrouwbaarheid, werking en kosten. Dat doe je met zelfgebouwde testmachines, denk aan een klimaatkast waarin je onderdelen blootstelt aan temperaturen van -20 tot 100 graden - vet toch?! Je voert de\u2026",
+            "longitude": 5.42412,
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JAM"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5473649178?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=0FA036317A91D2CB34E053C66F4EF99D519A8935",
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Schijndel"
+                ],
+                "display_name": "Schijndel, Noord-Brabant",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5376870104",
+            "created": "2025-09-01T02:47:16Z",
+            "title": "Startersfunctie Test Engineer in Schijndel",
+            "latitude": 51.64067,
+            "company": {
+                "display_name": "JAM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5376870104?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=10A70880A0762E0800E7E6300F43ED0CDABC960B",
+            "location": {
+                "display_name": "Schijndel, Noord-Brabant",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Schijndel"
+                ]
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzc2ODcwMTA0In0.HErLzuG20rMgv64_IQPNtrYxSB1eNMPY1osN2fMwhGQ",
+            "longitude": 5.42412,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "De vrachtwagens die jij vandaag test, scheuren morgen over de snelweg door heel de wereld! Wat ga je doen? Als Junior test engineer in Schijndel werk je mee aan het interieur van trucks voor topmerken als DAF en Mercedes! Jij test onderdelen zoals bedden, lattenbodems en koelkasten op betrouwbaarheid, werking en kosten. Dat doe je met zelfgebouwde testmachines, denk aan een klimaatkast waarin je onderdelen blootstelt aan temperaturen van -20 tot 100 graden - vet toch?! Je voert de tests zelf ui\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.227429,
+            "description": "Je werkt bij een organisatie die actief is in de infra en energievoorziening. Projecten vari\u00ebren van aanleg tot verzwaring van elektriciteitsnetten en kabel- en leidinginfrastructuur. De cultuur is nuchter, professioneel en gericht op samenwerking. Solliciteren Klinkt dit als jouw volgende stap? Solliciteer direct met je cv of neem contact op voor meer informatie.Functie inhoud: GEN-verwerker Ben jij nauwkeurig, analytisch en werk je graag met technische data? In deze functie zorg jij dat kabel\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA1NTA3MDAwIn0.9cRsRAsD1kGOm_gOLguRHIS5EE5y8XYir190KHqJ03U",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Voort"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5505507000?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=12660A7A6CF26A5015D9FE121F692C46AFF4746C",
+            "location": {
+                "display_name": "Noord-Brabant, Nederland",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant"
+                ]
+            },
+            "latitude": 51.566939,
+            "title": "GEN-Verwerker",
+            "id": "5505507000",
+            "created": "2025-11-20T18:19:10Z"
+        },
+        {
+            "title": "Business Operationeel Manager",
+            "latitude": 52.16089,
+            "created": "2025-12-01T03:28:38Z",
+            "id": "5520741303",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij een proactieve organisator die rust, structuur en overzicht brengt? Krijg jij energie van het stroomlijnen van processen? Lees dan snel verder. Onze opdrachtgever gevestigd in Amersfoort , gespecialiseerd in innovatieve ICT-oplossingen voor market data services, tijdregistratie en interne communicatie, staat aan de vooravond van verdere groei en vernieuwing. Om die volgende stap te zetten zoeken wij een Business Operations Manager die de organisatie helpt om nog effectiever, klantgerich\u2026",
+            "longitude": 5.344,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDc0MTMwMyIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.TJoRezF1tZMKsTo1NjuDB6MP9RQH_2KAtYoxUnKYAg4",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Amersfoort"
+                ],
+                "display_name": "Amersfoort, Provincie Utrecht",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "50+ Werkt"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5520741303?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=11F7BC18A1A121B74F0BD2DA6F7B11D39F5D984F"
+        },
+        {
+            "salary_min": 33600,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib010YjU5Zlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3NjMxNzI2In0.FCQIEzyVJllQ5ZT21yz6niu8ZCHnd0DO7Vd_i_w8nYY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Wat ga je precies doen Voor een periode van 6 maanden, met kans op verlenging, zoeken wij een Tijdelijk Inkoper die de operatie van onze opdrachtgever in de Benelux ondersteunt en het verschil maakt in de dagelijkse processen. Wat ga je doen als Tijdelijk Inkoper? In deze rol ben jij het centrale aanspreekpunt voor alles wat te maken heeft met tactische inkoop. Je ondersteunt operationele teams, werkt met moderne procurementtools en zorgt dat bestellingen, data en administratieve processen fout\u2026",
+            "longitude": 4.63717,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Unique"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5537631726?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=D582BAEE5D79B05594536E9D10712879555B2779",
+            "location": {
+                "display_name": "Moerdijk, Noord-Brabant",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Moerdijk"
+                ]
+            },
+            "category": {
+                "label": "Sales vacatures",
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 45600,
+            "created": "2025-12-11T08:47:02Z",
+            "id": "5537631726",
+            "latitude": 51.66552,
+            "title": "Inkoper Tijdelijk"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.11725,
+            "description": "You are in close contact with local financial controllers and international teams, actively contributing to strategic streamlining and professionalism. Tasks and Responsibilities Leading the consolidation process: coordinating monthly and quarterly closings at the group level; Collecting, checking, and reconciling intercompany data; Coordinating the preparation of consolidated financial statements, including group information; Preparing audit files and acting as a point of contact for (inter)na\u2026",
+            "salary_min": 99996,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NDQzNzc0MiIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.2bMtG2sAYv8ctE9b44vlVa7oQMbiHdzqB4SpODhjOGw",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Dichterswijk, Utrecht",
+                "area": [
+                    "Nederland",
+                    "Provincie Utrecht",
+                    "Utrecht",
+                    "Dichterswijk"
+                ]
+            },
+            "company": {
+                "display_name": "independent recruiters",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5484437742?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=95C63063224B9069346CAF301EE795F6EA7284F9",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 129996,
+            "latitude": 52.09075,
+            "title": "Controller",
+            "created": "2025-11-06T23:29:47Z",
+            "id": "5484437742"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WerkTalent"
+            },
+            "location": {
+                "area": [
+                    "Nederland",
+                    "Noord-Brabant",
+                    "Werkendam",
+                    "Nieuwendijk"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nieuwendijk, Werkendam"
+            },
+            "redirect_url": "https://www.adzuna.nl/land/ad/5516997208?se=oMtb59fW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B40E588F3A3473D550418A74DC3D0E1967094AAD",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNjk5NzIwOCIsInMiOiJvTXRiNTlmVzhCR3hfTnRkbF92T3J3In0.f24bRGEoArwOEOvxM4FMMrKHNzZHxI6pxvxEWp-DMLo",
+            "salary_min": 35940,
+            "longitude": 4.917711,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij een creatieve en technische Marketing Medewerker die energie krijgt van het bouwen aan sterke campagnes en het optimaliseren van websites? Voor een organisatie in speeltoestellen zoeken we een Medewerker Marketing / Digital Marketing Specialist die samen met het marketing team impact wil maken. Dit ga je doen In deze veelzijdige Medewerker Marketing / Digital Marketing Specialist rol ben jij de schakel tussen creativiteit, techniek en data. Je houdt je onder meer bezig met: Het beheren \u2026",
+            "id": "5516997208",
+            "created": "2025-11-27T21:50:00Z",
+            "latitude": 51.775336,
+            "title": "Digital Marketing Specialist /Marketing Medewerker| Maak maatschappelijke impact!",
+            "salary_max": 47352
+        }
+    ],
+    "count": 14717,
+    "mean": 48150.31
+}

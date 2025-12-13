@@ -1,0 +1,1436 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 36482,
+    "results": [
+        {
+            "title": "Data Engineer",
+            "latitude": 51.24645,
+            "created": "2025-12-04T00:29:31Z",
+            "id": "5526767478",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "W Scalo zajmujemy si\u0119 dostarczaniem projekt\u00f3w software\"owych i wspieraniem naszych partner\u00f3w w rozwijaniu ich biznesu. Tworzymy oprogramowanie, kt\u00f3re umo\u017cliwia ludziom dokonywanie zmian, dzia\u0142anie w szybszym tempie oraz osi\u0105ganie lepszych rezultat\u00f3w. Jeste\u015bmy firm\u0105, kt\u00f3ra wykorzystuje szerokie spektrum us\u0142ug IT, \u017ceby pomaga\u0107 klientom. Obszary naszego dzia\u0142ania to m.in.: doradztwo technologiczne, tworzenie oprogramowania, systemy wbudowane, rozwi\u0105zania chmurowe, zarz\u0105dzanie danymi, dedykowane ze\u2026",
+            "longitude": 22.56845,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI2NzY3NDc4In0.GfWoB5F6_geDZN7B_M9KDfEGVaL-BmHKStYzFE2NnG4",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5526767478?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Lublin, lubelskie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "lubelskie",
+                    "Lublin"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SCALO Sp. z o.o."
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SCALO Sp. z o.o."
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5526767462?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Szczecin, zachodniopomorskie",
+                "area": [
+                    "Polska",
+                    "zachodniopomorskie",
+                    "Szczecin"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 14.60616,
+            "description": "W Scalo zajmujemy si\u0119 dostarczaniem projekt\u00f3w software\"owych i wspieraniem naszych partner\u00f3w w rozwijaniu ich biznesu. Tworzymy oprogramowanie, kt\u00f3re umo\u017cliwia ludziom dokonywanie zmian, dzia\u0142anie w szybszym tempie oraz osi\u0105ganie lepszych rezultat\u00f3w. Jeste\u015bmy firm\u0105, kt\u00f3ra wykorzystuje szerokie spektrum us\u0142ug IT, \u017ceby pomaga\u0107 klientom. Obszary naszego dzia\u0142ania to m.in.: doradztwo technologiczne, tworzenie oprogramowania, systemy wbudowane, rozwi\u0105zania chmurowe, zarz\u0105dzanie danymi, dedykowane ze\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI2NzY3NDYyIn0.vPcfLurDRiUYrqZoLo57BdlmMdAt346ljjGkVG_QcHk",
+            "title": "Data Engineer",
+            "latitude": 53.49874,
+            "id": "5526767462",
+            "created": "2025-12-04T00:29:31Z"
+        },
+        {
+            "created": "2025-11-14T16:56:56Z",
+            "id": "5496245546",
+            "latitude": 54.35203,
+            "title": "Data Analyst",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5496245546?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "LPP S.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjI0NTU0NiIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.B0-CWLaSy-jxajxQe8pXb91t38yusCJv9nxArmczlZQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Tw\u00f3j zakres obowi\u0105zk\u00f3w, Przygotowywanie analiz cyklicznych i ad-hoc w oparciu o dane z Google Analytics 360, Budowanie raport\u00f3w przy wykorzystaniu narz\u0119dzi Big Query, Looker Studio, Praca na du\u017cych zbiorach danych w \u015brodowisku Google Analytics 360 i Google Big Query, Analiza test\u00f3w A/B oraz przygotowanie rekomendacjiPosiada min. roczne do\u015bwiadczenie zwi\u0105zane z analityk\u0105 internetow\u0105 lub w pracy o podobnym charakterze,, Bardzo dobrze zna narz\u0119dzia: Microsoft Excel, SQL/ Python, Posiada umiej\u0119tno\u015b\u2026",
+            "longitude": 18.64664
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0MjI5NDQwIn0.FbSR7vC6Yc-wST6BCXLV7KiphN2E98_D8fTVJSuX21M",
+            "longitude": 19.6198,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "W Scalo zajmujemy si\u0119 dostarczaniem projekt\u00f3w software\"owych i wspieraniem naszych partner\u00f3w w rozwijaniu ich biznesu. Tworzymy oprogramowanie, kt\u00f3re umo\u017cliwia ludziom dokonywanie zmian, dzia\u0142anie w szybszym tempie oraz osi\u0105ganie lepszych rezultat\u00f3w. Jeste\u015bmy firm\u0105, kt\u00f3ra wykorzystuje szerokie spektrum us\u0142ug IT, \u017ceby pomaga\u0107 klientom. Obszary naszego dzia\u0142ania to m.in.: doradztwo technologiczne, tworzenie oprogramowania, systemy wbudowane, rozwi\u0105zania chmurowe, zarz\u0105dzanie danymi, dedykowane ze\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5534229440?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SCALO Sp. z o.o."
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "\u0141\u00f3d\u017a, \u0142\u00f3dzkie",
+                "area": [
+                    "Polska",
+                    "\u0142\u00f3dzkie",
+                    "\u0141\u00f3d\u017a"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-12-09T04:09:01Z",
+            "id": "5534229440",
+            "latitude": 51.77497,
+            "title": "Data Analyst"
+        },
+        {
+            "title": "Data Scientist",
+            "latitude": 52.21519,
+            "id": "5505842607",
+            "created": "2025-11-20T20:32:18Z",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.pl/details/5505842607?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Itsquad",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 21.2453,
+            "description": "KIM JESTE\u015aMY Jeste\u015bmy firm\u0105 o profilu wdro\u017ceniowo \u2013 doradczym. Lubimy anga\u017cowa\u0107 si\u0119 w projekty \u2018rescue IT\u2019 , w kt\u00f3rych mo\u017cesz nam pom\u00f3c. Mamy \u2018lekkie\u2019 procesy firmowe (adekwatne do skali firmy ~100 FTE) oraz szybk\u0105 \u015bcie\u017ck\u0119 decyzyjn\u0105. Stawiamy na przyjazne \u015brodowisko pracy w zgranym zespole.",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTg0MjYwNyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.rs1SmnQLzjeNjwGUbLjc4BsaqXYUpqxoObeYlwwnbeM"
+        },
+        {
+            "created": "2025-11-27T19:48:06Z",
+            "id": "5516675120",
+            "title": "Data Scientist",
+            "latitude": 52.21519,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE2Njc1MTIwIn0.9xReuxKaVY0oD8HyNrhNeROvaHuKd4YW4gaFM5woJec",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 21.2453,
+            "description": "Creating an inspiring place to thrive for the talented, we use their expertise and courage to introduce the technology of the future into your business. - This is the foundation of Mindbox and the goal of our business and technology journey. We operate and develop in four areas:  Autonomous Enterprise - automation of business processes using RPA, OCR, and AI.  Business Managment Systems ERP - we implement, adapt, optimize, and maintain flexible, safe, and open ERP of production and distribution\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5516675120?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mindboxgroup"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "latitude": 52.21519,
+            "title": "Data Engineer",
+            "id": "5516675776",
+            "created": "2025-11-27T19:48:49Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5516675776?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "B2B Network"
+            },
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie"
+            },
+            "longitude": 21.2453,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Kluczowe technologie i obszary kompetencji \u2022 T-SQL, projektowanie z\u0142o\u017conych zapyta\u0144 i procedur. \u2022 SQL Server: SSIS, SSAS, SSRS; OPENJSON, OPENXML. \u2022 ETL: projektowanie, implementacja, utrzymanie i optymalizacja przep\u0142yw\u00f3w. \u2022 Optymalizacja wydajno\u015bci d\u0142ugich i skomplikowanych proces\u00f3w przetwarzania danych. \u2022 Frameworki i repozytoria przetwarzania danych; praca z du\u017cymi wolumenami danych. \u2022 Architektury MS SQL (mile widziane): Availability Groups. Zakres zada\u0144 w projekcie: \u2022 Projektowanie i wdra\u017c\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE2Njc1Nzc2In0.fxutkkpWlxe9yJz0Hv2_Kxv_MRhRABWGyed629Uld0E"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODMxMDMyNSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.pi2VusJSGws9dJYKlTe5EqD6zeNBKxX0AOMP5ItQr_s",
+            "description": "Department Engineering Employment Type Full Time Location Poland Workplace type Fully remote Key Responsibilities Skills, Knowledge and Expertise Benefits About Bizimply Bizimply is a multi-platform solution born in the world of cafes, bars, restaurants and pubs, where getting your wage spend right is crucial . We\u2019ve been transforming hospitality scheduling in the UK and Ireland for over a decade. Our shared experience gave us the expertise to help create spot-on staff rotas and keep everything\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.pl/details/5518310325?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Bizimply"
+            },
+            "location": {
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5518310325",
+            "created": "2025-11-28T19:51:45Z",
+            "title": "Data Engineer"
+        },
+        {
+            "latitude": 52.21519,
+            "title": "Data Analyst",
+            "id": "5508309171",
+            "created": "2025-11-21T21:09:01Z",
+            "description": "Wymagane, SQL, PythonTw\u00f3j zakres obowi\u0105zk\u00f3w, przygotowanie analiz biznesowych pozwalaj\u0105cych na identyfikacj\u0119 potencja\u0142\u00f3w wzrostu sprzeda\u017cy i dochodowo\u015bci produkt\u00f3w segmentu klienta firmowego,, wsparcie analityczne dla zmian w ofercie produktowej i procesach sprzeda\u017cowych,, udzia\u0142 w inicjatywach biznesowych maj\u0105cych na celu realizacj\u0119 cel\u00f3w sprzeda\u017cowych i finansowych pionu,, przygotowywanie monitoringu efekt\u00f3w biznesowych i jako\u015bciowych inicjatyw biznesowych,, przygotowywanie jednorazowych pods\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 21.2453,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODMwOTE3MSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.oTDO-NhfPa3TJWitNKDuOWWCQJ_MyZMaAO6zM_o4mVY",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.pl/details/5508309171?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Santander Bank Polska"
+            },
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Santander Bank Polska",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5508309142?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pozna\u0144"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pozna\u0144, wielkopolskie"
+            },
+            "description": "Wymagane, SQL, PythonTw\u00f3j zakres obowi\u0105zk\u00f3w, przygotowanie analiz biznesowych pozwalaj\u0105cych na identyfikacj\u0119 potencja\u0142\u00f3w wzrostu sprzeda\u017cy i dochodowo\u015bci produkt\u00f3w segmentu klienta firmowego,, wsparcie analityczne dla zmian w ofercie produktowej i procesach sprzeda\u017cowych,, udzia\u0142 w inicjatywach biznesowych maj\u0105cych na celu realizacj\u0119 cel\u00f3w sprzeda\u017cowych i finansowych pionu,, przygotowywanie monitoringu efekt\u00f3w biznesowych i jako\u015bciowych inicjatyw biznesowych,, przygotowywanie jednorazowych pods\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 16.93875,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4MzA5MTQyIn0.tTR9nueH1D_7gpLZjKvV6Jqrz-uhCjMnZuXd7YoHX-o",
+            "latitude": 52.40321,
+            "title": "Data Analyst",
+            "created": "2025-11-21T21:09:01Z",
+            "id": "5508309142"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Expected, Python, PySpark, Pandas, JupyterLab, AWS, CI/CD, Git, Jenkins, Qlik, Tableau, Microsoft Power BIOptional, Kafka, SQL, Hive, Hadoop, Terraform, Ansible, BashYour responsibilities, For one of our clients, you will take responsibility for software delivery, ensuring that quality standards and scope expectations are consistently met. You will contribute to and take ownership of the technical design, making sure all aspects of the system architecture are well-documented. This role involves\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE2OTgxNDMxIn0.3pJ7N5SOL1N4WKcaeT8A6Cdy7U1Lh9SDTQ7LImXI8JQ",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5516981431?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Apilia sp. z o.o."
+            },
+            "title": "Data Engineer",
+            "id": "5516981431",
+            "created": "2025-11-27T21:33:29Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjI0NTk3OSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.oVuQ163TbTd7gzQio4e_9HuRnD4coVVRpowoN492oLk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 21.2453,
+            "description": "Tw\u00f3j zakres obowi\u0105zk\u00f3w, Budowanie i utrzymywanie raport\u00f3w oraz dashboard\u00f3w w PowerBI, \u015acis\u0142a wsp\u00f3\u0142praca z u\u017cytkownikami biznesowymi (analiza potrzeb, dostarczanie danych, odpowiadanie na pytania), Wizualizacja danych i prezentacja wynik\u00f3w analiz w przejrzysty i zrozumia\u0142y dla odbiorc\u00f3w biznesowych spos\u00f3b, Automatyzacja proces\u00f3w raportowych i analitycznych (Python i Power Query)Do\u015bwiadczenie na podobnym stanowisku (analityk, analityk biznesowy, analityk danych) - minimum 2 lata., Wykszta\u0142cenie w\u2026",
+            "company": {
+                "display_name": "Empik S.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5496245979?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5496245979",
+            "created": "2025-11-14T16:57:03Z",
+            "latitude": 52.21519,
+            "title": "Data Analyst"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.pl/details/5513715539?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska",
+                    "\u015bl\u0105skie",
+                    "Katowice"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Katowice, \u015bl\u0105skie"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PKO BP Finat"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Opis stanowiska: Szukamy specjalisty z bardzo dobr\u0105 znajomo\u015bci\u0105 T-SQL, kt\u00f3ry potrafi tworzy\u0107 z\u0142o\u017cone zapytania i optymalizowa\u0107 procesy przetwarzania danych. Kandydat powinien mie\u0107 do\u015bwiadczenie w projektowaniu i wdra\u017caniu przep\u0142yw\u00f3w ETL z wykorzystaniem SSIS oraz zna\u0107 narz\u0119dzia ekosystemu SQL Server (SSAS, SSRS). Oczekujemy osoby samodzielnej, analitycznej, otwartej na rozw\u00f3j i prac\u0119 z du\u017cymi zbiorami danych. Wymagania: - Bardzo dobra znajomo\u015b\u0107 j\u0119zyka T-SQL i do\u015bwiadczenie w tworzeniu z\u0142o\u017conych\u2026",
+            "longitude": 19.02547,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTEzNzE1NTM5In0.LvozNY5SdLqSQsD2G32Je5FAhejTQg3IGfk1TMyqVOc",
+            "contract_time": "full_time",
+            "title": "Data Engineer",
+            "latitude": 50.26008,
+            "created": "2025-11-25T21:47:45Z",
+            "id": "5513715539"
+        },
+        {
+            "title": "Data Engineer",
+            "latitude": 52.21519,
+            "created": "2025-11-25T21:47:45Z",
+            "id": "5513715538",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "PKO BP Finat",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5513715538?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Opis stanowiska: Szukamy specjalisty z bardzo dobr\u0105 znajomo\u015bci\u0105 T-SQL, kt\u00f3ry potrafi tworzy\u0107 z\u0142o\u017cone zapytania i optymalizowa\u0107 procesy przetwarzania danych. Kandydat powinien mie\u0107 do\u015bwiadczenie w projektowaniu i wdra\u017caniu przep\u0142yw\u00f3w ETL z wykorzystaniem SSIS oraz zna\u0107 narz\u0119dzia ekosystemu SQL Server (SSAS, SSRS). Oczekujemy osoby samodzielnej, analitycznej, otwartej na rozw\u00f3j i prac\u0119 z du\u017cymi zbiorami danych. Wymagania: - Bardzo dobra znajomo\u015b\u0107 j\u0119zyka T-SQL i do\u015bwiadczenie w tworzeniu z\u0142o\u017conych\u2026",
+            "longitude": 21.2453,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzcxNTUzOCIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.I_gDLyDXs6eA7DqfnNcpYlnjNuX8A2kkRWN6RYdQSQ4",
+            "contract_time": "full_time"
+        },
+        {
+            "latitude": 52.65167,
+            "title": "Data Analytics Sales Specialist III Google Cloud",
+            "id": "5492497030",
+            "created": "2025-11-12T17:51:48Z",
+            "longitude": 23.04495,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Warsaw, Poland; Prague, Czechia . Minimum qualifications: Bachelor's degree or equivalent practical experience. 10 years of experience in a sales role in the enterprise software or cloud space. Experience selling data analytics or data management technologies to clients. Preferred qualifications: Experience carrying and exceeding strategic business goals in a sales role. \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MjQ5NzAzMCIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.7zZpfIXeR-ZZi_M_lCQKGxVeuJiGdYB95Zuxa6oOAlE",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5492497030?se=0qkJ3djW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=C3DD5B8F6BF287CECA6ECFCE5ABC50E6E9C5B9E0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "location": {
+                "display_name": "Bo\u0107ki, podlaskie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "podlaskie",
+                    "Bo\u0107ki"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT"
+            }
+        },
+        {
+            "created": "2025-11-12T17:51:48Z",
+            "id": "5492497017",
+            "latitude": 52.21519,
+            "title": "Data Analytics Sales Specialist III Google Cloud",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDkyNDk3MDE3In0.mCHlTDbpRAp65WY0uvB4hh8836fcvs2jtlwdoTM6C2M",
+            "contract_time": "full_time",
+            "description": "Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Warsaw, Poland; Prague, Czechia . Minimum qualifications: Bachelor's degree or equivalent practical experience. 10 years of experience in a sales role in the enterprise software or cloud space. Experience selling data analytics or data management technologies to clients. Preferred qualifications: Experience carrying and exceeding strategic business goals in a sales role. \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 21.2453,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5492497017?se=0qkJ3djW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=4F904B59507A81AC1984AF59FCD3F24FE4407606",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-11-25T21:15:50Z",
+            "id": "5513647598",
+            "title": "Data Scientist - Junior/Mid/Senior - ICH Europe",
+            "latitude": 51.10789,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzY0NzU5OCIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.51of4GmOQKK3zvOaZpU4u-G98Gc3kcgEXxx1IN20l6c",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Intelligent Consulting Hub Intelligent Consulting Hub is a part of Europe Strategy & Consulting practice, pulling together multinational and cross-cultural professionals based at key locations across Europe. No matter what business, no matter where in the world, our unrivaled industry and function experts help our Clients to shape the future creating clearly defined, measurable value. We are delivering on the promise of technology and human ingenuity. Our Poland part of ICH Consulting\u2026",
+            "longitude": 17.03854,
+            "location": {
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5513647598?se=0qkJ3djW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=5A72CD077385C481F2D41478903FB55743E6469B",
+            "company": {
+                "display_name": "Accenture",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Data Scientist - Junior/Mid/Senior - ICH Europe",
+            "latitude": 52.21519,
+            "created": "2025-11-25T21:15:50Z",
+            "id": "5513647581",
+            "description": "About the Intelligent Consulting Hub Intelligent Consulting Hub is a part of Europe Strategy & Consulting practice, pulling together multinational and cross-cultural professionals based at key locations across Europe. No matter what business, no matter where in the world, our unrivaled industry and function experts help our Clients to shape the future creating clearly defined, measurable value. We are delivering on the promise of technology and human ingenuity. Our Poland part of ICH Consulting\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 21.2453,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTEzNjQ3NTgxIn0.omIX-Hbn_WhB9yXC4U9V7yiiMRxRmKA7cVzIXOsx5mg",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5513647581?se=0qkJ3djW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=60A15E74A8CFFE60327186CA0A37A2DD84565FDF",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Accenture"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/land/ad/5513647586?se=0qkJ3djW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=78E01D3B8D8168148E19C82A39B6D0E3DD882088",
+            "company": {
+                "display_name": "Accenture",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ]
+            },
+            "category": {
+                "label": "IT",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzY0NzU4NiIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.Oyt73R23qlceVfZlBJB7DHWZkGjIj2mW_os7XzCo1H4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 20.17848,
+            "description": "About the Intelligent Consulting Hub Intelligent Consulting Hub is a part of Europe Strategy & Consulting practice, pulling together multinational and cross-cultural professionals based at key locations across Europe. No matter what business, no matter where in the world, our unrivaled industry and function experts help our Clients to shape the future creating clearly defined, measurable value. We are delivering on the promise of technology and human ingenuity. Our Poland part of ICH Consulting\u2026",
+            "id": "5513647586",
+            "created": "2025-11-25T21:15:50Z",
+            "title": "Data Scientist - Junior/Mid/Senior - ICH Europe",
+            "latitude": 50.1024
+        },
+        {
+            "description": "About the Intelligent Consulting Hub Intelligent Consulting Hub is a part of Europe Strategy & Consulting practice, pulling together multinational and cross-cultural professionals based at key locations across Europe. No matter what business, no matter where in the world, our unrivaled industry and function experts help our Clients to shape the future creating clearly defined, measurable value. We are delivering on the promise of technology and human ingenuity. Our Poland part of ICH Consulting\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 18.64664,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzY0NzU5MSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.YF8PJFc1QDcpuXFnadnG43LdIa-cgwghYRH77VV5wXM",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "display_name": "Accenture",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5513647591?se=0qkJ3djW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=63D68B290AEA4DBADF60C066346D2F91B1DDA127",
+            "location": {
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto"
+            },
+            "latitude": 54.35203,
+            "title": "Data Scientist - Junior/Mid/Senior - ICH Europe",
+            "created": "2025-11-25T21:15:50Z",
+            "id": "5513647591"
+        },
+        {
+            "latitude": 52.21519,
+            "title": "Specjalistka/Specjalista ds. modeli ryzyka kredytowego Data Scientist",
+            "id": "5515341750",
+            "created": "2025-11-26T21:32:37Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5515341750?se=0qkJ3djW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=16E7B63A23FF0B805A031245A53B306081F2AB98",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PKO BANK POLSKI S.A."
+            },
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "longitude": 21.2453,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Na co dzie\u0144 w naszym zespole: przeprowadzamy analizy umo\u017cliwiaj\u0105ce poprawne zbudowanie modeli ryzyka kredytowego PD i LGD (modele boostingowe i regresji logistycznej) zgodnych z regulacjami IRB, przeprowadzamy analizy reprezentatywno\u015bci i data quality, stale rozwijamy swoje kompetencje i szukamy mo\u017cliwo\u015bci poprawy jako\u015bci naszych modeli, wchodz\u0105c w nowe technologie i wyznaczaj\u0105c nowe standardy, pracujemy na najwi\u0119kszych zbiorach danych dotycz\u0105cych ryzyka kredytowego klienta detalicznego. To sta\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1MzQxNzUwIn0.fwcpIAq6gdoSKwRfUTSgxbF9exg7xOIfYna2zYV8LBU"
+        },
+        {
+            "id": "5535763189",
+            "created": "2025-12-10T04:23:02Z",
+            "title": "Manager, Data & Analytics",
+            "latitude": 50.1024,
+            "location": {
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krak\u00f3w, ma\u0142opolskie"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5535763189?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "AbbVie",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc2MzE4OSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.WeEFo3jHgI_Afme7FY9hY_tZE9Gladhzv8onm2Cw7Qo",
+            "longitude": 20.17848,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description The Manager, Data & Analytics will oversee the management, maintenance, and optimization of financial databases, ensuring high standards of data integrity and accessibility to drive analytical initiatives and process improvements within Finance Shared Services. This role collaborates across finance, analytics, and IT teams, supporting clean, reliable data flows for business insight and automation. Responsibilities Oversee and optimize databases (SQL, Oracle, Alteryx, MS Access) \u2026"
+        },
+        {
+            "category": {
+                "label": "Inna/og\u00f3lna",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Visa"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5526453173?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI2NDUzMTczIn0.jl52h-mct_S2dvF8xxMdDPgjtP9qbx_OzOJxA_aqGTY",
+            "description": "Job Description Responsibilities: Evangelizes the creative use of data analytics to explore large data sets and summarise results Works with VBEI Data Scientists to drive data science business development opportunities and new data products Build data dashboards for presenting insights and data products to key stakeholders Create and deliver powerful business-centric insights from data through visualization and storyboarding Collaborating with the internal partners to fully understand business \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-03T20:24:53Z",
+            "id": "5526453173",
+            "title": "Data Science Manager"
+        },
+        {
+            "id": "5537658216",
+            "created": "2025-12-11T11:03:38Z",
+            "title": "Data Engineer / 1",
+            "category": {
+                "label": "Inna/og\u00f3lna",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Inetum Polska"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5537658216?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzY1ODIxNiIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.IWb6VE55pgv92LZpfU6OoIimB2eLQoUswTopg1ULzCM",
+            "description": "Job Description Join our team to leverage your data engineering skills in a dynamic environment, ensuring seamless data migration and optimization for advanced AI and ML projects. Apply now to be part of our innovative journey! Key responsibilities Data pipeline development: Design, develop, and deploy Python-based ETL/ELT pipelines to migrate data from the on-premises MS SQL Server into the Databricks instance, Ensure efficient ingestion of historical parquet datasets into Databricks. Data qua\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "(Senior) Data Consultant",
+            "created": "2025-12-03T20:24:52Z",
+            "id": "5526453141",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "In\u017cynieria"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "InPost"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5526453141?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Job Description On a daily basis you will: Closely support stakeholders in making data-driven decisions. Work with different InPost departments and business lines. Gather requirements, harness large-scale, real-time data from various sources, analyze it and, prepare insights and recommendation about business critical areas and processes. Design, develop, and extend our data model layers that support optimized and scalable calculations and visualizations of successful analytics outcomes. Craft c\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjQ1MzE0MSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.ovJqS2Payk1ym7ZkzW1Nmu_8Lal92gs6APCcSgL-1Q8"
+        },
+        {
+            "category": {
+                "label": "Inna/og\u00f3lna",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5466623168?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Infosys Consulting - Europe"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NjYyMzE2OCIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.v4bOQ8Sh-RfnPCInBMER_KlDj327tAyvTcvRGUpdymE",
+            "description": "Do you want to boost your career and collaborate with expert, talented colleagues to solve and deliver against our clients' most important challenges? We are growing and are looking for people to join our team. You'll be part of an entrepreneurial, high-growth environment of 300.000 employees. Our dynamic organization allows you to work across functional business pillars, contributing your ideas, experiences, diverse thinking, and a strong mindset. Are you ready? Join Our Data & AI Team Do you \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5466623168",
+            "created": "2025-10-27T21:02:18Z",
+            "title": "Data & AI Consultant"
+        },
+        {
+            "created": "2025-12-11T14:44:30Z",
+            "id": "5537756120",
+            "title": "Senior Data Scientist",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzc1NjEyMCIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.VqQVE8AKbKu4vMfcw01BdGcqgJeNLQh-37Em8dJLg70",
+            "contract_time": "full_time",
+            "description": "If you\u2019re a talented Data Scientist looking to be part of a fast-growing, innovative R&D team, shape the future of decision-making in business, work on cuttingedge technologies and vast amounts of global real-time data, affect billions of mobile users, and become an industry leader - then let\u2019s talk! Start.io is a mobile data platform that enables organizations to uncover insights and make datadriven decisions that enhance strategies and drive growth. We are seeking a Senior Data Scientist to j\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Inna/og\u00f3lna",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5537756120?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "company": {
+                "display_name": "Globaldev Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-03T20:24:53Z",
+            "id": "5526453186",
+            "title": "Data- & Platform Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI2NDUzMTg2In0.rkOKKlr4drb_c2ynEWfpTvJlIljW_rW1NDsk2hh9t9s",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Would you like to make a difference and work together with us on our big target? Do you want to play a significant role in supporting the Asset Driven Business Areas within Vattenfall in accelerating the digital transformation? You are convinced that the information assets generated by our physical assets, i.e. the big data coming from our wind turbines, batteries or heating grids hold the key for improved decision making, advanced business models, optimized asset utilization an\u2026",
+            "category": {
+                "label": "IT",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vattenfall"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5526453186?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Z\u0105bki, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Z\u0105bki"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5508484144?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Parity Homes"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4NDg0MTQ0In0.MuwQ0xENeuvR9ITxHk1B4FT3OesmMApM5vs2SnIb_qg",
+            "longitude": 21.03292,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Automations Specialist Parity Homes - Remote Build the Systems That Power Community Revitalization Parity Homes is seeking a highly technical and detail-oriented Data Automations Specialist to join our fully remote team. In this role, you will design, implement, and maintain API-driven automations that keep our operations running with accuracy, speed, and reliability. Your work will ensure that the right data reaches the right systems at the right timesupporting our mission to transform lo\u2026",
+            "created": "2025-11-21T22:51:23Z",
+            "id": "5508484144",
+            "title": "Data Automations Specialist",
+            "latitude": 52.22441
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Inna/og\u00f3lna",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Colibrix One"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5494425880?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska"
+            },
+            "description": "Join COLIBRIX ONE \u2013 Innovating the Future of Payments At COLIBRIX ONE* , we\u2019re building advanced, AI-powered payment technologies that support Payment Service Providers (PSPs), Electronic Money Institutions (EMIs), and neobanks across the EU and the UK. As a fully licensed Electronic Money Institution (FCA Reference No. 927920) and holder of a Financial Institution Licence issued by the MFSA, as well as a principal member of both VISA and Mastercard, we provide comprehensive, real-world financi\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk0NDI1ODgwIn0.S-W9Joy7SB0fWARudyriBkqYrl634cTbu7tKZVFvmLc",
+            "title": "Junior Data Engineer",
+            "created": "2025-11-13T18:39:57Z",
+            "id": "5494425880"
+        },
+        {
+            "created": "2025-12-04T22:36:25Z",
+            "id": "5528436831",
+            "title": "Data Product Manager",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "In\u017cynieria",
+                "tag": "engineering-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5528436831?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "InPost"
+            },
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODQzNjgzMSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.HUuGfqkXAUEVF3BhkMmIhqrZiGNol0YMmmo0LeaySD4",
+            "description": "Job Description Your mission: Lead the development and evolution of products in the Data & AI domain \u2013 from analytics platforms to AI-powered tools \u2013 ensuring they meet business needs and deliver tangible outcomes. Manage product roadmaps and backlogs, ensuring smooth planning and on-time delivery through close collaboration with engineering, data science, and business stakeholders. Identify opportunities where data or AI can bring measurable business value, define hypotheses, and coordinate ex\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5534256418?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "company": {
+                "display_name": "CD PROJEKT RED",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDI1NjQxOCIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.EGr8_KC7JIlLBJ72ldU5F0STHO-c8jQsLxrDmNbxiQ0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description As a Product Data Analyst , you will play a key role in supporting the development and improvement of data-informed decision-making across our products. You will work closely with senior analysts, developers, and stakeholders to ensure we have high-quality, actionable insights on systems supporting our games development. This is an excellent opportunity for someone looking to deepen their experience in analytics within the gaming industry and grow within a supportive, cross-disc\u2026",
+            "id": "5534256418",
+            "created": "2025-12-09T04:23:30Z",
+            "title": "Product Data Analyst"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Visa",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5535763187?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs",
+                "label": "Doradztwo"
+            },
+            "description": "Job Description The Data Science Manager is a member of CEE Data Solutions team based in Warsaw. As a Data Science Manager, you will be accountable for leading the design, implementation and development of analytics tools and reports used for Visa's external clients. In this role, you will collaborate with Global Analytics, Business, and Technology teams across the organization to implement best-in-class services to drive business performance with a clear commercial \u2018value\u2019 and measurable \u2018retu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc2MzE4NyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.k-whDNmcbTf526L7Jcu0pIAaI9PiHg0s4n6IbCsv52c",
+            "title": "Data Science Manager",
+            "created": "2025-12-10T04:23:02Z",
+            "id": "5535763187"
+        },
+        {
+            "title": "Data Reporting Specialist",
+            "id": "5000903690",
+            "created": "2025-01-07T15:32:37Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Inna/og\u00f3lna"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5000903690?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "transcosmos ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "The Data Analyst collects and interprets data to help the service take actionable steps to improve performance and meet goals. Their duty includes but is not limited to gathering service statistics and trends, analyze and present it to service stakeholders with the goal of finding ways to improve efficiency, quality and customer experience. Requirements Key Tasks and Responsibilities \u00b7 Gather and analyze data (case monitoring, contact analysis, DSAT/CSAT data scrubbing, call listening and other\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MDAwOTAzNjkwIn0.T8UOlOP3Sx3uhGODClvB4yEJDLPB3kDwTpl5M9o8qY0"
+        },
+        {
+            "id": "5256686281",
+            "created": "2025-06-18T19:15:00Z",
+            "title": "Senior Data Scientist",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MjU2Njg2MjgxIn0.-paPTRQf4ClgDx82Sc-1duIffhUsv7-80xhvIeGHQiw",
+            "description": "Sunscrapers is a technology consultancy that empowers finance and healthcare leaders to succeed by leveraging cutting-edge software, data, and AI. We combine world-class engineering, deep industry expertise, and proprietary know-how to deliver innovative, high-impact solutions. Specializing in software engineering, DevOps, data engineering, and data science, we design and build AI-powered data platforms and web applications tailored to each client\u2019s unique needs. Trusted by over 60 clients acro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Inna/og\u00f3lna"
+            },
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5256686281?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Sunscrapers sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5410584243",
+            "created": "2025-09-22T14:50:39Z",
+            "title": "Staff Data Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Inna/og\u00f3lna"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5410584243?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Booksy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMDU4NDI0MyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.KP2E14AMbZLvaD-SJouKe2PAIcx_mkj156l3teKSOWQ",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A career at Booksy means you\u2019re part of a global team focused on helping people around the world feel great about themselves, every day. From empowering entrepreneurs to build successful businesses, to supporting their customers arrange 'me time' moments, we\u2019re in the business of helping people thrive and feel fantastic. Working in an ever-changing, scale-up where things are messy, and resources are limited isn't for everyone. If you thrive in a stable environment with big budgets, clear proces\u2026"
+        },
+        {
+            "created": "2025-11-09T09:10:53Z",
+            "id": "5488056125",
+            "title": "Senior Data Engineer",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "In\u017cynieria",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5488056125?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ZYTLYN Technologies"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDg4MDU2MTI1In0.lrXbVCU2eR1i7uF_XoKBBN3If8GIoKu-s6v_551yQHo",
+            "contract_time": "full_time",
+            "description": "Who we are ZYTLYN Technologies empowers companies across the $11 trillion travel industry to shape the future with predictive AI solutions that augment commercial planning, sales, marketing, retailing and operations. We work with some of the largest travel brands in the world, and our vision is to answer highly detailed and granular questions about the future of travel, such as demand, supply, market fluctuations and pricing. Our core focus is on airlines, airports, travel agencies, destination\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Talan"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5528436800?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Doradztwo",
+                "tag": "consultancy-jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI4NDM2ODAwIn0.yVEydY_1QtAe8z08O1GyB2ycuN3vh7hRWBZI0pxVuZU",
+            "description": "Job Description As a Backend Spark developer , your mission will be to develop, test and deploy the technical and functional specifications from the Solution Designers / Business Architects / Business Analysts, guaranteeing the correct operability and the compliance with the internal quality levels. We need somebody like you to help us in different fronts: You will develop end-to-end ETL processes with Spark/Scala. This includes transferring data from/to the data lake, technical validations, bu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-04T22:36:24Z",
+            "id": "5528436800",
+            "title": "Junior Data Engineer"
+        },
+        {
+            "title": "Traffic Data Analyst",
+            "id": "5466204987",
+            "created": "2025-10-27T14:49:41Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Gypsy is looking for a Traffic Data Analyst to explore marketing traffic performance, player cohorts, and acquisition ROI. You\u2019ll connect data, marketing, and finance \u2014 ensuring that traffic investments translate into measurable impact and sustainable business growth. Requirements  What makes you a great match: 3 years of experience in data analytics, with a focus on traffic or marketing performance; Deep understanding of affiliate marketing, traffic attribution, and ROI metrics; Proven experie\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY2MjA0OTg3In0.8L3MHX6B-lwh-_2bwwKi3OZRRRaMdfZ65dnSPHn-mTg",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Inna/og\u00f3lna",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5466204987?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Gypsy Collective",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "id": "5495523693",
+            "created": "2025-11-14T12:40:30Z",
+            "title": "Senior Data Scientist",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk1NTIzNjkzIn0.bZGg2t89QpaOqQNWp5753xxXFW8HfXsLnVqLi8aTCyY",
+            "description": "Ready to find your perfect job fit? Welcome to HomeBuddy , where making a home awesome is like seeing a vision come to life! We are on a mission to create a friendly and trusted platform to connect homeowners with the right contractors across the US. What started as a small idea has become a fast-growing home improvement platform focusing on lead quality and long-term partnerships based on trust and mutual success. We are a product-first company with a long-term outlook - our platform consisten\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Praca naukowa i QA",
+                "tag": "scientific-qa-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5495523693?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HomeBuddy"
+            },
+            "location": {
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5439608293",
+            "created": "2025-10-09T16:32:50Z",
+            "title": "Big Data Engineer",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzOTYwODI5MyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.Q0xuD7KLpxKUR4lspzNK81bkC-xl-aCTJq9lRVw_GHY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Our client develops a mobile marketing and audience platform that empowers the mobile app ecosystem. With direct integration into over 500,000 monthly active mobile apps, our platform processes enormous volumes of first-party data to drive intelligent, real-time decisions and fuel growth for our partners. We\u2019re looking for a Big Data Engineer to join our Data Platform team \u2014 someone who thrives on solving complex problems at scale, enjoys working across technologies, and is passionate about rea\u2026",
+            "redirect_url": "https://www.adzuna.pl/details/5439608293?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Globaldev Group"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Inna/og\u00f3lna"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT"
+            },
+            "company": {
+                "display_name": "Inetum Polska",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5534256347?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Inetum is looking for experienced Data Engineers. Experience in Big Data processing project utilizing Databricks and Spark framework are preferable.",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0MjU2MzQ3In0.0d-GS6cOa4mcfJxLo42lsU6wY0NENnGUqjpKMH5y96c",
+            "title": "Data Engineer / R",
+            "created": "2025-12-09T04:23:29Z",
+            "id": "5534256347"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzc1NDAzMyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.BPj0G8EkE2GtMqvuupfUJoF7VBUJ_5FSuh7Y34kLftk",
+            "contract_time": "full_time",
+            "description": "Why Join Us? At Excelya, we are committed to excellence in healthcare, and we invite you to be part of our dedicated team where your expertise can make a significant impact. As a young, ambitious health company with over 900 talented professionals, we strive to be Europe's leading mid-size CRO , delivering the best employee experience . Our integrated service model enables you to engage in diverse projects, working alongside industry experts to enhance scientific knowledge and improve the patie\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Administracja",
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5517754033?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska"
+            },
+            "company": {
+                "display_name": "Excelya",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-28T17:31:18Z",
+            "id": "5517754033",
+            "title": "Project Data Manager"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Inna/og\u00f3lna",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5494005323?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ICEYE"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Line of Business Location: Europe / Asia Reports to: Lead Sales Engineer (Data) Employment Type: Permanent Work Mode: Remote/Onsite Employment is subject to applicable security screening (incl. SUPO, where required). The Mission of the Sales Engineer (Data) Empower ICEYE\u2019s customers to unlock the full value of SAR data through expert technical guidance and tailored solutions. As a Sales Engineer within ICEYE\u2019s Data Line of Business, you will play a key role in supporting the technical sale\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NDAwNTMyMyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.L4LwuXFbE3alGcJ3srrZN7tEyzw6sTvevF9if-pjxJc",
+            "title": "Sales Engineer (Data)",
+            "created": "2025-11-13T15:51:58Z",
+            "id": "5494005323"
+        },
+        {
+            "created": "2025-11-15T06:36:42Z",
+            "id": "5497141306",
+            "title": "Senior Data Scientist",
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5497141306?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Visa"
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "In\u017cynieria",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk3MTQxMzA2In0.NZZe5GQMRhE6b3sIJcuksW3FKcCicP36Vv-QqwC3FMs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description As a Data Scientist on Visa\u2019s Global Business\u2011to\u2011Business Identity & Access Management (B2B IAM) team, you will turn authentication, authorization, and directory telemetry into actionable insight. You\u2019ll help build baseline models and analyses for anomaly detection, user/entity behavior analytics (UEBA), and risk\u2011based access that strengthen MFA journeys and session controls while improving user experience. In partnership with IAM Engineering and Release Engineering, you\u2019ll take\u2026"
+        },
+        {
+            "title": "Senior Data Scientist",
+            "id": "5496117273",
+            "created": "2025-11-14T15:36:24Z",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CommIT"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5496117273?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are seeking an experienced Mid/Mid Data Scientist with expertise in Large Language Models (LLMs) such as GPT, Claude, and related technologies to join our team in Ukraine. The ideal candidate will have a strong background in natural language processing (NLP), machine learning, and deep learning models. They will play a critical role in developing and deploying cutting-edge LLM applications to drive innovation across our product lines. Responsibilities: \u200c Design, develop and optimize Large La\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjExNzI3MyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.QSeVbaUU0KsN_abouZRaOV5r2pvA5S4uow1xTsjevLQ"
+        },
+        {
+            "latitude": 52.21519,
+            "created": "2025-10-23T01:33:00Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMHFrSjNkalc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDU5OTE1NzI5In0.TXp7iFSqleql6VuUawIks6anLi0ZAGNoKF-tpy35v8k",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "salary_max": 336000,
+            "title": "Senior Data Analyst Finance & Controlling Data",
+            "id": "5459915729",
+            "longitude": 21.2453,
+            "description": "For Digital Hub Warsaw, we are looking for: Senior Data Analyst \u2013 Finance & Controlling Data Are you ready to make a significant impact in the world of data analytics and data management? We are seeking a talented Senior Data Analyst to become a vital part of our dynamic Data Assets, Analytics, and AI Platform at Bayer Consumer Health. In this role, you will play a pivotal role in building and maintaining our core data assets across various domains, ensuring their completeness, semantics and qu\u2026",
+            "salary_min": 222000,
+            "redirect_url": "https://www.adzuna.pl/details/5459915729?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Bayer Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMwNzk4ODgzMCIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.t321eUokFyEHt2yTxfXTv94TF1Nvn1_PndNzBSbfD5k",
+            "description": "Whether it's the unique breadth of our integrated offering that covers Injectable Aesthetics, Dermatological Skincare and Therapeutic Dermatology products; or our commitment to recognizing and rewarding people for the contribution they make - working here isn't like anywhere else. At Galderma, we actively give our teams reasons to believe in our ambition to become the leading dermatology company in the world. With us, you have the ultimate opportunity to gain new and challenging work experience\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 20.17848,
+            "redirect_url": "https://www.adzuna.pl/details/5307988830?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Galderma"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ]
+            },
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-07-17T13:05:21Z",
+            "id": "5307988830",
+            "latitude": 50.1024,
+            "title": "IT Architect for Data & Master Data"
+        },
+        {
+            "title": "Data analyst in ALM Data & Processing",
+            "created": "2025-11-11T15:37:24Z",
+            "id": "5490821847",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.pl/details/5490821847?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "ING",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "description": "ING Hubs Poland is hiring! We are looking for you if you: understand and interested in complex data and data structures, are a communicator and like to liaise with data teams, reporting teams, UAT team and IT teams, act as the link between stakeholders providing data requirements and developers needing technical specifications, are someone with a \u201ccan-do\u201d mentality who excels in a collaborative environment. You are a problem solver, enjoy working in an international team and environment, are pr\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDgyMTg0NyIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0.gqkNKLUSJZVJ8yMrFRlVe8zUqu0XkbNqmw0QuqxbMn4"
+        },
+        {
+            "salary_max": 420000,
+            "title": "Lead Data Architect Master Data Asset",
+            "id": "5483987455",
+            "created": "2025-11-06T16:07:25Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Expected, Reltio Cloud MDM, Syndigo Enterprise Data Suite, Medallion architecture, Spark, Databricks, Azure Data Stack, GitHub VCS, GitHub ActionsAbout the project, The Data Assets, Analytics and AI team at Bayer Consumer Health focuses on bringing digital transformation and innovation by creating best in class analytical solutions enabling data-driven decision making and performance optimization for Bayer Consumer Health organization. In this role, you will be part of the Data, Analytics and A\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Mzk4NzQ1NSIsInMiOiIwcWtKM2RqVzhCR3hfTnRkbF92T3J3In0._iHIFjt6xJHmzpnOA0CSHE-tJFH3mx8vLt3-qKigDIY",
+            "salary_min": 282000,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5483987455?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Digital Hub Warsaw at Bayer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        }
+    ],
+    "mean": 205645.98
+}

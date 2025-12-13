@@ -1,0 +1,1554 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5510827230?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Commonwealth Bank of Australia"
+            },
+            "description": "You are passionate, driven, flexible and collaborative We are high performing engineers pushing the boundaries of software engineering Together we will build tomorrow\u2019s bank today, using world-leading technology and innovation Do work that matters Business Banking Technology is responsible for the world-leading application of technology and operations across every aspect of CommBank \u2013 from innovative product platforms for our customers, to essential tools within our business. We also use techno\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTEwODI3MjMwIn0.Qa5RCCBUoH-YG1yNHmnM8yNslhK-qJnbSOqBVe4Z-Vk",
+            "contract_time": "full_time",
+            "title": "Senior Software Engineer",
+            "created": "2025-11-24T10:30:05Z",
+            "id": "5510827230"
+        },
+        {
+            "title": "Floor Manager - Marion",
+            "latitude": -34.917705,
+            "id": "5534178751",
+            "created": "2025-12-09T12:25:18Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "retail-jobs",
+                "label": "Retail Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5534178751?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "South Australia",
+                    "Adelaide Region",
+                    "Adelaide"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Adelaide, Adelaide Region"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sephora"
+            },
+            "longitude": 138.59607,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Sephora, we believe that beauty thrives in diversity and discovery. Our purpose is to expand the way the world sees beauty by empowering the ExtraOrdinary in each of us. Sephora is part of the Global Louis Vuitton Moet Hennessey Group which is the world's largest luxury goods conglomerate. Across Australia and New Zealand, we have circa 36 stores, a growing online platform and we plan to expand this year on year. Not only do we offer diverse store opportunities, we also have our head office \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDE3ODc1MSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.2oM0_8NFfGxCHXjRL5x4Sx1Hw3Gq3SUsz_iXd6fEkYU"
+        },
+        {
+            "id": "5534095219",
+            "created": "2025-12-09T10:44:16Z",
+            "latitude": -33.865715,
+            "title": "Global People Business Advisor Portfolio Lead",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDA5NTIxOSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.oPSogU76LFEQ4uOIYpQOqNW70jme20K0-Qzq59rHqGc",
+            "longitude": 151.206616,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Global People Business Advisor Portfolio Lead role with ResMed based in Sydney, NSW, AU  ResMed  Role Seniority - mid level More about the Global People Business Advisor Portfolio Lead role at ResMed Our people are foundational to our strategy\u2013 they are not \u2018resources\u2019 that we leverage! Our People team (formerly Human Resources) partners with leaders to engage and attract high performing, diverse, entrepreneurial talent. We continuously challenge ourselves to be BOLD in our thinking, \u2026",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The Rocks, Sydney"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5534095219?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ResMed"
+            },
+            "category": {
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Amana Living",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5501258031?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Western Australia",
+                    "Perth Region",
+                    "Perth"
+                ],
+                "display_name": "Perth, Perth Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "healthcare-nursing-jobs",
+                "label": "Healthcare & Nursing Jobs"
+            },
+            "longitude": 115.86056,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "The Safety Health and Wellness Business Partner (SHWBP) is responsible for building people capability to achieve a positive health and safety culture and desired outcomes in a designated portfolio. Operating in collaboration with business partners across all People and Culture functions, the SHAW BP provides effective, accurate and timely advice and support to managers and employees under the guidance of the SHAW Manager. Key responsibilities: Provide generalist WHS, injury management and welln\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTI1ODAzMSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.F32h_MVk6WfEoc-7FdChV6eMjJCEjYl8Wqhdb1BcSw0",
+            "contract_time": "full_time",
+            "title": "Safety Health & Wellness Business Partner",
+            "latitude": -31.948808,
+            "id": "5501258031",
+            "created": "2025-11-18T14:28:55Z"
+        },
+        {
+            "id": "5464470530",
+            "created": "2025-10-26T04:19:38Z",
+            "latitude": -27.416056,
+            "title": "Area Manager - Brisbane",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NDQ3MDUzMCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.qBiUSv9xPvbkmVqse5ZalnhLxllC3J-2Z1KzuAYgTKE",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Who We Are At Contour, we\u2019re reshaping education, one student at a time. Born from the frustration of students who knew the system could be better, we set out to build what we once wished existed: tutoring that actually works. Not generic classes. Not recycled notes. Not overpriced, overcrowded rooms with an out-of-touch teacher who couldn\u2019t relate. But a complete ecosystem of tutoring, resources, and support, meticulously designed to help every student reach their full potential. Since 2020, o\u2026",
+            "longitude": 152.928532,
+            "category": {
+                "tag": "teaching-jobs",
+                "label": "Teaching Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5464470530?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Contour Education",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane"
+                ],
+                "display_name": "Brisbane, Brisbane Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535745456?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc0NTQ1NiIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0._0DH7o1ykLsZc93qnFnYOPXGVCn4ExJBbP8tAA07_Ic",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "LCS Business Strategy and Operations Senior Associate, GTM _corporate_fare_ Google _place_ Sydney NSW, Australia Mid Experience driving progress, solving problems, and mentoring more junior team members; deeper expertise and applied knowledge within relevant area. _info_outline_ X At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google's technology, platforms and people and we\u2026",
+            "id": "5535745456",
+            "created": "2025-12-10T14:09:43Z",
+            "title": "LCS Business Strategy and Operations Senior Associate, GTM"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Summary In this key role, you will manage and drive sales engagements for large enterprises and WA Government accounts, working closely with NetApp's strategic partners in your assigned territory. Your focus will be to develop and implement a comprehensive sales strategy-including territory, account, and opportunity plans-to drive enterprise-wide adoption of NetApp's products and services. You will be responsible for meeting and exceeding quarterly and annual revenue targets while ensuring \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc0Njc5MCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.I6-UHQFVOFDlQX2NaPPwAkWc6BEHwIehZiA01W4bxIc",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535746790?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "NetApp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs",
+                "label": "Sales Jobs"
+            },
+            "title": "Senior Client Executive (Perth, WA)",
+            "id": "5535746790",
+            "created": "2025-12-10T14:09:56Z"
+        },
+        {
+            "id": "5535741499",
+            "created": "2025-12-10T14:05:06Z",
+            "title": "Senior Product Manager - Core Systems",
+            "latitude": -33.865715,
+            "company": {
+                "display_name": "Honey Insurance",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535741499?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The Rocks, Sydney"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc0MTQ5OSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0._ihZYIKx1qFRjZQxFH4tVRMs8uowQ6WOZ5K1-BuugwM",
+            "longitude": 151.206616,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Senior Product Manager - Core Systems role with Honey Insurance based in Sydney, NSW, AU  Honey Insurance  Role Seniority - senior More about the Senior Product Manager - Core Systems role at Honey Insurance Who We Are We're shaking up the home insurance industry! As a disruptor in the insurance space, we combine smart technology with exceptional service to create home insurance that's simpler, faster, and more customer-friendly. Our innovative approach includes smart sensors that hel\u2026"
+        },
+        {
+            "created": "2025-12-10T14:05:06Z",
+            "id": "5535741537",
+            "title": "Resource Allocator",
+            "latitude": -33.865715,
+            "redirect_url": "https://www.adzuna.com.au/details/5535741537?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "dnata",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The Rocks, Sydney",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            },
+            "category": {
+                "tag": "customer-services-jobs",
+                "label": "Customer Services Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc0MTUzNyIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0._IxUJ3JcWd9MGW9ikTpqCk-2FWk8A5le34DezEgpvVY",
+            "longitude": 151.206616,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Resource Allocator role with dnata based in Sydney, NSW, AU  dnata  Role Seniority - mid level More about the Resource Allocator role at dnata Sydney Want to elevate your career to a Higher Altitude? Come join our award winning team, working for a global brand and Australia's inflight catering market leader. At dnata catering & retail the sky truly is the limit! We are currently seeking a rostering allocation master with business experience in high volumes of supply and demand, to joi\u2026"
+        },
+        {
+            "latitude": -37.81521,
+            "title": "Business Solution Manager - Corporate",
+            "created": "2025-10-20T15:52:39Z",
+            "id": "5455899451",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5455899451?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Team Global Express",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Melbourne CBD, Melbourne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne",
+                    "Melbourne CBD"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 144.963953,
+            "description": "This is a Business Solution Manager - Corporate role with Team Global Express based in Melbourne, VIC, AU  Team Global Express  Role Seniority - mid level More about the Business Solution Manager - Corporate role at Team Global Express Are you a strategic thinker with a passion for bridging business needs and technology solutions? Team Global Express is seeking a Business Solution Manager to lead the charge in transforming business strategy into impactful technology outcomes. As a Business Solu\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NTg5OTQ1MSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.Wsc_-yMJivQBeyXDTd0VGEVKf4qPxaZ4qaf1iLai7vo"
+        },
+        {
+            "created": "2025-12-10T13:53:57Z",
+            "id": "5535730412",
+            "title": "Team Leader - General Insurance",
+            "latitude": -27.467089,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NzMwNDEyIn0.ylACEmjxh0YsNy_A5KRabW0_TuIjcaMaR_CN3xKn5_c",
+            "longitude": 153.023362,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Team Leader - General Insurance role with Compare the Market Australia based in Brisbane, QLD, AU  Compare the Market Australia  Role Seniority - mid level More about the Team Leader - General Insurance role at Compare the Market Australia Brief Description About Us Compare the Market \u2013 yes, the one with the meerkats \u2013 is a high-growth FinTech company on a transformational journey. We are focused on designing, building, and delivering the very best home loan, energy, insurance, and he\u2026",
+            "company": {
+                "display_name": "Compare the Market Australia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535730412?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "Brisbane CBD"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brisbane CBD, Brisbane"
+            },
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Locomotive Fleet Engineer",
+            "latitude": -24.31344,
+            "id": "5535735206",
+            "created": "2025-12-10T13:59:58Z",
+            "longitude": 149.92899,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Locomotive Fleet Engineer role with Pacific National based in QLD, AU  Pacific National  Role Seniority - mid level More about the Locomotive Fleet Engineer role at Pacific National Every day we transport millions of tonnes of critical freight around the country for our customers. Reporting to the Manager Locomotive Contract Maintenance, the Locomotive Fleet Engineer supports Pacific National's locomotive fleet performance, reliability and improvement through engineering lead solution\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTczNTIwNiIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.HQUhuqGxcfw722aTIoUKS0YgVSSxK3jvNP9_vHc-D3M",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Pacific National",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535735206?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Queensland, Australia",
+                "area": [
+                    "Australia",
+                    "Queensland"
+                ]
+            }
+        },
+        {
+            "created": "2025-12-10T13:51:45Z",
+            "id": "5535725795",
+            "title": "Relationship Lending Manager (Market Risk)",
+            "latitude": -33.865715,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535725795?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The Rocks, Sydney",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            },
+            "company": {
+                "display_name": "ANZ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTcyNTc5NSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.juAddW7FnAX2TNTydUwXI4XyTK1Ouid7WLQI3XH5Hs8",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Relationship Lending Manager (Market Risk) role with ANZ based in Sydney, NSW, AU  ANZ  Role Seniority - mid level More about the Relationship Lending Manager (Market Risk) role at ANZ About Us Standard At ANZ, we're shaping a world where people and communities thrive, driven by a common goal: to improve the financial wellbeing and sustainability of our millions of customers. About the Role Our Private Bank provides specialised Banking Services and Advice to High-Net-Worth (HNW) indiv\u2026",
+            "longitude": 151.206616
+        },
+        {
+            "latitude": -33.865715,
+            "title": "SAP Enterprise Service Management (ESM) Package Consultant",
+            "created": "2025-12-10T14:25:48Z",
+            "id": "5535763620",
+            "description": "This is a SAP Enterprise Service Management (ESM) Package Consultant role with IBM based in Sydney, NSW, AU  IBM  Role Seniority - senior More about the SAP Enterprise Service Management (ESM) Package Consultant role at IBM Introduction A career in IBM Consulting is rooted by long-term relationships and close collaboration with clients across the globe. You'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable compani\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.206616,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc2MzYyMCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.uvUtP0Ee4LOzcFVPLQAFTWla1SwsI76x2ucJ8Pi-XgI",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535763620?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc2MzYyNyIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.yCPMABrLndUMxUid-ZcAjKWS1G3bc9ncV_SfQhlhqG0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.206616,
+            "description": "This is a Product Manager | Business Payments role with Macquarie Group based in Sydney, NSW, AU  Macquarie Group  Role Seniority - mid level More about the Product Manager | Business Payments role at Macquarie Group Our Payments Product team is dedicated to developing and managing business payment solutions, including DEFT, BPAY Biller, and Direct Debit. Working alongside colleagues in Engineering, Risk, Legal, Supplier Management, Sales, and Operations, the team focuses on delivering secure, \u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5535763627?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Macquarie Group"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5535763627",
+            "created": "2025-12-10T14:25:48Z",
+            "latitude": -33.865715,
+            "title": "Product Manager | Business Payments"
+        },
+        {
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535763640?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Commonwealth Bank",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NzYzNjQwIn0.xzfaKppvP-Us8OLdECIAyU-2py49zXUyTt4KP1KVyXQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.206616,
+            "description": "This is a Senior Manager Everyday Banking Pricing role with Commonwealth Bank based in Sydney, NSW, AU  Commonwealth Bank  Role Seniority - senior More about the Senior Manager Everyday Banking Pricing role at Commonwealth Bank You\u2019re passionate about working alongside high performing product professionals We\u2019ve transformed our ways of working to take our customer obsession to the next level Together we can achieve big goals, empowering our customers and our team See yourself in our team Retail\u2026",
+            "created": "2025-12-10T14:25:48Z",
+            "id": "5535763640",
+            "latitude": -33.865715,
+            "title": "Senior Manager Everyday Banking Pricing"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535484424?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Rheem Australia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            },
+            "longitude": 151.206616,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a SAP Plan to Produce Consultant role with Rheem Australia based in Sydney, NSW, AU  Rheem Australia  Role Seniority - mid level More about the SAP Plan to Produce Consultant role at Rheem Australia About Us As a leading global manufacturer of heating and cooling equipment, we are innovating new ways to deliver a great customer experience while saving energy, water and supporting a more sustainable future. It is an exciting challenge that requires a team of talented, enthusiastic people\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NDg0NDI0In0.7WLUETfhzlWuYjDDo57UE1GFOpjAxbxDl58vWVMpOTI",
+            "latitude": -33.865715,
+            "title": "SAP Plan to Produce Consultant",
+            "created": "2025-12-10T11:21:21Z",
+            "id": "5535484424"
+        },
+        {
+            "latitude": -33.865715,
+            "title": "SAP S/4HANA Service Package Consultant",
+            "id": "5535508300",
+            "created": "2025-12-10T11:50:32Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a SAP S/4HANA Service Package Consultant role with IBM based in Sydney, NSW, AU  IBM  Role Seniority - senior More about the SAP S/4HANA Service Package Consultant role at IBM Introduction A career in IBM Consulting is rooted by long-term relationships and close collaboration with clients across the globe. You'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to acceler\u2026",
+            "longitude": 151.206616,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NTA4MzAwIn0.aEEGQQhyB8tisvpElLpE6zjdzKq6q9lIbZaOELLfrSg",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535508300?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            }
+        },
+        {
+            "description": "This is a Regulatory Reporting Manager - Banking and Financial Services role with Macquarie Group based in Sydney, NSW, AU  Macquarie Group  Role Seniority - mid level More about the Regulatory Reporting Manager - Banking and Financial Services role at Macquarie Group Our Banking and Financial Services Treasury Regulatory Reporting team in Sydney is dedicated to producing accurate balance sheet and statistical reports for external authorities, ensuring compliance with regulatory requirements. W\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.206616,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ3MDk2OCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.BnILjqHneNGnuaWV47fqAacDc9ujU7-FwpliQNibkmo",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.au/details/5535470968?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            },
+            "company": {
+                "display_name": "Macquarie Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": -33.865715,
+            "title": "Regulatory Reporting Manager - Banking and Financial Services",
+            "id": "5535470968",
+            "created": "2025-12-10T11:16:53Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.au/details/5535477276?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne",
+                    "Melbourne CBD"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne CBD, Melbourne"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IBM"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "This is a SAP S/4HANA Service Package Consultant role with IBM based in Melbourne, VIC, AU  IBM  Role Seniority - senior More about the SAP S/4HANA Service Package Consultant role at IBM Introduction A career in IBM Consulting is rooted by long-term relationships and close collaboration with clients across the globe. You'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to acce\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 144.963953,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NDc3Mjc2In0.6wWgi2Uj9JGPwB0tIvKAos3I9-K5x8xsVIAVx0wfmTs",
+            "title": "SAP S/4HANA Service Package Consultant",
+            "latitude": -37.81521,
+            "id": "5535477276",
+            "created": "2025-12-10T11:19:17Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "trade-construction-jobs",
+                "label": "Trade & Construction Jobs"
+            },
+            "company": {
+                "display_name": "ACCIONA Construcci\u00f3n",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5515182264?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTE4MjI2NCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.EfdDqXDxciaYQtWGOc70tp9jnTwKQpKiH1azMFjOIu4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ACCIONA is a global company, leading in the development of regenerative infrastructure that creates a positive impact on society. Our workforce consists of more than 65,000 professionals, present in more than 40 countries across the five continents, all contributing in our mission to design a better planet. Are you a passionate individual who wants to make a difference, promote sustainable development, and find solutions to the biggest global challenges including climate change, overpopulation,\u2026",
+            "created": "2025-11-27T05:53:28Z",
+            "id": "5515182264",
+            "title": "Procurement Officer"
+        },
+        {
+            "title": "Senior Research Manager (Health Manager Level 3)",
+            "latitude": -38.264305,
+            "created": "2025-12-10T11:50:32Z",
+            "id": "5535508306",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NSW Health"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535508306?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Warrnambool Region",
+                    "Corangamite Area",
+                    "Weerite"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Weerite, Corangamite Area"
+            },
+            "category": {
+                "label": "Admin Jobs",
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "This is a Senior Research Manager (Health Manager Level 3) role with NSW Health based in Camperdown, VIC, AU  NSW Health  Role Seniority - senior More about the Senior Research Manager (Health Manager Level 3) role at NSW Health Employment Type: Temporary Part Time (Minimum 20 hours per week) Up to January 2029 with possibility of ongoing employment Position Classification: Health Manager Level 3 Remuneration: $66.69 - $75.76 per hour  annual leave loading  Superannuation Location: Royal Prince\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 143.22014,
+            "contract_type": "contract",
+            "contract_time": "part_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTUwODMwNiIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.73VJRMkCG8kHIlQDSguPUKQ6QG07xZoYS6aNPU6prLc"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the role In this role, you will be responsible for the provision on Care Management services to a case load of Support at Home clients. You will be involved in the development and review of care plans and have oversight of the allocated funds of clients who are recipients of Support at Home Packages and their carers within our community. Work type: Permanent Full Time Classification: Band 6 Commencing at $95,760 pa plus super Key responsibilities include: Develop, implement, and review ho\u2026",
+            "longitude": 144.175264,
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NTM3MTM3In0.wcsx92Km83tnw09nQYhTysXWoZlEs-qm_1umAsYUZ5E",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Geelong Region"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Geelong Region, Victoria"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535537137?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "The City of Greater Geelong",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Social work Jobs",
+                "tag": "social-work-jobs"
+            },
+            "latitude": -38.272291,
+            "title": "Care Partner",
+            "created": "2025-12-10T12:29:40Z",
+            "id": "5535537137"
+        },
+        {
+            "created": "2025-12-10T11:14:16Z",
+            "id": "5535461106",
+            "latitude": -37.81521,
+            "title": "Finance Partner - Technology Risk & Remediation and Chief Operating Office",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ2MTEwNiIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.8nWUS_acPnHPsA_pnBzdVntC1Aru1uqV42YQy34fttQ",
+            "longitude": 144.963953,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Finance Partner - Technology Risk & Remediation and Chief Operating Office role with NAB based in Melbourne, VIC, AU  NAB  Role Seniority - senior More about the Finance Partner - Technology Risk & Remediation and Chief Operating Office role at NAB Drive financial insight and analysis based on a deep understanding of the Technology Risk & Remediation Investment spend and Chief Operating Officer business areas. Opportunity to show your uncompromising drive to help innovate and drive ch\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne CBD, Melbourne",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne",
+                    "Melbourne CBD"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535461106?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "NAB",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535270260?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "Surry Hills"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Surry Hills, Sydney"
+            },
+            "company": {
+                "display_name": "News Corp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.21333,
+            "description": "What's the role? Are you highly organized, detail-oriented, and eager to master the inner workings of a major media business? News Corp Australia is seeking a proactive Client Operations Executive to join our Client Partnerships team. This role is the essential engine room that keeps our commercial priorities moving, offering a unique chance to gain broad exposure across multiple business departments and provide a clear pathway into future Client Operations and Project Management careers. Key R\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MjcwMjYwIn0.f7LSTghnBxFqYQEE8LGhZTsgjkaF1jOwlhwZVfHmf14",
+            "latitude": -33.88882,
+            "title": "Client Operations Executive",
+            "id": "5535270260",
+            "created": "2025-12-10T06:07:35Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535271953?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Commonwealth Bank of Australia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are embarking on an engineering transformation with a key focus on Full Stack Engineering You have knowledge that spans both development and operations, including coding, infrastructure management, system admin/engineering, and DevOps toolchains. Together we will build tomorrow\u2019s bank today, using world-leading engineering, technology, and innovation. Do work that matters: As a Senior Engineering Manager, you\u2019ll play a pivotal role in leading the technical vision and architecture for a major\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MjcxOTUzIn0.0Ghn4n9E8lKm4GO18iRVrHZpxtb1QA9aJ4hlzZbTruk",
+            "title": "Senior Engineering Manager",
+            "id": "5535271953",
+            "created": "2025-12-10T06:07:48Z"
+        },
+        {
+            "title": "Administration Officer",
+            "latitude": -33.865715,
+            "created": "2025-12-10T14:05:06Z",
+            "id": "5535741497",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Administration Officer role with NSW Health based in Sydney, NSW, AU  NSW Health  Role Seniority - mid level More about the Administration Officer role at NSW Health Employment Type: Permanent Full Time Location: Nepean Hospital Position Classification: Administration Officer Level 3 Remuneration: $71,072.43 - $73,287.41 per annum Hours Per Week: 38 Requisition ID: REQ625761 Applications Close: 18/12/2025 With CORE Values of Collaboration, Openness, Respect and Empowerment working wit\u2026",
+            "longitude": 151.206616,
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc0MTQ5NyIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.mPe84YB6-DcUW0t6AamMApOm0uTTvY4xlV1FmBsC-KI",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535741497?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "NSW Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5535496954?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The Rocks, Sydney",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Perpetual Limited"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NDk2OTU0In0.2Rw-_cyYBLS2R_z24hoEk5Mq2j1MU3CxN0FbWJRQCDg",
+            "description": "This is a Senior Investment Analyst, Pendal Income & Fixed Interest role with Perpetual Limited based in Sydney, NSW, AU  Perpetual Limited  Role Seniority - senior More about the Senior Investment Analyst, Pendal Income & Fixed Interest role at Perpetual Limited Shape investment outcomes. Build capability. Grow with a high-performing team. Hybrid working \u2022 Purposeful impact \u2022 Continuous learning About Pendal Pendal is an active investment manager within the Perpetual Group, known for independe\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.206616,
+            "id": "5535496954",
+            "created": "2025-12-10T11:25:25Z",
+            "title": "Senior Investment Analyst, Pendal Income & Fixed Interest",
+            "latitude": -33.865715
+        },
+        {
+            "id": "5535475096",
+            "created": "2025-12-10T11:18:33Z",
+            "title": "Research Officer (Health Manager Level 1)",
+            "latitude": -38.264305,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ3NTA5NiIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.mIpxr_h7Zss-_pU3cr-VNAavVOQJtbxDGW3vy6xsMes",
+            "contract_time": "part_time",
+            "contract_type": "contract",
+            "longitude": 143.22014,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Research Officer (Health Manager Level 1) role with NSW Health based in Camperdown, VIC, AU  NSW Health  Role Seniority - junior More about the Research Officer (Health Manager Level 1) role at NSW Health Employment Type: Temporary Part Time (Minimum 20 hours per week) up to December 2028 with possibility of ongoing employment Position Classification: Health Manager Level 1 Remuneration: $44.28 - $58.91 per hour  annual leave loading  Superannuation Location: Royal Prince Alfred Hospi\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NSW Health"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535475096?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Weerite, Corangamite Area",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Warrnambool Region",
+                    "Corangamite Area",
+                    "Weerite"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Research Officer - Public Health and Substance Use",
+            "latitude": -37.81521,
+            "id": "5535474986",
+            "created": "2025-12-10T11:18:31Z",
+            "longitude": 144.963953,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is a Research Officer - Public Health and Substance Use role with Monash University based in Melbourne, VIC, AU  Monash University  Role Seniority - mid level More about the Research Officer - Public Health and Substance Use role at Monash University Job No.: 687696 Location: Peninsula campus Employment Type: Part-time, fraction (0.6) - Full-time (1.0) Duration: 12-months fixed-term appointment Remuneration: Pro-rata of $96,768 - $104,450 pa HEW Level 06 (plus 17% employer superannuation) \u2026",
+            "contract_time": "part_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ3NDk4NiIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.2NtNfpbbzG2BPXB5p4w4YfzcIffk_UxwB6SmEb0v0GI",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Scientific & QA Jobs",
+                "tag": "scientific-qa-jobs"
+            },
+            "location": {
+                "display_name": "Melbourne CBD, Melbourne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne",
+                    "Melbourne CBD"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535474986?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Monash University"
+            }
+        },
+        {
+            "description": "Experience Coordinator - Position Description About the Opportunity We are looking for driven, motivated people to jump into a fast paced start-up culture and make a difference in a growing team! AmazingCo creates and delivers unique experiences all around the US, UK and Australia - on a mission to help people live more fulfilling lives. We are looking for people who are just as passionate about that as we are, and take pride in delivering quality customer outcomes. We genuinely believe this is\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MzU1NTcwMSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.Kict7EVS3psc2mR9TVKaqXyRQ82D8ljmPWVcVGA2KQE",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Admin Jobs",
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5463555701?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AmazingCo"
+            },
+            "title": "Experience Coordinator (Full-Time, Temporary Position)",
+            "id": "5463555701",
+            "created": "2025-10-25T13:24:28Z"
+        },
+        {
+            "title": "Principal Solution Architect - CRM",
+            "id": "5512316458",
+            "salary_max": 185518,
+            "company": {
+                "display_name": "Department of Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5512316458?utm_medium=api&utm_source=58c69264",
+            "longitude": 144.957935,
+            "description": "About the role: The Principal Solution Architect is part of the Communities and Families Portfolio, which is responsible for leading the development and implementation of various solutions and initiatives within the program. The Principal Solution Architect is responsible for assessing technology platforms and designs application and reporting architecture based on business, functional and non-functional requirements, this includes defining the interaction between application packages, database\u2026",
+            "salary_min": 138631,
+            "latitude": -37.806509,
+            "created": "2025-11-25T21:51:12Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMjMxNjQ1OCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.gzxrj6PQ7AK_6zHtI-sY3UNsQw-2d-DUJPDdiRTBuyY"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Role At Resmed, we\u00e2\u0080\u0099re transforming how people experience sleep and respiratory care \u00e2\u0080\u0094 not just online, but in every space where people discover, learn, and connect with our solutions. As the Global Marketplace & Emerging Channel Marketing Lead , you will shape and drive Resmed\u00e2\u0080\u0099s commercial growth across global marketplaces and emerging direct-to-consumer channels. This role sits within the Global Consumer Marketing organisation , partnering closely with regional eCommerce and ma\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0NzA4NTY4In0.xuIHzXrdsnT7LfZdUKjiyctRkSqXkpcWMWktwPw_Y-4",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, Advertising & Marketing Jobs"
+            },
+            "company": {
+                "display_name": "ResMed",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5534708568?utm_medium=api&utm_source=58c69264",
+            "title": "Global Marketplace & Emerging Channel Marketing Lead",
+            "created": "2025-12-10T03:48:45Z",
+            "id": "5534708568"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hewlett Packard Enterprise"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5510799759?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "HPE Networking South Pacific Channel Operations This role has been designated as \u2018Remote/Teleworker\u2019, which means you will primarily work from home. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today\u2019s complex world. Our culture t\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDc5OTc1OSIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.Gn2KWzoJ4u6mwqqBAFB3gx1dZ2ggw9SSDbmzfK9CK_0",
+            "contract_time": "full_time",
+            "title": "HPE Networking South Pacific Channel Operations",
+            "id": "5510799759",
+            "created": "2025-11-24T10:20:26Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDUyNTI1NDA5In0.UvRo0HuD4MMqIboTsTlKmQgcqKvD5rUujdxP-Eh3iJQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn't work together. So we expanded into software and started building integrated, omnichannel solutions \u2013 to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across \u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs",
+                "tag": "sales-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5452525409?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Block",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-10-18T04:19:35Z",
+            "id": "5452525409",
+            "title": "Business Development Representative - SMB"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1MTgwNTEzIn0.WJcliXumxYdDxDcKpgvQGscU-v0yAyMlXL_yB6ZvqG0",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ACCIONA is a global company, leading in the development of regenerative infrastructure that creates a positive impact on society. Our workforce consists of more than 65,000 professionals, present in more than 40 countries across the five continents, all contributing in our mission to design a better planet. Are you a passionate individual who wants to make a difference, promote sustainable development, and find solutions to the biggest global challenges including climate change, overpopulation,\u2026",
+            "company": {
+                "display_name": "ACCIONA Construcci\u00f3n",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5515180513?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "trade-construction-jobs",
+                "label": "Trade & Construction Jobs"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-27T05:51:42Z",
+            "id": "5515180513",
+            "title": "Senior Procurement Officer"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAzNzY4OTkyIn0.b8Fqp_2q0Rl1zQQK665E5SHZG14qtDkAj79dXxpIXHU",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.00345,
+            "description": "Ready to make a splash in your career? WaterNSW is seeking an experienced Domain Architect - Enterprise Security (full-time, permanent) to join our team. This is an opportunity to work with an essential organisation creating a more sustainable future for the state. This role offers the flexibility to work around life, your contribution will be valued, and you\u2019ll be supported to build a rewarding career. Our perks and Benefits: At WaterNSW , we believe that our employees should be as well taken \u2026",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5503768992?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Parramatta, Parramatta Area",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Western Sydney",
+                    "Parramatta Area",
+                    "Parramatta"
+                ]
+            },
+            "company": {
+                "display_name": "Enterprise Security",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-20T06:01:58Z",
+            "id": "5503768992",
+            "title": "Domain Architect - Enterprise Security",
+            "latitude": -33.81696
+        },
+        {
+            "created": "2025-11-25T07:06:28Z",
+            "id": "5511675567",
+            "title": "Commercial Mortgage Valuer - SA",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JLL"
+            },
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5511675567?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Property Jobs",
+                "tag": "property-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTExNjc1NTY3In0.28CtBT07RR2UNqFvdYY4J0jMIRNCoMtg2zEzqiYiO5o",
+            "description": "JLL empowers you to shape a brighter way . Our people at JLL and JLL Technologies are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Who We Are At Contour, we\u2019re reshaping education, one student at a time. Born from the frustration of students who knew the system could be better, we set out to build what we once wished existed: tutoring that actually works. Not generic classes. Not recycled notes. Not overpriced, overcrowded rooms with an out-of-touch teacher who couldn\u2019t relate. But a complete ecosystem of tutoring, resources, and support, meticulously designed to help every student reach their full potential. Since 2020, o\u2026",
+            "longitude": 115.86056,
+            "salary_min": 100000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Contour Education"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5524643916?utm_medium=api&utm_source=58c69264",
+            "salary_max": 120000,
+            "title": "Area Manager - Perth",
+            "id": "5524643916",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDY0MzkxNiIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.IeauEx8nwqPZvBWQl8l7_J1GVgCL1U-ZJcEVb_dYnYU",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Perth, Perth Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Western Australia",
+                    "Perth Region",
+                    "Perth"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs",
+                "tag": "teaching-jobs"
+            },
+            "latitude": -31.948808,
+            "created": "2025-12-03T06:08:46Z"
+        },
+        {
+            "id": "5519620914",
+            "created": "2025-11-30T06:01:46Z",
+            "title": "Business Development Manager Lead",
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTYyMDkxNCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.MWTcSrmeTuWvfi0OI5G2L_EX6cLumOoQM_s8I4Iz_3s",
+            "contract_time": "full_time",
+            "description": "At eBay, we're more than a global ecommerce leader \u2014 we\u2019re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We\u2019re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work \u2014 every day. We're in this together, sustaining the futur\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "redirect_url": "https://www.adzuna.com.au/details/5519620914?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "company": {
+                "display_name": "eBay",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "Sales Jobs",
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5534750798",
+            "created": "2025-12-10T04:19:48Z",
+            "title": "Health Information Manager - Digital Workflow and Automation Projects",
+            "latitude": -37.806509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0NzUwNzk4In0.A3OyeO07XygoupZrtNjlwFXHs13BJVARH3ji0KGzMqs",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Reference Number:\u00c2 [[id]] :\u00c2 \u00c2 [[title]] \u00c2 Employment Type:\u00c2 [[filter2]] \u00c2 Location:\u00c2 [[custJobl]] \u00c2 \u00c2 About Northern Health: \u00c2 As an organisation we have a clear focus on how we service and partner with our community, including our strategy of helping the community stay well when at home. Our reputation of community minded, inclusive and progressive is matched to none.\u00c2 Northern Health is located in the rapidly growing northern suburbs with projected growth the biggest in the state. With a boo\u2026",
+            "longitude": 144.957935,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5534750798?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Northern Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTgxMDA2OCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.u9Xi_LbOuuVdKhnytWHNPn5p16de7qg9AWu67loCPNM",
+            "description": "Ballarat Clarendon College - different by design Ballarat Clarendon College is different by design. Clarendon's knowledge-rich and sequenced curriculum, its commitment to explicit teaching, approach to the structure of lessons, classroom management and data analysis makes it different from other schools - deliberately so. At Clarendon, we believe that learning should not be a lottery. Students should never feel \u2018lucky' to have one teacher but \u2018unlucky' to be taught by another. If a teacher is s\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 143.855665,
+            "redirect_url": "https://www.adzuna.com.au/details/5505810068?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Ballarat Region",
+                    "Ballarat"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ballarat, Ballarat Region"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ballarat Clarendon College"
+            },
+            "category": {
+                "label": "Teaching Jobs",
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5505810068",
+            "created": "2025-11-21T06:07:39Z",
+            "title": "Chemistry Teacher",
+            "latitude": -37.552695
+        },
+        {
+            "created": "2025-12-05T05:52:41Z",
+            "id": "5527987138",
+            "title": "Nursing Manager",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzk4NzEzOCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.Q_Joyx7FXrxuDiT-wMr7mUTmN0-sCCzd77qwePFc0Bg",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Nursing Manager - Home Care Are you a motivated Registered Nurse looking to make a real difference in your community? This is an exciting opportunity to use your skills to enhance the independence, health and wellbeing of older Australians \u2013 while enjoying flexibility, support, and a great team environment. Key features A comprehensive range of Employee Benefits from health & wellness to professional development opportunities Competitive pay with tax-free salary packaging Supportive team cultur\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BaptistCare"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5527987138?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "healthcare-nursing-jobs",
+                "label": "Healthcare & Nursing Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5510799760",
+            "created": "2025-11-24T10:20:26Z",
+            "title": "Staff Software Engineer - Power Platform & Copilot Studio",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Commonwealth Bank of Australia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5510799760?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDc5OTc2MCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.vs_eyCBvfHKyzvjPen1peUlFD2Q6uACFVbQA-IuCWXQ",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Staff Engineer \u2013 Power Platform & Copilot Studio You are ready to be part of engineering transformation of chat, messaging, voice and automation platforms powered by AI using Power Platform and Copilot Studio. We are a collaborative crew driving innovation in cloud, AI, and low-code solutions, supporting world class chatbot, voicebot and automation at scale. Together we can build secure, scalable, and intelligent solutions that empower our business and customers, shaping the future of enterpris\u2026"
+        },
+        {
+            "title": "Commercial Analyst - Contract Management",
+            "id": "5403277255",
+            "created": "2025-09-18T03:28:38Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Toll Group At Toll, we do more than just logistics - we move the businesses that move the world. Our 16,000 team members can help solve any logistics, transport, or supply chain challenge \u2013 big or small. We have been supporting our customers for more than 130 years. Today, we support more than 20,000 customers worldwide with 500 sites in 27 markets, and a forwarding network spanning 150 countries. We are proudly part of Japan Post \u2014 www.tollgroup.com We are seeking dynamic, visionary prof\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDAzMjc3MjU1In0.SIRQU1q4gTvEuUtn_01dWLU6Zuc7ffDc1EadmaacyVo",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Toll Group"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5403277255?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "id": "5535119479",
+            "title": "Clinical Nurse - Central Sterilisation Department",
+            "salary_max": 121264,
+            "redirect_url": "https://www.adzuna.com.au/details/5535119479?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mater Group"
+            },
+            "salary_min": 113256,
+            "contract_type": "permanent",
+            "description": "Mater Hospital Springfield is seeking applications for a Clinical Nurse to join us in our Perioperative department in a permanent full-time role, 38 hours per week. Mater Hospital Springfield\u2019s Perioperative Department is one department delivering care to public and private patients. Based at our Springfield campus, these roles will be part of a landmark moment in Queensland healthcare at Mater Hospital Springfield \u2014 opening early 2026. As Mater\u2019s first new public hospital in over 60 years, thi\u2026",
+            "longitude": 138.63065,
+            "created": "2025-12-10T05:52:41Z",
+            "latitude": -34.97767,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "healthcare-nursing-jobs",
+                "label": "Healthcare & Nursing Jobs"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "South Australia",
+                    "Adelaide Region",
+                    "Mitcham Area",
+                    "Springfield"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Springfield, Mitcham Area"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MTE5NDc5In0.FQeY2-lT97-52VnWDCxAgncR3YBj_WOpOvbr6SiUaqc",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5480111154",
+            "created": "2025-11-05T01:33:43Z",
+            "title": "Analyst/Senior Analyst \u2013 Capital Markets - Office | Queensland",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JLL"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5480111154?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "East Brisbane"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "East Brisbane, Brisbane"
+            },
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgwMTExMTU0In0.TgNzRnE5Ez4PT6Gd2DqJ1GUR6ODJNU2w14Hh3FHrf6o",
+            "contract_time": "full_time",
+            "description": "JLL empowers you to shape a brighter way . Our people at JLL and JLL Technologies are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Who we are Prysmian is the largest global cable manufacturer, with over 100 years of experience and knowledge of making cables. With a strong focus on our three core values, Drive, Trust & Simplicity, we are committed to creating a diverse and inclusive workforce and encourage all suitably qualified applicants to apply. We work to be the sustainable link to the future. For more than 140 years, our company has been leading the industry of high-technology cables & systems for energy and telecommu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.28554,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI0NjE5NTk1In0.pXufsd6yQ2cVPASB8x39pJkXSzjBt6CuNKZUTdX7fec",
+            "contract_time": "full_time",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Manufacturing Jobs",
+                "tag": "manufacturing-jobs"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Northern Beaches",
+                    "Manly Area",
+                    "Dee Why"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Dee Why, Manly Area"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5524619595?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Prysmian Group"
+            },
+            "latitude": -33.75345,
+            "title": "Planning Intern",
+            "id": "5524619595",
+            "created": "2025-12-03T05:55:24Z"
+        },
+        {
+            "title": "Senior Software Engineer, Storage Engines",
+            "id": "5452524240",
+            "created": "2025-10-18T04:17:00Z",
+            "description": "The database market is massive (IDC estimates it to be $121B by 2025!) and MongoDB is at the head of its disruption. At MongoDB, we are transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity. The Storage Engines team is building WiredTiger, a cutting-edge open-source storage engine. WiredTi\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MjUyNDI0MCIsInMiOiJIcEh6QmNfVzhCR3hfTnRkbF92T3J3In0.geQb2wksy-sUpes0OTLQk5mK-U15x09sTPp-50P46Tw",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "MongoDB",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5452524240?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "trade-construction-jobs",
+                "label": "Trade & Construction Jobs"
+            },
+            "company": {
+                "display_name": "ACCIONA Construcci\u00f3n",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535122867?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSHBIekJjX1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MTIyODY3In0.vW0-80gYYJR4GT5FD-3g9PvZ_Ki9IPuB1FzGU5wlmks",
+            "description": "ACCIONA is a global company, leading in the development of regenerative infrastructure that creates a positive impact on society. Our workforce consists of more than 65,000 professionals, present in more than 40 countries across the five continents, all contributing in our mission to design a better planet. Are you a passionate individual who wants to make a difference, promote sustainable development, and find solutions to the biggest global challenges including climate change, overpopulation,\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5535122867",
+            "created": "2025-12-10T05:53:40Z",
+            "title": "Procurement Officer"
+        }
+    ],
+    "count": 14587,
+    "mean": 113870.02
+}

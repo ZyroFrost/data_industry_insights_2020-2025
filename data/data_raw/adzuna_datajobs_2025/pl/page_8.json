@@ -1,0 +1,1512 @@
+{
+    "mean": 205645.98,
+    "count": 36482,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "created": "2025-11-08T15:53:10Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg3Mjg5OTg0In0.f7s2NYUaDepkN0-dVkSwQjnfN8hxGEjMPl6UWuDHtKQ",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5487289984?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=865681D1CA674F93CD9D4DE9C6F8B732CA302E5C",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.10789,
+            "description": "Senior Backend Developer (Data Engineer) Miejsce pracy: Wroc\u0142aw Technologie, kt\u00f3rych u\u017cywamy Wymagane Python PySpark pandas ETL SQL Airflow Kubernetes Mile widziane MLOps DevSecOps Tw\u00f3j zakres obowi\u0105zk\u00f3w Projektowanie i budowanie architektury danych na potrzeby organizacji. Integracja danych z r\u00f3\u017cnych \u017ar\u00f3de\u0142, zar\u00f3wno batch, jak i stream. Automatyzacja proces\u00f3w ETL oraz orkiestracja przep\u0142yw\u00f3w danych. Wsparcie dla zespo\u0142\u00f3w analitycznych, data scientist\u00f3w oraz u\u017cytkownik\u00f3w biznesowych w dost\u0119pie \u2026",
+            "longitude": 17.03854,
+            "location": {
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Backend Developer (Data Engineer)",
+            "id": "5487289984",
+            "company": {
+                "display_name": "PSE INNOWACJE SP Z O O",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-10T14:33:06Z",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5536132177?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4BFB78C2880D382FD884FF78C6AA50A33BFDE21B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM2MTMyMTc3In0.fRbGldEaWBN2Kf4zebQ4Of9s2kGGc3anuWGqpp31Gww",
+            "description": "Senior Data Engineer with Databricks Miejsce pracy: Warszawa Technologies we use Expected Python Apache Spark Databricks Git About the project Python ApacheSpark Databricks MSSQL Git CI/CD Docker Azure Kubernetes Are you ready to join our international team as a Senior Data Engineer with Databricks? We shall tell you why you should What products do we develop? KMD Elements is a cloud-based solution tailored for the energy and utility market. It offers a highly efficient way to handle complex da\u2026",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Senior Data Engineer with Databricks",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "KMD Poland Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5536132177",
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 21.2453
+        },
+        {
+            "latitude": 53.02777,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Toru\u0144 Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focus \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Data Scientist with GenAI focus",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii Sp. z o.o."
+            },
+            "id": "5514483505",
+            "longitude": 18.67662,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Toru\u0144, kujawsko-pomorskie",
+                "area": [
+                    "Polska",
+                    "kujawsko-pomorskie",
+                    "Toru\u0144"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-26T13:30:36Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE0NDgzNTA1In0.IrdOu1w9C8xwJopQs9Vz1rs6jjOHhrHyQy4fP6RhP-U",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483505?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8AC7AD8F009B44482E8050F4D8CF1FAC79D8E23F"
+        },
+        {
+            "title": "Data Scientist with GenAI focus",
+            "salary_is_predicted": "0",
+            "id": "5514483219",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 14.60616,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "zachodniopomorskie",
+                    "Szczecin"
+                ],
+                "display_name": "Szczecin, zachodniopomorskie"
+            },
+            "latitude": 53.49874,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Szczecin Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI foc\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzIxOSIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.Bgr-mpY5leKSpclvKLR_VBepACiEci2sCWOQXxgxRl4",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483219?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1B44EEB306CFDA316C904A5A494C9F89C4CF8157",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-26T13:30:30Z"
+        },
+        {
+            "latitude": 53.12348,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Bydgoszcz Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI fo\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Data Scientist with GenAI focus",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5514483225",
+            "longitude": 18.00844,
+            "location": {
+                "area": [
+                    "Polska",
+                    "kujawsko-pomorskie",
+                    "Bydgoszcz"
+                ],
+                "display_name": "Bydgoszcz, kujawsko-pomorskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-26T13:30:30Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzIyNSIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.Uh3bNL8M6zWKlv0vSXbUjwrfgAMP860I04KO-5a88us",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483225?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=83A9DD3837A3135BD249FD8C4BE2F72F5C16EB36"
+        },
+        {
+            "created": "2025-11-26T13:30:30Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzIxMCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.Hc77TOGfQrgyPV7dxIl83KewP1LrFgropYPWAIl0GwE",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483210?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=B716ACB8EBE419B2A1AE456221B5275EA8F209CC",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 53.1928,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Pi\u0142a Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focus a\u2026",
+            "longitude": 16.78035,
+            "location": {
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pi\u0142a"
+                ],
+                "display_name": "Pi\u0142a, wielkopolskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Data Scientist with GenAI focus",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5514483210"
+        },
+        {
+            "created": "2025-11-26T13:30:36Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzQ5OCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.wN11z2T0WPl9ZBJBGhkKj8v5EFoW2og8lQNB8kT9hEs",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483498?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1B2027407A3020C8E79D6775EBA0F3AA2CC7F1F1",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.77497,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: \u0141\u00f3d\u017a Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focus a\u2026",
+            "longitude": 19.6198,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "\u0142\u00f3dzkie",
+                    "\u0141\u00f3d\u017a"
+                ],
+                "display_name": "\u0141\u00f3d\u017a, \u0142\u00f3dzkie"
+            },
+            "salary_is_predicted": "0",
+            "id": "5514483498",
+            "title": "Data Scientist with GenAI focus",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii Sp. z o.o."
+            }
+        },
+        {
+            "created": "2025-11-26T13:30:37Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483510?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C2DEB822C1220750687D6E77CBBEEFB31AC14113",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE0NDgzNTEwIn0.Tg992wtfn7pNwj7VuF1LPbntUSk2h4JTnJMg3O5KpP4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Lublin Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focus\u2026",
+            "latitude": 51.24645,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Lublin, lubelskie",
+                "area": [
+                    "Polska",
+                    "lubelskie",
+                    "Lublin"
+                ]
+            },
+            "longitude": 22.56845,
+            "salary_is_predicted": "0",
+            "title": "Data Scientist with GenAI focus",
+            "id": "5514483510",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483499?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=64C1F1E62C4FE863E9B1E3EE0E573928E56E3153",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzQ5OSIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.VLeZuoRKCvMJRJngOpau48hjNmgv7IhTcx7CF7nl-VM",
+            "created": "2025-11-26T13:30:36Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pozna\u0144, wielkopolskie",
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pozna\u0144"
+                ]
+            },
+            "longitude": 16.93875,
+            "salary_is_predicted": "0",
+            "title": "Data Scientist with GenAI focus",
+            "id": "5514483499",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii Sp. z o.o."
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Pozna\u0144 Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focus\u2026",
+            "latitude": 52.40321
+        },
+        {
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-26T13:30:36Z",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483506?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D867680B00774D910318288C3661D91238D504B3",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE0NDgzNTA2In0.OQmCdrqJ2HbY-FYNHA0rZU3Vjyf03bdMe_nHnOFqv4Q",
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Krak\u00f3w Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focus\u2026",
+            "latitude": 50.1024,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Data Scientist with GenAI focus",
+            "salary_is_predicted": "0",
+            "id": "5514483506",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii Sp. z o.o."
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ]
+            },
+            "longitude": 20.17848
+        },
+        {
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-26T13:30:37Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzUxNiIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.OQzlkt5-naUe5cO35iHseRz9qtWn6wfELUo6jRXSF7I",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483516?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F47207796FD160C32CAE2CED41C7B678B1966A8D",
+            "latitude": 54.35203,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Gda\u0144sk Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focus\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Scientist with GenAI focus",
+            "id": "5514483516",
+            "longitude": 18.64664,
+            "location": {
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-26T13:30:30Z",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483220?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3329C91833E864A656FA30191C8709072B97FAC6",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE0NDgzMjIwIn0.wGNkuyLFIUsOJuvbMz27b_qcWXDpe-nycKXxqO1buVQ",
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Katowice Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI foc\u2026",
+            "latitude": 50.26008,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Data Scientist with GenAI focus",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5514483220",
+            "location": {
+                "area": [
+                    "Polska",
+                    "\u015bl\u0105skie",
+                    "Katowice"
+                ],
+                "display_name": "Katowice, \u015bl\u0105skie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 19.02547
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzUwOSIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.5ydQixlaNXl9Sp8WAQF30r5yoCuxaI5sme2Nqxm5GSY",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483509?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8C68092FB2A5BCAE3640C966834D90B65E88E449",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-26T13:30:37Z",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Scientist with GenAI focus",
+            "id": "5514483509",
+            "longitude": 17.03854,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "latitude": 51.10789,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Wroc\u0142aw Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Data Scientist with GenAI focus",
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5514483518",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "longitude": 21.2453,
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Warszawa Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI foc\u2026",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483518?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2968ACACE522EBAAEC395B77671E83A27CD63F92",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE0NDgzNTE4In0.RElFJ4rIcwKuHZggHvpMyhMw3pgYK4Y1B_xOkbbMLpY",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-11-26T13:30:37Z"
+        },
+        {
+            "location": {
+                "area": [
+                    "Polska",
+                    "podlaskie",
+                    "Bia\u0142ystok"
+                ],
+                "display_name": "Bia\u0142ystok, podlaskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 23.16884,
+            "company": {
+                "display_name": "Sii Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Scientist with GenAI focus",
+            "id": "5514483515",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Bia\u0142ystok Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI fo\u2026",
+            "latitude": 53.13249,
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483515?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=52341F989A3C94460C83CBE797547D80D8BDAD63",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzUxNSIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.Krbm8UH4fUSQvzPTE037yJF5PeIPaaLftynd4tQO6IQ",
+            "created": "2025-11-26T13:30:37Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            }
+        },
+        {
+            "created": "2025-11-26T13:30:36Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483493?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3615BDAF5047FB9A0B67647212CE1775D7D93A80",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzQ5MyIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.ANEUEw0f7IK1l_H28_B9y_KmImcdeXyZey-CLJvmlI4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Scientist with GenAI focus Miejsce pracy: Rzesz\u00f3w Technologies we use Expected Python Optional AWS Kubernetes About the project Our client, a global leader in cloud communications and APIs, is shaping the way businesses connect with their customers worldwide. Known for cutting-edge solutions that combine voice, messaging, video, and AI-powered interactions, the company empowers developers and enterprises to deliver seamless, scalable digital experiences. As a Data Scientist with GenAI focu\u2026",
+            "latitude": 50.04228,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "podkarpackie",
+                    "Rzesz\u00f3w"
+                ],
+                "display_name": "Rzesz\u00f3w, podkarpackie"
+            },
+            "longitude": 22.00695,
+            "title": "Data Scientist with GenAI focus",
+            "salary_is_predicted": "0",
+            "id": "5514483493",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii Sp. z o.o."
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/land/ad/5520119008?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A2E6C0DB3719E4EF8BC63E09E424F5225ECBEB60",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwMTE5MDA4In0.WZf56OOSa6Z4eShqpUy2K0aao9GuOBBOI9MGL5AZHCA",
+            "created": "2025-11-30T13:06:58Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie"
+            },
+            "longitude": 21.2453,
+            "id": "5520119008",
+            "salary_is_predicted": "0",
+            "title": "Big Data Engineer with French",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cyclad"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Big Data Engineer with French Miejsce pracy: Warszawa Technologies we use Expected Hadoop Elasticsearch Kafka Logstash Kibana Red Hat Enterprise Architect Optional HBase Hive Knox Ranger Oozie About the project In Cyclad we work with top international IT companies in order to boost their potential in delivering outstanding, cutting edge technologies that shape the world of the future. For our customer, we are looking for a skilled Big Data Engineer to manage, maintain, and optimize large-scale \u2026",
+            "latitude": 52.21519
+        },
+        {
+            "created": "2025-12-09T02:42:18Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTg4ODkwIn0.OQj6mGwM_DTy5ROy_Zr0epTOPes8NJALikNGp6aUTmc",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188890?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=05DD6BB83ED522A8020DDCDC48F6050CE9DBB279",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.24645,
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Lublin Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building and\u2026",
+            "longitude": 22.56845,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Lublin, lubelskie",
+                "area": [
+                    "Polska",
+                    "lubelskie",
+                    "Lublin"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "id": "5534188890",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sollers Consulting"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bia\u0142ystok, podlaskie",
+                "area": [
+                    "Polska",
+                    "podlaskie",
+                    "Bia\u0142ystok"
+                ]
+            },
+            "longitude": 23.16884,
+            "id": "5534188672",
+            "salary_is_predicted": "0",
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sollers Consulting"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Bia\u0142ystok Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building \u2026",
+            "latitude": 53.13249,
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188672?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7FBAFD437B15B37283FD8428EE9BB4811F353E1C",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTg4NjcyIn0.BOXZwxC4jTpwHAX43PucNL2aciE8pxSGOTcl8Pl3YrA",
+            "created": "2025-12-09T02:42:01Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-09T02:42:18Z",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188899?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F4FA4537A7B54817A916C33B414B2CD6A9120545",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTg4ODk5In0.4aNRGqPWYYIbGd5sCNQMk5AAfraJMBzSZ6jk1iBsQc4",
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Wroc\u0142aw Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building an\u2026",
+            "latitude": 51.10789,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sollers Consulting"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "id": "5534188899",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "longitude": 17.03854
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188898?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3085E151CB54E1F28FFFCC979E7DD020C907FA6E",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDE4ODg5OCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.yvRBTLOBEtiH-hCZG2K0ijHoXcrnc3TPB74kTNihLvw",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-09T02:42:18Z",
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "salary_is_predicted": "0",
+            "id": "5534188898",
+            "company": {
+                "display_name": "Sollers Consulting",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "zachodniopomorskie",
+                    "Szczecin"
+                ],
+                "display_name": "Szczecin, zachodniopomorskie"
+            },
+            "longitude": 14.60616,
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Szczecin Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building a\u2026",
+            "latitude": 53.49874,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Krak\u00f3w Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building and\u2026",
+            "latitude": 50.1024,
+            "location": {
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 20.17848,
+            "salary_is_predicted": "0",
+            "id": "5534188674",
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sollers Consulting"
+            },
+            "created": "2025-12-09T02:42:01Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188674?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=46B2B1C2A954B22DFB139824AB050FB67AE2FF7F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDE4ODY3NCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.WgbIChZ3ETEOwE9EShgoOfml-63aHKYZtZcWZDGz-Xs"
+        },
+        {
+            "created": "2025-12-09T02:42:01Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188673?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DD98465C3CA4BF473D1F172F31D3124C7002A5F1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTg4NjczIn0.HNsRoaIcF678No68-7A8v3-fPhgRTatXqDU5QpF8ihA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Gda\u0144sk Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building and\u2026",
+            "latitude": 54.35203,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ]
+            },
+            "longitude": 18.64664,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sollers Consulting",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "id": "5534188673"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-09T02:42:01Z",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188677?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=861AB9F6AA78826AFB34984A43958524987E6616",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTg4Njc3In0.u34PzlyETZnev7snSoN-sr_7zoFQnxYSHpYJ4StrVeg",
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Warszawa Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building a\u2026",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5534188677",
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "company": {
+                "display_name": "Sollers Consulting",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 21.2453
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTg4ODk3In0.S5Q7wAktcCZt4ov4MPwfkE0SyJLJQuZsxwzo6D-Zq8I",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188897?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=CD9A8745F08DD8C23EF9052CB6DFCB8248190E4B",
+            "created": "2025-12-09T02:42:18Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 16.93875,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pozna\u0144"
+                ],
+                "display_name": "Pozna\u0144, wielkopolskie"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "id": "5534188897",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sollers Consulting"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.40321,
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: Pozna\u0144 Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building and\u2026"
+        },
+        {
+            "location": {
+                "display_name": "\u0141\u00f3d\u017a, \u0142\u00f3dzkie",
+                "area": [
+                    "Polska",
+                    "\u0142\u00f3dzkie",
+                    "\u0141\u00f3d\u017a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 19.6198,
+            "title": "Data Engineer (with Snowflake/Databricks)",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sollers Consulting"
+            },
+            "id": "5534188894",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Engineer (with Snowflake/Databricks) Miejsce pracy: \u0141\u00f3d\u017a Technologies we use Expected Azure AWS SQL Python About the project Versatility is the keyword when it comes to what we do in IT. Data Competency is one of our initiatives to support digital transformation of financial sector, enabling our customers to become truly data-driven companies. Our mission is to ensure capabilities to address financial sector data-related needs. As a Data Engineer, you will be responsible for building and o\u2026",
+            "latitude": 51.77497,
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188894?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F386E9FE497B2C32898E189D225450637A6E9CA7",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDE4ODg5NCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.B8pm3v5WB3moOrBRA24wggIvUX8cj0dIHqM6Ix845Us",
+            "created": "2025-12-09T02:42:18Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "latitude": 52.40321,
+            "description": "Senior Data Engineer with GCP Miejsce pracy: Pozna\u0144 Technologies we use Expected Google Cloud Platform Python SQL About the project At STX Next, Data Engineers are creative problem-solvers who thrive at the intersection of data, innovation, and technology. Our approach to challenges is both collaborative and inventive, driven by the belief that every obstacle has a solution. You\u2019ll join a dedicated team that transforms data into valuable systems, addressing clients' needs and elevating the expe\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer with GCP",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "STX Next S.A."
+            },
+            "id": "5519079745",
+            "longitude": 16.93875,
+            "location": {
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pozna\u0144"
+                ],
+                "display_name": "Pozna\u0144, wielkopolskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-29T13:55:14Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5MDc5NzQ1In0.UtG_95p0i60bowF5uC_YGXur6O7UaqBQvCF56Go1eZI",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5519079745?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D4BA010BC0EF448A5F08B7A7726CF37D516267EA"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.10789,
+            "description": "Data Build Tool / Airflow Developer Miejsce pracy: Wroc\u0142aw Technologies we use Expected SQL Terraform Docker Apache Airflow About the project In Cyclad we work with top international IT companies in order to boost their potential in delivering outstanding, cutting-edge technologies that shape the world of the future. We are looking for a highly skilled DBT  Airflow Developer to join a global team within a large international bank. This role focuses on a major data transformation initiative: mig\u2026",
+            "longitude": 17.03854,
+            "location": {
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Build Tool / Airflow Developer",
+            "id": "5534188748",
+            "company": {
+                "display_name": "Cyclad",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T02:42:07Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDE4ODc0OCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.b9N2yLgfjDO9G5GSpqtPY6uLHTVQVzaD1TSGRwGaFco",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534188748?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=379C5F7DCB54372E5C683482F18C57D2209BC7E6"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "F/M: Data Governance Specialist Miejsce pracy: Warszawa Technologie, kt\u00f3rych u\u017cywamy Mile widziane Oracle Microsoft SQL Server Snowflake Data Cloud Databricks Microsoft Power BI Tableau Jira Confluence O projekcie Do\u0142\u0105cz do mi\u0119dzynarodowego projektu w sektorze bankowym jako Data Governance Specialist. Szukamy specjalist\u00f3w, kt\u00f3rzy pomog\u0105 rozwija\u0107 i utrzymywa\u0107 ramy zarz\u0105dzania danymi w du\u017cej organizacji finansowej, zapewniaj\u0105c sp\u00f3jno\u015b\u0107, jako\u015b\u0107 i zgodno\u015b\u0107 danych wewn\u0105trz organizacji. J\u0119zyk angiels\u2026",
+            "latitude": 52.21519,
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 21.2453,
+            "company": {
+                "display_name": "PEOPLEVIBE SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "F/M: Data Governance Specialist",
+            "id": "5487291612",
+            "created": "2025-11-08T15:53:46Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5487291612?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=86A377D05B78DBA89A03F70972782C7D6B3EAA00",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NzI5MTYxMiIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.Bv0XgW2k7J8nUPFUBCt7IIhqNNRaFBcBdm_afxEI7tI"
+        },
+        {
+            "created": "2025-12-10T14:41:16Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM2MTM0ODM2In0.JJIvMr9JSHxfvrl5DSe6imd9U6quMMeMrlUV2P_5l-Q",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5536134836?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DA421BCF6C155C562B8F9F6890925FBB4AFC9CD7",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.40321,
+            "description": "Customer Service Data & Insights Analyst Miejsce pracy: Pozna\u0144 Recruitment for For our Client, we are seeking a Customer Service Data & Insights Analyst (Data & BI Analyst) with fluent English , who will play a key role in the digital transformation of customer service operations across Europe. This is a unique opportunity to work in a dynamic, international environment where you will have a real impact on unlocking the power of data. Your role will be crucial in building scalable dashboards, l\u2026",
+            "longitude": 16.93875,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pozna\u0144"
+                ],
+                "display_name": "Pozna\u0144, wielkopolskie"
+            },
+            "title": "Customer Service Data & Insights Analyst",
+            "salary_is_predicted": "0",
+            "id": "5536134836",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Randstad Polska Sp. z o.o."
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HIBERUS POLAND SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104"
+            },
+            "title": "DLP Engineer (Symantec / Data Discovery)",
+            "id": "5537747765",
+            "longitude": 21.2453,
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 52.21519,
+            "description": "DLP Engineer (Symantec / Data Discovery) Miejsce pracy: Warszawa Technologies we use Expected DLP Cortex XSOAR About the project We are looking for an experienced specialist in Data Loss Prevention (DLP) and Personal Data Discovery (PDD) to join a team responsible for personal data protection and regulatory compliance in a corporate environment. Your responsibilities Lead the design, deployment, and tuning of Personal Data Discovery (PDD) on user workstations and M365 SharePoint sites. Implemen\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3NzQ3NzY1In0.K43ireOMZWIXQOwOWkwJtyi2GhXoE1oaN7appZE6HTQ",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5537747765?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E0AA38741DFFE40E76A23648E50830D4789A80CB",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-12-11T14:36:49Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.21519,
+            "description": "Business Intelligence Data Modeling Lead Miejsce pracy: Warszawa Technologies we use Expected Looker BigQuery Google Cloud Platform Optional Microsoft Power BI Tableau Qlik SQL MySQL PostgreSQL Redshift Oracle R Python About the project In Cyclad we work with top international IT companies in order to boost their potential in delivering outstanding, cutting-edge technologies that shape the world of the future. We are seeking a highly experienced Senior BI / Data Modeling Lead to join a remote d\u2026",
+            "longitude": 21.2453,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie"
+            },
+            "salary_is_predicted": "0",
+            "id": "5534193805",
+            "title": "Business Intelligence Data Modeling Lead",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cyclad"
+            },
+            "created": "2025-12-09T02:46:30Z",
+            "category": {
+                "tag": "scientific-qa-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Praca naukowa i QA"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTkzODA1In0.7ON1X8mJ4Sk-1j6BtebGqnOgZtddxihQLzwP2kxZmho",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534193805?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7797573DB70FF0277A993AA1C3C801B87B5441FD"
+        },
+        {
+            "latitude": 51.10789,
+            "description": "Data Build Tool / Airflow Architect Miejsce pracy: Wroc\u0142aw Technologies we use Expected Apache Airflow SQL Docker DBT Terraform ETL Optional Informatica PowerCenter About the project In Cyclad, we work with top international IT companies in order to boost their potential in delivering outstanding, cutting-edge technologies that shape the world of the future. We are looking for an experienced DBT  Airflow Architect to join a global engineering team and lead the migration of ETL processes from In\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cyclad"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Build Tool / Airflow Architect",
+            "id": "5534191792",
+            "longitude": 17.03854,
+            "location": {
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-09T02:45:10Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTkxNzkyIn0.ltO_BAIKglfphYdmUqXsbSyXDfPzg5z5z-NGnNNvmlA",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534191792?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=167D5771D08EFD40B8F64F1E71B95B5FD20FA264"
+        },
+        {
+            "title": "Material Master Data Senior Specialist",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Metsa Group Services sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5520118694",
+            "longitude": 18.64664,
+            "location": {
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 54.35203,
+            "description": "Material Master Data Senior Specialist Miejsce pracy: Gda\u0144sk Technologies we use Operating system Windows Your responsibilities Master Data Management: Create, maintain, and update material master data in line with governance rules and business needs. Collect and validate required information to ensure completeness, consistency, and compliance across systems like SAP. Cross-Functional Expertise: Act as a trusted advisor for stakeholders across IT, Supply Chain, Finance, and Production, translat\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDExODY5NCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.jkJW_f8LO7kbYkdQcaoneC13TJkFIGzDGe9VJckDziY",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5520118694?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=26D47A8A71D14ECD564236DD8826747BCEBEC5F6",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-11-30T13:06:56Z"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-23T11:08:04Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTEwMjY5ODQzIn0.3XaC6Gb6xhM70jE--kjsxtfBqEDfktQo8z6NmNhwGL0",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5510269843?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3C335747BD96F4827038B994330AE85A5F75294A",
+            "latitude": 52.21519,
+            "description": "Data Integration Engineer (Ab Initio) Miejsce pracy: Warszawa Technologie, kt\u00f3rych u\u017cywamy Wymagane Ab Initio Conduct>IT Ab Initio Control Center Shell Mile widziane Hadoop Avro ORC Hive SQL O projekcie Chcesz rozwija\u0107 si\u0119 w kierunku Data Engineering i pracowa\u0107 z ogromnymi wolumenami danych? Do\u0142\u0105cz do zespo\u0142u ekspert\u00f3w w jednej z kluczowych instytucji finansowych, gdzie b\u0119dziesz projektowa\u0107 i optymalizowa\u0107 nowoczesne rozwi\u0105zania oparte na Ab Initio i Big Data  Czeka na Ciebie \u015brodowisko, w kt\u00f3r\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Data Integration Engineer (Ab Initio)",
+            "company": {
+                "display_name": "P&P Solutions Sp. z o.o.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5510269843",
+            "longitude": 21.2453,
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534193632?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=CF3CAB7F854234C9132AE37B9D3BD5BDA73DE0B9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTkzNjMyIn0._FSiE4E3P29hp3SxdZZ34UnusFyE8_Y91EkyfzkY95k",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-09T02:46:19Z",
+            "salary_is_predicted": "0",
+            "title": "SAP MM Data Migration Analyst",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Be in IT"
+            },
+            "id": "5534193632",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "longitude": 21.2453,
+            "description": "SAP MM Data Migration Analyst Miejsce pracy: Warszawa Technologie, kt\u00f3rych u\u017cywamy Wymagane SAP SAP HANA System operacyjny Windows Linux O projekcie Wsp\u00f3\u0142praca z obszarami funkcjonalnymi (GSC, Commercial & Finance) oraz wsparcie programu w zakresie dostarczania rozwi\u0105za\u0144 Data Migration w ramach Data Tower, ze szczeg\u00f3lnym uwzgl\u0119dnieniem Material Master. Tw\u00f3j zakres obowi\u0105zk\u00f3w Pe\u0142nienie roli punktu kontaktowego mi\u0119dzy zespo\u0142ami procesowymi, biznesem a innymi interesariuszami, wykorzystuj\u0105c eksper\u2026",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/land/ad/5488493280?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F29EC75DB08A9FFDAD9508EC95D864A56DBB854D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4ODQ5MzI4MCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.gVt0saBCT8w5Lm0547zxm4eabOX4J3ctTbPHAddSDT8",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-09T15:41:23Z",
+            "id": "5488493280",
+            "salary_is_predicted": "0",
+            "title": "Software Engineer III - Data Lineage",
+            "company": {
+                "display_name": "Google",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 21.2453,
+            "description": "Software Engineer III - Data Lineage Miejsce pracy: Warszawa Technologies we use Optional Java Kotlin About the project Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computi\u2026",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Senior Supply Chain Data Scientist",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hylogic sp. z o.o."
+            },
+            "id": "5488493003",
+            "longitude": 21.2453,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie"
+            },
+            "latitude": 52.21519,
+            "description": "Senior Supply Chain Data Scientist Miejsce pracy: Warszawa Technologies we use Expected Python Optional Microsoft Azure Databricks About the project As a Senior Data Scientist, you will be designing and building advanced data science systems to solve specific business cases for our customers. You will be supported by our small but dedicated team of data scientists, coordinate with other teams and domain experts within the company, as well as with business stakeholders on our customers\u2019 side to \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg4NDkzMDAzIn0.Og6RIaxIxUQlNFgqwp7FWR3dB9p_QtYNDAeD26aOnJM",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5488493003?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8031E356BA0C6B337672BF844A486501AB7F3CBD",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-09T15:41:17Z"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-11-30T13:07:02Z",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5520119653?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2B5E61A56059B50659C5836B1C8FD12E95176288",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDExOTY1MyIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.cVOlWVLJkzmul6iaZXW6vJpzAA9FvAoGZRKWEPCBGCw",
+            "description": "Client Data Analyst, Client Intelligence Miejsce pracy: Wroc\u0142aw Technologies we use Expected Microsoft Power BI SQL Python Your responsibilities Work with big data environment \u2013 providing analysis, metrics and reports supporting client management framework. Understand the relevant data from our systems and carry out all required data analysis. Develop complex SQL scripts to retrieve data from strategic systems. Develop tools based on stakeholder requirements that can be leveraged by other teams\u2026",
+            "latitude": 51.10789,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Client Data Analyst, Client Intelligence",
+            "salary_is_predicted": "0",
+            "id": "5520119653",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AXA XL Catlin Services SE"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "longitude": 17.03854
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDkxMTQ5NyIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.eyRBIeEWevhHKxcSa2WGQHbiStVfK3fqk7rOMvRcasg",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5504911497?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A74C511AF04AA4ECF162B107452BAE0087DDDFA3",
+            "created": "2025-11-20T10:00:00Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "longitude": 17.03854,
+            "location": {
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer (Microsoft Fabric i PySpark)",
+            "id": "5504911497",
+            "company": {
+                "display_name": "Insert S.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.10789,
+            "description": "Data Engineer (Microsoft Fabric i PySpark) Miejsce pracy: Wroc\u0142aw Technologie, kt\u00f3rych u\u017cywamy Wymagane Microsoft Fabric PySpark SQL Python Azure Data Factory Mile widziane Microsoft Power BI System operacyjny Windows O projekcie Nasz dzia\u0142 oprogramowania nieustannie pracuje nad doskonaleniem produkt\u00f3w, aby spe\u0142nia\u0107 oczekiwania rynku. Do jednego z naszych wewn\u0119trznych InsERT-owych zespo\u0142\u00f3w, poszukujemy In\u017cyniera Danych, kt\u00f3ry b\u0119dzie odpowiedzialny min. za tworzenie, rozw\u00f3j i zarz\u0105dzanie procesa\u2026"
+        },
+        {
+            "id": "5534193636",
+            "salary_is_predicted": "0",
+            "title": "SAP PM Data Migration Analyst",
+            "company": {
+                "display_name": "Be in IT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 21.2453,
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 52.21519,
+            "description": "SAP PM Data Migration Analyst Miejsce pracy: Warszawa Technologie, kt\u00f3rych u\u017cywamy Wymagane SAP System operacyjny Windows Linux O projekcie Wsparcie programu w zakresie zada\u0144 zwi\u0105zanych z migracj\u0105 danych w obszarze Data Tower, ze \u015bcis\u0142ym dopasowaniem do obszar\u00f3w funkcjonalnych (GSC, Commercial & Finance), ze szczeg\u00f3lnym naciskiem na Plant Maintenance. Tw\u00f3j zakres obowi\u0105zk\u00f3w Pe\u0142nienie roli \u0142\u0105cznika mi\u0119dzy zespo\u0142ami procesowymi, biznesem oraz innymi interesariuszami, wykorzystuj\u0105c wiedz\u0119 z zakres\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTkzNjM2In0.Mj-1eyMeELRbFP_tfN9Yks3fwDuMuLrUaUfdVa5BMTM",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534193636?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=129F15119124DBDEC8B65CE1D5B60CB7CF953009",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-09T02:46:19Z"
+        },
+        {
+            "created": "2025-11-08T15:53:39Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NzI5MTI5NCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.C5plrJC58d7_xBNKUgZrnOrJFiSkdrNKNDBkoYvLTKk",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5487291294?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=92CE5B638B13CB66ACD8BF8BD31ABFCE3AD31F7D",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.1024,
+            "description": "GCP Senior Data Platform Engineer Miejsce pracy: Krak\u00f3w Technologies we use Expected Python Google Cloud Platform About the project If you\u2019re looking for a career that will help you stand out, join HSBC and fulfil your potential. Whether you want a career that could take you to the top, or simply take you in an exciting new direction, HSBC offers opportunities, support and rewards that will take you further. HSBC is one of the largest banking and financial services organisations in the world, w\u2026",
+            "longitude": 20.17848,
+            "location": {
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HSBC Service Delivery  Sp. z o.o."
+            },
+            "title": "GCP Senior Data Platform Engineer",
+            "id": "5487291294"
+        },
+        {
+            "location": {
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 20.17848,
+            "title": "Senior Software Engineer - Data Engineering",
+            "salary_is_predicted": "0",
+            "id": "5514483328",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Google"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Software Engineer - Data Engineering Miejsce pracy: Krak\u00f3w Technologies we use Expected Python SQL About the project Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed com\u2026",
+            "latitude": 50.1024,
+            "redirect_url": "https://www.adzuna.pl/land/ad/5514483328?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D5C7AC930E4DA56A3A88C9ED5029C8D2F8793A3F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ4MzMyOCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0._1cy-iPpp4GzhRzrM7PsOXhonpady37XGQIuaRBnb3g",
+            "created": "2025-11-26T13:30:32Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "AI Data Specialist with Italian Miejsce pracy: Gda\u0144sk Your responsibilities Work with text, speech and other types of data and apply tags to the content at scale Deliver high quality tagged data, using guidelines to meet specific key performance indicators and using in-house tools and software Report tool and software issues to the development team as required Provide feedback on improvements to existing tools that can increase labelling throughput and quality Employer requirements Knowledge of\u2026",
+            "latitude": 54.35203,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto"
+            },
+            "longitude": 18.64664,
+            "title": "AI Data Specialist with Italian",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Manpower"
+            },
+            "id": "5534191370",
+            "created": "2025-12-09T02:44:48Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534191370?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=16A7504CC45795D0C86A25A51CEA0395C4328171",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDE5MTM3MCIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.oJYJO2UL8oNDG27CxgvSYIxj90sAyA-BoEXVt-ybRQk"
+        },
+        {
+            "created": "2025-12-09T02:46:04Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0MTkzNDAyIn0._DBp1sh-VKvoc6U0_o7DysGFc7P0jhmjHoIvXQ0UzN0",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5534193402?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8248EB1E3C1A9771BB1A3378FBA0ED098E87D3ED",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 54.35203,
+            "description": "AI Data Specialist with French Miejsce pracy: Gda\u0144sk Your responsibilities Work with text, speech and other types of data and apply tags to the content at scale Deliver high quality tagged data, using guidelines to meet specific key performance indicators and using in-house tools and software Report tool and software issues to the development team as required Provide feedback on improvements to existing tools that can increase labelling throughput and quality Employer requirements Knowledge of \u2026",
+            "longitude": 18.64664,
+            "location": {
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5534193402",
+            "title": "AI Data Specialist with French",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Manpower"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDgzOTI4MDAxIn0.HQ4BHhFzO6cyWSKnC-QBz83z5mwUg1Nzab7YQEQ9s9Q",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5483928001?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=6FF1E449840D07487F0017952E46F0D7B2928251",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-11-06T15:22:07Z",
+            "title": "Graph Data Engineer (Next.js)",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Scalo Sp. z o.o."
+            },
+            "id": "5483928001",
+            "longitude": 20.17848,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "display_name": "Krak\u00f3w, ma\u0142opolskie"
+            },
+            "latitude": 50.1024,
+            "description": "Graph Data Engineer (Next.js) Miejsce pracy: Krak\u00f3w Technologie, kt\u00f3rych u\u017cywamy Wymagane Node.js Next.js React.js TypeScript GraphQL D3.js Cytoscape.js Graphology Recharts Docker AWS O projekcie W Scalo zajmujemy si\u0119 dostarczaniem projekt\u00f3w software'owych i wspieraniem naszych partner\u00f3w w rozwijaniu ich biznesu. Tworzymy oprogramowanie, kt\u00f3re umo\u017cliwia ludziom dokonywanie zmian, dzia\u0142anie w szybszym tempie oraz osi\u0105ganie lepszych rezultat\u00f3w. Jeste\u015bmy firm\u0105, kt\u00f3ra wykorzystuje szerokie spektrum\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ]
+            },
+            "longitude": 20.17848,
+            "id": "5474651415",
+            "salary_is_predicted": "0",
+            "title": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KPMG"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud Miejsce pracy: Krak\u00f3w Technologie, kt\u00f3rych u\u017cywamy Wymagane Microsoft Azure Microsoft Power BI O projekcie W zespole Data & Cloud\u200b dostarczamy us\u0142ugi z zakresu opracowywania strategii wykorzystania danych, wdro\u017cenia platformy danych, rozwi\u0105za\u0144 Business Intelligence (BI) oraz zarz\u0105dzania \u0142adem danych (data governance). Na rynku wyr\u00f3\u017cnia nas nie tylko najwy\u017csza jako\u015b\u0107 dostarczanych rozwi\u0105za\u0144 pod wzgl\u0119dem technologicznym, ale tak\u017ce wiedza i do\u015bwiadczenie b\u2026",
+            "latitude": 50.1024,
+            "redirect_url": "https://www.adzuna.pl/land/ad/5474651415?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=5C1A40F10D468E1C743F4E8E22C0CCE273B3D7FE",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NDY1MTQxNSIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.G2Y3UVNxjzS_Omi2ebz-vdZn666qvEvXcxdAmNVLXPE",
+            "created": "2025-11-01T10:42:16Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "description": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud Miejsce pracy: Warszawa Technologie, kt\u00f3rych u\u017cywamy Wymagane Microsoft Azure Microsoft Power BI O projekcie W zespole Data & Cloud\u200b dostarczamy us\u0142ugi z zakresu opracowywania strategii wykorzystania danych, wdro\u017cenia platformy danych, rozwi\u0105za\u0144 Business Intelligence (BI) oraz zarz\u0105dzania \u0142adem danych (data governance). Na rynku wyr\u00f3\u017cnia nas nie tylko najwy\u017csza jako\u015b\u0107 dostarczanych rozwi\u0105za\u0144 pod wzgl\u0119dem technologicznym, ale tak\u017ce wiedza i do\u015bwiadczenie\u2026",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5474651391",
+            "title": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KPMG"
+            },
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 21.2453,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-11-01T10:42:16Z",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5474651391?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=55B2DC113AE7D972BD092F0802F1116E72142684",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnNLWnhkalc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDc0NjUxMzkxIn0.KCPS_0ZwTiuD6BktyPsCPpm5b3cshjF8OCzw37I4Kag"
+        },
+        {
+            "location": {
+                "display_name": "\u0141\u00f3d\u017a, \u0142\u00f3dzkie",
+                "area": [
+                    "Polska",
+                    "\u0142\u00f3dzkie",
+                    "\u0141\u00f3d\u017a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 19.6198,
+            "company": {
+                "display_name": "KPMG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud",
+            "id": "5474651362",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud Miejsce pracy: \u0141\u00f3d\u017a Technologie, kt\u00f3rych u\u017cywamy Wymagane Microsoft Azure Microsoft Power BI O projekcie W zespole Data & Cloud\u200b dostarczamy us\u0142ugi z zakresu opracowywania strategii wykorzystania danych, wdro\u017cenia platformy danych, rozwi\u0105za\u0144 Business Intelligence (BI) oraz zarz\u0105dzania \u0142adem danych (data governance). Na rynku wyr\u00f3\u017cnia nas nie tylko najwy\u017csza jako\u015b\u0107 dostarczanych rozwi\u0105za\u0144 pod wzgl\u0119dem technologicznym, ale tak\u017ce wiedza i do\u015bwiadczenie biz\u2026",
+            "latitude": 51.77497,
+            "redirect_url": "https://www.adzuna.pl/land/ad/5474651362?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0D78680F1D9A360B49A13E0C2C78B218BA68DD5C",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NDY1MTM2MiIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.teGeZn95kAoZT2fmslt0arYBvsI2A7Ri2B5IrTUJF7Q",
+            "created": "2025-11-01T10:42:16Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2025-11-01T10:42:17Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NDY1MTQyNiIsInMiOiJSc0taeGRqVzhCRzdnY3JqVkVhaUR3In0.7UBPPxuDjgpkwmkgPAIx9GTLy5EsRBFzwk6nKHNW8LI",
+            "redirect_url": "https://www.adzuna.pl/land/ad/5474651426?se=RsKZxdjW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A14C3AEB4F11E3EAB8201B8106302CF0F7BED8D1",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.26008,
+            "description": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud Miejsce pracy: Katowice Technologie, kt\u00f3rych u\u017cywamy Wymagane Microsoft Azure Microsoft Power BI O projekcie W zespole Data & Cloud\u200b dostarczamy us\u0142ugi z zakresu opracowywania strategii wykorzystania danych, wdro\u017cenia platformy danych, rozwi\u0105za\u0144 Business Intelligence (BI) oraz zarz\u0105dzania \u0142adem danych (data governance). Na rynku wyr\u00f3\u017cnia nas nie tylko najwy\u017csza jako\u015b\u0107 dostarczanych rozwi\u0105za\u0144 pod wzgl\u0119dem technologicznym, ale tak\u017ce wiedza i do\u015bwiadczenie\u2026",
+            "longitude": 19.02547,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Katowice, \u015bl\u0105skie",
+                "area": [
+                    "Polska",
+                    "\u015bl\u0105skie",
+                    "Katowice"
+                ]
+            },
+            "title": "(Assistant) Manager - Zesp\u00f3\u0142 Data & Cloud",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KPMG"
+            },
+            "id": "5474651426"
+        }
+    ]
+}

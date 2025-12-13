@@ -1,0 +1,1365 @@
+{
+    "mean": 61902.88,
+    "count": 5554,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "created": "2025-12-04T21:49:07Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI4Mjk4MDkwIn0.Jk7PLs3UexRaBwC9AmmXghpXzjNt5MLPqd5qn3qTizs",
+            "redirect_url": "https://www.adzuna.be/details/5528298090?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.92705,
+            "description": "Als Stafmedewerker Data ben je verantwoordelijk voor het effici\u00ebnt verzamelen, verwerken en automatiseren van ziekenhuisdata uit diverse bronnen. Je vertaalt ruwe data naar bruikbare inzichten en betrouwbare rapportages. Je werkt met meerdere SQL-databases, diverse extractie- en verwerkingstools, en ontwikkelt dashboards en rapportages in Power BI of SAP BO. Kerntaken en verantwoordelijkheden Automatiseren van data-extractie uit diverse databases en andere bronnen. Ontwikkelen en onderhouden va\u2026",
+            "longitude": 4.42485,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vilvoorde, Halle-Vilvoorde",
+                "area": [
+                    "Belgi\u00eb",
+                    "Vlaams-Brabant (Provincie)",
+                    "Halle-Vilvoorde",
+                    "Vilvoorde"
+                ]
+            },
+            "title": "Stafmedewerker Data",
+            "salary_is_predicted": "0",
+            "id": "5528298090",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AZ Jan Portaels"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "title": "Data Architect",
+            "salary_is_predicted": "0",
+            "id": "5524882558",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Paradigm"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Architect Paradigm, organisme d\u2019int\u00e9r\u00eat public, est le leader de la transition num\u00e9rique \u00e0 Bruxelles. Nous accompagnons nos clients \u2013 les institutions publiques bruxelloises \u2013 dans leur transition digital. Travailler pour Paradigm, c'est avoir un impact r\u00e9el sur la vie quotidienne des Bruxellois. En tant que Data Architect, vous travaillerez chez notre partenaire Perspective.brussels , le centre d\u2019expertise r\u00e9gional de r\u00e9f\u00e9rence pour le d\u00e9veloppement r\u00e9gional et territorial bruxellois. Vou\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI0ODgyNTU4In0.hw1oeuhOwZZFWXYckpB-SG9vRED7C78kqHAhnoPXIYk",
+            "redirect_url": "https://www.adzuna.be/details/5524882558?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-02T21:39:50Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            }
+        },
+        {
+            "company": {
+                "display_name": "TVH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Scientist",
+            "salary_is_predicted": "0",
+            "id": "5531611434",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "description": "We\u2019re looking for a hands-on Data Scientist who thrives at the intersection of e-commerce, search engineering, GenAI, and scalable ML systems. If you love building smart retrieval and ranking systems, improving product discovery, deploying models in production, and working closely with both IT and business teams, this role is for you. What you\u2019ll do At TVH, e-commerce drives how we help customers find the right part efficiently. That\u2019s why, as a Data Scientist, you will design, prototype, and p\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.be/details/5531611434?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxNjExNDM0In0.TRf4axr79ylSv3Ihh7DL0JmagONdd7bJv2py-P6wDog",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-06T21:21:38Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyMzEyOTIzIn0.JfkweXtkDSjc_OsKOl43vBLQiqFGfnB15hqDYoYoWy4",
+            "redirect_url": "https://www.adzuna.be/details/5522312923?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT ICT vacatures"
+            },
+            "created": "2025-12-01T20:17:13Z",
+            "title": "Data Architect",
+            "company": {
+                "display_name": "Paradigm",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5522312923",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "description": "Data Architect Paradigm, organisme d'int\u00e9r\u00eat public, est le leader de la transition num\u00e9rique \u00e0 Bruxelles. Nous accompagnons nos clients - les institutions publiques bruxelloises - dans leur transition digital. Travailler pour Paradigm, c'est avoir un impact r\u00e9el sur la vie quotidienne des Bruxellois. En tant que Data Architect, vous travaillerez chez notre partenaire Perspective.brussels, le centre d'expertise r\u00e9gional de r\u00e9f\u00e9rence pour le d\u00e9veloppement r\u00e9gional et territorial bruxellois. Vous\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-12-01T20:17:22Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT ICT vacatures",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5522313135?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjMxMzEzNSIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.poOpAMCnpZCZWbjuxhzQQcmFIkWR2bnzCziVpZ-w51A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Architect Paradigm, een instelling van openbaar nut, zet de toon in de digitale transitie van Brussel. We loodsen onze klanten - de Brusselse openbare instellingen - langs de uitdagingen van het digitale tijdperk. Werken voor Paradigm betekent ook een re\u00eble impact hebben op het dagelijkse leven van de Brusselaars. Als Data Architect werk je bij onze partner Perspective.brussels, het gewestelijk expertisecentrum voor regionale en territoriale ontwikkeling van het Brussels Gewest. Je draagt \u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Architect",
+            "company": {
+                "display_name": "Paradigm",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5522313135"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNjI1MTc3NyIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.nVn93Sb8WBpkSVWpsFeXrd871ikfI6ILyJ7hRXMHObI",
+            "redirect_url": "https://www.adzuna.be/details/5416251777?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-26T21:17:22Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Adviseur en Consultancy vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "title": "Data Architect - Linked Data and Solid",
+            "salary_is_predicted": "0",
+            "id": "5416251777",
+            "company": {
+                "display_name": "KPMG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "General information Reference 2024-990 Job title Data Architect - Linked Data and Solid Function Advisory - Manager Roles & Responsibilities Becoming an architect inside KPMG Lighthouse will allow you to demonstrate, develop and extend your architecture skills in Data, AI, automation, and system integration. You will be working is a modern environment and find yourself surrounded by a multi-disciplinary peer group of over 60 data enthusiasts with a strong entrepreneurial spirit. You will be abl\u2026"
+        },
+        {
+            "description": "Job Title: Data Governance Expert Location: Belgium, Brussels(Hybrid) B2B contract role only EU citizens considerable We currently have a vacancy for a Data Governance Expert fluent in English, to offer his/her services as an expert who will be based in Brussels, Belgium. The work will be carried out either in the company\u2019s premises or on site at customer premises. In the context of the first assignment, the successful candidate will be integrated in the Development team of the company that wil\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5138552603",
+            "contract_type": "contract",
+            "title": "Data Governance Expert",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Axiom Software Solutions Limited"
+            },
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT ICT vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-04-10T12:14:20Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MTM4NTUyNjAzIn0.X-9KEdkTSyoqDEZqMn0QqkxOKWyAl8VA0S5jiLenPbc",
+            "redirect_url": "https://www.adzuna.be/details/5138552603?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Biztory"
+            },
+            "title": "BE Data Engineer",
+            "salary_is_predicted": "0",
+            "id": "5157883505",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Data Engineer (BE) What Does The Party Look Like? At Biztory, we accelerate the Data  AI Journey at our clients and achieve higher levels of data  AI maturity. As a leading strategic data consultancy in Europe, Biztory helps you to be at the forefront of data & AI-driven innovation - and stay there. Biztory can help you solve any data & analytical challenge, whether technical or business. We have the most skilled and certified Tableau, Snowflake, dbt & Fivetran consultants, and our specialists \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.be/details/5157883505?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE1Nzg4MzUwNSIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.1rGR6wJFV4X4Vod4XfYieWGT6ZI8saS6zDf0DgzU9q0",
+            "category": {
+                "label": "IT ICT vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-04-23T13:07:54Z"
+        },
+        {
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Vacatures Ander of Algemeen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-03T16:13:01Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTgxMzA5NyIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0._2mo_hQlgOxe1Hj-8at0_D93uuUR6fYOGkLLXPmVzJg",
+            "redirect_url": "https://www.adzuna.be/details/5525813097?utm_medium=api&utm_source=58c69264",
+            "description": "Resultance is Hiring a Data Manager (freelance consultant) for one if its strategic projects. This assignment requires an experienced freelancer to strengthen data governance, industrial data quality, and cross-functional coordination during a major ERP transformation. The role sits at the intersection of R&D, Methods, Production, and Supply Chain, ensuring reliable data structures to support both operations and new product development. Key Responsibilities: Define and deploy data governance ru\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "id": "5525813097",
+            "title": "Data Manager (Freelance)",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Resultance"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            }
+        },
+        {
+            "description": "Job Description The Data Science team is young, diverse and growing. As we are still relatively small you will be in the driver seat to shape its future. We have a flat structure and value the entrepreneurial spirit of our members: initiative is highly encouraged. We are also striving for well-being, diversity and knowledge-sharing inside the team, so that we all grow. As a Data engineer consultant you will be working on various client projects as well as on building our own Sia AI solutions, t\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Consultant Data Engineer",
+            "id": "5517175921",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sia"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Antwerpen, Antwerpen (Provincie)",
+                "area": [
+                    "Belgi\u00eb",
+                    "Antwerpen (Provincie)",
+                    "Antwerpen"
+                ]
+            },
+            "category": {
+                "label": "Adviseur en Consultancy vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "created": "2025-11-28T01:59:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzE3NTkyMSIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.2RUsPDcWvbtsDDwruhI-RLH9Yal4913UtBqfcQuULRE",
+            "redirect_url": "https://www.adzuna.be/details/5517175921?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "description": "Job Description The Data Science team is young, diverse and growing. As we are still relatively small you will be in the driver seat to shape its future. We have a flat structure and value the entrepreneurial spirit of our members: initiative is highly encouraged. We are also striving for well-being, diversity and knowledge-sharing inside the team, so that we all grow. As a Data engineer consultant you will be working on various client projects as well as on building our own Sia AI solutions, t\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Sia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Consultant Data Engineer",
+            "salary_is_predicted": "0",
+            "id": "5517175912",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "Adviseur en Consultancy vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "created": "2025-11-28T01:59:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE3MTc1OTEyIn0.IBducavizcoHwRcsTKROxqNOd-yoTxUvn_fl7Yf8YFo",
+            "redirect_url": "https://www.adzuna.be/details/5517175912?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-11-28T01:59:26Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Adviseur en Consultancy vacatures",
+                "tag": "consultancy-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE3MTc1ODg2In0.1-KNtqVj6Q95TOX4bO89zS8YFGJYBd8WPG1dc4h9yJg",
+            "redirect_url": "https://www.adzuna.be/details/5517175886?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Your Role As a Data Analytics Consultant, you will be at the heart of delivering impactful data-driven strategies to our clients. You will collaborate closely with local and international clients to bridge the gap between business objectives and technical execution. You will help deliver actionable data-driven solutions & insights, and present the results in an interactive, easily understandable manner. What you will do Collaborate with stakeholders to define business goals and \u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "title": "Data Analytics Consultant",
+            "id": "5517175886",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sia"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Antwerpen, Antwerpen (Provincie)",
+                "area": [
+                    "Belgi\u00eb",
+                    "Antwerpen (Provincie)",
+                    "Antwerpen"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Consultant in Data Science",
+            "id": "5517175892",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sia"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description As a consultant in Data Science, you will be involved in transformation projects at our clients. You will execute project assignments in modelling and digital transformation (business/IT analysis and partial coding) environments with a good deal of business perspectives: Machine learning, AI and statistics: developing predictive models of decision making (supervised and unsupervised learning algorithms, econometrics, forecasting, quantitative diagnosis,) Operational research : a\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE3MTc1ODkyIn0.st7pbaWEHPeoN_T8V5LxdgYfHIO8D4h9wsT_42Cggck",
+            "redirect_url": "https://www.adzuna.be/details/5517175892?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-28T01:59:26Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Adviseur en Consultancy vacatures",
+                "tag": "consultancy-jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.be/details/5517175894?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzE3NTg5NCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.xfJ-m9wJz4j7jAiarF34qGAX84dbxh8UA6omZoy1f3o",
+            "category": {
+                "tag": "consultancy-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Adviseur en Consultancy vacatures"
+            },
+            "created": "2025-11-28T01:59:26Z",
+            "title": "Consultant in Data Science",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sia"
+            },
+            "id": "5517175894",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "description": "Job Description As a consultant in Data Science, you will be involved in transformation projects at our clients. You will execute project assignments in modelling and digital transformation (business/IT analysis and partial coding) environments with a good deal of business perspectives: Machine learning, AI and statistics: developing predictive models of decision making (supervised and unsupervised learning algorithms, econometrics, forecasting, quantitative diagnosis,) Operational research : a\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-12-04T16:58:57Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT ICT vacatures",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI3MzU3NzIwIn0.gRNPsgk5XMtxsxxd0RcIX1yZUJEytOPcALhmyxm4NxI",
+            "redirect_url": "https://www.adzuna.be/details/5527357720?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Uni Systems, we are working towards turning digital visions into reality. We are continuously growing and we are looking for a Senior Data Scientist to join our UniQue team. What will you be doing in this role? Collect business requirement and develop advanced data mining solutions or identify, assess and deploy relevant existing data mining, machine learning and business intelligence solution Specification and design of presentation interfaces with optimal usability/user experience Identify\u2026",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Senior Data Scientist",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Uni Systems"
+            },
+            "id": "5527357720"
+        },
+        {
+            "title": "Ing\u00e9nieur data/ IA",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Scalian",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5511600074",
+            "location": {
+                "display_name": "Brussel, Brussel Hoofdstad",
+                "area": [
+                    "Belgi\u00eb",
+                    "Brussel (Regio)",
+                    "Brussel Hoofdstad",
+                    "Brussel"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Description du poste Vos responsabilit\u00e9s seront les suivantes : Conduire et piloter des projets de digitalisation et d\u2019intelligence artificielle pour un site de production industriel. Collecter et exploiter les donn\u00e9es issues de la production, des machines, des capteurs, des processus et de la logistique. Construire des pipelines de donn\u00e9es robustes et contribuer \u00e0 la mise en place d\u2019une architecture cloud / data lake s\u00e9curis\u00e9e. D\u00e9velopper des mod\u00e8les de machine learning : computer vision, s\u00e9ri\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.be/details/5511600074?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMTYwMDA3NCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.X5uUeyUe79mJsTl7UqK-pxZdrxxkUiDNM0vg06Csp58",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-24T20:12:19Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": " We\u2019re Hiring: Data Engineer Temse / Hybrid | \u2601\ufe0f Cloud & IoT |  Full-time Orise keeps growing \u2014 and we\u2019re thrilled about it! Are you looking for a warm, people-oriented work environment and want to help build cloud & IoT-based solutions in an industrial context ? Then look no further.  What\u2019s the job about? As a Data Engineer at Orise, you\u2019ll help design and implement cloud and edge-based Industry 4.0 solutions . What you'll do: Collaborate closely with clients, stakeholders, and developers Tra\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "title": "Senior Data Engineer (m/f/d)",
+            "id": "5498810818",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Orise"
+            },
+            "created": "2025-11-16T06:08:04Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5ODgxMDgxOCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.2otOdzN1DRB3J5fQanCA6iCvG2_EHLpsbG71xRnIn8I",
+            "redirect_url": "https://www.adzuna.be/land/ad/5498810818?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4EF756070D0D71170C8EB2F0BE61A948FE5DEEA2"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "\u0410 global digital transformation company with a team of more than 4,900 global players in 26 countries \u2013 in Europe, America and Asia, working together to put organizations at the forefront of innovation by bringing together talent, knowledge and technology. Our approach is based on conscious technology, through which we create positive environments and meaningful opportunities, always in our own way, making the complex simple. VASS BeNeLux, in partnership with European Investment Bank (EIB) is l\u2026",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Business, Processes and Data Analyst",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "VASS BENELUX"
+            },
+            "id": "5527347657",
+            "created": "2025-12-04T16:47:08Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5527347657?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3F7770490B310CC1812F90D2B8DB9964AC992650",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzM0NzY1NyIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.EJY2GPZkszACi6rHYP5fZd-8dJ51YMqeIrrdl8Wys6E"
+        },
+        {
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5514275834",
+            "title": "Senior Data Scientist (m/f/d)",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Orise",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Orise Manufacturing AI (formerly: Yazzoom) is a team of skilled AI/ML software specialists. We are based in Ghent, Belgium, and a part of Digital Business Unit of the global automation, digitalization, and consultancy powerhouse Orise . We specialize in delivering AI-driven research and software solutions that help our customers optimize their production processes. Alongside our custom AI and computer vision projects, we\u2019ve developed Orise Digital AI (formerly known as Yanomaly), a cutting-edge\u2026",
+            "redirect_url": "https://www.adzuna.be/land/ad/5514275834?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D6A4F49D63818EDA4A4B7359A46D5633B2B9B171",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDI3NTgzNCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.718_rWhW9K8mWuB-RXrIWz0XvG0whtKC3nnq8Oyf2ew",
+            "created": "2025-11-26T06:58:49Z",
+            "category": {
+                "tag": "manufacturing-jobs",
+                "label": "Industri\u00eble vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2025-11-16T06:08:03Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5498810794?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1D11AC0578C6BDA7B043C56FFFF90D383B033A50",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk4ODEwNzk0In0.byhNkctc3Wdh4_3vQ9OxyX-p5B1b-Zw7uKcikJvw9FY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Voor onze klant zijn wij op zoek naar een DPO en Tech Lawyer . Onze klant is een onmisbare en toonaangevende speler in de Belgische duurzame mobiliteit die haar klanten centraal stelt. Jouw Job Als Data Protection Officer evalueer je of onze klant het nodige doet om privacy- en persoonsgegevens te beschermen. Vanuit je vaststellingen adviseer je onze klant over de geldende regels en hoe deze ge\u00efnterpreteerd worden door de Belgische Gegevensautoriteit en het Europees Hof van Justitie. Als DPO op\u2026",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Data Protection Officer and Technology Lawyer",
+            "id": "5498810794",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Bakker & Partners"
+            }
+        },
+        {
+            "title": "INTERIM MANAGER - DATA ENGINEER MICROSOFT FABRIC",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "2 HUM BV",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5534388744",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "2 HUM ondersteunt organisaties die volop inzetten op duurzaamheid en zo bijdragen aan een hogere levenskwaliteit. Samen delen we de ambitie om mee te bouwen aan een duurzame toekomst voor ons allemaal. Voor \u00e9en van onze klanten, een toonaangevend overheidsbedrijf in Brussel, zoeken wij 2 INTERIM MANAGERS \u2013 DATA ENGINEER MICROSOFT FABRIC om het team te versterken. Duur van de opdracht: tot 30 september 2026. Opstart: 19 januari 2026. Sinds enkele jaren streeft onze klant om een volledig datagedr\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.be/land/ad/5534388744?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1BDCC6BB6EC505F459646F1D88D453491CC097E8",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0Mzg4NzQ0In0.djymEjOdqIOPJKVy0YGZJ_pHjY8AFEUc07tK5l8-ZsQ",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-12-09T06:44:32Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "The Corner Office helpt zijn klanten door middel van headhunting (voor het invullen van sleutelposities), interim management (voor het tijdelijk invullen van noden) en RaaS (het voorzien van hulp bij rekruteringsnoden) Wij geloven in duurzame partnerships, zowel met klanten als kandidaten. Als 360\u00b0 Consultant ben jij de spilfiguur tussen beide. Je bouwt actief aan je eigen klantenportefeuille \u00e9n gaat doelgericht op zoek naar de juiste talenten binnen IT, digital en data. Een boeiende, onderneme\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Recruitment Consultant - IT, digital & data",
+            "company": {
+                "display_name": "The Corner Office",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5530550704",
+            "created": "2025-12-06T05:04:14Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Personeelszaken Human Resources vacatures",
+                "tag": "hr-jobs"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5530550704?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1442722494F45856F8613AC8E9ED2830775AA783",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MDcwNCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.DNEXqUmlrTDB29PuYkWRClUbhjd-vMOhw1CpE1kuo0k"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "id": "5530020153",
+            "title": "\u00c9LECTRICIEN DATA CENTER BA4/BA5 - EN SHIFT",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hays"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Notre client : CBRE Data Center Solutions (DCS), une division du groupe CBRE, leader mondial avec des milliers de collaborateurs. DCS propose des solutions int\u00e9gr\u00e9es en immobilier, gestion des installations et technologies pour les propri\u00e9taires, exploitants et investisseurs de Data Centers \u00e0 travers le monde. En tant qu\u2019entit\u00e9 sp\u00e9cialis\u00e9e, DCS s\u2019engage \u00e0 r\u00e9soudre des d\u00e9fis complexes \u00e0 chaque \u00e9tape du cycle de vie des installations. VOS RESPONSABILIT\u00c9S En tant que Technicien Data Center , vous \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMwMDIwMTUzIn0.yjb2DjPOrk6mMtIrhUJySaq44zkRolOOgftIpryiNRo",
+            "redirect_url": "https://www.adzuna.be/land/ad/5530020153?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=28F4A648885309179A212EE39257E5AB7312B165",
+            "created": "2025-12-05T22:19:28Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-10-05T07:57:33Z",
+            "redirect_url": "https://www.adzuna.be/land/ad/5432370795?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8DA62AD9B20F9EB5B1DE751DE170B711A957E8C3",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDMyMzcwNzk1In0.JcJ2T3YhrrPcUDUblNXuE0MBMrSWhJgTTM2izTSnd2A",
+            "description": "About BDO BDO is the leading mid-tier professional services provider globally. In 2024, we recorded global revenues of over US$15 billion across our core service lines - Audit & Assurance, Tax, Advisory, and Business Services & Outsourcing. With a worldwide community of over 119k professionals operating in 166 countries and territories, we\u2019re dedicated to helping our clients navigate complex financial and strategic challenges, aligned to our core purpose \u2018 People helping people. \u2019 More informat\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Assistant, Planning & Delivery ( Data Insights & Reporting)",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "BDO",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5432370795",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Project Manager \u2013 MEP An established international engineering and construction business is looking to appoint a Senior Project Manager with strong experience in MEP and Field Assembly Integration to join its delivery team. This role plays a key part in the execution of technically complex construction projects, including high-spec data centres and pharmaceutical facilities. You will have full ownership of the MEP and integration phases of projects, ensuring work is delivered safely, eff\u2026",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Senior Project Manager \u2013 MEP (Data Centers)",
+            "company": {
+                "display_name": "Energise Recruitment Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5530551068",
+            "created": "2025-12-06T05:05:23Z",
+            "category": {
+                "label": "Bouwkunde vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5530551068?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7ECAD2510C65E198B5CEF62A893F7DAB6B607667",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMwNTUxMDY4In0.872_MBZ_YSkKvAoI2OGF59PJEBqvmynm0B75OIlxVK8"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMwNTUwNDcwIn0.a41Kx8wR7j2qKpZBh2zDsJhSBr5catBUhfgmukpsKBc",
+            "redirect_url": "https://www.adzuna.be/land/ad/5530550470?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=FBCA27E37576F55611722F352B8B432E702DE9D8",
+            "created": "2025-12-06T05:03:39Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "salary_is_predicted": "0",
+            "title": "Product Data & Catalog Manager - Healthtech - Bruxelles",
+            "id": "5530550470",
+            "company": {
+                "display_name": "Stark Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Product Data & Catalog Manager \u2013 Healthtech \u2013 Bruxelles Introduction Rejoignez une scale-up dynamique en pleine croissance dans le domaine de la healthtech. Cette entreprise d\u00e9veloppe des solutions digitales innovantes pour optimiser le quotidien des professionnels de sant\u00e9 et am\u00e9liorer l\u2019acc\u00e8s aux soins. En tant que Product Data & Catalog Manager , vous serez au c\u0153ur de l\u2019exp\u00e9rience client en structurant et enrichissant une base de produits et services m\u00e9dicaux de nouvelle g\u00e9n\u00e9ration. Vos resp\u2026"
+        },
+        {
+            "title": "Virtual Work: Online Data Analyst Belgium",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "TELUS Digital",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5530550328",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst: In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwide Completing research and evaluation tasks in a web-based environment such as v\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.be/land/ad/5530550328?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F601A1961D4B674F08AA78B35EAA52A53FB0BC2F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MDMyOCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.zo_Ly3-NLJHBU4_A8iyp1JGKu1yf2No5H55pgp7kkTY",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-06T05:02:58Z"
+        },
+        {
+            "description": "Are you ready to use your domain knowledge to advance AI? Join us as a Data Partner and work remotely with flexible hours. We are seeking highly knowledgeable Subject Matter Expert to design advanced, domain-specific questions and solutions. The role involves creating challenging problem sets that test deep reasoning and expertise in the assigned field. TELUS Digital AI Community Our global AI Community is a vibrant network of 1 million contributors from diverse backgrounds who help our custome\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Remote: Data Partner - Business Writer - Danish",
+            "company": {
+                "display_name": "TELUS Digital",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5504843900",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-20T09:21:55Z",
+            "redirect_url": "https://www.adzuna.be/land/ad/5504843900?se=kFYq09nW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=19CB99E1B0908F3F8F93553FCB564847B8AE4757",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA0ODQzOTAwIn0.8udQJX04Qaz8TCuXllMNjVRcNkP47irdrC5GylPEq7Q"
+        },
+        {
+            "created": "2025-12-01T20:33:19Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5522394610?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyMzk0NjEwIn0.B6vtkZiO4YoNQw0F0rZSEnZ0rZ5LDE7yHrvYtBCmiko",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About DataCamp Data and AI skills are critical for thriving today, and DataCamp is the platform that empowers everyone to learn them. We help individuals and Fortune 1000 companies close the data and AI skills gap through world-class learning, hands-on training, and a global community of expert instructors. In this role, you\u2019ll collaborate with instructors and teams across curriculum, engineering, product, and marketing to expand and improve our Data Science and Data Engineering curriculum\u2014help\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "id": "5522394610",
+            "title": "Curriculum Manager - Data Science and Data Engineering",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "DataCamp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "label": "Klantenservice vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "customer-services-jobs"
+            },
+            "created": "2025-09-11T16:00:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5NDE0MTA0OSIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.HBxoQq8XP5xwzYHWwLBBiznJ2NhZj9ojjSGna6cynl8",
+            "redirect_url": "https://www.adzuna.be/details/5394141049?utm_medium=api&utm_source=58c69264",
+            "latitude": 50.84674,
+            "description": "Heb je een passie voor informatica en/of telecommunicatie? Dan is Infrabel misschien wel iets voor jou! Als stagiair IT werk je actief mee aan een project \u201cMeasuring PBI & SharePoint objective KPIs via Microsoft Fabric and MS SQL Server.\u201d Je loopt mee met een vaste medewerker van Infrabel en je wordt ingewijd in de werkpost en het takenpakket van een ICT-medewerker. Beschrijving van het project en je taken: Analyseren en experimenteren van/met tools en systemen Theoretisch en praktische modeler\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Stage - Data Sciences/Data Analyst - Bachelor/Master",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Infrabel"
+            },
+            "salary_is_predicted": "0",
+            "id": "5394141049",
+            "longitude": 4.35249,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brussel, Brussel Hoofdstad",
+                "area": [
+                    "Belgi\u00eb",
+                    "Brussel (Regio)",
+                    "Brussel Hoofdstad",
+                    "Brussel"
+                ]
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": " Op zoek naar je volgende job of project binnen Data & AI? Dan ben je bij Summ.link aan het juiste adres!  Wie is Summ.link? Wij zijn een dynamisch bedrijf dat zowel Tijd en Materialen (T&M) als projectwerk levert voor bedrijven van elke omvang, van kleine en middelgrote ondernemingen tot grote corporaties. Onze expertise strekt zich uit over een breed scala van diensten, waaronder data platforms (Azure, Databricks, Collibra), DevOps, SecOps, MLOps, AIOps, Data Engineering en Data Science. Ons \u2026",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Solution Data Architect",
+            "company": {
+                "display_name": "Sollicitatie voor Solution Data Architect bij Summ.link",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5352419042",
+            "created": "2025-08-14T17:48:41Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzUyNDE5MDQyIn0.aL2Wbn99F4mtQag8DoHVewjG7l1wuAEGdFPTtEBzjlA",
+            "redirect_url": "https://www.adzuna.be/details/5352419042?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "id": "5352419132",
+            "title": "Senior Data Scientist",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sollicitatie voor Senior Data Scientist bij Summ.link",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "description": " Op zoek naar je volgende job of project binnen Data & AI? Dan ben je bij Summ.link aan het juiste adres!  Wie is Summ.link? Wij zijn een dynamisch bedrijf dat zowel Tijd en Materialen (T&M) als projectwerk levert voor bedrijven van elke omvang, van kleine en middelgrote ondernemingen tot grote corporaties. Onze expertise strekt zich uit over een breed scala van diensten, waaronder data platforms (Azure, Databricks, Collibra), DevOps, SecOps, MLOps, AIOps, Data Engineering en Data Science. Ons \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.be/details/5352419132?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM1MjQxOTEzMiIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.V1ky6fvsb__xmLKdDfAbnAT_dQHGRXVTyeOWclbv0hw",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-08-14T17:49:01Z"
+        },
+        {
+            "description": " Op zoek naar je volgende job of project binnen Data & AI? Dan ben je bij Summ.link aan het juiste adres!  Wie is Summ.link? Wij zijn een dynamisch bedrijf dat zowel Tijd en Materialen (T&M) als projectwerk levert voor bedrijven van elke omvang, van kleine en middelgrote ondernemingen tot grote corporaties. Onze expertise strekt zich uit over een breed scala van diensten, waaronder data platforms (Azure, Databricks, Collibra), DevOps, SecOps, MLOps, AIOps, Data Engineering en Data Science. Ons \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Medior Data Scientist",
+            "salary_is_predicted": "0",
+            "id": "5484035221",
+            "company": {
+                "display_name": "Sollicitatie voor Medior Data Scientist bij Summ.link",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-06T16:45:18Z",
+            "redirect_url": "https://www.adzuna.be/details/5484035221?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg0MDM1MjIxIn0.mCxg7qp98khRRHXaJtkUtc4P3o5eXcWEomMNHuWnLus"
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "contract_time": "full_time",
+            "created": "2025-07-12T12:33:13Z",
+            "redirect_url": "https://www.adzuna.be/details/5299385948?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI5OTM4NTk0OCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.Cy0CTVyfX8z9M8a50I_agnYMZIoLwP64NoWv7ZLOXGY",
+            "description": "Job Description Role Overview: We are seeking an experienced Azure Data Platform Architect to drive the design and evolution advanced data solutions. Key Responsibilities: Design and implement scalable data architectures aligned data strategies Monitor and evaluate emerging technologies to determine their fit for business needs. Collaborate with business teams to understand requirements and define data use cases. Assess current data platforms, identify weaknesses, and provide actionable recomme\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5299385948",
+            "title": "Data Architect - Brussels",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Dark Light",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            }
+        },
+        {
+            "id": "5419743092",
+            "title": "Data Governance Officer",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TVH"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "description": "The Data Governance Officer will play a crucial role in establishing, maintaining, and enforcing data governance policies and procedures across the organization. This position is pivotal in ensuring that our data assets are compliant, secure, and understood by all stakeholders, fostering a culture of data excellence and accountability. The Data Governance Officer will drive initiatives related to data compliance, data security, data literacy, audit readiness, and the continuous improvement of o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.be/details/5419743092?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxOTc0MzA5MiIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.TmlmWlKqEREL2BSvMPKNB3i27n9KpUWyOiXG81SEaWo",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "contract_time": "full_time",
+            "created": "2025-09-28T21:18:11Z"
+        },
+        {
+            "latitude": 50.8865,
+            "description": "Job Description About the Role The Data Quality Connector plays a central role in enhancing the value, reliability, and trust of organizational data. Working across business and technical teams, this role ensures that data quality issues are identified, analyzed, and prevented through effective standards and processes. The position supports data-driven decision-making by promoting transparency, consistency, and continuous improvement in data quality management. Key Responsibilities Conduct root\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Data Quality Connector",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Dark Light"
+            },
+            "id": "5477410589",
+            "longitude": 3.43209,
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "West-Vlaanderen (Provincie)",
+                    "Kortrijk",
+                    "Waregem"
+                ],
+                "display_name": "Waregem, Kortrijk",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-11-02T20:56:19Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDc3NDEwNTg5In0.SOyUage8ZnK5W0os96V1dhG1znBPBBUfKEBWJuqViv0",
+            "redirect_url": "https://www.adzuna.be/details/5477410589?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-08-09T18:30:42Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0NTUyOTQ2NyIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.IL7Q8_QI_V_6ay3_PyuKVKhv4EkONObAC5TpMJtK-po",
+            "redirect_url": "https://www.adzuna.be/details/5345529467?utm_medium=api&utm_source=58c69264",
+            "description": "What will you do? As a Senior Data Architect, you will be responsible for defining and implementing the enterprise-wide data architecture that supports critical business initiatives and drives data-driven decision-making. You\u2019ll shape the structure, governance, and strategic roadmap of data assets across the organization\u2014ensuring data is accessible, secure, integrated, and aligned with evolving business needs. You\u2019ll collaborate with senior stakeholders in IT, analytics, and the business to arc\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Architect",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "bpost"
+            },
+            "id": "5345529467",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            }
+        },
+        {
+            "created": "2025-10-31T20:30:29Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.be/details/5473278180?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDczMjc4MTgwIn0.gOBNxaSn9xFP0fdK2FiOkzflBPRr0tlfCLqmuo5EdYI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description About the Role As a Data Architecture Lead , you\u2019ll lead and grow a team of skilled data architects to design, implement, and scale modern enterprise data solutions. You\u2019ll define the organization\u2019s data architecture strategy, ensuring our platforms are robust, secure, and future-ready. This role combines hands-on technical leadership with strategic vision \u2014 shaping how data supports business growth and innovation. Key Responsibilities Lead, mentor, and develop a high-performing\u2026",
+            "latitude": 50.8865,
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "West-Vlaanderen (Provincie)",
+                    "Kortrijk",
+                    "Waregem"
+                ],
+                "display_name": "Waregem, Kortrijk",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 3.43209,
+            "salary_is_predicted": "0",
+            "title": "Data Architecture Lead",
+            "company": {
+                "display_name": "Dark Light",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5473278180"
+        },
+        {
+            "created": "2025-12-05T21:55:15Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI5OTY3NTA1In0.PQFCAxc-T0viXWRjOup-gnZ1SFyh-gdbdjGzljZeoUc",
+            "redirect_url": "https://www.adzuna.be/details/5529967505?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Notre client dans le secteur Sant\u00e9 et pharma recherche un/une Data IntegratorH/F Description de la mission: Project/Department Description and responsibilities Based on the defined Data Architecture, the Data Integrator develops and documents ETL solutions, which translate complex business data into usable physical data models. These solutions support enterprise information management, business intelligence, machine learning, data science, and other business interests. The Data Integrator uses \u2026",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 7680,
+            "title": "Data Integrator - Senior",
+            "id": "5529967505",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Collective"
+            },
+            "salary_max": 7680
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data Management Expert Within our department Data Management whose mission is the transformation of Athora towards a more data-literate organization, enabling the achievement of operational efficiency gains and safeguarding the trust and transparency of our data assets in a compliant way, we are seeking a Data Management Expert. His/Her role is to be responsible for establishing and maintaining robust data governance frameworks and quality monitoring processes across the organization. The Data \u2026",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Data Management Expert",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Athora"
+            },
+            "id": "5501482034",
+            "created": "2025-11-18T09:34:47Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTQ4MjAzNCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.mNdAYGA1is1KsF98Qsdb7MS_c_ZcrEprFVQHGDcxVgc",
+            "redirect_url": "https://www.adzuna.be/details/5501482034?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5505874305",
+            "title": "Data Management Expert",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Athora",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Within our department Data Management whose mission is the transformation of Athora towards a more data-literate organization, enabling the achievement of operational efficiency gains and safeguarding the trust and transparency of our data assets in a compliant way, we are seeking a Data Management Expert. His/Her role is to be responsible for establishing and maintaining robust data governance frameworks and quality monitoring processes across the organization. The Data Management Expert will \u2026",
+            "redirect_url": "https://www.adzuna.be/details/5505874305?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA1ODc0MzA1In0.BDgEQ9t6SivpOd4_CQ6RswyvEcosPmRL8iI8As3ureE",
+            "created": "2025-11-20T20:41:01Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTAwNzQ4MzA0In0.x4KrROW7GakdhCG0LbBcfasm1zK-b71S260RQ6kM5Io",
+            "redirect_url": "https://www.adzuna.be/details/5500748304?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR Reclame en Marketing vacatures",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "created": "2025-11-17T20:36:30Z",
+            "title": "Data Governance Analyst",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "DS Smith",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5500748304",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About us We are DS Smith, together with International Paper, we are a global leader in sustainable packaging solutions and other fiber-based products. We believe a better, more sustainable tomorrow is possible with the right people, who challenge and support one another to enact positive change. We employ more than 65,000 colleagues in North America and Europe, Middle East and Africa (EMEA), who are experts in innovation, manufacturing, design, sales, sustainability, supply chain, and much more\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NTUyODMxNyIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.BBQePScOXtOJ35kyrJJBoWkrvzgn4QcNbVWNK2xw81s",
+            "redirect_url": "https://www.adzuna.be/details/5455528317?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-19T21:49:27Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TVH"
+            },
+            "title": "Data Quality Officer",
+            "salary_is_predicted": "0",
+            "id": "5455528317",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Role As a Data Quality officer, you will be a key enabler focused on maximizing the value and trustworthiness of our most critical asset: our data. You will act as a proactive partner, collaborating closely with business and technical teams. A critical part of your function will be to bring diverse perspectives\u2014from the data creator to the data customer, and from the business profile to the technical expert\u2014into insightful, overarching analysis. Your mission is to not only resolve iss\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "General information Reference 2021-260 Job title Senior Data Consultant Function Advisory - Senior Advisor Roles & Responsibilities Our KPMG Lighthouse is growing! The Belgian local Center of Excellence for Data, Analytics, Artificial Intelligence & Intelligent Automation is looking for (Senior) Data Consultant. In that function, you will be part of challenging Data Transformations across various industries and: You will analyze, define, implement and improve Data and AI strategies and processe\u2026",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Senior Data Consultant",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KPMG"
+            },
+            "id": "5416252230",
+            "created": "2025-09-26T21:17:31Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Adviseur en Consultancy vacatures",
+                "tag": "consultancy-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNjI1MjIzMCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.8EPkootZCNCZqvTh6_z-1qnw_liHrc7Oe73rPgfIRCk",
+            "redirect_url": "https://www.adzuna.be/details/5416252230?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI0ODU2NTQ2NCIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.2ix-nGEGhTSTEIPfUUIanupWOV6OOXnkh_oSKNDvxyQ",
+            "redirect_url": "https://www.adzuna.be/details/5248565464?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "QA en Kwaliteitsborging vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs"
+            },
+            "created": "2025-06-13T14:57:03Z",
+            "title": "Data Analyst Stage",
+            "company": {
+                "display_name": "Dark Light",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5248565464",
+            "longitude": 4.402905,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb",
+                    "Antwerpen (Provincie)",
+                    "Antwerpen",
+                    "Antwerpen"
+                ],
+                "display_name": "Antwerpen"
+            },
+            "latitude": 51.219728,
+            "description": "Ben jij een enthousiaste student die graag wil bijdragen aan data-analyse en rapportage opstarten met PowerBI? Onze start-up, gespecialiseerd in project staffing voor data en BI projecten, zoekt een stagiair data-analist om ons team te versterken. Dit is een unieke kans om praktijkervaring op te doen in een dynamische omgeving en te werken aan uitdagende BI projecten. Ervaring in data-analyse en het opzetten van rapporten in PowerBI Uitstekende analytische vaardigheden en een oog voor detail St\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Vacatures Ander of Algemeen",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-10-30T11:17:56Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDcwODA0NTA0In0.tiSLHisbNvOxfokpb1E5ds1yoLz9MIalWbbrnBdNhU0",
+            "redirect_url": "https://www.adzuna.be/details/5470804504?utm_medium=api&utm_source=58c69264",
+            "latitude": 50.8865,
+            "description": "Data Governance Officer | Aantrekkelijk loonpakket | gedreven Data team | Regio Waregem | 1110251 Over de organisatie Hays is voor een klant actief in de sector van bouwmachines op zoek naar een Data Governance Officer. Deze internationale speler telt duizenden medewerkers en staat bekend om een innovatieve en mensgerichte bedrijfscultuur. Je komt terecht in een dynamische omgeving waar samenwerking en strategisch denken centraal staan. Binnen het transformatieteam krijg je de kans om een nieuw\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 36000,
+            "company": {
+                "display_name": "HAYS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Governance Officer",
+            "salary_is_predicted": "0",
+            "salary_max": 63600,
+            "id": "5470804504",
+            "longitude": 3.43209,
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "West-Vlaanderen (Provincie)",
+                    "Kortrijk",
+                    "Waregem"
+                ],
+                "display_name": "Waregem, Kortrijk",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5OTUzOTI1MyIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.ePgwuX5HD8g-YzA1nYuLJ6CukBVK4FA5kJYHCk2WpS8",
+            "redirect_url": "https://www.adzuna.be/details/5499539253?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "label": "PR Reclame en Marketing vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "created": "2025-11-16T19:57:48Z",
+            "salary_is_predicted": "0",
+            "title": "Master Data Specialist",
+            "company": {
+                "display_name": "DS Smith",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5499539253",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About us We are DS Smith, together with International Paper, we are a global leader in sustainable packaging solutions and other fiber-based products. We believe a better, more sustainable tomorrow is possible with the right people, who challenge and support one another to enact positive change. We employ more than 65,000 colleagues in North America and Europe, Middle East and Africa (EMEA), who are experts in innovation, manufacturing, design, sales, sustainability, supply chain, and much more\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-08-09T18:30:17Z",
+            "category": {
+                "tag": "consultancy-jobs",
+                "label": "Adviseur en Consultancy vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.be/details/5345529213?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia0ZZcTA5blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzQ1NTI5MjEzIn0.bm1UbyhE0j9gsGXjflUEX-cBKwCxmgi0cArT3_f708s",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "General information Reference 2025-1205 Job title Manager Data Architect Function Advisory - Manager Roles & Responsibilities Becoming an architect inside KPMG Lighthouse will allow you to demonstrate, develop and extend your architecture skills in Data, AI, automation, and system integration. You will be working is a modern environment and find yourself surrounded by a multi-disciplinary peer group of over 60 data enthusiasts with a strong entrepreneurial spirit. You will be able to work on ar\u2026",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Manager Data Architect",
+            "salary_is_predicted": "0",
+            "id": "5345529213",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KPMG"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are seeking an experienced and ambitious Senior Data Engineer to join our core data team within MSC's cross-country IoT department. This is a unique opportunity for a hands-on engineer who is passionate about building robust data solutions and is eager to grow into a broad position as a Data Lead or Data Architect. Our small, agile data team operates within the 50-person IoT department, which spans across Antwerp, Turin, and Chennai. You will play a pivotal role in shaping our data landscape\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer",
+            "id": "5455528223",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MSC Mediterranean Shipping Company SA"
+            },
+            "created": "2025-10-19T21:49:10Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT ICT vacatures",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NTUyODIyMyIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.OWv4iCnhlos2i0scfQMB1cBEzStoFZcu03oAuRPXyVI",
+            "redirect_url": "https://www.adzuna.be/details/5455528223?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc5MjUzNjQxOSIsInMiOiJrRllxMDluVzhCRzdnY3JqVkVhaUR3In0.0r0q-TTwsNvI37KocGMIxGuaEzJGM8dZM4eXDqdEyB4",
+            "redirect_url": "https://www.adzuna.be/details/4792536419?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2024-07-24T06:59:15Z",
+            "title": "BE-Data Engineer",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Collaboration Betters The World"
+            },
+            "id": "4792536419",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Who are we? Collaboration Betters The World (CBTW), is a company providing tech and business solutions to its clients, through the expertise of its 9 service lines. As a Data Engineer you will join our Data Analytics & IA service line, where we are supporting organizations in every step to become data-driven. What is your role? You will be part of a journey where you will have two impacts: a client impact and an internal impact . For the internal impact, based on your skills and time, you will \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        }
+    ]
+}

@@ -1,0 +1,1455 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A leading home and security company is seeking an experienced Product Engineer to manage product master data within ECM processes at their location in Monterrey, Nuevo Le\u00f3n. The ideal candidate will have an associate degree in a relevant field and a minimum of 2 years' experience in engineering change management and BOM maintenance. Strong communication skills and proficiency in tools like SolidWorks, Altium, and SAP/Oracle are essential. This role offers an opportunity to work collaboratively \u2026",
+            "latitude": 25.671795,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "San Pedro Garza Garc\u00eda, Nuevo Le\u00f3n",
+                "area": [
+                    "M\u00e9xico",
+                    "Nuevo Le\u00f3n",
+                    "San Pedro Garza Garc\u00eda"
+                ]
+            },
+            "longitude": -100.301101,
+            "company": {
+                "display_name": "Fortune Brands",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "ERP Product Engineer: Master Data & BOM Expert",
+            "id": "5520778962",
+            "salary_max": 7200,
+            "salary_min": 4800,
+            "created": "2025-11-30T22:04:33Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Empleos en ingenier\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5520778962?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8AD2A9631F5498915C3269DE40B0D88254C9B52A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDc3ODk2MiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.3vP_DDbzZTwJ3EUNVUNDaBhglIQZwF6aq-4YDia9h0Q"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI4NDA3OTQzIn0.SxhRsWwfO740qNDeXEdAhRpSfACYP8BD1n4GOBSuq_k",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5528407943?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=66F74EC5A8A877DBBA497B253DC3E0B721385E62",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-12-04T15:20:42Z",
+            "salary_min": 4800,
+            "salary_is_predicted": "0",
+            "title": "Senior Product & Marketing Analyst: Data-Driven Growth",
+            "id": "5528407943",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "The Global Talent Co."
+            },
+            "salary_max": 7200,
+            "longitude": -99.7233,
+            "location": {
+                "display_name": "Estado de M\u00e9xico, M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Estado de M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 19.4969,
+            "description": "A leading technology recruitment agency is looking for a Senior Product/Marketing Analyst to drive data-informed decisions that boost product growth and marketing ROI. You'll analyze complex datasets and collaborate with teams to optimize performance. Ideal candidates have over 7 years of experience in analytics, strong statistical knowledge, and technical skills including SQL and Python. This role offers a unique opportunity to make a significant impact within a rapidly growing company dedicat\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5535312905?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E549342DEE6D3E68C00D74878906C09B5A12F764",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1MzEyOTA1In0.Zhr5xqyS_NzhXJHcPhzj7ZDHJEkRsurDs1kbOdRsfXw",
+            "created": "2025-12-09T13:20:04Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica"
+            },
+            "location": {
+                "display_name": "Xico, Veracruz",
+                "area": [
+                    "M\u00e9xico",
+                    "Veracruz",
+                    "Xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -97.014439,
+            "title": "Remote AI Training Data Annotator (RLHF Focus)",
+            "salary_is_predicted": "0",
+            "salary_max": 7200,
+            "id": "5535312905",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "G2I Inc."
+            },
+            "salary_min": 4800,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A leading AI development firm is seeking enthusiastic individuals to join their expert annotation team. This role, focused on evaluating AI-generated code, requires at least 2 years of software development experience and fluency in English. With flexible schedules and the possibility to work up to 40 hours weekly, candidates will contribute to training cutting-edge AI models. The position offers long-term contracts with no end date, allowing for commitment as well as flexibility in work hours. \u2026",
+            "latitude": 19.42336
+        },
+        {
+            "created": "2025-12-10T13:30:49Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjg5NTE1OCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.hhUczAOg-CXRiI9azL9k0oDXoyBpJUcduSz9Fn-CnvM",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5536895158?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D65C99359650CE6ABD3E205B463ED86FB9A53393",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.4326,
+            "description": "A leading analytics company is seeking a Bilingual Data and Insight Analyst for their Mexico City office. Candidates should have over 5 years of experience in advanced analytics, be fully bilingual in English and Spanish, and possess a bachelor\u2019s degree in a relevant field. Responsibilities include architecting reporting solutions, working in Agile environments, and implementing reporting technologies like JasperSoft. The role offers a base salary of $35,000 to $40,000 pesos per month with a co\u2026",
+            "longitude": -99.1332,
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 4800,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Cotiviti",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Bilingual Data & Insight Analyst \u2013 Open-Source Analytics",
+            "id": "5536895158",
+            "salary_max": 7200
+        },
+        {
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -99.1332,
+            "title": "Remote Lead Backend Engineer \u2013 .NET, AWS & Data",
+            "salary_is_predicted": "0",
+            "id": "5531812564",
+            "company": {
+                "display_name": "Varicent",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 7200,
+            "salary_min": 4800,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A leading technology company in Mexico is seeking a Lead Full Stack Engineer specializing in backend development. The role is fully remote and requires over 7 years of experience, including proficiency in C# and AWS services. You will collaborate with a multidisciplinary team to enhance the REST API and AWS infrastructure while focusing on scalable, data-intensive applications. Candidates must have strong problem-solving skills and proficiency in English, with the opportunity for professional g\u2026",
+            "latitude": 19.4326,
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5531812564?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=214B78980E7E6AA2F5FB736D5E9765496E8484BA",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxODEyNTY0In0.F6f9MNiU2ZEw_lrZv0DxP7decT3OFdw8umaouixTjTU",
+            "created": "2025-12-06T16:51:36Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Empleos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "salary_min": 4800,
+            "salary_is_predicted": "0",
+            "title": "Senior Business Analyst \u2014 Data-Driven Insights & Equity",
+            "id": "5538454697",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nu"
+            },
+            "salary_max": 7200,
+            "longitude": -97.014439,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Veracruz",
+                    "Xico"
+                ],
+                "display_name": "Xico, Veracruz"
+            },
+            "latitude": 19.42336,
+            "description": "A leading digital financial platform is seeking a Business Analyst based in Mexico, Veracruz, Xico. This role focuses on supporting data-driven decisions and improving client experiences through strong analytical skills, creativity in problem-solving, and familiarity with SQL, Python, and Scala. Successful candidates will thrive in a dynamic work environment and have the chance to earn equity in the company. Attractive benefits include health insurance and extended leave policies aimed at promo\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODQ1NDY5NyIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.CCRzMP_hsX4HKdgmjG0o4KGo5RU5tICcKkRJWVW_Eiw",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5538454697?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=31008A9427C0BC87CFD3F871087AAC193C58E368",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en consultor\u00eda",
+                "tag": "consultancy-jobs"
+            },
+            "created": "2025-12-11T14:04:43Z"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Capgemini"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Product Analyst \u2013 Insurance Pricing & Data Insights",
+            "id": "5538457729",
+            "salary_max": 7200,
+            "salary_min": 4800,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Veracruz",
+                    "Xico"
+                ],
+                "display_name": "Xico, Veracruz"
+            },
+            "longitude": -97.014439,
+            "description": "A leading consulting firm is seeking a highly skilled Senior Product Analyst to provide analytical support to its State Product Management team in the insurance sector. This role requires a minimum of 3 years of experience in a similar role, proficiency in English, and a Bachelor's degree in a relevant field. Responsibilities include conducting market research, collaborating with teams for product changes, and performing data analysis. The company offers competitive salaries, flexible work arra\u2026",
+            "latitude": 19.42336,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5538457729?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DEB68E22BF6F86C83AE9B58BCED7175CE9B29FDB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODQ1NzcyOSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.SAQQHVEN2OmXYoCqoUA-6VuGwBi25OzpFqosuG8620Y",
+            "category": {
+                "label": "Empleos en consultor\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "created": "2025-12-11T14:05:24Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Servicios Comerciales Amazon Mexico S. de R.L. de C.V.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Business Intelligence Engineer, Supply Chain Data Science",
+            "id": "5491089971",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Are you a data enthusiast? Do the world's most complex logistic systems inspire your curiosity? Is it your passion to navigate through hundreds of systems, processes, and data sources to solve puzzles and identify the next big opportunity? Are you a creative big-picture thinker who is passionate about using data and optimization tools to drive decision-making and solve complex, large-scale challenges? Do your skills uniquely qualify you to bridge communication between teams with competing prior\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDkxMDg5OTcxIn0.xOYvgCLHSFzsuSNnR6rO018EhZPNEYAnpbnPIHqDQD0",
+            "redirect_url": "https://www.adzuna.com.mx/details/5491089971?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-11T13:45:28Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.4326,
+            "description": "A consulting firm in the energy sector is looking for a Sr. Energy Analyst in Mexico City. The ideal candidate will analyze the Wholesale Electricity Market and provide actionable insights to clients. Responsibilities include conducting market analysis, preparing reports, and enhancing data processes using tools like Excel and Power BI. Candidates should have 3 years in the energy sector, excellent communication skills, and proficiency in English. This role is full-time and offers opportunities\u2026",
+            "longitude": -99.1332,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "salary_min": 4800,
+            "salary_is_predicted": "0",
+            "title": "Senior MEM Energy Analyst: Market Insights & Data",
+            "salary_max": 7200,
+            "id": "5535320970",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Energyby5"
+            },
+            "created": "2025-12-09T13:26:01Z",
+            "category": {
+                "label": "Empleos en contabilidad y finanzas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTMyMDk3MCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.Au60sU5FvwtxRbgRrBX7Caye2O_CFwHpWQsuEUAsyfM",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5535320970?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=55174F0E4F838BC7FE152CD0244737BD09A57708"
+        },
+        {
+            "longitude": -99.1332,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "salary_min": 4800,
+            "salary_is_predicted": "0",
+            "id": "5520773957",
+            "title": "Senior Data Scientist - ML for Demand & Logistics",
+            "salary_max": 7200,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Stord"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.4326,
+            "description": "A leading logistics technology company is seeking a Data Scientist in Mexico City to develop innovative machine learning solutions. The role requires 5 years of experience in AI/ML, strong programming skills in Python, and the ability to analyze complex datasets. Ideal candidates will have experience in the logistics industry and advanced skills in ML frameworks like TensorFlow or PyTorch. This full-time position offers the opportunity to collaborate with cross-functional teams and make a signi\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwNzczOTU3In0.4aFaJp7UgrHrwrPh2KgsdyRkr8EdJ10gGHtal62M8is",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5520773957?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0DE59F76A5EA4F3171CD0EE07861CDD16916D633",
+            "created": "2025-11-30T21:59:20Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Analista de Datos Jr - Reporter\u00eda/ Power BI",
+            "company": {
+                "display_name": "R&R It Consulting Negocios Integrales",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5499369656",
+            "salary_max": 180000,
+            "salary_min": 120000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "description": "En R&RIT Consulting estamos buscando un Analista de Datos Jr para apoyar en la creaci\u00f3n, mantenimiento y optimizaci\u00f3n de dashboards e informes que permitan una mejor toma de decisiones. Responsabilidades: Creaci\u00f3n y actualizaci\u00f3n de dashboards y reportes en Power BI. Limpieza, modelado y transformaci\u00f3n de datos con Power Query y DAX b\u00e1sico. Conexi\u00f3n a diversas fuentes de datos (Excel, SQL, SharePoint, etc.). Documentaci\u00f3n de procesos, consultas y reportes. Soporte a usuarios en el uso de indica\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/details/5499369656?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk5MzY5NjU2In0._JOxgTLTEU0249IYAWxymiVwIvLDw68MejTtMcEaIpE",
+            "category": {
+                "tag": "consultancy-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en consultor\u00eda"
+            },
+            "created": "2025-11-16T10:48:51Z"
+        },
+        {
+            "category": {
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en log\u00edstica y almac\u00e9n"
+            },
+            "created": "2025-12-03T11:15:15Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTk4NDE2NiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.jPzIZpncvfjxhqcrjwVXe9RxkFDzrJvrLKXrIDa5Ww8",
+            "redirect_url": "https://www.adzuna.com.mx/details/5525984166?utm_medium=api&utm_source=58c69264",
+            "latitude": 30.8471,
+            "description": "For our IT Data Management department, we are looking for you to strengthen the team in the role of SAP Master Data Senior Solution Architect (MDG). The ideal candidate will have a deep understanding of SAP MDG, data modeling, and governance processes, and will lead the design, implementation, and support of SAP MDG solutions during the Application Maintenance phase. What we offer: Your Tasks: Lead SAP MDG implementations, including planning, design, build, testing, deployment during MDG applic\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5525984166",
+            "title": "SAP Master Data Senior Solution Architect (MDG)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KION"
+            },
+            "longitude": -105.37036,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Chihuahua",
+                    "Guadalupe"
+                ],
+                "display_name": "Guadalupe, Chihuahua"
+            }
+        },
+        {
+            "description": "Importante empresa de giro alimenticio con ma\u0301s de 60 an\u0303os en la industria nos respaldan, a lo largo de este tiempo hemos cosechado varios casos de e\u0301xito. Atendemos Comedores institucionales Producimos box lunches Armado de despensas Elaborar desayunos y comidas escolares Servicios de alimentacio\u0301n Catering y hoteleri\u0301a en plataformas marinas costa adentro y fuera. Proporcionar servicios de avituallamiento a embarcaciones Suministrar materias primas para la preparacio\u0301n de alimentos. A client\u2026",
+            "location": {
+                "display_name": "Miguel Hidalgo, Ciudad de M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico",
+                    "Miguel Hidalgo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Corporativo Kosmos"
+            },
+            "title": "Captura de datos Facturacio\u0301n Metro San Joaqui\u0301n",
+            "salary_max": 121200,
+            "salary_min": 121200,
+            "created": "2025-10-23T04:26:43Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5460585137?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0667D2684F67B28F4C1623CCD288F65CAEF5DED9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MDU4NTEzNyIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.6cIyHdZXkolUNgyyPoVRkOsAF5gmy69Ksr9kyTp_l8Q",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.44868,
+            "longitude": -99.208634,
+            "salary_is_predicted": "0",
+            "id": "5460585137"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Grupo viso"
+            },
+            "salary_is_predicted": "0",
+            "title": "Analista Sr en an\u00e1lisis de datos (TI)",
+            "id": "5403402162",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Importante oportunidad para analista SR en an\u00e1lisis de datos en Grupo VISO, \u00fanete a nuestro equipo, tu trabajo impulsar\u00e1 nuestras decisiones. Requisitos m\u00ednimos para el puesto: Licenciatura en ciencias de la computaci\u00f3n, ingenier\u00eda en sistemas, ciencia de datos, actuar\u00eda o afines Experiencia en: an\u00e1lisis de datos con Python, R, Julia o similares. Desarrollo de reportes y tableros con herramientas de Inteligencia de Negocios (e.g. Power BI). Conocimiento avanzado de Mircrosoft Excel, incluyendo \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMzQwMjE2MiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.GuVueuuoAwiNXL4eiCKSd_Fp0PG7M2qPFAXxUlRhuas",
+            "redirect_url": "https://www.adzuna.com.mx/details/5403402162?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-17T13:19:14Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-08T06:28:03Z",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5533402633?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F970BB446132033BE023FE624848C37D3C0BE025",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzQwMjYzMyIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.thR7-bjwXXSoey2q6_DQ71T5DFQNBj8OT00z81eg36g",
+            "description": "Asesor Telefo\u0301nico para telemarketing Capacitacio\u0301n inmediata Contratacio\u0301n inmediata Mensualmente de 9000 a 10000 Manejo PC Facilidad de Palabra Atencio\u0301n al Cliente Captura Seguimiento Tiempo completo Sueldo fijo libre de impuestos Comisiones Semanales Cafeteri\u0301a con descuento Capacitacio\u0301n Pagada Crecimiento Laboral a corto plazo Contratos con o\u0301pticas, laboratorios, universidades, dentistas, etc Cerca Plaza San Diego Bolsa de trabajo Me\u0301xico ofrecemos puesto de Captura de datos para el sect\u2026",
+            "latitude": 19.075927,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Importante empresa del sector"
+            },
+            "title": "Captura de datos Sin experiencia sueldo fijo",
+            "id": "5533402633",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Puebla",
+                    "San Pedro Cholula"
+                ],
+                "display_name": "San Pedro Cholula, Puebla",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -98.310912
+        },
+        {
+            "salary_is_predicted": "0",
+            "salary_max": 360000,
+            "title": "Bussines Intelligence and data analisys especialist - Salamanca",
+            "id": "5367498519",
+            "company": {
+                "display_name": "Aralo Express",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 336000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "description": "Buscamos un especialista en Business Intelligence y an\u00e1lisis de datos para unirse a nuestro equipo en ARALO EXPRESS. En esta posici\u00f3n, ser\u00e1s responsable de Recopilar, Consolidar, Visualizar y Analizar datos para mejorar nuestros procesos log\u00edsticos y de calidad. Adem\u00e1s, tu habilidad para interpretar datos y generar informes detallados ayudar\u00e1 a tomar decisiones informadas y estrat\u00e9gicas que impulsen nuestro crecimiento. Tu capacidad para identificar \u00e1reas de mejora y aplicar metodolog\u00edas de mej\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/details/5367498519?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2NzQ5ODUxOSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.AWRHWkaZIVcTUTdMdTPvd6rxwsTGRo_te7N9zsuv9Eg",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-08-25T08:17:15Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDY5ODcxOTcwIn0.JA_K-kzSRBmpnJnFTlJlH01UXWD2GDMMR8-cChCIBHI",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5469871970?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E70E22A2CD4BDC028CC1B6FC580CFC7BFED77EA1",
+            "category": {
+                "tag": "consultancy-jobs",
+                "label": "Empleos en consultor\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-29T11:28:47Z",
+            "salary_min": 4800,
+            "salary_is_predicted": "0",
+            "id": "5469871970",
+            "title": "Staff, Project Management (Infrastructure Projects, Data Center))",
+            "salary_max": 7200,
+            "company": {
+                "display_name": "Warner Bros. Discovery",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -99.1332,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "latitude": 19.4326,
+            "description": "Staff, Project Management (Infrastructure Projects, Data Center) Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. When we say \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons, and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands are the storytellers, creators, and dreamers who bring characters to life, deliver magic to living rooms, and plot what\u2019s next. From brilliant c\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-14T04:45:37Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NTQ3ODIxMyIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.a6AsRig4s4ok9sI7XCb_3x-xDlRIL0WOONii9xBBT5U",
+            "redirect_url": "https://www.adzuna.com.mx/details/5495478213?utm_medium=api&utm_source=58c69264",
+            "latitude": 19.4356,
+            "description": "Descripci\u00f3n Oferta Empresa socia de Amedirh solicita \u201cCOORDINADOR DE DATOS E IMPLEMENTACI\u00d3N DE IA\u201d REQUISITOS \u2022 Licenciatura en Inteligencia de Mercados, Ciencias de Datos, Ingenier\u00eda o af\u00edn. \u2022 2 a\u00f1os de experiencia en an\u00e1lisis de datos e inteligencia artificial. \u2022 Dominio de herramientas como Google Workspace, Gemini, Looker y Google Colab. \u2022 Conocimientos intermedios en Python y SQL, con experiencia en desarrollo de tableros digitales interactivos. \u2022 Comprensi\u00f3n de metodolog\u00edas Big Data y ges\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Coordinador De Datos E Implementaci\u00f3n De Ia",
+            "salary_is_predicted": "0",
+            "id": "5495478213",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amedirh TALENTO"
+            },
+            "longitude": -99.1495,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cuauht\u00e9moc, Ciudad de M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico",
+                    "Cuauht\u00e9moc"
+                ]
+            }
+        },
+        {
+            "created": "2025-11-13T04:53:14Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/details/5493301262?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MzMwMTI2MiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0._IazNbOYp2n2FDgAIfZ9D5fNsLPMF7LGnsXnYQK3oGA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "CAT CENTRO DE ATRACCI\u00d3N DE TALENTO Somos una marca empleadora enfocada a la Atracci\u00f3n que integra al mejor Talento con habilidades y competencias en el ramo de venta digital de Seguros y Fianzas m\u00e1s grande de M\u00e9xico y LATAM, somos una empresa comprometida que brinda oportunidad de desarrollo personal y profesional a sus colaboradores Zona a laborar: La raza (l\u00ednea amarilla , CDMX) HORARIO DE Mi\u00e9rcoles a Domingo || 12:00 a 10:00 pm Estamos en b\u00fasqueda de ANALISTA DE BASE DE DATOS / WFM Requisito\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico"
+            },
+            "id": "5493301262",
+            "salary_is_predicted": "0",
+            "title": "Analista de Base de Datos/ Contrataci\u00f3n Inmediata",
+            "company": {
+                "display_name": "Centro de Atracci\u00f3n de Talento",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "DATA SCIENTIST MANAGER (Cuauht\u00e9moc, Ciudad de M\u00e9xico)",
+            "id": "5525885969",
+            "company": {
+                "display_name": "Bbva",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico",
+                    "Cuauht\u00e9moc"
+                ],
+                "display_name": "Cuauht\u00e9moc, Ciudad de M\u00e9xico"
+            },
+            "longitude": -99.159124,
+            "description": "Fecha l\u00edmite para apuntarse: 2025-12-17 \u00bfQuieres desarrollar tu carrera profesional? BBVA es una empresa global con m\u00e1s de 160 a\u00f1os de historia que opera en m\u00e1s de 25 pa\u00edses en los que damos servicio a m\u00e1s de 80 millones de clientes. Somos m\u00e1s de 121.000 profesionales que trabajamos en equipos multidisciplinares y de perfiles tan diversos como financieros, expertos jur\u00eddicos, cient\u00edficos de datos, desarrolladores, ingenieros o dise\u00f1adores. \u00bfQu\u00e9 estamos buscando? Responsabilidades Definir estrat\u2026",
+            "latitude": 19.428081,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/details/5525885969?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI1ODg1OTY5In0._G5iB-zq0ktOK4h0Kl15juwuajzdb-1uvvsoCA2g_Ts",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-12-03T11:07:23Z"
+        },
+        {
+            "salary_max": 102000,
+            "salary_is_predicted": "0",
+            "title": "Becario de An\u00e1lisis de datos - Excel avanzado",
+            "id": "5347871811",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Conectabee"
+            },
+            "salary_min": 96000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "description": "En Conectabee somos la primera empresa especializada en instalaciones y mantenimientos de servicios post venta en aires acondicionados, cargadores el\u00e9ctricos, l\u00ednea blanca, purificadores y paneles solares. Nos encontramos en b\u00fasqueda del mejor talento para formar parte como Becario de Analista de datos. Perfil: \u2022 Estudiante \u00faltimos semestres o egresado de Finanzas, Actuar\u00eda, Matem\u00e1ticas, Ingenier\u00eda, Contadur\u00eda. (servicio social, liberaci\u00f3n de pr\u00e1cticas, 1er trabajo formal) \u2022 Seguro facultativo \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/details/5347871811?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0Nzg3MTgxMSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.T8AzVvO-en5VNiUnU9AA5Qq3hq-Pqy8U25oYxfKRfUY",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-08-11T08:00:21Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ]
+            },
+            "title": "Senior Data Engineer, Risk Technology, Mexico City",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ION Group"
+            },
+            "id": "5208108776",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Lab49 is seeking a skilled and experienced Mexico City-based Senior Data Engineer to join our innovative team. The ideal candidate will possess expertise in data engineering technologies, experience with market and credit counterparty risk platforms , and a solid understanding of the financial services sector. If you thrive in a collaborative, agile environment and excel at building scalable, high-performance data platforms, we\u2019d love to hear from you. Responsibilities: Analyze, design, code, t\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjA4MTA4Nzc2In0.cnc3AQ-lJZOA7YXqw0K71Gx0W9o8Q2W6xjzOy6TKtLE",
+            "redirect_url": "https://www.adzuna.com.mx/details/5208108776?utm_medium=api&utm_source=58c69264",
+            "created": "2025-05-20T13:58:34Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNzg3NDM3NiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.gb6Hjo0pwM2bS1sOcHcZulRIylZkwWptbnPq7LneKt8",
+            "redirect_url": "https://www.adzuna.com.mx/details/5507874376?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-21T11:13:43Z",
+            "title": "Senior Project Manager - Generative AI Data Operations",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Welocalize",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5507874376",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico"
+            },
+            "description": "Welo Data works with technology companies to provide datasets that are high-quality, ethically sourced, relevant, diverse, and scalable to supercharge their AI models. As a Welocalize brand, WeloData leverages over 25 years of experience in partnering with the world\u2019s most innovative companies and brings together a curated global community of over 500,000 AI training and domain experts to offer services that span: ANNOTATION & LABELLING: Transcription, summarization, image and video classificat\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Orion Innovation is a premier, award-winning, global business and technology services firm. Orion delivers game-changing business transformation and product development rooted in digital strategy, experience design, and engineering, with a unique combination of agility, scale, and maturity. We work with a wide range of clients across many industries including financial services, professional services, telecommunications and media, consumer products, automotive, industrial automation, profession\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5517805960",
+            "salary_is_predicted": "0",
+            "title": "Especialista de Analisis de Datos - Hibrido (CDMX)",
+            "company": {
+                "display_name": "en Orion Innovation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-28T10:58:52Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzgwNTk2MCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.B5ZX03oFiKS3ssTq8XipxYyLDacGQtE2muCtXgPavCM",
+            "redirect_url": "https://www.adzuna.com.mx/details/5517805960?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Empleos en ingenier\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-30T22:02:54Z",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5520777333?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1515054E1ED9B22FC87FE51A6B5D2283919AF257",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDc3NzMzMyIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.vsHl2JloKFJlt-Ta6Dyq3vs0eoHCqh4ByNvnUngJsu4",
+            "description": "Company Description Turner & Townsend is a global professional services company with over 22,000 people in more than 60 countries. Working with our clients across real estate, infrastructure, energy and natural resources, we transform together delivering outcomes that improve people\u2019s lives. Working in partnership makes it possible to deliver the world\u2019s most impactful projects and programmes as we turn challenge into opportunity and complexity into success. Our capabilities include programme, \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Team Leader \u2013 Data Center Construction Projects, Quer\u00e9taro",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Turner & Townsend"
+            },
+            "id": "5520777333",
+            "salary_max": 7200,
+            "salary_min": 4800,
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "latitude": 19.4326,
+            "description": "Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of. Who We Are\u2026 When we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what\u2019s next\u2026 From brilliant creatives, to technology trailblazers, a\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 4800,
+            "title": "Staff, Project Management (Infrastructure Projects, Data Center))",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Warner Media, LLC.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5466420958",
+            "salary_max": 7200,
+            "longitude": -99.1332,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "category": {
+                "tag": "consultancy-jobs",
+                "label": "Empleos en consultor\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-27T11:26:00Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NjQyMDk1OCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.p-K6w8Zzgl3Eym__OkzL3QdTHA6SkWb2RodGk2fdDoU",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5466420958?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2F0A4B5A6E5076EC84B09DE6E1F1E476B16899B5"
+        },
+        {
+            "salary_min": 126000,
+            "salary_is_predicted": "0",
+            "salary_max": 204000,
+            "title": "Analista de Base de Datos - Zona Sur",
+            "id": "4951712222",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Grupo Nichos"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "description": "EMPRESA MEXICANA L\u00cdDER EN AN\u00c1LISIS DE MERCADOS DE LA INDUSTRIA FARMAC\u00c9UTICA ESTA EN B\u00daSQUEA DE TALENTO ANALISTA DE DATOS Zona: Sur, \u00c1lvaro Obreg\u00f3n Perfil Nivel de estudios requerido: Licenciatura o ingenier\u00eda terminada. Experiencia profesional m\u00ednima de 1 a\u00f1o como analista de base de datos con manejo intermedio de Excel, con gran capacidad anal\u00edtica para la generaci\u00f3n de reportes y presentaciones. Actividades a realizar: Creaci\u00f3n, revisi\u00f3n y an\u00e1lisis de bases de datos. Validaci\u00f3n minuciosa de i\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk1MTcxMjIyMiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.UaPmwSizC_53rOc0S7QHtzuj_WuE8IEgnZBKMOGAnJA",
+            "redirect_url": "https://www.adzuna.com.mx/details/4951712222?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2024-11-26T06:39:57Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTA0NTU0OSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.SUN4bJh9EfkoT44SEXCILGQJAeGIJLVTxD5pN8zUNNA",
+            "redirect_url": "https://www.adzuna.com.mx/details/5485045549?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-07T04:29:38Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 210000,
+            "salary_is_predicted": "0",
+            "id": "5485045549",
+            "title": "Consultor/a de datos - Lunes a viernes",
+            "salary_max": 240000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Profuturo"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "\u00a1\u00daNETE AL EQUIPO QUE TRANSFORMA EL FUTURO! En Profuturo , somos l\u00edderes en servicios financieros con m\u00e1s de 25 a\u00f1os de experiencia respaldando a m\u00e1s de 3 millones de clientes en todo M\u00e9xico. Nuestro compromiso: salvar el futuro de los mexicanos . \u00bfEres apasionado por los datos, los n\u00fameros y las estrategias inteligentes? Entonces queremos conocerte para que formes parte de nuestra familia como: CONSULTORA/CONSULTOR DE ESTAD\u00cdSTICA \u00bfQu\u00e9 tenemos para ti? Te ofrecemos m\u00e1s que un empleo: una experie\u2026"
+        },
+        {
+            "id": "5377777483",
+            "salary_is_predicted": "0",
+            "title": "Especialista en Datos de Producto \u2013 PIM/ERP",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Capital Empresarial Horizonte"
+            },
+            "salary_max": 1080000,
+            "salary_min": 600000,
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Capital Empresarial Horizonte Empresa Mexicana especialista en Recursos Humanos y Tecnolog\u00edas de la Informaci\u00f3n solicita: Ingeniero de Datos de Producto \u2013 PIM/ERP Para laborar en CDMX o GDL o QRO o MTY (Hibrido) Esquema Hibrido 2 d\u00edas presencial y 3 en Home Office Perfil Escolaridad: Ingenier\u00eda en Sistemas, Inform\u00e1tica o af\u00edn. Experiencia: M\u00ednima de 5 a\u00f1os. Ingl\u00e9s Conversacional INDISPENSABLE Requisitos: Habilidades t\u00e9cnicas requeridas: ETL, SQL y Teradata Gestionar el flujo, la calidad y la co\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/details/5377777483?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM3Nzc3NzQ4MyIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.-hkXkrgUsLb3sK_0KsqcbO2U4Xg3pVvNqKvKmy1Fq10",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-09-01T08:13:01Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzQ0Mjg4OSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.LcNuR0_9dfgkRmDfyYC3h_9FE3XPUIWqrJEvf32X3og",
+            "redirect_url": "https://www.adzuna.com.mx/details/5527442889?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica"
+            },
+            "created": "2025-12-04T11:09:46Z",
+            "title": "Senior Manager, Software Development Engineering, Big Data",
+            "salary_is_predicted": "0",
+            "id": "5527442889",
+            "company": {
+                "display_name": "Zillow",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "description": "About the team Zillow\u2019s Experimentation Platform team (ZEXP) supports self-service experimentation across our company. We are responsible for the platform that drives AB testing across customer facing experiences, back-end services, and AI. Our customers span Product, Engineering, and Data Science. We are a cross-functional team that consists of software developers, data engineers, and data scientists. Our work is varied, covering backend systems and data pipelines, to user front end, and to an\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Other locations: Primary Location Only Requisition ID: 1651117 EY GDS CS MEXICO SC is an internationally recognized company known for its excellence in consulting services and information technology solutions. We pride ourselves on fostering an environment of innovation and professional growth for our employees. Position Requirements: Experience Required: Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, Development of Generative AI applications, Production deplo\u2026",
+            "latitude": 19.4326,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ernst & Young Advisory Services Sdn Bhd"
+            },
+            "title": "Data- Databricks AI Engineer- Senior -EY- GDS",
+            "id": "5520779321",
+            "salary_max": 7200,
+            "salary_min": 4800,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ]
+            },
+            "longitude": -99.1332,
+            "category": {
+                "label": "Empleos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-30T22:04:59Z",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5520779321?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E8163553515B71552C22CE0FBB53FFE06BD5091D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDc3OTMyMSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.fjsjA74IOYy8o1msLChDoqGezn-zXyMhH6fS9McDIrA"
+        },
+        {
+            "created": "2025-09-21T13:04:12Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwOTc3MzQxMiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.4QqcLx89Uk58NvleoB7VB1FcWDLilxuyaUQpRV_Syfg",
+            "redirect_url": "https://www.adzuna.com.mx/details/5409773412?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Empresa l\u00edder en renta y lavado de textiles busca Asistente de Ejecutivo de Ventas, seguimiento a clientes Objetivo del Puesto: Dar suporte al equipo de ventas y asegurarse de completar el proceso administrativo en la contrataci\u00f3n de clientes Requisitos: Escolaridad: Licenciatura en Mercadotecnia, Ingenier\u00eda Industrial, LAE, o af\u00edn Con experiencia en m\u00ednimo 6 meses en Base de datos An\u00e1lisis de Datos y Toma de Decisiones Manejo de conflictos Trabajo bajo presi\u00f3n Excel intermedio- Avanzado (paque\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico"
+            },
+            "id": "5409773412",
+            "salary_is_predicted": "0",
+            "title": "Analista de Datos y Auxiliar Administrativo - Guadalajara",
+            "company": {
+                "display_name": "Servicios Estrella Azul De Occidente",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista de discado / call center Perfil requerido: Experiencia en call center m\u00ednimo de 1 a\u00f1o en an\u00e1lisis de base de datos de call center Experiencia s\u00f3lida en discado: carga, depuraci\u00f3n y optimizaci\u00f3n de bases de call center Dominio de Excel avanzado (tablas din\u00e1micas, f\u00f3rmulas, automatizaci\u00f3n de reportes). Conocimientos de SQL (consultas intermedias para extracci\u00f3n/validaci\u00f3n). Experiencia en reportes y an\u00e1lisis de KPIs (contactabilidad, conversi\u00f3n, productividad, ocupaci\u00f3n, ASA, AHT). Conoc\u2026",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Analista de base de datos / call center",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Konecta M\u00e9xico"
+            },
+            "id": "5423564261",
+            "created": "2025-10-01T03:41:42Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/details/5423564261?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDIzNTY0MjYxIn0.1GzsgPkR0gLdnfZ7qFW7SpNbWWYY0gZW8tbnkCPKm-k"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5522792265?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8B44124D93FF67B2EFB6CECD849390BF7CDC2AB5",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjc5MjI2NSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.nYmISuwHVMw9RM9-gwcWMfABm7q7k00cO4rEiTVxMk8",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica"
+            },
+            "created": "2025-12-01T14:23:08Z",
+            "id": "5522792265",
+            "salary_is_predicted": "0",
+            "title": "Data- Databricks AI Engineer- Senior-EY- GDS",
+            "salary_max": 7200,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EY"
+            },
+            "salary_min": 4800,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ]
+            },
+            "longitude": -99.1332,
+            "description": "Company Overview EY GDS CS MEXICO SC is an internationally recognized company known for its excellence in consulting services and information technology solutions. We pride ourselves on fostering an environment of innovation and professional growth for our employees. Responsibilities Develop and implement AI solutions using advanced techniques and methodologies. Collaborate with cross-functional teams to design and deploy scalable AI applications. Monitor and optimize the performance of AI mode\u2026",
+            "latitude": 19.4326,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-11-19T10:52:55Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTAzMjkxMzgxIn0.kghVY-qytP2pVndUiHwSgx-Rch4hLoOmvYBc6LUJ1pI",
+            "redirect_url": "https://www.adzuna.com.mx/details/5503291381?utm_medium=api&utm_source=58c69264",
+            "description": "ANALISTA MIS/ANALISIS DE BASE DE DATOS DE CALL CENTER Funciones: \u2022 Seguimiento y monitores sobre el comportamiento de la operaci\u00f3n \u2022 Apoyo al \u00e1rea de implementaci\u00f3n para optimizar las herramientas de trabajo \u2022 Brindar apoyo y ratificar las predicciones de workforce management sobre el comportamiento de las diferentes l\u00edneas de negocio Requisitos: \u2022 Licenciatura Trunca (matem\u00e1tica, estad\u00edsticas, telecomunicaciones o af\u00edn) \u2022 Experiencia de 1 a\u00f1o en el puesto an\u00e1lisis de base de datos de KP\u00b4S de c\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Analista base de datos / MIS/ call center",
+            "salary_is_predicted": "0",
+            "id": "5503291381",
+            "company": {
+                "display_name": "Konecta M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5326541452",
+            "title": "Analista base de datos / MIS/ call center",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Konecta M\u00e9xico"
+            },
+            "location": {
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "ANALISTA MIS/ANALISIS DE BASE DE DATOS DE CALL CENTER Funciones: \u2022 Seguimiento y monitores sobre el comportamiento de la operaci\u00f3n \u2022 Apoyo al \u00e1rea de implementaci\u00f3n para optimizar las herramientas de trabajo \u2022 Brindar apoyo y ratificar las predicciones de workforce management sobre el comportamiento de las diferentes l\u00edneas de negocio Requisitos: \u2022 Licenciatura Trunca (matem\u00e1tica, estad\u00edsticas, telecomunicaciones o af\u00edn) \u2022 Experiencia de 1 a\u00f1o en el puesto an\u00e1lisis de base de datos de KP\u00b4S de c\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/details/5326541452?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzI2NTQxNDUyIn0.D9r_QMX5ZsU8T72cFeeytpnHeDZE7EW64ynhxfVo-xE",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-07-29T05:34:50Z"
+        },
+        {
+            "created": "2024-07-31T02:11:32Z",
+            "category": {
+                "tag": "hr-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en recursos humanos"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/details/4802343549?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMjM0MzU0OSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.bD3Klwo3cSRczb-KEQmz9Tc03x-vt_baryJRqXEO8pc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Work from Home Survey Taker (Side Gig) We are looking for people who are motivated to participate in paid research across the country and local areas. Join this Work from Home Mexico Market Research Panel Today. You have two options when it comes to paid research : you can either take part in person or online. This is a great way for you to make extra income at home as data entry clerk. Compensation: Work from home and take surveys to earn Money. There are many payment options, including PayPal\u2026",
+            "latitude": 19.3794,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Benito Ju\u00e1rez, Ciudad de M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico",
+                    "Benito Ju\u00e1rez"
+                ]
+            },
+            "longitude": -99.1591,
+            "salary_is_predicted": "0",
+            "id": "4802343549",
+            "title": "Remote Data Entry Clerk - Work at Home",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TowardJobs"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Work from Home Survey Taker (Side Gig) We are looking for people who are motivated to participate in paid research across the country and local areas. Join this Work from Home Mexico Market Research Panel Today. You have two options when it comes to paid research : you can either take part in person or online. This is a great way for you to make extra income at home as data entry clerk. Compensation: Work from home and take surveys to earn Money. There are many payment options, including PayPal\u2026",
+            "latitude": 32.541375,
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Baja California",
+                    "Tijuana"
+                ],
+                "display_name": "Tijuana, Baja California",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -116.886839,
+            "salary_is_predicted": "0",
+            "title": "Work at Home - Remote Data Entry Agent",
+            "company": {
+                "display_name": "TowardJobs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "4802335539",
+            "created": "2024-07-31T02:11:19Z",
+            "category": {
+                "tag": "hr-jobs",
+                "label": "Empleos en recursos humanos",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/details/4802335539?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI0ODAyMzM1NTM5In0.jn3BfW6xYYC3F_nvp0TwE17Kwmb5S4oAclNtKTo4v8E"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.mx/details/5490317562?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDMxNzU2MiIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.hHCMgLvrtKpOWqMuJ82HmZHlG0SADZcLZucADwdMjmI",
+            "created": "2025-11-11T04:41:43Z",
+            "category": {
+                "label": "Empleos en contabilidad y finanzas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "title": "Analista de Datos - Santa Fe o Toluca",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Financiera Independencia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5490317562",
+            "salary_max": 216000,
+            "salary_min": 215988,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Financiera Independencia pertenece a un grupo financiero mexicano, donde el valor humano es fundamental en su d\u00eda a d\u00eda. Por lo cual, deseamos tener a colaboradores comprometidos, honestos y con ganas de sumarse a nuestra FUERZA IMPARABLE como Analista de Datos. OBJETIVO DEL PUESTO Asegurar la log\u00edstica de cobranza, implementando las estrategias y presentando soluciones a partir de la toma de decisiones, basados en el an\u00e1lisis del comportamiento de la cobranza. FUNCIONES PRINCIPALES Transformar\u2026"
+        },
+        {
+            "location": {
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5510569548",
+            "salary_is_predicted": "0",
+            "title": "Analista de datos Excel SQL - Sur CDMX",
+            "salary_max": 219600,
+            "company": {
+                "display_name": "Intertek",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 216000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "\u00a1Empresa trasnacional, l\u00edder en sus diferentes l\u00edneas de negocio, busca personas como t\u00fa para que formen parte de nuestro equipo! PUESTO: Analista de Datos Requisitos: Licenciatura en: Finanzas, Econom\u00eda, Ing. Industrial, af\u00edn. Experiencia de: 1 a\u00f1o realizando reporting. Manejo de Excel avanzado Conocimientos: Manejo de SQL (extracci\u00f3n informaci\u00f3n) Deseable Power BI En aspectos contables y financieros Funciones: Analizar consumo de los costos operativos (reactivos, tiempos de an\u00e1lisis, mano de \u2026",
+            "redirect_url": "https://www.adzuna.com.mx/details/5510569548?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDU2OTU0OCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.oYkLA-RW81hEoeIHs3xkvoE7gMr8XyEb9pD7VJ3fuuM",
+            "created": "2025-11-23T11:21:37Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI5MzcwNjA2In0.-8rM2A6ILMkpR5Bi26Sg0cHWOfNtws4FpRpETv7exoY",
+            "redirect_url": "https://www.adzuna.com.mx/details/5529370606?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-05T11:14:01Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Empleos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": -103.370691,
+            "location": {
+                "display_name": "Guadalajara, Jalisco",
+                "area": [
+                    "M\u00e9xico",
+                    "Jalisco",
+                    "Guadalajara"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Sr Data Backend Engineer (Remote - Mexico Only)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Varicent"
+            },
+            "id": "5529370606",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 20.635087,
+            "description": "At Varicent, we\u2019re not just transforming the Sales Performance Management (SPM) market\u2014we\u2019re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the 2025 Forrester Wave Report for SPM , 2023 Ventana Research Revenue Performance Management (RPM) Val\u2026"
+        },
+        {
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Empleos en ingenier\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-24T14:41:41Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMTczMDQ0NCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.gQFM6Q4VhCsW5sIrgCaI06YP6-nmYxRUBgHcVM2fmWE",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5511730444?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=50E53153858BE02330681134E87F9A62C6EF663F",
+            "description": "Overview Turner & Townsend is a global professional services company with over 22,000 people in more than 60 countries. Working with our clients across real estate, infrastructure, energy and natural resources, we transform together delivering outcomes that improve people\u2019s lives. Our capabilities include programme, project, cost, asset and commercial management, controls and performance, procurement and supply chain, net zero and digital solutions. We are majority-owned by CBRE Group, Inc., th\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 4800,
+            "salary_max": 7200,
+            "salary_is_predicted": "0",
+            "title": "Mechanical Lead - Industrial and Data Center Projects",
+            "id": "5511730444",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Turner & Townsend"
+            },
+            "location": {
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2025-12-04T15:08:50Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Empleos en ingenier\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODM1NTExNSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.m54LwKrYRG6hKV_nusj9KGohjlYRksgEf7K0XhQ_YwA",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5528355115?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=89FB54B0EB343E1AA6279B92A63DF6C5E77B479B",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.4326,
+            "description": "Program Engineering Manager - Data Management (ODS M\u00e9xico)Country:Open Digital Services (ODS) is the software development company of Santander Group powering the next generation of banks by creating innovative banking products and implementing them in collaboration with Santander Group affiliates.Santander Group is one of the world\u2019s largest financial institutions and the Eurozone\u2019s leader. We\u2019re committed to being the best Digital Bank with branches in the industry.Our mission at ODS is to des\u2026",
+            "longitude": -99.1332,
+            "location": {
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 4800,
+            "id": "5528355115",
+            "salary_is_predicted": "0",
+            "title": "Program Engineering Manager - Data Management (ODS M\u00e9xico)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Banco Santander SA"
+            },
+            "salary_max": 7200
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Analista de Datos Sin Experiencia - Santa Fe",
+            "company": {
+                "display_name": "Financiera Independencia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5235217565",
+            "salary_max": 216000,
+            "salary_min": 215988,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico"
+            },
+            "description": "Financiera Independencia pertenece a un grupo financiero mexicano, donde el valor humano es fundamental en su d\u00eda a d\u00eda. Por lo cual, deseamos tener a colaboradores comprometidos, honestos y con ganas de sumarse a nuestra FUERZA IMPARABLE como Analista de Datos OBJETIVO DEL PUESTO Recabar, presentar y analizar datos que le sirvan a la red de sucursales para una correcta gesti\u00f3n y toma de decisiones. FUNCIONES PRINCIPALES Desarrollo y mantenimiento de tableros de control para la gesti\u00f3n de la re\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/details/5235217565?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIzNTIxNzU2NSIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.wSqRv5321IRBa9hOaEOeGpJl4k8ZUHvbQyv_xQgX3D0",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en contabilidad y finanzas"
+            },
+            "created": "2025-06-05T15:08:14Z"
+        },
+        {
+            "created": "2025-06-05T14:56:23Z",
+            "category": {
+                "label": "Empleos en contabilidad y finanzas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/details/5235194680?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjM1MTk0NjgwIn0.xr3H-397Omsu_UgAwMqRp4uSqIUk-PzduMRD6Smnj2A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Grupo Findep se encuentra en b\u00fasqueda de nuevo talento. Por lo cual, deseamos tener a colaboradores comprometidos, honestos y con ganas de sumarse a nuestra FUERZA IMPARABLE Trainee (Analista de Datos) Funciones principales: Generaci\u00f3n, programaci\u00f3n, an\u00e1lisis y mantenimiento de estrategias de riesgos, mediante el uso de herramientas Big Query, SQL y principalmente Python. Documentaci\u00f3n de los proyectos, desarrollos, implementaciones, c\u00f3digos y manuales. Generaci\u00f3n de esquema de datos. Despliegu\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "title": "Analista de Datos Reci\u00e9n egresado - Santa Fe",
+            "id": "5235194680",
+            "salary_max": 216000,
+            "company": {
+                "display_name": "Financiera Independencia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 215988
+        },
+        {
+            "category": {
+                "tag": "manufacturing-jobs",
+                "label": "Empleos en fabricaci\u00f3n y manufactura",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-07T04:35:25Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg1MDUwMjQyIn0.Ixkk9bv8MPiIuCCYCMH8L_p11Iyhc5rFpCHDPutpe1o",
+            "redirect_url": "https://www.adzuna.com.mx/details/5485050242?utm_medium=api&utm_source=58c69264",
+            "description": " \u00a1Estamos contratando Validador de Datos en tiendas!  Requisitos: \u2705 Escolaridad m\u00ednima: Secundaria concluida \u2705 Experiencia m\u00ednima de 6 meses en investigaci\u00f3n de mercados, censos, encuestas o cambaceo \u2705 Disponibilidad para trabajo en campo (tiendas)  Ofrecemos: \u2714\ufe0f Salario base \u2714\ufe0f Prestaciones de ley \u2714\ufe0f Vales de despensa \u2714\ufe0f Bonos por cumplimiento \u274c Importante: \u00a1No son ventas!  Zona de trabajo: Ecatepec, Zonas de Edo Mex y CDMX  Interesados enviar mensaje directo o postularse por este medio. Vivir\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 120000,
+            "salary_is_predicted": "0",
+            "title": "Validador de Datos / Tienditas en Campo/ Ecatepec",
+            "company": {
+                "display_name": "Storecheck",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5485050242",
+            "salary_max": 121044,
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Braze, we have found our people. We\u2019re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity \u2013 inside and outside our organization. To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to cont\u2026",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Braze",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Forward-Deployed Data Scientist, AI Deployment",
+            "id": "5514826498",
+            "created": "2025-11-26T11:13:47Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDgyNjQ5OCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.TJQvaBZD_5dtzT03SSHY1he9iZFNkflBZt3rYwGrQwY",
+            "redirect_url": "https://www.adzuna.com.mx/details/5514826498?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Analista de datos - San Jos\u00e9 Del Cabo",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "La Comer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "4802335556",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Queremos agrandar nuestro equipo de trabajo, buscando personal con talento como tu para el puesto de : \u201cANALISTA DE DATOS EN SAN JOSE DEL CABO \" REQUISITOS: Escolaridad: Bachillerato En La Comer nuestros colaboradores son sin duda uno de los elementos m\u00e1s valiosos de nuestra empresa. Es por ello que constantemente estamos en b\u00fasqueda de gente emprendedora, comprometida y dispuesta a asumir retos. Personas que con sus habilidades, conocimientos y aptitudes contribuyan con el logro de los objetiv\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSks0TFdOUFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI0ODAyMzM1NTU2In0.eU90YVCI9XumPEeSiOq6tu6lsB3bTiAbPpCOsnaMRKs",
+            "redirect_url": "https://www.adzuna.com.mx/details/4802335556?utm_medium=api&utm_source=58c69264",
+            "created": "2024-07-31T02:11:19Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM4Njc5NDMzMCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.gTOdnie-ImLzVDrBJnpotzdz4gwudRsi8AOLEmDTxNU",
+            "redirect_url": "https://www.adzuna.com.mx/details/5386794330?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-09-06T08:12:01Z",
+            "salary_min": 124800,
+            "title": "Analista de Dashboard - Reporting, Cient\u00edfico de datos",
+            "salary_is_predicted": "0",
+            "id": "5386794330",
+            "salary_max": 150000,
+            "company": {
+                "display_name": "GEPP",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "description": "GEPP empresa de desarrollo de portafolio de marcas l\u00edderes con presencia a nivel nacional y m\u00e1s de 40,000 colaboradores, te invita a formar parte de su gran familia: Analista Reporting. Zona de trabajo: Oficina administrativa en Centro de Zapopan. Esquema h\u00edbrido, mayormente desde casa. Perfil de talento: \u2022Egresado de licenciaturas econ\u00f3mico administrativas \u2022Buen manejo y an\u00e1lisis en bases de datos. \u2022Muchas ganas de aprender y trabajar. \u2022Manejo intermedio de Office Excel, nociones firmes en Pow\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Um\u00e1n, Yucat\u00e1n",
+                "area": [
+                    "M\u00e9xico",
+                    "Yucat\u00e1n",
+                    "Um\u00e1n"
+                ]
+            },
+            "longitude": -89.666597,
+            "title": "Data Services Associate (Project-based Robotics Support)",
+            "salary_is_predicted": "0",
+            "id": "5528349904",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Boldrimpact"
+            },
+            "salary_max": 7200,
+            "salary_min": 4800,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A LITTLE BIT ABOUT Boldr Boldr is the first global B-Corp dedicated to delivering world-class Client experiences while creating access to dignified, meaningful work in communities around the world. We are a global team, united by our desire to connect diverse people with common values for boldr impact. We employ just over a thousand team members across five countries and we want to employ over 5,000 people by 2027, if not sooner. LET\u2019S START WITH OUR VALUES Meaningful connections start with AUT\u2026",
+            "latitude": 20.924993,
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5528349904?se=JK4LWNPW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=6BFB020F8C857813F5FE2BD1EA25B11D72B0ED32",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODM0OTkwNCIsInMiOiJKSzRMV05QVzhCRzdnY3JqVkVhaUR3In0.UgpQmkt-0a6s_KsDDV0J2gxpN094KEJIUxYJ_Q2B2F0",
+            "created": "2025-12-04T15:08:01Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en contabilidad y finanzas",
+                "tag": "accounting-finance-jobs"
+            }
+        }
+    ],
+    "mean": 174555.45,
+    "count": 36548
+}

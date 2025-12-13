@@ -1,0 +1,1348 @@
+{
+    "mean": 46093.97,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JPMorganChase"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5527988836?utm_medium=api&utm_source=58c69264",
+            "description": "Description Are you passionate about quantitative trading? Join a global team where your research and development skills will directly impact our eFX market-making business. At JPMorganChase, you\u2019ll collaborate with talented professionals, tackle complex challenges, and help shape the future of automated trading. This is your opportunity to make a meaningful contribution in a dynamic, fast-paced environment. Discover how you can grow your career and make a difference. As an Associate in Automat\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI3OTg4ODM2In0.qXuVg-VwouXaq5uRNoqxA3IWNa92dC2XbaPlBFNefJ8",
+            "title": "Automated Trading Strategies, Associate",
+            "created": "2025-12-05T02:54:26Z",
+            "id": "5527988836"
+        },
+        {
+            "created": "2025-12-02T02:58:41Z",
+            "id": "5522252020",
+            "title": "Senior IT OT Asset Specialist",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjI1MjAyMCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.-UY89t7-b4uW4PcQZpYBx4gJvVV330RffWiQWmizdrU",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "JOB DESCRIPTION Maintains accurate records of all IT and OT assets, including hardware and software Develops and implements a robust asset management framework, including a comprehensive licensing framework for software assets Tracks and manages software licenses to ensure compliance and optimize utilization Conducts regular audits of IT assets to ensure the accuracy and completeness of records Manages asset disposal and updates inventory as appropriate Provides input and maintain an Asset Mana\u2026",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Seatrium",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5522252020?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-07-06T03:48:53Z",
+            "id": "5288097686",
+            "title": "Product Operations Specialist - Singapore",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI4ODA5NzY4NiIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.uUnSed4geF0La_mkwBSc6bGxWHkw7rUFSdu0z8Qyymw",
+            "contract_time": "full_time",
+            "description": "About Flagright : Flagright is a rapidly growing AML compliance software startup with a mission to arm financial institutions with best-in-class technology to combat financial crime, meet Anti-Money Laundering (AML) compliance regulations, deliver exceptional customer experiences, and achieve peak efficiency. As we continue our ambitious growth trajectory, we are looking for an experienced Product Operations Specialist to join our team. Role overview: As a Product Operations Specialist, you wil\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "company": {
+                "display_name": "Flagright",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5288097686?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-09-07T19:45:15Z",
+            "id": "5388167001",
+            "title": "Senior Account Executive",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM4ODE2NzAwMSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.bPwr2aUM82rD0nblO2t4ryyl6tVK4ZLweBSNzTn8iCg",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "WHO ARE WE? Our vision is to transform human behaviour into actionable intelligence. SQREEM is a leading Cognitive AI company specializing in delivering Behavioral Intelligence , a transformative approach to understanding, mapping, and predicting human behavior. Using our proprietary Cognitive AI model , we process over 4 billion unrelated and unstructured data signals daily from the Open Web across 70 countries. By decoding patterns, uncovering intent, and analyzing behaviors, we transform vas\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, Advertising & Marketing Jobs"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5388167001?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "TotallyAwesome",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Production Specialist",
+            "id": "5387837346",
+            "created": "2025-09-07T10:27:01Z",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.sg/details/5387837346?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Legrand NA"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At a Glance Legrand has an exciting opportunity for a Production Specialist to join the Data Center Power and Control Division Starline Team in Singapore. This position directs the manufacturing workflow and provides technical support to Production, Engineering and Customer Support. Responsible for the accuracy and flow of manufacturing (routing and materials delivered to each area). Optimizes the routing from bills of materials and drawings created in Engineering. What Will You Do? Utilize ERP\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzg3ODM3MzQ2In0.n6792bUifBJulQgC4d26TfzuR5BeS0h73GQhk5Hlhg4",
+            "contract_time": "full_time"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDE4NjY5ODg5In0.TtKF_1vQRemBbgt6XO69MTbzR3ZKth_vI5hISvuc16Q",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "What the role is At TeamCPF, you're not just joining a team; you are embracing a culture of excellence, collaboration, and meaningful impact. You will play a pivotal role in empowering over 4 million members to secure their retirement, healthcare, housing needs and better navigate life's uncertainties. We thrive on sharp minds and insightful decisions. Your ability to analyse and think critically isn't just valued; it's essential. Every choice you make contributes to our collective success. Col\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5418669889?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs",
+                "label": "Consultancy Jobs"
+            },
+            "salary_is_predicted": "0",
+            "id": "5418669889",
+            "created": "2025-09-28T10:18:18Z",
+            "title": "Project Specialist (Resource Planning)"
+        },
+        {
+            "title": "Backend Engineer Graduate (TikTok Recommendation Architecture) - 2026 Start (BS/MS)",
+            "created": "2025-10-03T09:46:53Z",
+            "id": "5428364212",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5428364212?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "category": {
+                "tag": "graduate-jobs",
+                "label": "Graduate Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "About TikTok TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo. Why Join Us Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect - and our global, \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDI4MzY0MjEyIn0.C8S9yb6vIpkE5A2r90keGI-11XK7irKkaygnHz6XZsU"
+        },
+        {
+            "title": "Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2026 Start (BS/MS)",
+            "id": "5428339698",
+            "created": "2025-10-03T09:39:11Z",
+            "description": "About TikTok TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo. Why Join Us Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect - and our global, \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDI4MzM5Njk4In0.H7MSb7B8dJMegi7jswMRSe8aizfGJJOOl5fYJ-pl9lc",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "graduate-jobs",
+                "label": "Graduate Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5428339698?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.sg/details/5384730165?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Micron"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Our vision is to transform how the world uses information to enrich life for all. Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are purs\u2026",
+            "contract_type": "contract",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzg0NzMwMTY1In0.Nm-0ZjX8bGadoWaF0Czf-XijK7Crd3FafqBCpgaAP34",
+            "title": "Engineer, New Product Introduction",
+            "created": "2025-09-05T19:37:04Z",
+            "id": "5384730165"
+        },
+        {
+            "category": {
+                "label": "Legal Jobs",
+                "tag": "legal-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Liberty Mutual",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5494915985?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk0OTE1OTg1In0.SRFQdY4r7Cor8Vx_hMTvpUYucCEiKoYQZ99nHelCguU",
+            "contract_time": "full_time",
+            "description": "Role Overview The role is critical in supporting all legal and regulatory matters for Liberty Singapore including both retail products and commercial and specialty products). The role would report into the Co-Heads of Legal Singapore and sit within the Legal team as part of Liberty International Insurance APAC. Role Responsibilities Support all legal and regulatory matters as assigned by the role report and other designated assignees Provide day-to-day management on all aspects of the legal fun\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-14T08:51:03Z",
+            "id": "5494915985",
+            "title": "Legal Counsel"
+        },
+        {
+            "title": "Product Manager / Director, Institutional Trading",
+            "created": "2025-09-20T01:38:59Z",
+            "id": "5407071531",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "OKX"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5407071531?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "description": "OKX will be prioritising applicants who have a current right to work in Singapore, and do not require OKX's sponsorship of a visa. Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to cr\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwNzA3MTUzMSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.2jrkQ0KBbo8XOZkOpFIxzFNoW2GvC8D4nL060i03Xfo"
+        },
+        {
+            "created": "2025-10-21T12:45:42Z",
+            "id": "5456951854",
+            "title": "IT Commercial Analytics Intern (Semester 2026) - P&G Management Internship Program",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1Njk1MTg1NCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.EKZFGgmfHaq2dhWwUVzW-XI0rVFIdxTQxTCGRNxJcd0",
+            "description": "Job Location SINGAPORE GENERAL OFFICE Job Description Are you a data-savvy strategic player who yearns to make a lasting impact by solving critical business questions for a global industry leader using data, science and technology? P&G Commercial Analytics team is looking for a curious and confident soul who loves cutting-edge technologies, has a solid foundation on computer science, statistics or mathematics, excellent in communicating, and passionate to lead and make things happen! Our missio\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Procter & Gamble"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5456951854?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5479173346",
+            "created": "2025-11-04T09:35:41Z",
+            "title": "Global Senior Sales Compensation Analyst (9 months FTC)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3OTE3MzM0NiIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.-j4HnzyEjiEulLVgT5QnbNG17kDC5UOuOsXXWVx1T8I",
+            "description": "LinkedIn is the world's largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. We're also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture that's built on trust, care, inclusion, and fun - where everyone can suc\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "LinkedIn",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5479173346?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MzM4MzA5NCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.iwlSp6IkrpnVGSGHqzu22T5xmtT-2xWfNqtlmcFSkrk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Iron Mountain we know that work, when done well, makes a positive impact for our customers, our employees, and our planet. That's why we need smart, committed people to join us. Whether you're looking to start your career or make a change, talk to us and see how you can elevate the power of your work at Iron Mountain. We provide expert, sustainable solutions in records and information management, digital transformation services, data centers, asset lifecycle management, and fine art storage,\u2026",
+            "company": {
+                "display_name": "Iron Mountain",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5453383094?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "id": "5453383094",
+            "created": "2025-10-18T12:43:55Z",
+            "title": "Sales Enablement Manager"
+        },
+        {
+            "id": "5485558731",
+            "created": "2025-11-07T22:45:37Z",
+            "title": "Level 1 Support Technician",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTU1ODczMSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.dJFeVuzSJSRRsD8bIo-AXNqkrwSpt8HK3VA0UJystnw",
+            "description": "Pico fuels the global capital markets community by providing exceptional market data services and customized managed infrastructure solutions. As financial industry experts at the center of markets and technology, we help our clients efficiently scale their business and quickly access markets. From infrastructure to connectivity, we support our clients through the full trading lifecycle. We are a global company headquartered in New York, with offices in Chicago, London, Singapore, Hong Kong and\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Pico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5485558731?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Citigroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5420166000?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Whether you're at the start of your career or looking to discover your next adventure, your story begins here. At Citi , you'll have the opportunity to expand your skills and make a difference at one of the world's most global banks. We're fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You'll also have the chance to give back and make a positive impact where we live\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDIwMTY2MDAwIn0.FCEyPGdEpBzN1AtBAn3YKcuchLZOaFs-3JHLlg_zbEY",
+            "title": "Credit Portf Intmd Analyst - C (Officer)",
+            "id": "5420166000",
+            "created": "2025-09-29T12:31:31Z"
+        },
+        {
+            "title": "Regional Electrical Engineer_ Singapore",
+            "created": "2025-11-08T05:26:14Z",
+            "id": "5486140186",
+            "description": "Regional Electrical Engineer_ Singapore Job ID 246363 Posted 06-Nov-2025 Service line PJM Segment Role type Full-time Areas of Interest Engineering/Maintenance, Project Management Location(s) Singapore - Singapore Regional Electrical Engineer_Singapore About CBRE: CBRE is the world's leading and largest commercial real estate services and investment firm; a growing and visionary organisation, comprised of the best and brightest professionals. Within Global Workspace Solutions, also known as GWS\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NjE0MDE4NiIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.f440c-TCKvGM4az31nFF-g7mXX_0Lbp-HuO7PNzco5c",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CBRE"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5486140186?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-12-03T17:43:52Z",
+            "id": "5525471987",
+            "title": "Software Engineer",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Flowserve Corporation"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5525471987?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI1NDcxOTg3In0.GjiupymVHpr5J-abd_iqeN_j8b-1gBeiBrpE5WDP5m8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Overview: If a culture of excellence, innovation and ownership is what you're searching for, consider putting your experience in motion at Flowserve. As an individual contributor, or as a leader of people, your enterprise mindset will ensure Flowserve's position as the global standard in comprehensive flow control solutions. Here, your opportunity for professional development and industry leading rewards will be supported by our foundational commitments to the values of people first, in\u2026"
+        },
+        {
+            "created": "2025-12-05T02:53:25Z",
+            "id": "5527987884",
+            "title": "Public Sector Enterprise Account Executive - Singapore",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs",
+                "tag": "sales-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Snowflake"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5527987884?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI3OTg3ODg0In0.MvNIdZRPA1X22OuirWb__-ajHl-DrWocrTt-7nQfAQc",
+            "contract_time": "full_time",
+            "contract_type": "contract",
+            "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Our dedicated Public Sector sales team is expanding, and we seek a seasoned, outcomes-focused Public Sector Enterprise Account Executive. This role is critical for driving the adoption of our platform within the Singapor\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Deutsche Bank",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5499518675?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description: Details of the Division and Team: Deutsche Bank's CFO Division is central to managing the bank's financial health, strategic planning, and regulatory compliance. Within this critical division, our teams collaborate to drive efficiency, leverage data for strategic decision-making, and execute transformative projects. You will be joining a dynamic environment where: Group Strategic Analytics (GSA): Acts as the bank's central hub for advanced analytics, providing critical insights\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5OTUxODY3NSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.0VOuz-5fS4Oww-ipngUNDFUBqzieeVot9PS2MrCZZ5Q",
+            "contract_time": "full_time",
+            "title": "GCOO - APAC Finance Change Transformation - VP",
+            "id": "5499518675",
+            "created": "2025-11-17T02:35:45Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDI0NzYwNTA4In0.dF4jqOQ0MLj7dkfPwo9VXE-QeV1UIeGA__DY6sf2POs",
+            "description": "OKX will be prioritising applicants who have a current right to work in Singapore, and do not require OKX's sponsorship of a visa. Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to cr\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "the Opportunity",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5424760508?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "id": "5424760508",
+            "created": "2025-10-02T01:38:10Z",
+            "title": "Finance Analysis Manager, FP&A"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.sg/details/5493998928?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Productive Playhouse",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Consultancy Jobs",
+                "tag": "consultancy-jobs"
+            },
+            "description": "Join our team of Bilingual Korean Mandarin speakers! Apply now and complete onboarding upfront \u2014 be ready to start the moment projects go live. We\u2019ll contact you immediately to confirm your availability. Don\u2019t miss your chance to get in on the action! Location: Remote, global Status: Contractor Pay: $28 per hour Benefits: Flexible schedule Please note: To ensure eligibility for this project, applicants must be international freelancers. Unfortunately, we are unable to hire U.S. citizens, Green \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5Mzk5ODkyOCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.rPTFRN8HNgr8tM1lMnmd7CXKk3AUsc8j_n8F8iXXY1E",
+            "title": "Bilingual Korean Mandarin - Test Voice Modes of AI Models",
+            "id": "5493998928",
+            "created": "2025-11-13T22:50:08Z"
+        },
+        {
+            "id": "5532724915",
+            "created": "2025-12-08T03:06:35Z",
+            "title": "Product Analytics Manager",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMyNzI0OTE1In0.IFICJkR9ZHfFb3jGmpJ8yp1zPmjohMt5mOJW_aW2OmM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Skyscanner Everyone loves travelling, but planning is not without its challenges \u2708\ufe0f. That\u2019s why we\u2019ve spent 20 years building tools that turn travel-planning chaos into a breeze. Today, around 100 million travellers count on us every month to skip the whole \u201c47 browser tabs open\u201d phase and find flights, cars, and hotels quickly and easily . Joining Skyscanner means becoming part of a global brand that\u2019s striving to become the planet\u2019s go-to travel hack accessible for all . Our vision? To \u2026",
+            "company": {
+                "display_name": "Skyscanner",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5532724915?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "People Business Partner - GTM",
+            "created": "2025-12-07T17:46:50Z",
+            "id": "5532262469",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs"
+            },
+            "company": {
+                "display_name": "Confluent",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5532262469?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Location: Remote, Singapore Employment Type: FullTime Location Type: Remote Department People & Places Overview We're not just building better tech. We're rewriting how data moves and what the world can do with it. With Confluent, data doesn't sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them. It takes a certain kind of person to join this team. Those who ask h\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjI2MjQ2OSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.ivSl1KkWJm5TMeH9QhpZaKNZb2aXn-UTCGafBwVQmjM"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "company": {
+                "display_name": "Thales",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5496127451?utm_medium=api&utm_source=58c69264",
+            "description": "Location: Singapore, Singapore Thales is a global technology leader trusted by governments, institutions, and enterprises to tackle their most demanding challenges. From quantum applications and artificial intelligence to cybersecurity and 6G innovation, our solutions empower critical decisions rooted in human intelligence. Operating at the forefront of aerospace and space, cybersecurity and digital identity, we\u2019re driven by a mission to build a future we can all trust. In Singapore, Thales has\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjEyNzQ1MSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.D_jRRWjsiLQC26itX6zxgkhaZveYDPZynhnHeXv9dgM",
+            "title": "Software Architect",
+            "created": "2025-11-14T22:43:09Z",
+            "id": "5496127451"
+        },
+        {
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Confluent"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5533773433?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzc3MzQzMyIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.l26Gyn2wbBFGWcf9sjK_rCClBivE09ZT-GYCwZ30kyQ",
+            "description": "We\u2019re not just building better tech. We\u2019re rewriting how data moves and what the world can do with it. With Confluent, data doesn\u2019t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them. It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious huma\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-09T02:34:55Z",
+            "id": "5533773433",
+            "title": "People Business Partner - GTM"
+        },
+        {
+            "title": "ESG Graduate Intern (Fixed Term Contract)",
+            "id": "5536838500",
+            "created": "2025-12-11T03:13:54Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Are you ready for your next play? We are bold, respectful, and we deliver, with Impact. Our long-term vision is to raise, deploy and manage funds for climate change mitigation and adaptation that will play a transformative role in our target sectors. Climate Fund Managers (CFM) is a leading climate-centric blended finance fund manager. We raise and deploy climate finance funds in partnership at scale and at pace. Through its award-winning model, CFM has created a blueprint for a new generation \u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjgzODUwMCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.DqqbtyW4C99gof72j1rv2I3zqp_uUvd7Woa50dxfD-0",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "graduate-jobs",
+                "label": "Graduate Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Climate Fund Managers"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5536838500?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore"
+            }
+        },
+        {
+            "created": "2025-12-10T15:28:44Z",
+            "id": "5536000814",
+            "title": "Client Service Intmd Analyst (Officer)",
+            "company": {
+                "display_name": "Citigroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5536000814?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM2MDAwODE0In0.kOelrbQlzz2sDehI0hiobRjdCgNHvr3F_2dt_dI3pYA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Citi, we get to connect millions of people across hundreds of cities and countries every day. And we've been doing it for more than 200 years. We do this through our unparalleled global network. We provide a broad range of financial services and products to our clients - whether they be consumers, corporations, governments or institutions - to help them meet their biggest opportunities and face the world's toughest challenges. Citi provides programs and services for your physical and mental \u2026"
+        },
+        {
+            "created": "2025-02-23T18:45:01Z",
+            "id": "5061240198",
+            "title": "Risk Services - Financial Services Technology and Cyber Risk, Senior Associate",
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "PricewaterhouseCoopers",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5061240198?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA2MTI0MDE5OCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.GFktkJmitq6d6Z9v-Zn4GeKqVASod6avZOmCnjewPag",
+            "description": "Line of Service Assurance Industry/Sector TMT X-Sector Specialism Cybersecurity & Privacy Management Level Senior Associate Job Description & Summary Join our diverse, global community at PwC, where we solve important problems together. You'll develop your unique skills in exciting ways, powered by technology. Our Risk Services Practice provides critical insights and independent assurance to help clients protect and strengthen their businesses. We manage and mitigate risks from cybersecurity br\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.sg/details/5535070977?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Micron"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MDcwOTc3In0.tz9xIxfGC0uPZnuWAKUY1GCKB7389IWWe_6KCKAY9OA",
+            "contract_time": "full_time",
+            "description": "Our vision is to transform how the world uses information to enrich life for all. Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are purs\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5535070977",
+            "created": "2025-12-10T02:45:09Z",
+            "title": "Program Manager, Supplier Relationship Management"
+        },
+        {
+            "created": "2025-11-19T02:43:51Z",
+            "id": "5502285194",
+            "title": "Senior Executive, Digital Strategy & New Media - Asia Pacific",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sony Pictures Entertainment"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5502285194?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjI4NTE5NCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.lxlPwrp9EqF5tVSW4xLnD4L7eUoou1x127xWWdYP7K8",
+            "description": "Shape the future of digital entertainment with Sony Pictures Entertainment (SPE). We\u2019re looking for a passionate, data-driven, and creative digital professional to join our team in Singapore as Senior Executive, Digital Strategy & New Media. In this role, you\u2019ll play a key part in shaping SPE\u2019s digital strategy across Asia Pacific, driving innovation in direct-to-consumer (DTC) and new media channels, and uncovering emerging opportunities in the fast-evolving digital distribution landscape. Wha\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Hitachi",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5496116123?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Singapore",
+                    "Central"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Central, Singapore"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs",
+                "label": "Sales Jobs"
+            },
+            "longitude": 103.828011,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Location: Singapore, Central Singapore, Singapore Job ID: R0109497 Date Posted: 2025-11-13 Company Name: HITACHI ENERGY SINGAPORE PTE. LTD. Profession (Job Category): Sales, Marketing & Product Management Job Schedule: Full time Remote: No Job Description: The opportunity: We are seeking for a Regional Account Manager (Hyperscale) covering the APAC Data Center Segment. The Regional Account Manager is responsible for nurturing and maintaining relationships with the organization's most important \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk2MTE2MTIzIn0.PVJTH8ZGf0GW5ZnQ4u4ZBcx7n49m6BhhpDn7CxKgqdo",
+            "contract_time": "full_time",
+            "latitude": 1.29559,
+            "title": "Regional Account Manager (Hyperscale) - APAC",
+            "id": "5496116123",
+            "created": "2025-11-14T22:35:18Z"
+        },
+        {
+            "created": "2025-04-01T00:54:25Z",
+            "id": "5119972833",
+            "title": "Trading Analytics Developer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTExOTk3MjgzMyIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.RLAj1nhKeiIW2i1UdrwOV18DQtnAArZfOinYBjZVY7g",
+            "contract_time": "full_time",
+            "description": "The Quant Trading team is responsible for trading and managing risks associated with different crypto products, including spots and derivatives. The team develops and implements trading strategies in fast-paced and complex trading environments. Responsibilities Develop and enhance applications utilizing Java and Python, with a focus on performance and scalability. Implement and maintain event processing and messaging queues, with expertise in Kafka, Flink, and Complex Event Processing (CEP) tec\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Crypto.com",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5119972833?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "company": {
+                "display_name": "Seacare Manpower Services Pte Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5447715291?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Admin Jobs",
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "School Counter duties (80% of the time) assist to man General Office Counter, answering phone calls and handling walk-ins to General Office during assigned hours. assist students who are unwell in the sick bay. update of activities and attendance of staff during morning assembly or adhoc request. Update of student well-being to parents, teachers, AM where necessarily Administrative counter duties (20% of the time) perform data entry into counter computer for safety sickbay incident perform fili\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDQ3NzE1MjkxIn0.3FN96z4p1gkLfDT1WjuKVZvqwFsqYGJKTxYbpEtbD1A",
+            "title": "Receptionist",
+            "id": "5447715291",
+            "created": "2025-10-15T07:38:43Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "hospitality-catering-jobs",
+                "label": "Hospitality & Catering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Educare Human Capital Pte Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5470270198?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ITQ Description Supply of Manpower Services for Kitchen Aide Objective & Workplace Deploy one Kitchen Aide to support practical lessons and food science experiments in the Cookery Rooms / Preparation Room . Location: North-East Scope of Services / Key Responsibilities Assist in ordering, receiving, and preparing foodstuffs for practical lessons. Check delivered food and verify quality. Wash up and maintain cleanliness of kitchen, preparation rooms, and equipment after each lesson. Follow all he\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDcwMjcwMTk4In0.NvwNx-LaP4lj78sJ555MIrsqpU0YzuxPa4AXqX3GsVY",
+            "title": "Kitchen Aide",
+            "created": "2025-10-30T07:51:57Z",
+            "id": "5470270198"
+        },
+        {
+            "title": "Recruitment Consultant",
+            "created": "2025-10-30T07:51:57Z",
+            "id": "5470270227",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Tyson Jay",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5470270227?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Us Were a cosy, boutique recruitment and consulting team small in size but big on values. We believe in doing meaningful work, supporting one another, and growing together. If youre looking for a warm, ethical, and people-first environment where your voice matters, youll feel right at home with us. Role Summary As a Recruitment Consultant , youll manage the entire recruitment cycle from sourcing to placement while working with autonomy and purpose. Youll enjoy team support, shared resourc\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MDI3MDIyNyIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.qoBHC0-sByoXTPu0yGRa4BoEIC4pAI1W5Zh0qOlpYBc"
+        },
+        {
+            "created": "2025-10-24T07:44:23Z",
+            "id": "5461707203",
+            "title": "Manager / Director",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Unity Partners"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5461707203?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTcwNzIwMyIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.vVLy4ld8xDXY9ngX-7Mdv1lz9O4f_ubVcamo9Yaj6rk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "The Company Our client is a leading management and technology consulting firm partnering with top-tier financial institutions to deliver high-impact transformation projects across Asia. The firm combines deep industry expertise with hands-on delivery capabilities in front-to-back banking, capital markets, and digital transformation. The Team You will join the Global Markets IT team within a major international bank. The team is responsible for supporting Equity Derivatives OTC trading and post-\u2026"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "HR & Recruitment Jobs",
+                "tag": "hr-jobs"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cultivar Asia Pte Ltd "
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5471760890?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MTc2MDg5MCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.rZC7H7sElBgghHQ9PFuXBw3ik2lqMCMSDBiBZeI2fTI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Cultivar Asia is a trusted HR outsourcing and staffing partner offering professional services in recruitment, outsourcing, and workforce management. As part of our growing HR services division, we are looking for a detail-oriented and committed team member to support our work pass application service. Key Responsibilities: Prepare, submit, and manage applications for Employment Pass (EP), S Pass, and Work Permit through MOMs online systems. Liaise with clients and candidates to gather required \u2026",
+            "id": "5471760890",
+            "created": "2025-10-31T07:52:45Z",
+            "title": "HR Administrator"
+        },
+        {
+            "id": "5491041786",
+            "created": "2025-11-12T03:03:14Z",
+            "title": "Science Laboratory Technician",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Educare Human Capital Pte Ltd"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5491041786?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs",
+                "label": "Scientific & QA Jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDkxMDQxNzg2In0.avHDWqEEp9s-wLI1fXY11btHpdHJaa3Kh2Vg-CIJzCc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are seeking a Science Laboratory Technician to provide technical support to the Science Department. The successful candidate will play a vital role in assisting teachers with practical lessons, maintaining laboratory equipment, and ensuring a safe and efficient environment for students to explore and enjoy science. Key Responsibilities Maintain general cleanliness and upkeep of the science laboratories. Prepare teaching resources (including tools/equipment/materials/apparatus and any learnin\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Our client is seeking a dedicated and detail-oriented Pharmacist to join their team. The successful candidate will be responsible for ensuring the safe, accurate, and effective dispensing of medications, providing specialized patient counselling, and supporting the delivery of high-quality pharmaceutical care in accordance with hospital and regulatory standards. Key Responsibilities: Perform medication reconciliation, dispensing, and specialized counselling to patients. Review and verify medica\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MzMxMzM0NSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0._pOwNAue1aUl_R-ajhJQs5a4IdV-rackFl0FrBEaYwI",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.sg/details/5463313345?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Cultivar Asia Pte Ltd ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Healthcare & Nursing Jobs",
+                "tag": "healthcare-nursing-jobs"
+            },
+            "title": "Senior/Pharmacist, Inpatient Pharmacy",
+            "created": "2025-10-25T07:42:07Z",
+            "id": "5463313345"
+        },
+        {
+            "title": "R107 - Regional Sales Manager (Automation/Precision Machinery/Central)",
+            "created": "2024-11-29T13:59:00Z",
+            "id": "4955185795",
+            "salary_max": 140000,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.sg/details/4955185795?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Talent Trader Group"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs",
+                "label": "Sales Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Key Responsibilities: Report to the APAC Sales Director, managing the SEA sales team based in Singapore. Oversee sales activities in key markets: Singapore, Thailand, Malaysia, Vietnam, Indonesia, India, Australia, and others. Develop and execute sales strategies, forecasting, and budgeting to align with business goals. Optimize team structure and roles to improve productivity and performance. Foster collaboration with internal teams and external partners to ensure operational success. Lead the\u2026",
+            "salary_min": 100000,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk1NTE4NTc5NSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.Ix3hE7SnrDhtqituUl2X2GbW6zlXahq5pPXw2M1NTMQ"
+        },
+        {
+            "category": {
+                "tag": "retail-jobs",
+                "label": "Retail Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5495512584?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LOTTE Travel Retail Singapore"
+            },
+            "location": {
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NTUxMjU4NCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.d3ehghKpEZ4_B8EYCkYdNWldh6LFKtFOkfwXnrB-5PI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Objective Responsible to assist the Merchandising Manager to ensure business objectives and merchandising support administrative functions . You are responsible to support the Merchandising team to ensure the right product, in the right place, time, quantity and price. Key Responsibiliteis : Vendor/ Supplier management support - Build strong relationships with category-specific vendors/ suppliers assigned. Generate periodic Sales Reports and analyse consumer buying patterns, market trends, sale\u2026",
+            "id": "5495512584",
+            "created": "2025-11-14T19:31:28Z",
+            "title": "Merchandising Associate"
+        },
+        {
+            "salary_min": 124800,
+            "contract_type": "permanent",
+            "contract_time": "part_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNjIwMjIyOCIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0._ltnq2EPdJ8Us5Tgntu_MIxpke1vcGmK-_VUxlv--XM",
+            "description": "Position Summary: Deliver comprehensive economics education to diploma-level students, covering fundamental economic principles, theories, and their real-world applications through engaging instruction and practical case studies. Key Responsibilities: Teach diploma-level economics courses, including microeconomics and macroeconomics Develop lesson plans and curriculum aligned with diploma program requirements Conduct lectures, tutorials, and practical sessions Create assessments, assignments, a\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Tembusu Institute Pte. Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5426202228?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "teaching-jobs",
+                "label": "Teaching Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 166400,
+            "created": "2025-10-02T15:16:02Z",
+            "id": "5426202228",
+            "title": "Economics Trainer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Gridlines",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5503234450?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Overview: Gridlines is a young, entrepreneurial, fast-growing financial advisory and financial modelling firm. The company formally launched its infrastructure advisory business last year, focusing on project finance, M&A and bid support across all infrastructure sectors, with a particular focus on energy transition projects. Role Overview: This role offers a unique opportunity to be part of a growing team with significant exposure and the chance to manage deals in a dynamic environment\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAzMjM0NDUwIn0.IJkF7F9yvzikzU4c8AwUAnSVoP1HwgQiroEv-NXNlQ4",
+            "contract_time": "full_time",
+            "title": "Director- Project Finance Advisory",
+            "created": "2025-11-19T23:38:37Z",
+            "id": "5503234450"
+        },
+        {
+            "title": "Associate Director- Project Finance Advisory",
+            "created": "2025-11-19T20:33:42Z",
+            "id": "5503136429",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Gridlines",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5503136429?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Overview: Gridlines is a young, entrepreneurial, fast-growing financial advisory and financial modelling firm. The company formally launched its infrastructure advisory business last year, focusing on project finance, M&A and bid support across all infrastructure sectors, with a particular focus on energy transition projects. Role Overview: This role offers a unique opportunity to be part of a growing team with significant exposure and the chance to manage deals in a dynamic environment\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAzMTM2NDI5In0.fzjlTSp3JTL-yKzyYPHatZHTvDRx-3zad7ndmICD6n4"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Unison Group"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/4303890055?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Understand the requirements from internal and external stakeholders\u2019 groups and work with the development team to define and improve the build system quality. Review stories or requirement specs to ensure that requirements stated are correct, unambiguous and verifiable. Discuss, analyse and recommend design improvements or corrections to developers throughout the development process. Collaborate closely with stakeholders and project team to identify needs and requirements for estimation of test\u2026",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDMwMzg5MDA1NSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.fRmKpBBAAzHO0_5k7okhx2WcIA0yHC9HFTTsRq1fufQ",
+            "title": "Software Tester (SG)",
+            "id": "4303890055",
+            "created": "2023-09-09T20:25:16Z"
+        },
+        {
+            "created": "2025-12-03T03:22:46Z",
+            "id": "5524671697",
+            "title": "SQM, Semiconductor Solution, IC Testing Senior Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Aumovio"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/5524671697?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI0NjcxNjk3In0.i4gH7B7LNctnmYIGCemdB1XHL-SlL3HPeh5AWdQWD6A",
+            "description": "Job Description Key Responsibilities Advanced Electronics & Semiconductor Solutions (AESS) Supplier Quality Management Develop, implement, and maintain a supplier quality management system for wafer sort, Burn-In, and Final Test suppliers. Define and track supplier quality KPIs (Yield, PPM, test escapes, reliability failures) Conduct periodic business and quality reviews with key partners to align expectations and improvement. Compliance & Audits Plan & conduct VDA6.3 process audit & IATF16949 \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Cloud Infrastructure Engineer / DevOps Engineer (On-site Singapore)",
+            "created": "2024-02-21T23:24:31Z",
+            "id": "4576905788",
+            "salary_max": 69600,
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.sg/details/4576905788?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Brixio",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Singapore"
+                ],
+                "display_name": "Singapore",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Title: DevOps Engineer - Cloud Infrastructure (APAC) \ufeffLocation: Singapore (on-site) \ufeffMUST HAVE: Can speak both Mandarin and English Unlock the Future of Cloud Infrastructure in APAC with Us! Are you ready to play a crucial role in optimizing and securing our cloud infrastructure across APAC, including China? Join our dynamic team as a DevOps Engineer, where you will be the go-to expert for all DevOps matters in the region. Key Responsibilities: Cloud Infrastructure Management: Maintain and \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 69600,
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI0NTc2OTA1Nzg4In0.l59fXrHetJrbDMZu59jDWMynETTTb9UXDEQVum6l9jA"
+        },
+        {
+            "redirect_url": "https://www.adzuna.sg/details/3052454561?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Xcellink Pte Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 5200,
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzA1MjQ1NDU2MSIsInMiOiJ4SzlUeDhfVzhCR3hfTnRkbF92T3J3In0.Noh5yImZxw4PRaa2hXBcwaHHORRQKnyMXkEIM26upj4",
+            "description": "Our client provides services and consultation for most of the major vendors\u2019 in Cyber Security, Network & Security, Systems & Storage Infrastructure, Cloud and Automation. They are now looking for Senior System & Endpoint Engineer to support the new project. Job Description : Configuring and troubleshooting of Windows Servers (2008 R2, 2012, 2012 R2, 2016). Patching, Hardening, Securing Wintel systems. Configuring and troubleshooting of VMware Products. Upgrading, Migrating, Patching VMware pro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2022-04-15T00:54:22Z",
+            "id": "3052454561",
+            "title": "Senior System & EndPoint Engineer - ST-FNP220217 004/01",
+            "salary_max": 6500
+        },
+        {
+            "created": "2023-10-10T20:47:04Z",
+            "id": "4362256465",
+            "title": "Drive Test Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.sg/details/4362256465?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Unison Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Singapore",
+                "area": [
+                    "Singapore"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieEs5VHg4X1c4Qkd4X050ZGxfdk9ydyIsImkiOiI0MzYyMjU2NDY1In0.T0rXLXms444LontGAtRibl8dGKlsRkjR9-AbccB-ieY",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Plans, delivers and executes Drive/Walk Test activities to provides services directly and indirectly to internal and external customers. Understanding of RF theory and cellular theory Experienced in the use of RF testing equipment, e.g. TEMS, Nemo, Actix, vector network analyzers, signal generators, TEMS experience will be prefer. Responsible for Drive Test data collection activities of Telecom Products 5G, 4G and 3G Coordination with NPO team and field teams during activity if required Underst\u2026"
+        }
+    ],
+    "count": 14738
+}

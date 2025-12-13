@@ -1,0 +1,1653 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Marcq-en-Baroeul, Lille",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Lille",
+                    "Marcq-en-Baroeul"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODk1MCIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.luPLZ06F_NcvP_tDB1Tfqp2aAfeKWUOS6cmM8JPAI44",
+            "latitude": 50.66554,
+            "created": "2025-11-05T16:40:08Z",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482358950?utm_medium=api&utm_source=58c69264",
+            "longitude": 3.10447,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "title": "Data Analyst IT",
+            "id": "5482358950",
+            "salary_max": 34800
+        },
+        {
+            "title": "Data Analyst IT",
+            "id": "5482358926",
+            "salary_max": 34800,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482358926?utm_medium=api&utm_source=58c69264",
+            "longitude": -0.665018,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "latitude": 44.910658,
+            "created": "2025-11-05T16:40:08Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gironde, Nouvelle-Aquitaine"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4OTI2In0.kiamfGtSfe_Rs2NIztqnDpxV6PnfC_dlvm9SL8R8GHw"
+        },
+        {
+            "title": "Data Analyst IT",
+            "id": "5482359050",
+            "salary_max": 34800,
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482359050?utm_medium=api&utm_source=58c69264",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 2.03409,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "latitude": 48.76963,
+            "created": "2025-11-05T16:40:09Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Yvelines",
+                    "Versailles",
+                    "Montigny-le-Bretonneux"
+                ],
+                "display_name": "Montigny-le-Bretonneux, Versailles",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU5MDUwIn0.iEtNKamt2hNz0cjqdtiVES4xCrjVDJcayA7Weu5knDM"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODI3NiIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.OXVI9mOOwMm9xvCqQwQy848PyS2vqRHmR7TaqAs7ACA",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Lille",
+                    "Roubaix-Ouest"
+                ],
+                "display_name": "Roubaix-Ouest, Lille",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 50.66928,
+            "created": "2025-11-05T16:39:56Z",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 3.12938,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482358276?utm_medium=api&utm_source=58c69264",
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5482358276"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5482358873?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 2.324043,
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "title": "Data Analyst IT",
+            "id": "5482358873",
+            "salary_max": 34800,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Loiret, Centre",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Centre",
+                    "Loiret"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODg3MyIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.cqVy1cHanxF12Bpv9PSidBo7qe_4PhbD_8ZuBlnupCY",
+            "latitude": 48.019247,
+            "created": "2025-11-05T16:40:07Z"
+        },
+        {
+            "location": {
+                "area": [
+                    "France",
+                    "Bretagne",
+                    "Ille-et-Vilaine"
+                ],
+                "display_name": "Ille-et-Vilaine, Bretagne",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1OTAzMCIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.qrV2GpsQE_okVarRLFOgnskyRhP3wL1UK8yBwM4MybA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-05T16:40:09Z",
+            "latitude": 48.20187,
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482359030?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": -1.727553,
+            "id": "5482359030",
+            "title": "Data Analyst IT",
+            "salary_max": 34800
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODI2MyIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.ypyAdJdmLov3z0e1rkMmuljkCVpAJP-K6A39dhBk9CU",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Bretagne",
+                    "Ille-et-Vilaine",
+                    "Rennes",
+                    "Betton"
+                ],
+                "display_name": "Betton, Rennes",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 48.11176,
+            "created": "2025-11-05T16:39:56Z",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": -1.68027,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.fr/details/5482358263?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5482358263"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4ODk3In0.TWOBoUcggM0In1SCn4Jzmc8Gl24psa6SQ8GsEDmSXfs",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Vienne"
+                ],
+                "display_name": "Vienne, Nouvelle-Aquitaine",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 46.585287,
+            "created": "2025-11-05T16:40:07Z",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 0.59994,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.fr/details/5482358897?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5482358897"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5482359063?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "longitude": 6.38238,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "id": "5482359063",
+            "title": "Data Analyst IT",
+            "salary_max": 34800,
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Doubs, Bourgogne-Franche-Comt\u00e9",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Bourgogne-Franche-Comt\u00e9",
+                    "Doubs"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1OTA2MyIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.rLYWUW_C7qLj0JTrzU_ANDdq_nMZvVSbEZcKWjOD3WI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-05T16:40:10Z",
+            "latitude": 47.230817
+        },
+        {
+            "latitude": 49.629473,
+            "created": "2025-11-05T16:39:56Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Normandie",
+                    "Seine-Maritime"
+                ],
+                "display_name": "Seine-Maritime, Normandie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODI4MyIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.OCmIiqBlpcJHPDn9fk1yYFC_z94T_TW44tQTWpQMDkY",
+            "title": "Data Analyst IT",
+            "id": "5482358283",
+            "salary_max": 34800,
+            "redirect_url": "https://www.adzuna.fr/details/5482358283?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 0.78306,
+            "salary_min": 30000,
+            "contract_type": "permanent"
+        },
+        {
+            "created": "2025-11-05T16:39:56Z",
+            "latitude": 43.27002,
+            "location": {
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne",
+                    "Marseille",
+                    "Allauch"
+                ],
+                "display_name": "Allauch, Marseille",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4Mjc3In0.hmDku9H5AA8yZob5nMI14dkdNZXRWw0i57CCnw-OLlI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5482358277",
+            "title": "Data Analyst IT",
+            "salary_max": 34800,
+            "redirect_url": "https://www.adzuna.fr/details/5482358277?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 5.38169
+        },
+        {
+            "salary_max": 34800,
+            "id": "5482358287",
+            "title": "Data Analyst IT",
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "longitude": 6.1825,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "redirect_url": "https://www.adzuna.fr/details/5482358287?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "created": "2025-11-05T16:39:56Z",
+            "latitude": 48.69079,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4Mjg3In0.MFxRPbch0PlgzHwLUWe7N3pCQMA4-6u-sjT0VePtShs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Meurthe-et-Moselle",
+                    "Nancy",
+                    "Malz\u00e9ville"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Malz\u00e9ville, Nancy"
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_max": 34800,
+            "id": "5482358951",
+            "title": "Data Analyst IT",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "longitude": 2.416228,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "redirect_url": "https://www.adzuna.fr/details/5482358951?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "created": "2025-11-05T16:40:08Z",
+            "latitude": 49.894255,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4OTUxIn0.gP6LtIKq41PvkQJGOyqIEh0EN3wI5B4DGe3mJKRsuzY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Somme"
+                ],
+                "display_name": "Somme, Hauts-De-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482358291?utm_medium=api&utm_source=58c69264",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 7.094875,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "title": "Data Analyst IT",
+            "id": "5482358291",
+            "salary_max": 34800,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur",
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Alpes-Maritimes"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4MjkxIn0.r2EUyBTUIBNkYjf_nDZADzxDYVoV7Etn7nwT76wrN94",
+            "latitude": 43.680985,
+            "created": "2025-11-05T16:39:56Z"
+        },
+        {
+            "latitude": 47.204523,
+            "created": "2025-11-05T16:39:56Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODI5OCIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.g3kID573X5QFO_LT_xj6jEHzMjWwkTHu_NHcSYD4kwU",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Centre",
+                    "Indre-et-Loire"
+                ],
+                "display_name": "Indre-et-Loire, Centre",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5482358298",
+            "longitude": 0.624623,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482358298?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU5MDU1In0.Oqp3ZvlTgvPLHXCaL16GYdJa6mCoh3_LGqTksNOFPvU",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Moselle"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Moselle, Grand-Est"
+            },
+            "latitude": 49.102752,
+            "created": "2025-11-05T16:40:09Z",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 6.546561,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.fr/details/5482359055?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5482359055"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4OTU3In0.M2xfg-gZ79cjVoVB7YXID8J3ZBEGgiS49ynhFqwRASE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Is\u00e8re",
+                    "Grenoble",
+                    "Fontaine"
+                ],
+                "display_name": "Fontaine, Grenoble",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-05T16:40:08Z",
+            "latitude": 45.19428,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "longitude": 5.73163,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "redirect_url": "https://www.adzuna.fr/details/5482358957?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 34800,
+            "id": "5482358957",
+            "title": "Data Analyst IT"
+        },
+        {
+            "title": "Data Analyst IT",
+            "id": "5482359045",
+            "salary_max": 34800,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482359045?utm_medium=api&utm_source=58c69264",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": -0.57614,
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "latitude": 44.83737,
+            "created": "2025-11-05T16:40:09Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Talence, Bordeaux",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde",
+                    "Bordeaux",
+                    "Talence"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU5MDQ1In0.k9DGghxk2hjhqh4tVelwviQ4Y5ehopSIDBFjuWSjvTE"
+        },
+        {
+            "latitude": 45.76471,
+            "created": "2025-11-05T16:40:08Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Villeurbanne, Lyon",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "Villeurbanne"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODk1OCIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.yEwzB2Thm8c5Obk7qufpEl11jUtUF7nEgMmd5dY-wyE",
+            "title": "Data Analyst IT",
+            "id": "5482358958",
+            "salary_max": 34800,
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482358958?utm_medium=api&utm_source=58c69264",
+            "longitude": 4.88039,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "contract_type": "permanent",
+            "salary_min": 30000
+        },
+        {
+            "id": "5482358299",
+            "title": "Data Analyst IT",
+            "salary_max": 34800,
+            "redirect_url": "https://www.adzuna.fr/details/5482358299?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 6.17319,
+            "created": "2025-11-05T16:39:56Z",
+            "latitude": 48.65928,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Meurthe-et-Moselle",
+                    "Nancy",
+                    "Vandoeuvre-l\u00e8s-Nancy"
+                ],
+                "display_name": "Vandoeuvre-l\u00e8s-Nancy, Nancy",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODI5OSIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.TsDvMlnAcp1h2Oxfrh1YNO18AYN440NfFN_72xKO2rE",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Loire"
+                ],
+                "display_name": "Loire, Auvergne-Rh\u00f4ne-Alpes",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4Mjk1In0.q5u6u5RPABvldxCuTfmCzfmSHMFw6_TlyOw7faGkgQ8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-05T16:39:56Z",
+            "latitude": 45.68316,
+            "redirect_url": "https://www.adzuna.fr/details/5482358295?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "longitude": 4.152393,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "id": "5482358295",
+            "title": "Data Analyst IT",
+            "salary_max": 34800
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5482359037?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 1.37892,
+            "id": "5482359037",
+            "title": "Data Analyst IT",
+            "salary_max": 34800,
+            "location": {
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "Haute-Garonne",
+                    "Toulouse",
+                    "Toulouse 14e Canton"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Toulouse 14e Canton, Toulouse"
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU5MDM3In0.f6GGWQj1AC9e_2762XvGLbdQAkAIyBKlG5nCLCnwYZI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-05T16:40:09Z",
+            "latitude": 43.6681
+        },
+        {
+            "latitude": 48.82583,
+            "created": "2025-11-05T16:39:56Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4MjkzIn0.3iiJlftvgCJa4Iraq4fGCxKv59vZ0ZXIVYsD1XqHUp0",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hauts-de-Seine, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine"
+                ]
+            },
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5482358293",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 2.245857,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.fr/details/5482358293?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_max": 34800,
+            "id": "5482358264",
+            "title": "Data Analyst IT",
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "longitude": 4.721577,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5482358264?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-05T16:39:56Z",
+            "latitude": 47.30381,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1ODI2NCIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.jnPlf8AYG_cddhZkcvdlVrQip9F36SCSVuGM6FoMSPI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "C\u00f4te-d'Or, Bourgogne-Franche-Comt\u00e9",
+                "area": [
+                    "France",
+                    "Bourgogne-Franche-Comt\u00e9",
+                    "C\u00f4te-d'Or"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4MjU5MTk1In0.wO0kOxSNoWS85s4FXVeP-kR7w07mnen-GnA0En9AUQE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pont-Rousseau, Rez\u00e9",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes",
+                    "Rez\u00e9",
+                    "Pont-Rousseau"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-21T20:48:18Z",
+            "latitude": 47.21684,
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "longitude": -1.55674,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "redirect_url": "https://www.adzuna.fr/details/5508259195?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "salary_max": 34800,
+            "id": "5508259195",
+            "title": "Data Analyst IT"
+        },
+        {
+            "created": "2025-11-21T20:48:18Z",
+            "latitude": 47.21442,
+            "location": {
+                "display_name": "Saint-Herblain, Nantes",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes",
+                    "Saint-Herblain"
+                ]
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4MjU5MjA3In0.DSXGTw4KeJqfW9rxVHcl1Qk5dhaAP-Js20Gr5geISA0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5508259207",
+            "title": "Data Analyst IT",
+            "salary_max": 34800,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5508259207?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "longitude": -1.63888,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026"
+        },
+        {
+            "title": "Data Analyst IT",
+            "id": "5508259203",
+            "salary_max": 34800,
+            "redirect_url": "https://www.adzuna.fr/details/5508259203?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 1.13894,
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "latitude": 43.4082,
+            "created": "2025-11-21T20:48:18Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "Haute-Garonne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Haute-Garonne, Occitanie"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODI1OTIwMyIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.iFozvIljt9lY8fMmtOCx7dXz7HC8DPPy88j2pZV-sXA"
+        },
+        {
+            "id": "5482359059",
+            "title": "Data Analyst IT",
+            "salary_max": 34800,
+            "redirect_url": "https://www.adzuna.fr/details/5482359059?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "longitude": 0.176558,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "created": "2025-11-05T16:40:10Z",
+            "latitude": 48.026703,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Sarthe"
+                ],
+                "display_name": "Sarthe, Pays de la Loire",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjM1OTA1OSIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.t74r5qXN8ksgPT_DLZbITEMDuXoKeAtZLtVKOlufJ3s",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyMzU4OTAyIn0.xvmYfrbMEEcN1fWhcvunDyXOBVeg_7zCuf8kpEncc3g",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "4\u00e8me-Arrondissement, Lyon",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "4\u00e8me-Arrondissement"
+                ]
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 45.74522,
+            "created": "2025-11-05T16:40:08Z",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 4.84192,
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "redirect_url": "https://www.adzuna.fr/details/5482358902?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5482358902"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5508259212?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "longitude": 7.642103,
+            "id": "5508259212",
+            "title": "Data Analyst IT",
+            "salary_max": 34800,
+            "location": {
+                "display_name": "Bas-Rhin, Grand-Est",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Bas-Rhin"
+                ]
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODI1OTIxMiIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.wRWk7InDi_UMdYKBb3NU5lTR-JxIHJUzQlEAy7ls4cs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-21T20:48:18Z",
+            "latitude": 48.661816
+        },
+        {
+            "created": "2025-11-21T20:48:18Z",
+            "latitude": 50.69127,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4MjU5MjA4In0.juJmYfLaSnJlVdynmMpAo97_QFkI5I1R5Q1i836LPEY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Roubaix, Lille",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Lille",
+                    "Roubaix"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 34800,
+            "id": "5508259208",
+            "title": "Data Analyst IT",
+            "salary_min": 30000,
+            "contract_type": "permanent",
+            "longitude": 3.17321,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5508259208?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_max": 34800,
+            "title": "Data Analyst IT",
+            "id": "5508259215",
+            "longitude": 6.114425,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nexys Recrutement"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5508259215?utm_medium=api&utm_source=58c69264",
+            "latitude": 48.811878,
+            "created": "2025-11-21T20:48:18Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODI1OTIxNSIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.IVOMfuRN9sxeOKy_B63t6BxvO13q4Qp0gCZKxHWoCNE",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Meurthe-et-Moselle"
+                ],
+                "display_name": "Meurthe-et-Moselle, Grand-Est",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "created": "2025-11-21T20:48:18Z",
+            "latitude": 43.566897,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4MjU5MjEzIn0.fwFaXEpyl6u_OvKq9DPJcYipvI3oZ3a8rscxmMlUfJA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "H\u00e9rault"
+                ],
+                "display_name": "H\u00e9rault, Occitanie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 34800,
+            "id": "5508259213",
+            "title": "Data Analyst IT",
+            "contract_type": "permanent",
+            "salary_min": 30000,
+            "longitude": 3.493697,
+            "description": "Pr\u00e9sentation de l'entreprise: Nexys Recrutement, cabinet sp\u00e9cialis\u00e9 dans l\u2019informatique et le digital, recherche pour l\u2019un de ses clients un Data Analyst pour accompagner ses \u00e9quipes dans l\u2019exploitation et l\u2019analyse de donn\u00e9es strat\u00e9giques. Mission du poste: Collecter, nettoyer et fiabiliser de gros volumes de donn\u00e9es issues de syst\u00e8mes vari\u00e9s (CRM, ERP, logs applicatifs\u2026) Concevoir et maintenir des tableaux de bord et rapports interactifs (Power BI, Tableau, Looker, Qlik) R\u00e9aliser des analyses\u2026",
+            "redirect_url": "https://www.adzuna.fr/details/5508259213?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Nexys Recrutement",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2025-11-22T13:07:12Z",
+            "latitude": 48.811332,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ile-de-France, France",
+                "area": [
+                    "France",
+                    "Ile-de-France"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA5MDM5MDc4In0.0lzEJG7lfF1gbtfVIgpiNUC5FgGksMaKIzZG_qrRb2A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5509039078",
+            "title": "Consultant data Engineer",
+            "salary_max": 65000,
+            "company": {
+                "display_name": "Breople",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5509039078?utm_medium=api&utm_source=58c69264",
+            "salary_min": 40000,
+            "description": "Description du poste :Vous serez en charge de la conception, du d\u00e9veloppement et de l'optimisation des infrastructures de gestion de donn\u00e9es. Vous travaillerez en collaboration avec nos \u00e9quipes techniques et strat\u00e9giques afin d'apporter une expertise de pointe sur les technologies Big Data et d'ingestion de donn\u00e9es. Missions principales : - Concevoir et d\u00e9velopper des pipelines de donn\u00e9es robustes et scalables. - Optimiser les flux de donn\u00e9es et assurer leur qualit\u00e9 et int\u00e9grit\u00e9. - G\u00e9rer les ba\u2026",
+            "longitude": 2.351634
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "company": {
+                "display_name": "Shift Technology",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/4949671222?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.344631,
+            "description": "Shift is the leading AI platform for insurance. Shift combines generative, agentic, and predictive AI to transform underwriting, claims, and fraud and risk - driving operational efficiency, exceptional customer experiences and measurable business impact. Trusted by the world's leading insurers, Shift delivers AI when and where it matters most, at scale and with proven results. Our culture is built on innovation, trust, and a drive to transform the insurance industry through our SaaS platform. W\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk0OTY3MTIyMiIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.UscCQ7IhYLHceIkaiu42_Otpr3MbHQDNhgd7AUWNH9w",
+            "title": "Data Scientist: France",
+            "latitude": 48.863839,
+            "id": "4949671222",
+            "created": "2024-11-24T14:37:12Z"
+        },
+        {
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDYwMTcwMzMyNiIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.ZAC-xc9qi_VBC6J0LS5QAIpeU0V1frC6vnMSDqgjPi0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Int\u00e9grez une entreprise \u00e0 taille humaine en croissance, implant\u00e9e sur Lyon et Aix-en-Provence. D\u00e9couvrez l\u2019ambiance BIPP (environnement de travail, valeurs humaines, \u00e9v\u00e9nements r\u00e9guliers) en rejoignant une \u00e9quipe dynamique et bienveillante qui vous fera progresser professionnellement. Expert dans le domaine du conseil et de la transformation digitale (Data Visualisation, Data Management, Big Data, EPM), nous vous offrons l\u2019opportunit\u00e9 de vous \u00e9panouir sur des projets \u00e0 forte valeur ajout\u00e9e m\u00eala\u2026",
+            "longitude": 5.08666,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BIPP Consulting"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/4601703326?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Lyon, Rh\u00f4ne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon"
+                ]
+            },
+            "category": {
+                "label": "Emplois Ing\u00e9nierie",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2024-03-10T14:04:27Z",
+            "id": "4601703326",
+            "title": "Business Developer Data",
+            "latitude": 45.72035
+        },
+        {
+            "company": {
+                "display_name": "Procter & Gamble",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5414113250?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDE0MTEzMjUwIn0.w-TERcNbtJ0k-pxctOPjYdnrkZYxS37Cor1ktZnvWZM",
+            "description": "Job Location Paris Job Description Do you have a passion for diving into data sets and uncovering insights that drive data-based decision-making? Join us in transforming P&G's brand-building efforts through advanced analytics! We are dedicated to understanding data and leveraging it to enhance our business outcomes and improve consumer lives every day. Are you ready to take on the challenge of becoming a Data Analyst Intern? As a Data Analyst Intern, you will collaborate closely with teams acro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.344631,
+            "id": "5414113250",
+            "created": "2025-09-25T02:11:41Z",
+            "latitude": 48.863839,
+            "title": "Data Analyst internship"
+        },
+        {
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5290365146?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Skello"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MjkwMzY1MTQ2In0.w-pT5dbpuxm5WFhPa5Dwfx7QrfDCrmIkIsI9FWhi-4k",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Skello est une soci\u00e9t\u00e9 europ\u00e9enne qui a pour mission de r\u00e9inventer l\u2019exp\u00e9rience de travail des \u00e9quipes sur le terrain en leur permettant de mieux anticiper, s\u2019organiser et communiquer. Comment ? Gr\u00e2ce \u00e0 une technologie collaborative et intuitive. Concr\u00e8tement, Skello est une solution SaaS de pilotage RH pour tous les \u00e9tablissements dont les plannings sont complexes. Pour les managers, Skello optimise l\u2019organisation du travail et aide \u00e0 la prise de d\u00e9cision dans le pilotage des co\u00fbts li\u00e9s aux \u00e9q\u2026",
+            "longitude": 2.344631,
+            "id": "5290365146",
+            "created": "2025-07-07T17:52:56Z",
+            "latitude": 48.863839,
+            "title": "Lead Data Analyst"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5414665080?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "P&G",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNDY2NTA4MCIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.eUELoBRCJ2E083-8TdZE0TT6O3TsyqxAWV607JJkYf4",
+            "description": "Job Location Paris Job Description Do you have a passion for diving into data sets and uncovering insights that drive data-based decision-making? Join us in transforming P&G\u2019s brand-building efforts through advanced analytics! We are dedicated to understanding data and leveraging it to enhance our business outcomes and improve consumer lives every day. Are you ready to take on the challenge of becoming a Data Analyst Intern? As a Data Analyst Intern, you will collaborate closely with teams acro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5414665080",
+            "created": "2025-09-26T11:46:44Z",
+            "title": "Data Analyst internship"
+        },
+        {
+            "longitude": 2.3365,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": " YOUR ROLE & RESPONSIBILITIES \u2014 As we continue to scale and shape the future of healthcare, we are seeking an exceptional Lead Data Scientist to spearhead cutting-edge research and development efforts within our Data Science team. This is a high-impact leadership role where your work will directly influence our AI strategy, product development, and clinical value \u2014 driving innovation that can fundamentally transform how health data is understood and used. As a Lead Data Scientist , you will: Le\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzA5Nzg2NTMxIn0.QTJpVICRJhotplSX2A2gvONtzbioRT6ZftulrKJzRZ4",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5309786531?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Kiro",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "8\u00e8me Arrondissement, Paris",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "8\u00e8me Arrondissement"
+                ]
+            },
+            "title": "Lead Data Scientist",
+            "latitude": 48.8814,
+            "id": "5309786531",
+            "created": "2025-07-18T13:03:21Z"
+        },
+        {
+            "latitude": 48.863839,
+            "title": "Data Engineer Alternance",
+            "id": "5493187002",
+            "created": "2025-11-13T09:02:29Z",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.fr/details/5493187002?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            },
+            "company": {
+                "display_name": "DSTI School of Engineering",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "L'alternance \u00e0 DSTI est une passerelle vers l'excellence, offrant une formation de haut niveau sans co\u00fbt pour l'\u00e9tudiant, et mariant habilement pratique et th\u00e9orie pour une immersion r\u00e9ussie dans le monde professionnel. Nous rechercons un profil Data Engineer pour l'un de nos partenaires du secteur bancaire. Pr\u00eat \u00e0 nous rejoindre pour relever un challenge dans un environnement international et \u00e9volutif ? Missions: En tant qu'alternant(e) Software/Data engineer, vous rejoindrez le DataLab de Glo\u2026",
+            "longitude": 2.344631,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDkzMTg3MDAyIn0.q2KGXQcsDWJKXr67i6IFBiM6FjGjCjvtmt-rq9-9l4s",
+            "contract_time": "full_time"
+        },
+        {
+            "id": "5493186995",
+            "created": "2025-11-13T09:02:29Z",
+            "latitude": 44.910658,
+            "title": "Data Analyst Alternance",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MzE4Njk5NSIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.B5twsGltElW-Fb8y9fKMRGP0v5EchotzTfOohKK7wv4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -0.665018,
+            "description": "L'alternance \u00e0 DSTI est une passerelle vers l'excellence, offrant une formation de haut niveau sans co\u00fbt pour l'\u00e9tudiant, et mariant habilement pratique et th\u00e9orie pour une immersion r\u00e9ussie dans le monde professionnel. Nous rechercons un profil Data Analyst pour l'un de nos partenaires du secteur automobile. Pr\u00eat \u00e0 nous rejoindre pour relever un challenge dans un environnement international et \u00e9volutif ? - Responsabilit\u00e9s : Vous soutiendrez avec l'\u00e9quipe Data & Analytics l'efficacit\u00e9 commercia\u2026",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5493186995?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DSTI School of Engineering"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gironde, Nouvelle-Aquitaine",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde"
+                ]
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "latitude": 48.8814,
+            "title": "Data Scientist - Junior",
+            "id": "5488127895",
+            "created": "2025-11-09T11:47:08Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Emplois Distribution et Entrep\u00f4ts"
+            },
+            "company": {
+                "display_name": "Eridanis",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "8\u00e8me Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "8\u00e8me Arrondissement"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5488127895?utm_medium=api&utm_source=58c69264",
+            "description": "Tu rejoindras le p\u00f4le Data & IA d\u2019Eridanis pour contribuer \u00e0 la conception, l\u2019impl\u00e9mentation et l\u2019am\u00e9lioration de solutions data, de la collecte au d\u00e9ploiement de mod\u00e8les. Voici ce qu\u2019on attend de toi : R\u00e9aliser des \u00e9tats de l\u2019art sur des technologies ou usages IA Mettre en place des pipelines de donn\u00e9es robustes et automatis\u00e9s Nettoyer, transformer et valoriser des jeux de donn\u00e9es complexes Participer aux sessions de veille IA pour rester \u00e0 jour sur les tendances \u00catre force de proposition face\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.3365,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4ODEyNzg5NSIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.FkMdENNOq0IPfNwXPl3TZY--gYdBjzhMbxuSJYkUVoc",
+            "contract_time": "full_time"
+        },
+        {
+            "id": "5535512576",
+            "created": "2025-12-10T02:03:11Z",
+            "title": "Director - Data Analytics",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ADP"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5535512576?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Colombes, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Colombes"
+                ]
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTUxMjU3NiIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.WUSsBTtknvwgGnLPYG2VaUEUZ6nTm4vSDMpE5TDmvio",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Title: Director - Business Analytics Department: ESI (Employer Services International) Reporting to: Senior Director Service Delivery & Business Excellence Overview: The Director - Business Analytics will play a strategic and vital role within the ESI Business Excellence and Transformation senior leadership team, reporting directly to the Senior Director Business Excellence. This high-profile position is responsible for spearheading the ESI Business Analytics strategy across the organizatio\u2026"
+        },
+        {
+            "latitude": 48.8774,
+            "title": "Stage - Data Scientist",
+            "created": "2025-10-19T11:33:10Z",
+            "id": "5455054022",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.17913,
+            "description": "Polynom est une jeune entreprise innovante qui constitue un environnement id\u00e9al pour un apprentissage acc\u00e9l\u00e9r\u00e9. Au cours des diff\u00e9rentes phases du projet, vous aurez l\u2019occasion de travailler avec des \u00e9quipes expertes dans leurs domaines, de la data science au conseil en passant par le data engineering. Nous poss\u00e9dons notamment une forte expertise du machine learning afin de valoriser au mieux les donn\u00e9es de nos clients. Dans ce cadre, nous sommes \u00e0 la recherche d\u2019un(e) data scientist pour un st\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDU1MDU0MDIyIn0.z1Yk2iYg-T1NdDwPORM5g07NruCZH59iioakv9w0PGo",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Rueil-Malmaison"
+                ],
+                "display_name": "Rueil-Malmaison, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Polynom",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5455054022?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "company": {
+                "display_name": "ASCENCIA Business School",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5471546074?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Nantes, Loire-Atlantique",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes"
+                ]
+            },
+            "category": {
+                "tag": "graduate-jobs",
+                "label": "Emplois Dipl\u00f4m\u00e9s",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MTU0NjA3NCIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.Xfzs8qPnT3jZ1GFYwNOWu_OwTo8XKYS6caxyceucw6U",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "L'\u00e9cole Digital Coll\u00e8ge de Nantes recherche un data analyst (H/F) en contrat d'alternance pour une entreprise partenaire dans le secteur de la communication en contrat de professionnalisation ou d'apprentissage pour l'ann\u00e9e 2024-2025. Recueillir les donn\u00e9es Traduire et interpr\u00e9ter la data Rendre compte de ses r\u00e9sultats de fa\u00e7on lisible Vous pr\u00e9parez une formation de niveau Bac5 avec id\u00e9alement une sp\u00e9cialisation en communication/marketing.",
+            "longitude": -1.55674,
+            "created": "2025-10-30T20:49:20Z",
+            "id": "5471546074",
+            "latitude": 47.21684,
+            "title": "Alternance - Data analyst"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs",
+                "label": "Emplois Vente"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine"
+                ],
+                "display_name": "Hauts-de-Seine, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5537732219?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Keyrus"
+            },
+            "longitude": 2.245857,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Qui sommes-nous ? Une success story dans la Data et le Digital Notre mission ? Des projets \u00e0 forte valeur ajout\u00e9e pour accro\u00eetre la performance et la comp\u00e9titivit\u00e9 des entreprises, faciliter et acc\u00e9l\u00e9rer leur transformation. Notre expertise depuis plus de 25 ans ? Le conseil et l'int\u00e9gration de solutions innovantes autour de trois domaines : Data Intelligence Business Intelligence, Big Data & Analytics, Intelligence Artificielle Digital Experience Conseil, Strat\u00e9gie & Performance Digitales Cons\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNm1oQ0R0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3NzMyMjE5In0.NCDE31j3KqvxQqxXFwRyD1v6iKd-hfpp6kUaFiLfIEY",
+            "contract_type": "contract",
+            "latitude": 48.82583,
+            "title": "Big data engineer",
+            "id": "5537732219",
+            "created": "2025-12-11T13:23:25Z"
+        },
+        {
+            "title": "Expert Data Factory",
+            "latitude": 48.863839,
+            "id": "5537732359",
+            "created": "2025-12-11T13:23:26Z",
+            "description": "Description de l'entreprise CITECH recrute Si vous souhaitez mettre \u00e0 profit vos comp\u00e9tences et accompagner un projet strat\u00e9gique, nous avons LA mission pour vous Nous recherchons en effet un(e)Expert Data Factory (H/F) Description du poste Pr\u00e9sentation du client Notre client est un grand cabinet fran\u00e7ais reconnu pour son expertise pluridisciplinaire et son accompagnement strat\u00e9gique aupr\u00e8s d'entreprises de toutes tailles. Dans le cadre du d\u00e9veloppement de son p\u00f4le Data, il souhaite renforcer s\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.344631,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzczMjM1OSIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.KCbXtyCAjR8n249wSzKbXg_cF1ef8BJDqBt3kPJTKCQ",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs",
+                "label": "Emplois Vente"
+            },
+            "company": {
+                "display_name": "CITECH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5537732359?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Vente",
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5537732279?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Atos",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gironde, Nouvelle-Aquitaine",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde"
+                ]
+            },
+            "longitude": -0.665018,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Qui nous sommes. Nous sommes une \u00e9quipe d'experts passionn\u00e9s avec une ambition claire : utiliser le num\u00e9rique pourfaire avancer ce qui comptepour nos clients et la soci\u00e9t\u00e9. Chaque jour, nous travaillons ensemble pour cr\u00e9er desfondations num\u00e9riques fiables et \u00e9volutivespour les entreprises, les institutions et les communaut\u00e9s du monde entier. Plus d'informations sur :Advancing what matters Rejoignez la communaut\u00e9 Data d'Atos La raison d'\u00eatre d'Atos est de contribuer \u00e0 fa\u00e7onner l'espace informati\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzczMjI3OSIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.pRy8UJ-PvPkjDAYuuZHvjLeZSaVTgJfzIGhNsmEVkvQ",
+            "contract_type": "contract",
+            "latitude": 44.910658,
+            "title": "Ing\u00e9nieur Data Confirm\u00e9",
+            "id": "5537732279",
+            "created": "2025-12-11T13:23:25Z"
+        },
+        {
+            "title": "Data Analyst - Senior",
+            "latitude": 48.863839,
+            "id": "5513863847",
+            "created": "2025-11-26T00:19:57Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5513863847?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Act Digital France"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Vous int\u00e9grerez, au sein de notre P\u00f4le Transformation Num\u00e9rique, une \u00e9quipe d'experts en gestion de la donn\u00e9e en charge d'accompagner nos clients. Vous serez d\u00e9tach\u00e9(e) chez un acteur majeur du secteur de l'assurance dans une \u00e9quipe organis\u00e9e en squad. Vos missions seront les suivantes : - Collecter, pr\u00e9parer et transformer des donn\u00e9es massives \u00e0 l'aide de PySpark afin d'alimenter les pipelines analytiques et les mod\u00e8les d\u00e9cisionnels. - Mettre en place et optimiser des scripts et traitements di\u2026",
+            "longitude": 2.344631,
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzg2Mzg0NyIsInMiOiI2bWhDRHRUVzhCR3hfTnRkbF92T3J3In0.uHfaku8JDTrwvnT45IKzVw3f0R1v-xfq1X85Tv4hBS8"
+        }
+    ],
+    "count": 31779,
+    "mean": 49185.38
+}

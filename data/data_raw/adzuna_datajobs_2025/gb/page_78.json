@@ -1,0 +1,1602 @@
+{
+    "mean": 48752.64,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_max": 28000,
+            "title": "EPR Data Consultant (Global)",
+            "id": "5501962166",
+            "longitude": -1.678128,
+            "description": "Department Technology Employment Type Permanent - Full Time Location Stratford-Upon-Avon Workplace type Hybrid Compensation \u00a326,800 - \u00a328,000 / year Reporting To Data Team Manager About the role What we need from you What we offer About Valpak Ltd test",
+            "contract_type": "permanent",
+            "salary_min": 26800,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Reconomy"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5501962166?utm_medium=api&utm_source=58c69264",
+            "latitude": 52.174876,
+            "created": "2025-11-18T17:05:01Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTk2MjE2NiIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.RMEq6jmfO2UH2lAmQMVWUC2iGKMuFrYiURn7c3azhcg",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bridgetown, Stratford-Upon-Avon",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Warwickshire",
+                    "Stratford-Upon-Avon",
+                    "Bridgetown"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "title": "Senior Process Executive-Data",
+            "created": "2025-05-22T08:54:28Z",
+            "id": "5210480690",
+            "salary_max": 32693.04,
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "cognizant"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5210480690?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Team Lead - O2C Qualification Bachelor/Post Graduate degree in Commerce (exclusion : BE/BTech/MCA/Arts and Science Graduates) Responsibility Business/ Customer : Articulate/ communicate in a manner which is understood by clients / end-users Connect with the customer & provide highest level of satisfaction to the customer. Handling simple billing transactions, doing rule based credit appraisals, rectifying errors in customer master, following up with customers on overdue invoices, applying singl\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIxMDQ4MDY5MCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.ZoqdNofe365VIN5fOQeCws6pjuJxOx-opt3m5foYWP4",
+            "salary_min": 32693.04
+        },
+        {
+            "id": "5420862905",
+            "created": "2025-09-29T18:49:44Z",
+            "title": "Reporting & Data Analyst, Risk",
+            "salary_max": 48839.06,
+            "company": {
+                "display_name": "Paysafe Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "UK"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5420862905?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "salary_is_predicted": "1",
+            "salary_min": 48839.06,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyMDg2MjkwNSIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.Uc4nzG8Qw3t9KLIzrBx1XwgfFQnO8izK_9u-F0utnjI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Paysafe is a leading payments platform with an extensive track record of serving merchants and consumers in the global entertainment sectors. Its core purpose is to enable businesses and consumers to connect and transact seamlessly through industry-leading capabilities in payment processing, digital wallet, and online cash solutions. With 29 years of online payment experience, an annualized transactional volume of $152 billion in 2024, and approximately 3,000 employees located in 12 countries, \u2026"
+        },
+        {
+            "created": "2025-10-30T18:46:01Z",
+            "latitude": 51.512699,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "Hayes"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hayes, London"
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDcxNTA5NzM0In0.rhpzpaZZ8VSqhGT7rIolS4Vu_PMyoRJTzmy6pgcfgt8",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5471509734",
+            "title": "Data Centre BMS Engineer",
+            "salary_max": 42738.89,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CBRE"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5471509734?utm_medium=api&utm_source=58c69264",
+            "salary_min": 42738.89,
+            "description": "Data Centre BMS Engineer Job ID 245655 Posted 25-Nov-2025 Service line GWS Segment Role type Full-time Areas of Interest Engineering/Maintenance Location(s) Hayes - England - United Kingdom of Great Britain and Northern Ireland, Longcross - England - United Kingdom of Great Britain and Northern Ireland Job Title: BMS Engineer Business Sector: Data Centre Solutions Location: Split across Longcross and Hayes COMPANY PROFILE CBRE is the global leader in real estate services and leverages the indus\u2026",
+            "longitude": -0.4211
+        },
+        {
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "South West England",
+                    "Devon",
+                    "Tavistock",
+                    "Longcross"
+                ],
+                "display_name": "Longcross, Tavistock",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDcxNTA5NzMzIn0.32lRq2jXzW8qqNeqXlV6fgt4a5wn4SlqX9NwkFYurJE",
+            "latitude": 50.592701,
+            "created": "2025-10-30T18:46:01Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CBRE"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5471509733?utm_medium=api&utm_source=58c69264",
+            "longitude": -4.20823,
+            "description": "Data Centre BMS Engineer Job ID 245655 Posted 25-Nov-2025 Service line GWS Segment Role type Full-time Areas of Interest Engineering/Maintenance Location(s) Hayes - England - United Kingdom of Great Britain and Northern Ireland, Longcross - England - United Kingdom of Great Britain and Northern Ireland Job Title: BMS Engineer Business Sector: Data Centre Solutions Location: Split across Longcross and Hayes COMPANY PROFILE CBRE is the global leader in real estate services and leverages the indus\u2026",
+            "salary_min": 39051.5,
+            "title": "Data Centre BMS Engineer",
+            "id": "5471509733",
+            "salary_max": 39051.5
+        },
+        {
+            "salary_max": 85000,
+            "title": "Senior Platform Engineer (Data)",
+            "id": "5508340014",
+            "description": "About Us Our mission is to dominate the betting and gaming industry on a global scale and we need the very best Tech talent to help us achieve this. We recently migrated all of our customers onto our very own proprietary platform - so it's an exciting time to join us. With the help of our new platform, we're able to pioneer new products and drive more advanced, creative technologies. The result? Unrivalled experiences for millions of customers worldwide. Betfred's Technology department is drive\u2026",
+            "longitude": -2.245242,
+            "salary_min": 65000,
+            "contract_type": "permanent",
+            "company": {
+                "display_name": "Betfred Technology Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5508340014?utm_medium=api&utm_source=58c69264",
+            "latitude": 53.480562,
+            "created": "2025-11-21T20:17:11Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM0MDAxNCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.a5p9mHDKrz26wnBd03YhQpm7Zztp7mYuC8qDwSGvpvU",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Greater Manchester",
+                    "Manchester",
+                    "Hulme"
+                ],
+                "display_name": "Hulme, Manchester",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "title": "AI Engineer / Data Scientist",
+            "id": "5252006650",
+            "salary_max": 49572.12,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Daxtra Technologies"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5252006650?utm_medium=api&utm_source=58c69264",
+            "longitude": -3.067333,
+            "description": "About Us: Daxtra is at the forefront of AI-driven innovation, leveraging cutting-edge technologies to develop intelligent solutions that enhance business outcomes. We are looking for an AI Engineer to work closely with our AI/ML team, contributing to the development of scalable AI models and applications under the guidance of the Senior AI Manager. Role Overview: As an AI Engineer, you will be responsible for developing, deploying, and optimizing AI models while collaborating with data scientis\u2026",
+            "salary_min": 49572.12,
+            "latitude": 55.943152,
+            "created": "2025-06-15T17:59:23Z",
+            "salary_is_predicted": "1",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Monktonhall, Musselburgh",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Scotland",
+                    "East Lothian",
+                    "Musselburgh",
+                    "Monktonhall"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI1MjAwNjY1MCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.Hc8iB4y-NrislP5nXjNrVfmtgrWiRLCQI8Dva8Wpmtg"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Who are we Founded in 1896, Knight Frank was registered as Knight Frank LLP a Limited Liability Partnership, on 3 November 2003, registered in England & Wales at 55 Baker Street, London, W1U 8AN with the registered number of OC305934. Headquartered in London, UK, Knight Frank is one of the world's leading independent real estate consultancies. We work responsibly in partnership to enhance people's lives and environments in over 50 Markets, 600 Offices, 20,000 People, 1 Global Network. At the he\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyODk0OTc0OCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.y2geITKUXT9rkBIFB-vSKGwEZK6_dmS_3BljocrKxjU",
+            "contract_time": "full_time",
+            "salary_min": 44700.75,
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "company": {
+                "display_name": "Knight Frank",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5428949748?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK"
+                ]
+            },
+            "salary_max": 44700.75,
+            "title": "Operations Executive | Data Centres",
+            "created": "2025-10-03T09:38:37Z",
+            "id": "5428949748"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Department Technology: Data Technology Employment Type Permanent - Full Time Location London or Manchester UK Workplace type Hybrid Key Responsibilities Skills, Knowledge and Expertise Our culture and our benefits About Transform We're Transform. Transform is a fresh alternative to Big Consulting. As an end-to-end transformation partner, we define, design, build and operate systems that solve our clients\u2019 toughest challenges and seize their biggest opportunities. That often means combining stra\u2026",
+            "contract_type": "permanent",
+            "salary_min": 57463.88,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NTExMTMxMCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.SlbVAhRSty3Uo3m0My4hbWJybHmAHQk2RZQLk87ZQPQ",
+            "salary_is_predicted": "1",
+            "company": {
+                "display_name": "Transform",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "London, UK",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "London"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5465111310?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_max": 57463.88,
+            "title": "Senior Data Solutions Architect",
+            "id": "5465111310",
+            "created": "2025-10-26T12:08:04Z"
+        },
+        {
+            "id": "5519866757",
+            "created": "2025-11-29T23:38:36Z",
+            "title": "Site Manager Data Centre",
+            "salary_max": 85000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AA Euro Recruitment UK"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "London"
+                ],
+                "display_name": "London, UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5519866757?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "trade-construction-jobs",
+                "label": "Trade & Construction Jobs"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "salary_min": 70000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE5ODY2NzU3In0.cXs26Ft-ZNjB4SCqyDZzqo97yw16Gk7ylgBp9DPam7s",
+            "description": "AA Euro Group is currently recruiting a Site Manager on behalf of a leading main contractor delivering a high end data centre project in London. This is a fully site based role where you will oversee daily construction activities, coordinate trades, manage health and safety, maintain programme progress, and ensure all works are delivered to the required quality and technical standards. You will lead site teams, resolve operational issues, liaise with clients and subcontractors, and drive the sm\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-03-04T12:00:42Z",
+            "latitude": 51.295799,
+            "location": {
+                "display_name": "Leatherhead, Surrey",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Surrey",
+                    "Leatherhead"
+                ]
+            },
+            "category": {
+                "label": "Sales Jobs",
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "1",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MDczNzkxMDI1In0.kWIKpNLABOHKSbDDaRbESxy1ObIIrPXam1iuNKJ72xE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5073791025",
+            "title": "Sales Engineer - Data Centres",
+            "salary_max": 36415.35,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5073791025?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Carrier"
+            },
+            "salary_min": 36415.35,
+            "contract_type": "permanent",
+            "longitude": -0.325929,
+            "description": "Country: United Kingdom Location: UK Home Based, Home Based, United Kingdom Role: Sales Engineer (Data Centres) Location: South East Contract type: Full time, permanent Carrier HVAC now has an opportunity for a Sales Engineer based ideally in the South East . You will form part of our Applied sales team and the main goal of this role is to develop new business and grow sales in the data centre market. What will I be doing as a Sales Engineer? Effective Key Account Management of Data Centre vert\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Before our software developers write even a single line of code, they have to understand what drives our customers. What is the environment? What is the user story based on? Implementation means \u2013 trying, testing, and improving outcomes until a final solution emerges. Knowledge means exchange \u2013 discussions with colleagues from all over the world. Join our Digitalization Technology and Services (DTS) team based in Bangalore. This is your role. What part will you play? Implements innovative Produ\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MjEwNDgyOTc1In0.f9xvvC6Xv1PPilrob6ff0blanpZr8K0MSANEZdmrBEg",
+            "contract_time": "full_time",
+            "salary_min": 46196.61,
+            "salary_is_predicted": "1",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK"
+                ]
+            },
+            "company": {
+                "display_name": "Siemens",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5210482975?utm_medium=api&utm_source=58c69264",
+            "salary_max": 46196.61,
+            "title": "Data Analytics Product Lead",
+            "created": "2025-05-22T08:54:50Z",
+            "id": "5210482975"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Before our software developers write even a single line of code, they have to understand what drives our customers. What is the environment? What is the user story based on? Implementation means \u2013 trying, testing, and improving outcomes until a final solution emerges. Knowledge means exchange \u2013 discussions with colleagues from all over the world. Join our Digitalization Technology and Services (DTS) team based in Bangalore. This is your role. What part will you play? Implements innovative Produ\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIxMDQ4MjgxMCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.LDAIuvypnf-X8phwR4eBYVHELuk_zKjZLUBcALg8CUA",
+            "salary_min": 46900.7,
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Siemens"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "UK"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5210482810?utm_medium=api&utm_source=58c69264",
+            "salary_max": 46900.7,
+            "title": "Data Analytics Product Manager",
+            "id": "5210482810",
+            "created": "2025-05-22T08:54:49Z"
+        },
+        {
+            "description": "Are you ready to write your next chapter? Make your mark at one of the biggest names in payments. We\u2019re looking for a Process Analyst to join our Alternative Payments Reconciliations team. About the team: The team is responsible for the Reconciliation of all Worldpay UK bank accounts and internal / external account transfers of Worldpay funds. The Reconciliations Data Specialist will be an subject matter expert within our Alternative Payments Reconciliation team, leading on risk and control act\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI1ODIxODk5In0.46oL97GVLaNki4fJ4qVv_DhPakmCB6gEbTvdNDWP7dA",
+            "salary_min": 32311.11,
+            "salary_is_predicted": "1",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5525821899?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Worldpay",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "UK"
+            },
+            "salary_max": 32311.11,
+            "title": "Reconciliations SME - Data Specialist",
+            "created": "2025-12-03T15:17:27Z",
+            "id": "5525821899"
+        },
+        {
+            "company": {
+                "display_name": "causaLens",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5499571405?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "salary_min": 48631.12,
+            "description": "causaLens delivers Digital Workers that enterprises can truly rely on. Soon, competing without Digital Workers will be impossible. Just as it became unthinkable to manufacture without machines. We\u2019ve built the first factory and Operating System for creating, deploying, and governing Digital Workers. For too long, enterprises have been bogged down by repetitive work, an overload of tools, and costly consultancies. It\u2019s time to simplify. It\u2019s time for Digital Workers to take on the repetitive wor\u2026",
+            "longitude": -0.213787,
+            "id": "5499571405",
+            "title": "AI Engineer - Data Science",
+            "salary_max": 48631.12,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "West London",
+                    "West Kensington"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "West Kensington, West London"
+            },
+            "salary_is_predicted": "1",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk5NTcxNDA1In0.M0kb0AyBTyK4aKsptn3XAwwlNLRUXWf3sRZHLmjEXr4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-16T19:11:30Z",
+            "latitude": 51.493993
+        },
+        {
+            "longitude": -0.595448,
+            "description": "Data Centre Shift Technician Job ID 243927 Posted 25-Nov-2025 Service line GWS Segment Role type Full-time Areas of Interest Engineering/Maintenance Location(s) Slough - England - United Kingdom of Great Britain and Northern Ireland Job Title: Data Centre Shift Technician Business Sector: Data Centre Solutions Location: Slough, UK COMPANY PROFILE CBRE is the global leader in real estate services and leverages the industry's most powerful knowledge base to meet the commercial real estate needs o\u2026",
+            "salary_min": 36360.87,
+            "contract_type": "contract",
+            "company": {
+                "display_name": "CBRE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5473234465?utm_medium=api&utm_source=58c69264",
+            "salary_max": 36360.87,
+            "title": "Data Centre Shift Technician",
+            "id": "5473234465",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MzIzNDQ2NSIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.LDxxk6M84ucIbFrdrOVVgcouHa2mUpZyeXcxCbBqmEI",
+            "contract_time": "full_time",
+            "salary_is_predicted": "1",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Slough, Berkshire",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Berkshire",
+                    "Slough"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trade & Construction Jobs",
+                "tag": "trade-construction-jobs"
+            },
+            "latitude": 51.5093,
+            "created": "2025-10-31T18:45:26Z"
+        },
+        {
+            "salary_min": 55000,
+            "contract_type": "contract",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDU1MjM2NyIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.-PCclz1pCXLpybcgt3lA_8ggvll9cqVFduo9AaMv4iY",
+            "description": "Department: Graduate Employment and Entrepreneurship Location: Role can be located in London (West and East London), Birmingham, Manchester, or Leeds (On-site) Type of Contract : Maternity Cover - Fixed Term \u2013 1 Year Working Pattern: Full Time - 40hrs Per Week Salary Range \u00a355,000-\u00a362,000 GBS is a higher education provider offering a range of sector-relevant courses across ten campuses in London, Birmingham, Leeds and Manchester. Working in partnership with several of the UK\u2019s leading higher ed\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "1840 & Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5534552367?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "London, UK",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "London"
+                ]
+            },
+            "category": {
+                "label": "PR, Advertising & Marketing Jobs",
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 62000,
+            "id": "5534552367",
+            "created": "2025-12-09T12:29:55Z",
+            "title": "Head of Alumni, Data and Surveys"
+        },
+        {
+            "salary_max": 47046,
+            "id": "5509076044",
+            "created": "2025-11-22T15:20:43Z",
+            "title": "Regional Data Forensic Manager",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwOTA3NjA0NCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.o2fs82if7wIXub7QSPeai9LwHuqP4VuA7z9YCKem1qI",
+            "salary_min": 43668,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "The South West Digital Forensics collaboration across our four police forces (Avon & Somerset, Devon & Cornwall, Dorset and Wiltshire) continues to grow and invest in key responsible roles in response to growing operational demands. We are currently looking for great leaders to support, lead and develop specialist digital forensic teams as part of our growth and investment plan. If you are looking for a rewarding and challenging opportunity where your work really matters, this is the time to jo\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Avon and Somerset Police"
+            },
+            "location": {
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5509076044?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "company": {
+                "display_name": "dunnhumby",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "London"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "London, UK"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5529215893?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "dunnhumby is the global leader in Customer Data Science, partnering with the world\u2019s most ambitious retailers and brands to put the customer at the heart of every decision. We combine deep insight, advanced technology, and close collaboration to help our clients grow, innovate, and deliver measurable value for their customers. dunnhumby employs nearly 2,500 experts in offices throughout Europe, Asia, Africa, and the Americas working for transformative, iconic brands such as Tesco, Coca-Cola, Ne\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTIxNTg5MyIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.PN0QBQ7xfhP5p0mp12REfHTBPioTYo1ieIhluqEeqY8",
+            "salary_min": 52568.34,
+            "title": "Senior Applied Data Scientist",
+            "created": "2025-12-05T15:29:21Z",
+            "id": "5529215893",
+            "salary_max": 52568.34
+        },
+        {
+            "salary_max": 51706.47,
+            "created": "2025-11-25T05:25:11Z",
+            "id": "5512114226",
+            "title": "Procurement Technology & Data Consultant",
+            "latitude": 53.957699,
+            "salary_min": 51706.47,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMjExNDIyNiIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.iWBQBd1I1Y1gnCgpFyhY8mzMJrUzNuRqPmORYfCCqkE",
+            "longitude": -1.08229,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Procurement Technology & Data Consultant Location: London, York, Norwich, Perth or Bristol based Salary: circa \u00a355,000 (national); circa \u00a365,000 (London) We have an opportunity for an experienced Procurement Systems and Change Consultant to join our supportive and driven team. This is a great job for someone with Procurement systems experience who is looking to progress their career through a secondment opportunity! A bit about the job: The purpose of this role is to support our procurement Tec\u2026",
+            "location": {
+                "display_name": "York, North Yorkshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Yorkshire And The Humber",
+                    "North Yorkshire",
+                    "York"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Aviva"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5512114226?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Consultancy Jobs",
+                "tag": "consultancy-jobs"
+            },
+            "salary_is_predicted": "1"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MjEwNDgyODc3In0.43Dl1CoFLBiukEwx98ILN-XzLg8dihejBcFKStUDinU",
+            "salary_min": 44994.28,
+            "description": "Role: Tender Manager Data Centers Siemens founded the new business unit Siemens Advanta (formerly known as Siemens IoT Services) on April 1, 2019 with its headquarter in Munich, Germany. It has been crafted to unlock the digital future of its clients by offering end-to-end support on their outstanding digitalization journey. Siemens Advanta is a strategic advisor and a trusted implementation partner in digital transformation and industrial IoT with a global network of more than 8000 employees i\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Siemens"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5210482877?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "1",
+            "salary_max": 44994.28,
+            "id": "5210482877",
+            "created": "2025-05-22T08:54:50Z",
+            "title": "Tender Manager Data Centers"
+        },
+        {
+            "latitude": 52.688099,
+            "created": "2025-12-02T16:11:49Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Cannock, Staffordshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Staffordshire",
+                    "Cannock"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI0MTExNjA5In0.F6H64L-vbx8wuB8MhG2AJM1qqAfSkW8VMkNEN-QKnkY",
+            "title": "Business Data Administrator Apprentice",
+            "id": "5524111609",
+            "salary_max": 18000,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5524111609?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "QA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -2.02902,
+            "description": "About Plant and Safety: Plant and Safety Limited provides reliable plant equipment services and workplace safety support, including inspections, maintenance, certification, and training. Serving construction, industrial, and commercial sectors, the company focuses on compliance, risk reduction, and operational efficiency, delivering practical, customer-focused solutions that promote safer, more productive working environments. Responsibilities: Working as part of our national planning team, ens\u2026",
+            "contract_type": "permanent",
+            "salary_min": 18000
+        },
+        {
+            "salary_max": 59085.68,
+            "title": "Senior Data Scientist - Pricing",
+            "id": "5505168769",
+            "description": "Got Drive? Join AnyVan as we make moving anything, anywhere miles better and build a career that moves just as fast. Back in 2009, our CEO Angus saw half-empty vans everywhere and knew there had to be a better way! That's how AnyVan began. He set out to create the world's most efficient logistics technology and help halve the number of wasted miles by filling those empty vans. Since then we've become the nation's favourite way to move, with over 150k five-star reviews and 5 million customers in\u2026",
+            "longitude": -0.229095,
+            "salary_min": 59085.68,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5505168769?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "AnyVan",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 51.4925,
+            "created": "2025-11-20T15:43:41Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTE2ODc2OSIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.G9KRMQqsAbv3AWRVw4OORXl9bf-lKnwLm2hxswYRzGQ",
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "London",
+                    "West London",
+                    "Hammersmith"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hammersmith, West London"
+            }
+        },
+        {
+            "created": "2025-12-07T15:30:21Z",
+            "id": "5532365408",
+            "title": "Shift Technician, Data Centres",
+            "salary_max": 51799.11,
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "JLL",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5532365408?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "London, UK",
+                "area": [
+                    "UK",
+                    "London"
+                ]
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjM2NTQwOCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.LR7sg9Mt2b3mC9I3Ox2Y5Kwy6g_lj9NPXERc1nGpS0w",
+            "contract_time": "full_time",
+            "salary_min": 51799.11,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "JLL empowers you to shape a brighter way . Our people at JLL and JLL Technologies are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant\u2026"
+        },
+        {
+            "id": "5295888586",
+            "created": "2025-07-10T16:00:53Z",
+            "title": "Reference Data Management Associate",
+            "salary_max": 43373.04,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "UK",
+                "area": [
+                    "UK"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Citi"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5295888586?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "1",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI5NTg4ODU4NiIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.C5VOGhm1PDDFCIU49BHfZ53a-Eiftsarkwp__QCjtUw",
+            "salary_min": 43373.04,
+            "description": "Whether you\u2019re at the start of your career or looking to discover your next adventure, your story begins here. At Citi , you\u2019ll have the opportunity to expand your skills and make a difference at one of the world\u2019s most global banks. We\u2019re fully committed to supporting your growth and development from the start with extensive on-the-job training and exposure to senior leaders, as well as more traditional learning. You\u2019ll also have the chance to give back and make a positive impact where we live\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Type: Permanent Build a brilliant future with Hiscox Tech Transformation \u2013 Programme Manager \u2013 Data Transformation Reporting to: CTO - Transformation London (open to York or Colchester) The organisation is currently undergoing a significant transformation as a core pillar of the Hiscox 2030 strategy, designed to make the organisation scalable, efficient, and increasingly customer-centric by modernising operations and embedding a \u201cOne Hiscox\u201d mindset. It underpins the broader growth ambition\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE5MTI4MTE4In0.uueCOWy1kvPu0lNY5bFFrOuI3orcJe7uhjmii6IlVAs",
+            "salary_min": 40985.23,
+            "contract_type": "permanent",
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "London"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "London, UK"
+            },
+            "company": {
+                "display_name": "Hiscox",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5519128118?utm_medium=api&utm_source=58c69264",
+            "salary_max": 40985.23,
+            "title": "Programme Manager - Data Transformation",
+            "created": "2025-11-29T15:19:47Z",
+            "id": "5519128118"
+        },
+        {
+            "description": "Welcome to the relentless pursuit of better. Inviting applications for the role of Manager, Data Analytics In this role, you will be responsible for managing projects involving audit analytics and continuous control monitoring. Your role will function as an overlay of existing technical and domain specialists and bring value through principled audit analytics and solution leadership skills. You will be encouraged to be passionate about the BFS industry\u2019s realities and pain points and know how t\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 41745.07,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MjEwNDg1OTY0In0.6WoZ6n5Q4_UOWkHTUkTVnGxQFyvSdpaSXH1HKYaWQbA",
+            "salary_is_predicted": "1",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "genpact"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "UK"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5210485964?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "salary_max": 41745.07,
+            "title": "Manager - Data Analytics-CPG045138",
+            "id": "5210485964",
+            "created": "2025-05-22T08:55:09Z"
+        },
+        {
+            "created": "2025-11-26T15:11:13Z",
+            "latitude": 53.480337,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE0NjAwMDE5In0.cOkz92WcaKmwLCzmF_TxcWgNLfZ2L4q-30bMsubMeTs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Manchester Science Park, Manchester",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Greater Manchester",
+                    "Manchester",
+                    "Manchester Science Park"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "salary_is_predicted": "1",
+            "salary_max": 40235.11,
+            "id": "5514600019",
+            "title": "Loans Administrator and Data Analyst",
+            "salary_min": 40235.11,
+            "longitude": -2.236441,
+            "description": "Description Loans Administrator and Data Analyst At BNY, our culture allows us to run our company better and enables employees\u2019 growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world\u2019s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide. Recog\u2026",
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5514600019?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "BNY Mellon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NDU5Nzk1OCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.zwfY9iHnDkf9dRT_X8SIYjKFAFg9_wPKCDub7emCPTE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Kings Langley, Hertfordshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Hertfordshire",
+                    "Kings Langley"
+                ]
+            },
+            "category": {
+                "label": "Teaching Jobs",
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-13T20:02:59Z",
+            "latitude": 51.7141,
+            "salary_min": 19878,
+            "contract_type": "permanent",
+            "description": "Data, Examinations & Admissions Officer ??Location: Kings Langley ?Working hours: Term Time only plus 3 weeks of the school holidays, Monday - Thursday 7.30am-4.30pm, Friday 7.30am-4pm ??Salary: \u00a319,878 - \u00a321,546 About Our Client: Join a successful and vibrant educational environment that prioritises high-quality professional development and collaborative teamwork! Our client is a well-regarded school located in Kings Langley, committed to creating a positive and supportive atmosphere for both \u2026",
+            "longitude": -0.450412,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5494597958?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Office Angels",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 21546,
+            "id": "5494597958",
+            "title": "Data, Examinations & Admissions Officer"
+        },
+        {
+            "id": "5403342729",
+            "created": "2025-09-17T19:28:13Z",
+            "title": "Architecture Director - Data Centres",
+            "salary_max": 70913.5,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5403342729?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AECOM"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMzM0MjcyOSIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.FYNerWdCiseJYOCCbPpnqQT7UvVqYbFLWtO1Y-WyK3g",
+            "salary_min": 70913.5,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world's most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infr\u2026"
+        },
+        {
+            "salary_max": 65120.14,
+            "id": "5403342392",
+            "created": "2025-09-17T19:28:00Z",
+            "latitude": 53.480701,
+            "title": "Architecture Director - Data Centres",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMzM0MjM5MiIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.zi4cq_46O4tAaNcaUkmXQ1FLQQ-knp30YZRSZ_nA-Ws",
+            "salary_min": 65120.14,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -2.23438,
+            "description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world's most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infr\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Manchester, Greater Manchester",
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Greater Manchester",
+                    "Manchester"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AECOM"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5403342392?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "1"
+        },
+        {
+            "salary_is_predicted": "1",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belfast, Northern Ireland",
+                "area": [
+                    "UK",
+                    "Northern Ireland",
+                    "Belfast"
+                ]
+            },
+            "company": {
+                "display_name": "AECOM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5388220033?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world's most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infr\u2026",
+            "salary_min": 62296.2,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzg4MjIwMDMzIn0.Q38ApcH9mLg5chknzkIm4tr2SW8TZXHYxVrnxtujRVs",
+            "title": "Architecture Director - Data Centres",
+            "created": "2025-09-07T14:18:46Z",
+            "id": "5388220033",
+            "salary_max": 62296.2
+        },
+        {
+            "salary_max": 48210.58,
+            "title": "Shift Technician, Data Centre",
+            "created": "2025-11-20T15:36:38Z",
+            "id": "5505161970",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "JLL empowers you to shape a brighter way . Our people at JLL and JLL Technologies are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant\u2026",
+            "salary_min": 48210.58,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA1MTYxOTcwIn0.CGl5WYPs6_gePEDkl8JImZhEEBtixp9KZ8m-y8dhGl0",
+            "salary_is_predicted": "1",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JLL"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5505161970?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "salary_max": 50121.65,
+            "title": "Data Strategy Consultant - Europe",
+            "created": "2025-09-29T11:17:22Z",
+            "id": "5420386380",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Are you ready to be part of something big? We\u2019re hiring for the Data Strategy Consultant - Europe on our Sales Team! In this role, you\u2019ll engage with key decision-makers, forge impactful relationships with some of the world\u2019s most influential organizations, and directly contribute to the growth of Semrush. Why Semrush? We are a global leader in online marketing technology, meeting market demand with rapid scaling. Don\u2019t miss the chance to join our unstoppable momentum and make history with us! \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDIwMzg2MzgwIn0.QPL0w-_UIYpKmnxTSrxuBFwZktsaOjltCkpeBXeFkF4",
+            "contract_time": "full_time",
+            "salary_min": 50121.65,
+            "salary_is_predicted": "1",
+            "category": {
+                "label": "Sales Jobs",
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5420386380?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "UK",
+                "area": [
+                    "UK"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Semrush"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjM0NDk3OCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.cHqdwboOU1Wu8opqu9s8huj9LjWNcEgbTmI-Xx69meQ",
+            "contract_time": "part_time",
+            "salary_is_predicted": "1",
+            "category": {
+                "label": "Customer Services Jobs",
+                "tag": "customer-services-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Netley, Dorrington",
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Shropshire",
+                    "Shrewsbury",
+                    "Dorrington",
+                    "Netley"
+                ]
+            },
+            "latitude": 52.610699,
+            "created": "2025-12-01T19:28:10Z",
+            "longitude": -2.7821,
+            "description": "Job Details Job Title: PNSO Data Officer - HC622903 - 2 positions available Location: SHQ Netley Salary: Scale 5, \u00a330,333.00 - \u00a332,613.00 per annum Hours: Full time, 37 hours per week Contract: Permanent Closing Date: Sunday 14th December 2025 at 23:59 hours Interview Date: Beginning of January 2026 - TBC Advert Text Your contribute will be essential for the safety of our County! Join our Team and you will help with managing the National Policing Databases and infrastructure, you will be the fi\u2026",
+            "contract_type": "contract",
+            "salary_min": 26935.32,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5522344978?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Shared Services Partnership",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 26935.32,
+            "title": "PNSO Data Officer - HC622903",
+            "id": "5522344978"
+        },
+        {
+            "title": "Mobile Electrician (Data Centres)",
+            "id": "5331811866",
+            "salary_max": 52433.5,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5331811866?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Emcor Uk"
+            },
+            "description": "Location: Mobile role covering London/ M4 Corridor Salary : \u00a340,000  Company Van  Overtime Working hours: Monday - Friday, 08:00 - 17:00 Benefits : 25 days holidays  Bank holidays, Holiday Buy Scheme - up to 5 days, EMCOR Flex Discount Scheme (Discount Shopping, Gym, Days Out) Extensive Learning & Development opportunities - including opportunities for progression. About EMCOR UK: At EMCOR UK, we revolutionise facilities management by combining our engineering heritage and innovation capability\u2026",
+            "longitude": -1.784306,
+            "salary_min": 52433.5,
+            "contract_type": "contract",
+            "latitude": 51.561021,
+            "created": "2025-08-01T12:01:29Z",
+            "salary_is_predicted": "1",
+            "location": {
+                "area": [
+                    "UK",
+                    "South West England",
+                    "Wiltshire",
+                    "Swindon",
+                    "West Leaze"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "West Leaze, Swindon"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzMxODExODY2In0.b8YQjYvIUTtMsRvLw2Jbqv9J_TF-FZmjwSTVxfe6No0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5531605682?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 77767.16,
+            "contract_type": "contract",
+            "longitude": -1.12952,
+            "description": "Introduction At IBM CIC, we provide technical and industry expertise to a wide range of public and private sector clients in the UK. A career in IBM CIC means you'll have the opportunity to work with leading professionals across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. You will get the chance to deliver effective solutions, driving meaningful business change for our clients, using some of the latest technology pl\u2026",
+            "id": "5531605682",
+            "title": "Data Scientist - Public Sector",
+            "salary_max": 77767.16,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Leicester, Leicestershire",
+                "area": [
+                    "UK",
+                    "East Midlands",
+                    "Leicestershire",
+                    "Leicester"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMxNjA1NjgyIn0.SFWU_6POmLJgHl_336XT71yQZCWRE64tF7zFj3HZWHE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-06T20:09:06Z",
+            "latitude": 52.6348
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5531605683?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 75661.09,
+            "contract_type": "contract",
+            "longitude": -2.23438,
+            "description": "Introduction At IBM CIC, we provide technical and industry expertise to a wide range of public and private sector clients in the UK. A career in IBM CIC means you'll have the opportunity to work with leading professionals across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. You will get the chance to deliver effective solutions, driving meaningful business change for our clients, using some of the latest technology pl\u2026",
+            "id": "5531605683",
+            "title": "Data Scientist - Public Sector",
+            "salary_max": 75661.09,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Manchester, Greater Manchester",
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Greater Manchester",
+                    "Manchester"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMxNjA1NjgzIn0.WF2uOSPkoBCTPDgtLI4tzJ2pv67oLvtqDncHqVv5-kI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-06T20:09:06Z",
+            "latitude": 53.480701
+        },
+        {
+            "salary_max": 29195.02,
+            "title": "Informatica ILM Data Archive",
+            "created": "2025-05-22T08:54:30Z",
+            "id": "5210480917",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Exp: 6 to 14 years Exp in Informatica ILM Data Archive. Execute the defined process for archiving service, builds templates with the help of team covering cross-technology enterprise architecture. Perform the archival activities using the features defined in the tool and establish connections to various database Perform Database related activities using the features defined in the tool and establish connections to various database applications. Employee Status : Full Time Employee Shift : Day J\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIxMDQ4MDkxNyIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.Gh2YlWk3JJspi58Z3dmNKKTYbXQriIpyQC6a8JPRUx4",
+            "salary_min": 29195.02,
+            "salary_is_predicted": "1",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "cognizant",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5210480917?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_max": 67032.84,
+            "title": "Data Engineer, Revenue Platform",
+            "created": "2025-11-17T23:27:13Z",
+            "id": "5501057894",
+            "description": "At Spotify, we're building the revenue platform that drives how revenue and taxes are processed across the company \u2014 enabling reliable, scalable financial operations across every market, product line, and partner. Our systems are essential to Spotify\u2019s ability to earn, track, and report revenue and taxes, supporting everything from subscriptions and advertising to creator payouts. As engineers on this team, we design and maintain the backend and data platform capabilities that power millions of\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAxMDU3ODk0In0.DeXlL8RnD8f9ZxwPEOcjs4j-Q1_PbRvog2y9pmPdO0k",
+            "salary_min": 67032.84,
+            "salary_is_predicted": "1",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Spotify"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5501057894?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "UK"
+                ],
+                "display_name": "UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "trade-construction-jobs",
+                "label": "Trade & Construction Jobs"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "London"
+                ],
+                "display_name": "London, UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Emcor Uk",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5460651226?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MDY1MTIyNiIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.hC1qf2jkbMWusmKDGSc9SJzBYKZ-IMHlhoWKCLim3bc",
+            "salary_min": 52417.45,
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Location: South with UK travel Salary: Competitive Working Hours: Monday - Friday, 08:00 - 17:00 Benefits: 25 days holidays  Bank holidays, Health Cash Plan, Discount Shopping, Gym, Days Out, Learning & Development opportunities, Paid Volunteering Days, plus many more. About EMCOR UK: At EMCOR UK, we revolutionise facilities management by combining our engineering heritage and innovation capability. We prioritise people in everything we do, collaborating closely with our customers to understand\u2026",
+            "id": "5460651226",
+            "created": "2025-10-23T13:10:05Z",
+            "title": "Data Centres Project Planner",
+            "salary_max": 52417.45
+        },
+        {
+            "latitude": 54.594398,
+            "created": "2025-11-21T19:45:49Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODI1Mzg4NyIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.mTEmL3hc-WPlvQTyhVubmpcRhaYG4UoSQA1kplXeOik",
+            "contract_time": "full_time",
+            "salary_is_predicted": "1",
+            "location": {
+                "display_name": "Billingham, County Durham",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "North East England",
+                    "County Durham",
+                    "Billingham"
+                ]
+            },
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_max": 39274.17,
+            "title": "Data Centre Site Supervisor",
+            "id": "5508253887",
+            "description": "Data Centre Site Supervisor Job ID 247315 Posted 20-Nov-2025 Service line GWS Segment Role type Full-time Areas of Interest Data Centers, Engineering/Maintenance Location(s) Billingham - England - United Kingdom of Great Britain and Northern Ireland Job Title Site Supervisor Business Sector DCS EMEA Location Wynyard Hours of work 40 hours per week. Mon - Fri, 8.00am to 5.00pm. Reporting to Contract Manager Purpose of The Job To effectively supervise the day to day operation of the site's mainte\u2026",
+            "longitude": -1.29179,
+            "salary_min": 39274.17,
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5508253887?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "CBRE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "latitude": 53.193401,
+            "created": "2025-11-14T03:30:18Z",
+            "salary_is_predicted": "1",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Winsford, Cheshire",
+                "area": [
+                    "UK",
+                    "North West England",
+                    "Cheshire",
+                    "Winsford"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk1MDUzMjA1In0.Ji-ZKY05ZcDN4ZfEOXZ1lTM72iOLC20Io8tABcBUgEw",
+            "contract_time": "full_time",
+            "title": "Head of Digital, Data & Technology",
+            "id": "5495053205",
+            "salary_max": 46026.34,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IT Job Board"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5495053205?utm_medium=api&utm_source=58c69264",
+            "longitude": -2.51555,
+            "description": "Title : Head of Digital, Data & TechnologyLocation: Cheshire Fire and Rescue Service Headquarters, Sadler Road, Winsford, CW7 2FQHours: 37 hours per week (Permanent, Full Time Position)Salary: \u00a374,934.96 - \u00a382,220.47 per annum based on experienceClosing date: Sunday 23 November 2025 at midnight Cheshire Fire and Rescue Service (CFRS) is a high-performing, innovative and progressive organisation focused on delivering outstanding prevention, protection and response services to achieve its vision;\u2026",
+            "contract_type": "permanent",
+            "salary_min": 46026.34
+        },
+        {
+            "id": "5514202509",
+            "title": "Data Center Project Manager *",
+            "salary_max": 48055.29,
+            "company": {
+                "display_name": "HDR",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5514202509?utm_medium=api&utm_source=58c69264",
+            "salary_min": 48055.29,
+            "contract_type": "contract",
+            "longitude": -4.25596,
+            "description": "At HDR, our employee-owners are fully engaged in creating a welcoming environment where each of us is valued and respected, a place where everyone is empowered to bring their authentic selves and novel ideas to work every day. As we foster a culture of inclusion throughout our company and within our communities, we constantly ask ourselves: What is our impact on the world? Watch Our Story:' https://www.hdrinc.com/our-story' Each and every role throughout our organization makes a difference in o\u2026",
+            "created": "2025-11-26T03:50:27Z",
+            "latitude": 55.86026,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Glasgow, Scotland",
+                "area": [
+                    "UK",
+                    "Scotland",
+                    "Glasgow"
+                ]
+            },
+            "category": {
+                "label": "Creative & Design Jobs",
+                "tag": "creative-design-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "1",
+            "contract_time": "part_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDIwMjUwOSIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.dKP9qj8AzofyqghedTdozWKzVw57tq0Nk_n3MiE9_AA",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-12-07T15:39:03Z",
+            "id": "5532367862",
+            "title": "So2 Intelligence Mission Data",
+            "salary_max": 35373.04,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "South East England"
+                ],
+                "display_name": "South East England, UK",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5532367862?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Serve"
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjM2Nzg2MiIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.ASYDwS4-TbNnTyPnx7ITViG__Qk90X83JNiczRn0LVk",
+            "contract_time": "full_time",
+            "salary_min": 35373.04,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A vacancy has arisen for a Sqn Ldr (Cyberspace \u2013 Engineer RAF Eng (CE)) to serve as SO2 Intelligence Mission Data at RAF Northwood on Full Time Reserve Service (Limited Commitment) Terms and Conditions of Service (TCoS), with an initial proposed start date of 01 June 2026 (or earlier/later, subject to candidate status). Brief description role: This role is to work within the Defence Intelligence Joint User Intelligence and Cyber team. The position is within the Intelligence Policy Team working \u2026"
+        },
+        {
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "GE Vernova",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "UK",
+                    "West Midlands",
+                    "Staffordshire"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Staffordshire, West Midlands"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5454339654?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NDMzOTY1NCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.Tl-oX-SweUttBgoIoXABgIJh0aXYZjfxph5kthab53A",
+            "salary_min": 71123.26,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -2.129014,
+            "description": "Job Description Summary The Principal Engineer - Data science combine a high level of technical expertise with sound business acumen and a good understanding of engineering processes. Principal Engineers are part of a formal career path for technical personnel wanting to continue to develop and grow their technical competencies while having increasingly more impact on the business. As recognized experts in specialized fields, they normally lead or support projects and initiatives with broad sco\u2026",
+            "created": "2025-10-18T20:15:41Z",
+            "id": "5454339654",
+            "latitude": 52.812705,
+            "title": "Principal Engineer - Data Science",
+            "salary_max": 71123.26
+        },
+        {
+            "created": "2025-10-18T20:15:41Z",
+            "id": "5454339650",
+            "title": "Principal Engineer - Data Science",
+            "salary_max": 74557.15,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "UK",
+                "area": [
+                    "UK"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5454339650?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "GE Vernova",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NDMzOTY1MCIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.2KyZCkSBQqxyp84304IGtCCYujXFlMjxcoX1qDVTirY",
+            "salary_min": 74557.15,
+            "description": "Job Description Summary The Principal Engineer - Data science combine a high level of technical expertise with sound business acumen and a good understanding of engineering processes. Principal Engineers are part of a formal career path for technical personnel wanting to continue to develop and grow their technical competencies while having increasingly more impact on the business. As recognized experts in specialized fields, they normally lead or support projects and initiatives with broad sco\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "display_name": "CBRE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5473234463?utm_medium=api&utm_source=58c69264",
+            "salary_min": 34979.41,
+            "longitude": -0.595448,
+            "description": "Data Center Shift Technician Job ID 245217 Posted 20-Nov-2025 Service line GWS Segment Role type Full-time Areas of Interest Engineering/Maintenance Location(s) Slough - England - United Kingdom of Great Britain and Northern Ireland Job: Data Centre Shift Technician Location: Slough CBRE Global Workplace Solutions is a leading global provider of integrated facilities and corporate real estate management. We are recruiting a Shift Technician to join the team located in Slough. The successful can\u2026",
+            "id": "5473234463",
+            "title": "Data Center Shift Technician",
+            "salary_max": 34979.41,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Slough, Berkshire",
+                "area": [
+                    "UK",
+                    "South East England",
+                    "Berkshire",
+                    "Slough"
+                ]
+            },
+            "category": {
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDczMjM0NDYzIn0.jPkiAo3PAgnyD_qLBb5272d9eg5gHmuExZpwO0QNoZs",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-10-31T18:45:26Z",
+            "latitude": 51.5093
+        },
+        {
+            "created": "2025-12-01T14:46:18Z",
+            "latitude": 52.1357,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "location": {
+                "display_name": "Bedford, Bedfordshire",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "UK",
+                    "Eastern England",
+                    "Bedfordshire",
+                    "Bedford"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUU5xQ3I4dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTIxNzMxMTQwIn0.ycnu7wLcmMBKAK7AoSCj-4YvncVQLk8LPEQxs81yZq4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5521731140",
+            "title": "Finance Business Partner - Data",
+            "salary_max": 65000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Robert Walters"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5521731140?utm_medium=api&utm_source=58c69264",
+            "salary_min": 60000,
+            "contract_type": "permanent",
+            "description": "A fast-growing, well-established UK business based in Bedford with a strong reputation for operational excellence and exceptional service is seeking a Finance Business Partner. This is a highly influential role where you'll work closely with the Finance Director to turn complex data into clear commercial insights that shape strategic decision-making and enhance profitability. What you'll do: Collecting, cleansing and interpreting complex datasets to support critical decision-making. Developing \u2026",
+            "longitude": -0.468044
+        },
+        {
+            "contract_type": "contract",
+            "salary_min": 77386.82,
+            "description": "Introduction At IBM CIC, we deliver deep technical and industry expertise to a wide range of public and private sector clients in the UK. A career in IBM CIC means you'll have the opportunity to work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to accelerate impact and make meaningful change for your clients is enabled by our strategic partner ecosystem and our robust technology p\u2026",
+            "longitude": -1.12952,
+            "company": {
+                "display_name": "IBM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.co.uk/jobs/details/5515222945?utm_medium=api&utm_source=58c69264",
+            "salary_max": 77386.82,
+            "id": "5515222945",
+            "title": "Data Scientist - Public Sector",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTIyMjk0NSIsInMiOiJRTnFDcjh2VzhCR3hfTnRkbF92T3J3In0.o7E_mNNa2Vmor9Na_rDxA3cIhUosBSQmloqI_f4SGDs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Leicester, Leicestershire",
+                "area": [
+                    "UK",
+                    "East Midlands",
+                    "Leicestershire",
+                    "Leicester"
+                ]
+            },
+            "salary_is_predicted": "1",
+            "created": "2025-11-26T19:15:49Z",
+            "latitude": 52.6348
+        }
+    ],
+    "count": 94311
+}

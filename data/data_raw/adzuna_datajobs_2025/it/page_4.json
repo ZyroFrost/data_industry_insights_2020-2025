@@ -1,0 +1,1498 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 102155,
+    "results": [
+        {
+            "location": {
+                "display_name": "Tivoli, Provincia di Roma",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Tivoli"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5389201901",
+            "longitude": 12.776275,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM4OTIwMTkwMSIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.W_IZ_6sb8S9eEXFH9R9RInkhg5pMvMHLp4S53wM0WCk",
+            "latitude": 41.955267,
+            "description": "Company Overview beqom is a high-growth B2B SaaS company that provides industry-leading tools for pay equity and transparency, compensation, and performance management. Trusted by some of the world\u2019s most respected companies, beqom enables HR and business leaders to navigate global compliance and make smarter pay decisions that attract, retain, and motivate top talent. Founded in Switzerland and serving clients worldwide, our powerful, enterprise-ready products are fuelled by beqom pay intellig\u2026",
+            "title": "Data Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "beqom"
+            },
+            "created": "2025-09-08T11:57:31Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5389201901?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5536466779?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T19:42:33Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MAW S.p.A. - Divisione Search&Selection"
+            },
+            "title": "Data Scientist",
+            "description": "MAW S.p.A. Divisione Search & Selection, Polo di Trieste, cerca per azienda specializzata in ambito R&D nel campo della progettazione e produzione di dispositivi ad alto contenuto tecnologico un/una Data Scientist. La persona sar\u00e0 inserita all'interno di un team tecnico e si occuper\u00e0 principalmente di due attivit\u00e0: Analisi Dati: Costruzione di modelli di analisi dati e successiva elaborazione di Big Data ricavati dall'utilizzo di sensori su processi industriali (attivit\u00e0 che coinvolge in parte \u2026",
+            "latitude": 45.68284,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM2NDY2Nzc5In0.sdDP3rrs6oMriG_AnFL2-b_6ojzszEfYEB1PmiIksQQ",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 13.786875,
+            "salary_is_predicted": "0",
+            "id": "5536466779",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Friuli-Venezia Giulia",
+                    "Provincia di Trieste",
+                    "Trieste"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Trieste, Provincia di Trieste"
+            }
+        },
+        {
+            "longitude": 9.187087,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5538088359",
+            "location": {
+                "display_name": "Milano, Provincia di Milano",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ]
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDg4MzU5In0.j_r5PQ92VAIea6og4ymVyrk76ZGGsbei7mwwu0udadw",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "title": "Data Scientist",
+            "description": "Company Description Modelway is a software engineering company, expert in AI Solutions, New Generation Control System and Numerical Optimization. By exploiting the data of a system, our mission is to develop and engineer software solutions in the world of engineering such as virtual sensors, prediction algorithms, digital twins, data analytics, deep learning, controls, and optimizations. We operate as R&D and innovation suppliers for several companies in automotive, railway, energy and industry\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5538088359?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T20:01:29Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Modelway"
+            }
+        },
+        {
+            "id": "5538171337",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Firenze",
+                    "Campi Bisenzio"
+                ],
+                "display_name": "Campi Bisenzio, Provincia di Firenze"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.133444,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "latitude": 43.825648,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODE3MTMzNyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.V1j95D-dgHfdgRK337cTY5Kz24njGQ2yUQprugbdAnc",
+            "title": "Data Entry",
+            "description": "Creos Group Management s.p.a. ricerca per azienda operante nel settore moda un/a DATA ENTRY. La risorsa sar\u00e0 inserita nel reparto amministrativo di magazzino. Nel dettaglio, si occuper\u00e0 di inserimento e controllo dati di vario tipo. Si richiede m\u00ednima esperienza in ruoli simili ed impiegatizi (back-office, data entry ecc.) Si richiede dimestichezza nell\u2019utilizzo del pc. Si richiede disponibilit\u00e0 immediata. Education : diploma di scuola secondaria di primo grado Si offre contratto a tempo determ\u2026",
+            "created": "2025-12-11T20:11:10Z",
+            "company": {
+                "display_name": "CREOS SPA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5538171337?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "id": "5503761542",
+            "location": {
+                "display_name": "Milano, Provincia di Milano",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzc2MTU0MiIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.IOASigcUqjY1Cp5WvT40eSPWUU73j_trLh7tOtkrsRA",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "title": "Data Engineeer",
+            "description": "Chi siamo - Ennova Research Siamo un\u2019azienda che si occupa di software e tecnologia, progettando e sviluppando soluzioni digitali su misura per realt\u00e0 complesse. Lavoriamo ogni giorno per aiutare i nostri clienti a trasformare il proprio business attraverso la tecnologia: digitalizziamo prodotti e servizi, miglioriamo l\u2019esperienza dei clienti e potenziamo operazioni e asset aziendali, unendo visione strategica, capacit\u00e0 progettuale e una forte attitudine all\u2019execution. Siamo ingegneri e creativ\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5503761542?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-11-19T19:59:22Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ENNOVA RESEARCH"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE3MjI3ODcwIn0.BBy9_GF-eg6veQxyPqqPF-sh_V2nnpvB2Ooda5vfiaw",
+            "category": {
+                "tag": "hospitality-catering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Alberghi/Ristoranti/Bar"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "id": "5517227870",
+            "redirect_url": "https://www.adzuna.it/details/5517227870?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Tenth Revolution Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-28T03:35:09Z",
+            "description": "FREELANCE ONLY - NO PERM ROLE || END USER || LONG PROJECT || PART TIME Data Scientist Location: Remote About the Role: We are looking for a Data Scientist whose primary focus will be to work in the Location Intelligence Data Science Team and provide complete solutions to business problems using machine learning techniques, statistics, and data analysis. As a successful candidate, you will have the chance to collaborate and work closely with system engineers and data scientists to develop and im\u2026",
+            "title": "Data Scientist"
+        },
+        {
+            "category": {
+                "tag": "hospitality-catering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Alberghi/Ristoranti/Bar"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzIyNzk3MyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.pavf_gieJPaCa8LUM-wX2DxQbnVGrvW3ldLoPXaVdSc",
+            "location": {
+                "display_name": "Italia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ]
+            },
+            "id": "5517227973",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Tenth Revolution Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-28T03:35:16Z",
+            "redirect_url": "https://www.adzuna.it/details/5517227973?utm_medium=api&utm_source=58c69264",
+            "description": "FREELANCE ONLY - NO PERM ROLE || END USER || LONG PROJECT || PART TIME Data Scientist Location: Remote About the Role: We are looking for a Data Scientist whose primary focus will be to work in the Location Intelligence Data Science Team and provide complete solutions to business problems using machine learning techniques, statistics, and data analysis. As a successful candidate, you will have the chance to collaborate and work closely with system engineers and data scientists to develop and im\u2026",
+            "title": "Data Scientist"
+        },
+        {
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Provincia di Milano, Lombardia"
+            },
+            "id": "5406761116",
+            "longitude": 9.138379,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDA2NzYxMTE2In0.5kD2ChkVVIDAKjXeAhe8Pi5XN8Ha_K4CQEeW03xeuyk",
+            "latitude": 45.473082,
+            "description": "Generali Italia, primo Gruppo assicurativo italiano, posizionato tra i principali player mondiali di riferimento con un approccio innovativo e tecnologicamente all\u2019avanguardia, opera su tutto il territorio nazionale fornendo un servizio ad oltre 6 milioni di clienti. In Generali Italia stiamo ricercando un/una Data Scientist che si occuper\u00e0 dell'analisi dei dati e dell'implementazione di modelli matematici e di machine learning all'interno delle principali aree di business, attraverso l'uso del\u2026",
+            "title": "Data Scientist",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Generali"
+            },
+            "created": "2025-09-19T11:52:28Z",
+            "redirect_url": "https://www.adzuna.it/details/5406761116?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-12-11T19:37:06Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JM Huber Corporation"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5537882217?utm_medium=api&utm_source=58c69264",
+            "title": "Data Entry",
+            "description": "Portfolio Business_:_ Huber Engineered Materials J.M. Huber Corporation is one of the largest privately held, family-owned companies in the United States. Established in 1883, we are a diversified, global supplier of specialty and commodity chemicals, hydrocolloid solutions, engineered wood products and natural resources to customers spanning a wide variety of industries.With approximately $3 billion in sales and 4,000 employees worldwide, we have a material presence in more than 20 countries. \u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "latitude": 44.653107,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzg4MjIxNyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.uYWEm6y1ODylXj8fKeQ0uUnphpUWBGvju13fNCMJ8Xk",
+            "id": "5537882217",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Bologna",
+                    "San Giorgio di Piano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "San Giorgio di Piano, Provincia di Bologna"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.381305
+        },
+        {
+            "company": {
+                "display_name": "Gecal srl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-05T21:15:18Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5529845581?utm_medium=api&utm_source=58c69264",
+            "description": "Il Gruppo GECAL INFORMATICA Sr l e ALTAIR SYSTEMS , societ\u00e0 di consulenza informatica che opera nel settore IT dal 1985, su tutto il territorio nazionale ed internazionale, per ampliamento del team cerca un* DATA SCIENTIST Requisiti: - Oltre 5 anni di esperienza con capacit\u00e0 di lavorare in autonomia. - Ottima conoscenza di Python, Databricks e Azure Data Lake Gen2. - Solida esperienza in analisi dei processi di produzione, supply chain, operations, pricing e vendite. - Eccellenti capacit\u00e0 comun\u2026",
+            "title": "DATA SCIENTIST",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI5ODQ1NTgxIn0.wlTzg9HhlD0uN0LqkzUnIsOK9aDszKYf6Uy4DUT-XCY",
+            "location": {
+                "display_name": "Italia",
+                "area": [
+                    "Italia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5529845581",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzU4MjY3MyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.l5WqqF-hjj08BBdRocpoL2I2NkvzV5eco-Qot2OwYxE",
+            "latitude": 41.877339,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "location": {
+                "display_name": "Roma, Provincia di Roma",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5533582673",
+            "redirect_url": "https://www.adzuna.it/details/5533582673?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Tempor S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:16:20Z",
+            "description": "Tempor S.p.A., Agenzia per il Lavoro, ricerca per azienda cliente operante nel settore industria alimentare un/una: DATA ENTRY (Excel e Sap) Inserito all'interno dell'area amministrativa/operativa e in collaborazione con il team di riferimento, ti occuperai di attivit di inserimento, aggiornamento e controllo dei dati all'interno dei sistemi aziendali, garantendo la correttezza e la completezza delle informazioni gestite. In particolare, ti occuperai di: - inserimento e aggiornamento dati su ge\u2026",
+            "title": "Data Entry"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.673018,
+            "id": "5538133304",
+            "location": {
+                "display_name": "Torino, Provincia di Torino",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.068057,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODEzMzMwNCIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.qcX46SFrOdYZNHvvIC0DU_AM1jozAWPRf5DetALlJtk",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "title": "Data Scientist",
+            "description": "Company Description Modelway is a software engineering company, expert in AI Solutions, New Generation Control System and Numerical Optimization. By exploiting the data of a system, our mission is to develop and engineer software solutions in the world of engineering such as virtual sensors, prediction algorithms, digital twins, data analytics, deep learning, controls, and optimizations. We operate as R&D and innovation suppliers for several companies in automotive, railway, energy and industry\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5538133304?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T20:07:11Z",
+            "company": {
+                "display_name": "Modelway SRL",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Data Analyst",
+            "description": "Who we are Sibill is the accounting and financial operating system for small and medium businesses (SMBs). Outdated tools and fragmented data waste entrepreneurs a lot of hours each week \u2014 we give this time back by integrating invoicing, payments, treasury, and accounting in one modern platform. We\u2019re backed by top international investors such as Keen Venture Partners (Fiscozen), Founders A/S (Pleo), Exor Ventures (Qonto, Alan), Notion Capital, and most recently Creandum, known for supporting K\u2026",
+            "created": "2025-09-08T11:57:16Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sibill"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5389201789?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "id": "5389201789",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM4OTIwMTc4OSIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.4C7FqQahMiriBXov9Tgks39RPb_3hERgVTs8UFkXg_Y"
+        },
+        {
+            "title": "Analista Dati",
+            "description": "Risorse SpA, per azienda di arredamento, ricerca: Analista dati - Data Analyst La risorsa si occuper\u00e0 di: raccolta, pulizia e normalizzazione dati da gestionale e file operativi (magazzino, produzione, resi/scarti, acquisti); costruzione e manutenzione di dashboard e report periodici (Power BI / strumenti equivalenti); supporto ai responsabili di reparto nell\u2019analisi delle performance e nella definizione dei KPI; predisposizione di template standard per monitoraggi ricorrenti; gestione della do\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5500799705?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-11-17T21:01:17Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Risorse SpA"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.115954,
+            "salary_is_predicted": "0",
+            "id": "5500799705",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Umbria",
+                    "Provincia di Perugia",
+                    "Citerna"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Citerna, Provincia di Perugia"
+            },
+            "latitude": 43.498368,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAwNzk5NzA1In0.l-NP8RuzJ4jIwI9jWzk0lTgMOjz_NyD37v7FUGi7yHI",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5527661076?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Gruppo Sincrono",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-04T18:34:04Z",
+            "description": "Skill richieste: - Azure Databricks - Cloud Data Architecture. - Data Architecture Principles - Database Architecture - Apache Sparkle - Python Skill preferenziali: - Conoscenza di Azure Data Factoty Attivit\u00e0: Seniority: Middle/Senior Sede di lavoro: Torino (SW parziale) N.B:richiesta disponibilit\u00e0 a trasferte per eventi occasionali L'offerta \u00e8 rivolta a personale maschile e femminile ai sensi della legge 903/77 Contratto di lavoro: Tempo pieno, Tempo indeterminato Benefit: - Buoni pasto - Comp\u2026",
+            "title": "Data Architect",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzY2MTA3NiIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.vu1vH8V3xBV_ijj82u72jd_js0bL-0CsH6DrZZLf8Hc",
+            "latitude": 45.068057,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.673018,
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "id": "5527661076"
+        },
+        {
+            "created": "2025-12-11T19:53:49Z",
+            "company": {
+                "display_name": "100 % Capri",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5538018237?utm_medium=api&utm_source=58c69264",
+            "title": "Data Entry",
+            "description": ": - DATA ENTRY  Nell'ambito del potenziamento della struttura aziendale cerchiamo addetto data entry - area service per la nostra sede di Meta (Na). Si prevede contratto a tempo determinato con possibilit\u00e0 di inserimento nell'organico aziendale. Requisiti richiesti: - Residenza in Penisola Sorrentina; - Diploma di maturit\u00e0 - Buona conoscenza di Windows ed Excel Plus graditi: - Dimestichezza rispetto alle attivit\u00e0 di tipo segretariale (archiviazione e gestione dati, abbinamento documenti, inseri\u2026",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "latitude": 40.645384,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDE4MjM3In0.qCEz3DHp6qNlUKgl0lG0IoGudr554_qGMPiRtNAJ9jg",
+            "id": "5538018237",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Campania",
+                    "Provincia di Napoli",
+                    "Meta"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Meta, Provincia di Napoli"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 14.422524
+        },
+        {
+            "created": "2025-12-11T19:34:54Z",
+            "company": {
+                "display_name": "Booz Allen Hamilton",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5537871871?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "title": "Data Scientist",
+            "description": "Data Scientist The Opportunity: Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there\u2019s more structured and unstructured data available today than ever before. As a data engineer, you know that organizing data can yield pivotal insights when it\u2019s gathered from disparate sources. We need an experienced data engineer like you to help our clients find answers in their data to impact important missions. As a data engineer at Booz Allen, you\u2019ll implemen\u2026",
+            "salary_min": 99,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3ODcxODcxIn0.P9AjpzLHQOaHqUvxFiW45sB4EKHoBkeJac-KBI1qfa8",
+            "id": "5537871871",
+            "salary_max": 225,
+            "location": {
+                "display_name": "Italia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5454795374",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDU0Nzk1Mzc0In0.BbBtK-47VcA1276ExibOkfXj8qNnfeLef_F-96_GYJQ",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "title": "Data Analyst",
+            "description": " Ruolo: Data Analyst \u2013 Retail Excellence  Localit\u00e0: Direzione Generale SIAE Roma  Tipo di Contratto: Contratto a tempo indeterminato, full time  RAL offerta: range 30K - 35K, in base al livello di preparazione riscontrato Esperienza sul ruolo: 2 - 3 anni \u2728 Su di noi: Benvenuto/a in SIAE , la Societ\u00e0 Italiana degli Autori ed Editori! Siamo il faro per chi opera nel mondo della cultura e dello spettacolo e proteggiamo i diritti d\u2019autore delle opere dei nostri associati e delle nostre associate, g\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5454795374?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-19T05:20:56Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SIAE"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDYwMzY5MCIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.Lmf8sPh6PdtoDZMQMTYcLIkQjBmd_BXctFrrbkGwmvQ",
+            "id": "5530603690",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "created": "2025-12-06T06:21:47Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TopNetwork S.p.A."
+            },
+            "redirect_url": "https://www.adzuna.it/details/5530603690?utm_medium=api&utm_source=58c69264",
+            "title": "Data Analyst",
+            "description": "TopNetwork S.p.A . \u00e8 alla ricerca di un Data Analyst da inserire all\u2019interno di un team in ambito Assicurativo Attivit\u00e0: Definire procedure di gestione e lavorazione dati utilizzando prevalentemente SQL e/o Python Gestione efficiente ed efficace dei dati (Data Quality) Sviluppare modelli dati utilizzando prevalentemente Power BI Modellazione del dato con ETL Competenze richieste: Esperienza di almeno 3 anni in attivit\u00e0 di Data Analyst utilizzando SQL, Phyton, PowerBI - Databriks o Azure Esperie\u2026"
+        },
+        {
+            "title": "Data Analyst",
+            "description": "TopNetwork S.p.A . \u00e8 alla ricerca di un Data Analyst da inserire all\u2019interno di un team in ambito Assicurativo Attivit\u00e0: Definire procedure di gestione e lavorazione dati utilizzando prevalentemente SQL e/o Python Gestione efficiente ed efficace dei dati (Data Quality) Sviluppare modelli dati utilizzando prevalentemente Power BI Modellazione del dato con ETL Competenze richieste: Esperienza di almeno 3 anni in attivit\u00e0 di Data Analyst utilizzando SQL, Phyton, PowerBI - Databriks o Azure Esperie\u2026",
+            "created": "2025-12-06T06:21:49Z",
+            "company": {
+                "display_name": "TopNetwork S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5530603702?utm_medium=api&utm_source=58c69264",
+            "id": "5530603702",
+            "location": {
+                "display_name": "Italia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMwNjAzNzAyIn0.HqKQi8gZAxNTcvU0cqiUb8sBBgkIrkBVI7edKE5r5cY"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5518728680",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzI4NjgwIn0.ULB85z2_hJCW0g2umU5R6_hdEduba1sMFd2a5BrOLK0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "title": "Data Engineer",
+            "description": "Per il potenziamento della nostra struttura, siamo alla ricerca di un Data Engineer . Competenze ed esperienze richieste nelle seguenti tecnologie: Java, Python Stack Big Data Spark Git Bash SQL BigQuery Apache Beam Completano il profilo: Competenze Google Cloud Platform (GCP) Scala Go CI/CD Jenkins Se interessati, inviate il Vostro Curriculum Vitae aggiornato e dettagliato che dovr\u00e0 contenere autorizzazione al trattamento dei dati secondo l'articolo 13 GDPR679/16 a: livia.prettico@atoninformat\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5518728680?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-29T03:54:23Z",
+            "company": {
+                "display_name": "ATON IT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2025-11-29T03:54:57Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ATON IT"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5518728803?utm_medium=api&utm_source=58c69264",
+            "title": "Data Engineer",
+            "description": "Per il potenziamento della nostra struttura, siamo alla ricerca di un Data Engineer . Competenze ed esperienze richieste nelle seguenti tecnologie: Java, Python Stack Big Data Spark Git Bash SQL BigQuery Apache Beam Completano il profilo: Competenze Google Cloud Platform (GCP) Scala Go CI/CD Jenkins Se interessati, inviate il Vostro Curriculum Vitae aggiornato e dettagliato che dovr\u00e0 contenere autorizzazione al trattamento dei dati secondo l'articolo 13 GDPR679/16 a: livia.prettico@atoninformat\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Informatica/IT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzI4ODAzIn0.z9TI7lJ3PbeCJ51vCNWdZH9RrDrJpYlIUTn2X6_nAEo",
+            "id": "5518728803",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1MzUwMzAzODc4In0.gDfpo4hB07hfusxakaPG1sKRU45HtwrUXsnLJLuBA_s",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "id": "5350303878",
+            "redirect_url": "https://www.adzuna.it/details/5350303878?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Akkodis"
+            },
+            "created": "2025-08-13T11:50:54Z",
+            "description": "General information Publication date 12/12/2023 Category OPERATIONS - ENGINEERING/PRODUCTION Job title Data Engineer Contract Permanent contract Job description Akkodis \u00e8 un leader globale nel mercato dell'ingegneria e della ricerca e sviluppo che mira ad accelerare l'innovazione e la trasformazione digitale utilizzando la forza dei connected data. Con la passione per la tecnologia e il talento, il gruppo composto da 50.000 ingegneri ed esperti digitali offre una profonda esperienza intersettor\u2026",
+            "title": "Data Engineer"
+        },
+        {
+            "description": "Attal Group, tra le prime Agenzie italiane specializzate nella ricerca, selezione, formazione e gestione delle risorse umane, ricerca, per il potenziamento dell'organico dell'ufficio tecnico di sede, un profilo di: Data Entry - Settore Investimenti RUOLO In qualit\u00e0 di Data Entry - Settore Investimenti, sarai inserito nel team dedicato alla gestione operativa delle attivit\u00e0 di investimento e disinvestimento. Nello specifico, ti occuperai di: -  registrare e aggiornare i dati relativi alle operaz\u2026",
+            "title": "Data Entry",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavorint Spa"
+            },
+            "created": "2025-11-13T13:08:05Z",
+            "redirect_url": "https://www.adzuna.it/details/5493462976?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Milano, Provincia di Milano",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ]
+            },
+            "id": "5493462976",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.187087,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MzQ2Mjk3NiIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.yfGH-aw8LYfDwR6IO8eNrnGdzh_yZ1gykAvApB7j1Ek",
+            "latitude": 45.471322
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT",
+                "tag": "it-jobs"
+            },
+            "latitude": 40.426107,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NTA3MTc2MSIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.tyMriCizpIS3f1EYpDcQEWRKaqDFeqnRgCKqNTalYWk",
+            "id": "5495071761",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Basilicata",
+                    "Provincia di Matera"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Provincia di Matera, Basilicata"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 16.414179,
+            "created": "2025-11-14T04:47:19Z",
+            "company": {
+                "display_name": "Randstad Digital Italia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5495071761?utm_medium=api&utm_source=58c69264",
+            "title": "Data Analyst",
+            "description": "Randstad Digital, divisione specializzata nella ricerca e selezione di profili IT di Randstad Italia , cerca professionisti che desiderano lavorare su progetti innovativi e nuove tecnologie e che condividono il forte orientamento dell'azienda al lavoro di gruppo. Per importante azienda finale, siamo alla ricerca di un/una Data Analyst da inserire nel team. Responsabilit\u00e0: - Raccogliere, pulire e trasformare grandi volumi di dati provenienti da diverse fonti aziendali (DB, ERP, sistemi operativi\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5538025427?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lavorint Spa"
+            },
+            "created": "2025-12-11T19:54:45Z",
+            "description": "Lavorint S.p.A., Gruppo ATTAL, agenzia per il lavoro, filiale di Monza, tra le prime Agenzie per il lavoro italiane specializzate nella ricerca, selezione, formazione e gestione delle risorse umane, seleziona per solida e strutturata azienda in forte espansione appartenente al settore metalmeccanico, un profilo di: DATA ENTRY Ricerchiamo un profilo di impiegato data entry, il quale verr\u00e0 inserito nell'ufficio amministrazione, all'interno di una azienda affermata e solida di Bresso (MI). L'oppor\u2026",
+            "title": "Data Entry",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODAyNTQyNyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.jIRSn4-BlbKWfDAv_ljfeepqiu9IQruOEdWKwkM_3IA",
+            "latitude": 45.537107,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "longitude": 9.191376,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bresso, Provincia di Milano",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Bresso"
+                ]
+            },
+            "id": "5538025427"
+        },
+        {
+            "description": "La risorsa, in proporzione alla sua seniority, dovrebbe essere in grado di: Recepire i requisiti di business, trasformarli in analisi funzionale e tecnica. Implementare una Data Platform (dall\u2019identificazione delle sorgenti dati, alla realizzazione di pipelines ETL\\ELT), tenendo conto delle Agile\\Best Practice che soddisfino le esigenze del cliente e che offrano un alto grado di affidabilit\u00e0. Utilizzare e implementare correttamente l'architettura esistente / progettata come framework di svilupp\u2026",
+            "title": "DATA ENGINEER",
+            "redirect_url": "https://www.adzuna.it/details/4871073296?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DILS srl"
+            },
+            "created": "2024-09-20T21:21:40Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Italia",
+                "area": [
+                    "Italia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4871073296",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI0ODcxMDczMjk2In0.entPTAnZVL5cl60CYZ257t8MYcpGUm-gWCoVcoB4_Og",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Informatica/IT"
+            }
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDIxMjQ1MyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.WmSznQ0p1mY2HvVC-588naJXFE9FnbWJZCFWP6J-87U",
+            "latitude": 40.858097,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Campania",
+                    "Provincia di Napoli",
+                    "Napoli"
+                ],
+                "display_name": "Napoli, Provincia di Napoli"
+            },
+            "id": "5520212453",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 14.24544,
+            "company": {
+                "display_name": "Guerri Energia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-30T18:10:37Z",
+            "redirect_url": "https://www.adzuna.it/details/5520212453?utm_medium=api&utm_source=58c69264",
+            "description": "In Guerri Energia siamo specializzati nel settore delle costruzioni con focus sulla realizzazione di progetti di efficientamento energetico e di transizione ecologica. Il nostro obiettivo \u00e8 offrire soluzioni innovative e personalizzate per la riqualificazione energetica, la sicurezza sismica e l'efficientamento degli edifici, contribuendo cos\u00ec a migliorare la qualit\u00e0 della vita delle persone e a ridurre l'impatto ambientale. Stiamo ricercando un Data Entryche si occuper\u00e0 di: - Inserimento di da\u2026",
+            "title": "Data Entry"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5538097900?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "UNIPOL GRUPPO"
+            },
+            "created": "2025-12-11T20:02:30Z",
+            "description": "\" La risorsa svolger\u00e0 le seguenti attivit\u00e0: - Implementazione di algoritmi e modelli, con l\u2019obiettivo di creare e/o migliorare prodotti, servizi e processi; - Individuazione e mappatura progressiva delle basi date interne al Gruppo; - Definizione di strutture e schemi di trasformazione e arricchimento delle basi dati interne al Gruppo, anche mediante l\u2019utilizzo di fonti esterne. Requisiti richiesti: - Laurea magistrale in Informatica o equivalente; - Esperienza approfondita su almeno una delle \u2026",
+            "title": "Data Scientist",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDk3OTAwIn0.ipkBrM7S67lVSlW66fe6_b_IopF0CNOZ8XLvK9NsZ90",
+            "latitude": 44.498542,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "longitude": 11.341108,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bologna, Provincia di Bologna",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Bologna",
+                    "Bologna"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5538097900"
+        },
+        {
+            "id": "5343434990",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0MzQzNDk5MCIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.L5xI4IOsAc-yKwTmsgZKOFc6cBVmHK6T10-OFaIxDOc",
+            "title": "Data Engineer",
+            "description": "Description The Data Engineer plays a pivotal role in advancing the data maturity of the lab organization at UL Solutions. As part of a multidisciplinary team of software developers, data scientists, and architects, the candidate will contribute to the development of robust data solutions tailored to the lab\u2019s needs. The ideal candidate brings a strong background in building ETL/ELT pipelines and data warehousing, with experience integrating data from diverse sources such as legacy databases an\u2026",
+            "created": "2025-08-08T11:29:00Z",
+            "company": {
+                "display_name": "UL Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5343434990?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5538110521?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T20:03:56Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Umana spa"
+            },
+            "title": "Data Entry",
+            "description": "Per importante azienda operante nel settore elettronico nella zona di Saronno (VA), ricerchiamo n.1 DATA ENTRY. La risorsa, inserita in un team di lavoro ben organizzato, si occuper\u00e0 di: - Inserimento dati e ordini dei clienti e dei fornitori in lingua inglese e italiano; - Analisi dati mediante tabelle Excel; - Controllo dei documenti in entrata e in uscita. Completano il profilo una buona conoscenza della lingua Inglese. Orario di lavoro full time a giornata dal luned\u00ec al venerd\u00ec con disponib\u2026",
+            "latitude": 45.625515,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODExMDUyMSIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.0WuYkpWA0NggdRyb4LvYt3scEuZlB4PtyhOKUee4SNg",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.037346,
+            "id": "5538110521",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Varese",
+                    "Saronno"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Saronno, Provincia di Varese"
+            }
+        },
+        {
+            "title": "Data Engineer",
+            "description": "As a Data Engineer at Camlin, you\u2019ll be at the forefront of energy innovation through data. You\u2019ll collaborate with a dynamic team of data engineers, machine learning experts, and data scientists, playing a crucial role in identifying our organisation\u2019s data needs and driving strategic plans to meet them. Your role will encompass a wide array of exciting tasks, from architecting software solutions and designing data models to implementing cutting-edge data science and machine learning algorithm\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5329655483?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-07-31T13:06:34Z",
+            "company": {
+                "display_name": "Camlin",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 10.334885,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5329655483",
+            "location": {
+                "display_name": "Parma, Provincia di Parma",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Parma",
+                    "Parma"
+                ]
+            },
+            "latitude": 44.800302,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMyOTY1NTQ4MyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.S7tVNgYcIHyOTeX9Op_lptPaY5PUhQQnNfbzH0VCqko",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "Italia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Italia"
+            },
+            "id": "5537301340",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzMwMTM0MCIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.c7hoZ6g8Ml9mi9YUBdvhzd_YZL9xSxH1EkNGAVbYDc4",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "description": "We\u2019re hiring a Data Analyst to strengthen Interroll\u2019s global sales data foundation and analytics capabilities. You will work across SAP, SAP Datasphere, Power BI, SAP Analytics Cloud, Python and Databricks to build reliable datasets, define KPI logic, automate data flows and deliver dashboards that support decision-making across Sales, Marketing and Finance. Team & Mission: You will join the Global Business Performance team responsible for defining and monitoring sales KPIs, ensuring consistent\u2026",
+            "title": "Data Analyst",
+            "redirect_url": "https://www.adzuna.it/details/5537301340?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Interroll Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T03:37:16Z"
+        },
+        {
+            "description": "Covisian S.p.A \u00e8 un gruppo internazionale , partner di oltre 150 clienti attraverso le sue 25.000 persone che operano in 38 sedi in 7 paesi diversi e un fatturato annuo di 400 milioni di euro circa. In Italia siamo presenti con 13 sedi su tutto il territorio e gestiamo oltre 50 clienti leader in diversi settori. Lo facciamo coniugando interesse collettivo e logiche di mercato, forte dinamismo e cultura dell\u2019inclusivit\u00e0, performance e accountability. S e vuoi entrare a far parte della nostra squ\u2026",
+            "title": "Data Engineer",
+            "redirect_url": "https://www.adzuna.it/details/5447709279?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Covisian S.p.A."
+            },
+            "created": "2025-10-15T01:34:24Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.22281,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Firenze",
+                    "Firenze"
+                ],
+                "display_name": "Firenze, Provincia di Firenze"
+            },
+            "id": "5447709279",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDQ3NzA5Mjc5In0.rtuI7rUeRL7Kv25MdsfMRKsNkDu3YW-5AMXOyGoPb_s",
+            "latitude": 43.766803,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "latitude": 45.007396,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3OTgzMDkyIn0.DtzVlYfMgDZ5-bo8wBG_Hn0TniXkZ-v-omiDpfGnoxk",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "longitude": 10.747416,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5537983092",
+            "location": {
+                "display_name": "Suzzara, Provincia di Mantova",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova",
+                    "Suzzara"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.it/details/5537983092?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T19:49:05Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HUMANGEST SPA"
+            },
+            "title": "Data Analyst",
+            "description": "Humangest Spa, filiale di Suzzara, ricerca per nota azienda cliente operante nel settore logistico a XXX (XX) un Data Analyst Junior. La persona, lavorando all\u2019interno di un consolidato team di analisi flussi e dati, si occuper\u00e0 di analizzare i dati inerenti i flussi logistici e di magazzino dell\u2019azienda, generando report e supervisionando il perseguimento dei kpi per garantire un alto livello qualitativo richiesto dall\u2019azienda cliente. Lo strumento principale utilizzato sar\u00e0 Excel. In entrata \u2026"
+        },
+        {
+            "longitude": 9.187087,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Milano, Provincia di Milano",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4670555919",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI0NjcwNTU1OTE5In0.P50J9ZENmpcUHChzpWQKLiydfBt08suOnUdrUwiryOE",
+            "latitude": 45.471322,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "description": "Per il potenziamento dell\u2019area Data & AI stiamo cercando Data Scientists da inserire all'interno di un contesto Analytics fortemente dinamico. I candidati verranno coinvolti nello sviluppo di progetti di consulenza strategica per diverse industries. L\u2019area Data & AI lavora infatti in stretta collaborazione con l\u2019area Advisory e Strategy sviluppando progetti, approcci metodologici e piattaforme in ambito Analytics, Machine Learning, Deep Learning e Artificial Intelligence . Supporterai il team d\u2026",
+            "title": "Data Scientist",
+            "redirect_url": "https://www.adzuna.it/details/4670555919?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Jakala",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-04-30T11:54:24Z"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "latitude": 45.068057,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM0OTU1ODMwIn0.du7htnhA5M9javyq5Qm0L0hBpWFVMiaR2ua-xe1OjOI",
+            "id": "5534955830",
+            "location": {
+                "display_name": "Torino, Provincia di Torino",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.673018,
+            "created": "2025-12-09T19:30:28Z",
+            "company": {
+                "display_name": "Umana spa",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5534955830?utm_medium=api&utm_source=58c69264",
+            "title": "Data Entry",
+            "description": "Per azienda operante nell'ambito degli Studi Professionali situata a Torino (TO), l'Agenzia per Il Lavoro Umana SpA \u00e8 alla ricerca di N. 1 DATA ENTRY. La risorsa all'interno dell'ufficio si occuper\u00e0 di migrazione dei dati sui pc e inserimento di dati inerenti la sicurezza e la medicina sul lavoro. L'orario di lavoro \u00e8 un full time dal luned\u00ec al venerd\u00ec. Si richiedono: - ottimo utilizzo di Excel e Access - ottimo utilizzo del pc in generale - seriet\u00e0 e precisione - capacit\u00e0 di lavorare in autono\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "salary_is_predicted": "0",
+            "id": "5518725227",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODcyNTIyNyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.4HdnjI8ttDA1TjAeQ6eQBUei9oDNoZ5WlwuOxaDjmQ4",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "title": "Data Scientist",
+            "description": "Laser Romae \u00e8 una PMI Innovativa che opera nel campo ICT & Business Consulting. Eroga servizi e soluzioni custom ad alto contenuto tecnologico in tutto il panorama ingegneristico. Siamo alla ricerca di un* Data Scientist che abbia: Almeno tre anni di esperienza nel ruolo. Laurea in discipline STEM o affini. Solida conoscenza di algoritmi ML (classificazione, regressione, clustering), tecniche di normalizzazione e feature extraction (feature importance, SHAP). Buona conoscenza di Python e delle \u2026",
+            "redirect_url": "https://www.adzuna.it/details/5518725227?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-29T03:47:18Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Laser Romae"
+            }
+        },
+        {
+            "description": "Il Gruppo GECAL INFORMATICA Sr l e ALTAIR SYSTEMS , societ\u00e0 di consulenza informatica che opera nel settore IT dal 1985, su tutto il territorio nazionale ed internazionale, per ampliamento del team cerca un* DATA SCIENTIST Requisiti: - Oltre 5 anni di esperienza con capacit\u00e0 di lavorare in autonomia. - Ottima conoscenza di Python, Databricks e Azure Data Lake Gen2. - Solida esperienza in analisi dei processi di produzione, supply chain, operations, pricing e vendite. - Eccellenti capacit\u00e0 comun\u2026",
+            "title": "Data Scientist",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Gruppo Gecal Informatica - Altair Systems"
+            },
+            "created": "2025-11-29T03:47:17Z",
+            "redirect_url": "https://www.adzuna.it/details/5518725184?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5518725184",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzI1MTg0In0.N-ww-kkn8TkWsnYdXD6Pfee3OI4KE7EhHzQCXR6eapQ",
+            "latitude": 45.471322
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5527567237?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-04T18:23:51Z",
+            "company": {
+                "display_name": "Enginium srl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Scientist",
+            "description": "Enginium \u00e8 una societ\u00e0 di servizi di consulenza, progettazione e outsourcing che opera in tutti i settori in cui sono richieste forti competenze tecnologiche nel mondo ICT&Engineering. In Enginium crediamo nel valore delle figure professionali che, con le loro competenze e professionalit\u00e0, contribuiscono alla realizzazione di grandi progetti, esprimendo il massimo della loro capacit\u00e0 e potenzialit\u00e0. Per progetti mondo Industry, join us! Data Scientist: Avr\u00e0 il compito di guidare lo sviluppo e l\u2026",
+            "latitude": 45.174373,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzU2NzIzNyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.hqx5do154IZ3FY_SMr2LAApPJHbzOt13hn5keKmFvuo",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 7.560727,
+            "id": "5527567237",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Provincia di Torino, Piemonte"
+            }
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODE0MDk1OSIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.5togz0QUlX8yWF2pn03UxQdav8RW6kqdK0Ka8vAfu1M",
+            "latitude": 41.877339,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Roma, Provincia di Roma"
+            },
+            "id": "5538140959",
+            "longitude": 12.489081,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Universit\u00e0 degli Studi Guglielmo Marconi"
+            },
+            "created": "2025-12-11T20:08:08Z",
+            "redirect_url": "https://www.adzuna.it/details/5538140959?utm_medium=api&utm_source=58c69264",
+            "description": "27 Maggio 2016 Lavoro in NTT Data NTT Data (azienda che si occupa della consulenza e dello sviluppo di sistemi),ha attualmente posizioni aperte in diversi settori, in tutto il territorio nazionale. E\u2019 richiesta laurea in economia, ingegneria informatica o equivalenti, scienze politiche, giurisprudenza e materie umanistiche.",
+            "title": "Lavoro in Ntt Data"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Roma, Provincia di Roma",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5538132545",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MTMyNTQ1In0.Wa4ibkeCTpRF3ZYw8Caec_tQxdx9F8WAJ9m8wspBQOo",
+            "latitude": 41.877339,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "Per azienda cliente operante nel settore dell\u2019automotive in zona Roma (RM) ricerchiamo un Junior Data Analyst da inserire in un ambiente dinamico e stimolante. La risorsa di occuper\u00e0 di: - Effettuare ricerche mirate al verificare le ipotesi di business; - Organizzare e clusterizzare dati; - Interpretare i dati con metodi statistici al fine di ricavare informazioni utili per il business aziendale; - Comunicare ai diversi stakeholder i risultati delle analisi condotte; E\u2019 richiesta un\u2019ottima cono\u2026",
+            "title": "Data Analyst",
+            "redirect_url": "https://www.adzuna.it/details/5538132545?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Umana spa"
+            },
+            "created": "2025-12-11T20:07:05Z"
+        },
+        {
+            "contract_type": "permanent",
+            "title": "Data Analyst",
+            "description": "Il cliente \u00e8 una storica realt\u00e0 torinese, solida societ\u00e0 del settore bancario, che, per incremento dell'organico interno, ricerca una figura di Data Analyst per il team di Data & Reporting . Responsabilit\u00e0 : sviluppo e manutenzione di report e dashboard in Power BI; modellazione dati e ottimizzazione delle performance; gestione e monitoraggio dei flussi ETL; collaborazione con team interni/esterni su progetti di data analytics; supportare il business per le problematiche IT, proporre soluzioni \u2026",
+            "created": "2025-11-25T23:59:39Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "W EXECUTIVE S.R.L."
+            },
+            "redirect_url": "https://www.adzuna.it/details/5513832860?utm_medium=api&utm_source=58c69264",
+            "id": "5513832860",
+            "location": {
+                "display_name": "Torino, Provincia di Torino",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.673018,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "latitude": 45.068057,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTEzODMyODYwIn0.RljxyUWbp1Nq7DoqxDyNi08yaw95zdIwuiPI2zsubiQ"
+        },
+        {
+            "location": {
+                "display_name": "Provincia di Milano, Lombardia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano"
+                ]
+            },
+            "id": "4908098713",
+            "longitude": 9.138379,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI0OTA4MDk4NzEzIn0.kb6ty4fiQXOdPQM9QWZ5KiZji1w_X65ZTLd_yAnEPFM",
+            "latitude": 45.473082,
+            "description": "Description Quale sar\u00e0 la tua sfida? Bip ha creato all\u2019interno del proprio Competence Centre \u201cxTech\u201d il pi\u00f9 nutrito gruppo di Data Scientist in Italia (fonte: statistiche LinkedIn), e dall\u2019Italia coordina anche i propri gruppi di Data Scientist locali presso le proprie sedi estere. Nell\u2019ambito della continua crescita ed evoluzione di questo effervescente gruppo, che opera sui nostri clienti in tutti i settori, e ci ha consentito di introdurre l\u2019Intelligenza Artificiale presso le realt\u00e0 enterpri\u2026",
+            "title": "Data Scientist",
+            "company": {
+                "display_name": "BIP Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-10-20T14:30:40Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/4908098713?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "longitude": 12.715378,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Provincia di Roma, Lazio",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma"
+                ]
+            },
+            "id": "5041128147",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA0MTEyODE0NyIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.wfIwgQ6Bet6QXeU8xW9ZQABummkiVpQXg77z76FJKx8",
+            "latitude": 41.936224,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "Description Quale sar\u00e0 la tua sfida? Bip ha creato all\u2019interno del proprio Competence Centre \u201cxTech\u201d il pi\u00f9 nutrito gruppo di Data Scientist in Italia (fonte: statistiche LinkedIn), e dall\u2019Italia coordina anche i propri gruppi di Data Scientist locali presso le proprie sedi estere. Nell\u2019ambito della continua crescita ed evoluzione di questo effervescente gruppo, che opera sui nostri clienti in tutti i settori, e ci ha consentito di introdurre l\u2019Intelligenza Artificiale presso le realt\u00e0 enterpri\u2026",
+            "title": "Data Scientist",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5041128147?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BIP Group"
+            },
+            "created": "2025-02-07T13:00:34Z"
+        },
+        {
+            "description": "Opportunit\u00e0 per Data Entry - BARI Entrare nel mondo Maldarizzi Automotive significa contribuire all\u2019affidabilit\u00e0, alla precisione e alla solidit\u00e0 dei processi che sostengono il nostro business. Il ruolo di Data Entry \u00e8 ideale per chi ama l\u2019ordine nei dati, ha una naturale attenzione al dettaglio e trova soddisfazione nel garantire correttezza e continuit\u00e0 ai flussi amministrativi e contabili. Se ti riconosci in queste caratteristiche, inviaci la tua candidatura spontanea : il tuo profilo sar\u00e0 v\u2026",
+            "title": "Data Entry",
+            "redirect_url": "https://www.adzuna.it/details/5502875925?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Maldarizzi Automotive S.p.A."
+            },
+            "created": "2025-11-19T06:50:20Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "id": "5502875925",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAyODc1OTI1In0.6XHjKKnMmWFtM-c3bWPBeUKNSLGgqCzzfWBLDIkzqIM",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.138379,
+            "salary_is_predicted": "0",
+            "id": "5520235676",
+            "location": {
+                "display_name": "Provincia di Milano, Lombardia",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.473082,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTIwMjM1Njc2In0.lnOxf2_r0gYYalOgulmfCJPQFCM5aaTKsan543LGjYU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "title": "Data Entry",
+            "description": "DILS - Digital Innovation Line Service S.r.l., Societ\u00e0 di servizi informatici ricerca: DATA ENTRY: La risorsa si occuper\u00e0 di inserire accuratamente e tempestivamente i dati, facendo verifiche e correzioni di eventuali errori nei dati inseriti. Requisiti: Conoscenza della piattaforma PowerBI Buona conoscenza di Microsoft Excel Buone doti comunicative Ottime capacit\u00e0 organizzative e gestione del tempo Capacit\u00e0 di lavorare in modo autonomo e come parte di un team Nice to have: Conoscenza di PIM, S\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5520235676?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-30T18:13:10Z",
+            "company": {
+                "display_name": "DILS srl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "display_name": "Roma, Provincia di Roma"
+            },
+            "id": "5518725208",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzI1MjA4In0.VR5vedPmndq-3ApRYXr6yIVNEPUjZIjhPH5e1P5Exxk",
+            "latitude": 41.877339,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT",
+                "tag": "it-jobs"
+            },
+            "description": "Converger Spa societ\u00e0 di Consulenza Informatica con pluriennale esperienza nel settore ICT, ricerca per importante gruppo internazionale: JUNIOR IT CMDB ( Configuration Management Database ) La risorsa Junior verr\u00e0 formata ed affiancata da una figura Senior; Lo scopo \u00e8 supportarlo in attivit\u00e0 di riconciliazione, configurazione, data entry, etc Skills: \u2022 Conoscenza minima CMDB o Database \u2022 Conoscenza base SO Windows, Linux, comandi base, servizi \u2022 Nozioni base networking/protocolli \u2022 Concetto di\u2026",
+            "title": "Data Analyst",
+            "redirect_url": "https://www.adzuna.it/details/5518725208?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CONVERGER S.p.A"
+            },
+            "created": "2025-11-29T03:47:17Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVWtWeTJOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDI1NDE5In0.tdTqZUQuycfQ5vdKaINY6gRMWNsLjGkn7sbDzS7XhI8",
+            "latitude": 45.442747,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Novara",
+                    "Novara"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Novara, Provincia di Novara"
+            },
+            "id": "5538025419",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 8.623067,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "2D staffing technology"
+            },
+            "created": "2025-12-11T19:54:45Z",
+            "redirect_url": "https://www.adzuna.it/details/5538025419?utm_medium=api&utm_source=58c69264",
+            "description": "2D Staffing ricerca, per azienda cliente specializzata nel settore dell'energia, un/una data entry. La risorsa dovr\u00e0 occuparsi di raccogliere e inserire all'interno di un foglio di calcolo i dati relativi alle operazioni dell'azienda per la quale presta servizio. In seguito, controlla che questi dati siano corretti e precisi, organizzandoli in maniera ordinata e comprensibile a tutti. Requisiti: - spiccata propensione al lavoro di squadra - ottime doti organizzative - conoscenze informatiche Of\u2026",
+            "title": "Data Entry"
+        },
+        {
+            "company": {
+                "display_name": "HUNTERS GROUP",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-10T19:53:24Z",
+            "redirect_url": "https://www.adzuna.it/details/5536582185?utm_medium=api&utm_source=58c69264",
+            "description": "Azienda leader nel campo dell'arredamento e delle costruzioni Posizione: _OBIETTIVO DELLA POSIZIONE: _ Garantire lo sviluppo e la manutenzione di sistemi aziendali avanzati di Predictive Analytics, Machine Learning ed AI _ PRINCIPALI RESPONSABILITA\u2019:_ - Sviluppare modelli statistico-matematici a partire da dati strutturati o semi strutturati con l\u2019obiettivo di costruire modelli predittivi automatizzati. - Sviluppare modelli di Machine Learning ed Analisi predittiva utilizzando linguaggi dedicat\u2026",
+            "title": "Data Scientist",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjU4MjE4NSIsInMiOiJVa1Z5Mk5iVzhCR2UzS3BfM2VvSDNRIn0.FC3NkykvTUfhSEJ49gHQf7TpDIvZ7aTLlJnJyEfxWIc",
+            "latitude": 42.139501,
+            "location": {
+                "display_name": "Civitavecchia, Provincia di Roma",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Civitavecchia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5536582185",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.786168,
+            "salary_is_predicted": "0"
+        }
+    ],
+    "mean": 26847.31
+}

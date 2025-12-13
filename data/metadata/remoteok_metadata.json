@@ -1,0 +1,19 @@
+{
+  "crawler": "remoteok",
+  "description": "RemoteOK global job board — filtered for Data/AI/ML jobs (2018–2025).",
+  "fields": {
+    "id": "string",
+    "date": "string",
+    "company": "string",
+    "position": "string",
+    "tags": "string",
+    "location": "string",
+    "description": "string",
+    "url": "string",
+    "salary": "string",
+    "year": "int"
+  },
+  "total_records": 94,
+  "csv_output": "D:\\Work_Study\\IT\\Data\\Projects\\data_industry_insights_2020-2025\\data\\data_processing\\remoteok_datajobs_2025.csv",
+  "crawl_timestamp": "2025-12-12T19:26:12.869733"
+}

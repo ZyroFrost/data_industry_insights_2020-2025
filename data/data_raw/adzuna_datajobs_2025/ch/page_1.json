@@ -1,0 +1,1464 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 2668,
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Schaffhausen",
+                    "Schaffhausen",
+                    "Schaffhausen"
+                ],
+                "display_name": "Schaffhausen",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Stellen aus Gesundheitswesen & Pflege",
+                "tag": "healthcare-nursing-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDY4MTU3MiIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.e1Ffl62st6n5b5CDMj0hOVwVKxIJvmmbw5eha7NaJJM",
+            "contract_time": "full_time",
+            "latitude": 47.703581,
+            "created": "2025-12-02T20:27:41Z",
+            "company": {
+                "display_name": "SThree Germany",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5524681572?utm_medium=api&utm_source=58c69264",
+            "description": "QA Data Governance Specialist For my client, a leading international life sciences company, I am looking for a QA Data Governance Specialist. Industry: Global Healthcare / Pharma Start : 01.01.2026 Duration : contract until 31st December 2026, (possible long term extension) Location : Schaffhausen, Switzerland (min. 3 days on site) QA Data Governance Specialist Join a global healthcare leader and contribute to the Data Governance Program as a Quality SME for Data Integrity (DI). In this long-te\u2026",
+            "longitude": 8.635858,
+            "salary_min": 2080,
+            "contract_type": "contract",
+            "title": "Data Integrity /Data Governance Specialist",
+            "id": "5524681572",
+            "salary_max": 2080
+        },
+        {
+            "redirect_url": "https://www.adzuna.ch/details/5513560228?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Roche",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz"
+            },
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzU2MDIyOCIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.0004EUPIeIx92ZbzWiRSM_PorlsMwId0EHY-Ht1dhVw",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position A healthier future. It\u2019s \u2026",
+            "created": "2025-11-25T20:14:48Z",
+            "id": "5513560228",
+            "title": "Data Scientist in Sensor Data Analytics"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Novartis",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5388172868?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Summary LI-Hybrid Location: Basel, Switzerland or Dublin, Ireland. Data42 is Novartis\u2019s data and analytics platform, that allows us to integrate different data modalities (discovery, preclinical, clinical, Real World Data (RWD)) at scale to support data-driven decision making across Novartis. We are seeking a Head of Data Engineering and Data Products to join our dynamic and innovative data and analytics team. This pivotal role is responsible for designing, building and maintain\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzg4MTcyODY4In0.Chhr5jHd0YKJL8D_7QUTsgjMy9L5D6Wxl3xwUExtKWg",
+            "contract_time": "full_time",
+            "title": "Head Data42 Data Management & Data Products",
+            "created": "2025-09-07T13:49:31Z",
+            "id": "5388172868"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Roche"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5497822707?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NzgyMjcwNyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.AF87wcq9ewQsYEpX-oTgec3MIB6atRM0B-841sDk8gA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position This role is based in the\u2026",
+            "id": "5497822707",
+            "created": "2025-11-15T18:50:30Z",
+            "title": "Data Steward"
+        },
+        {
+            "title": "DATA ENGINEER",
+            "latitude": 46.517172,
+            "id": "5535768355",
+            "created": "2025-12-10T04:37:12Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 6.612213,
+            "description": "* Publication date: 08 December 2025 * Workload: 100% * Contract type: Permanent position * Language: English (Intermediate) * Place of work: Lausanne xpleo offers a unique range of integrated engineering, quality and strategic consulting services for digital transformation. At a time of unprecedented technological acceleration, we are the trusted partner of innovative companies. We help them develop a competitive advantage and improve the daily lives of millions of people. Joining Expleo Switz\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTc2ODM1NSIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.uueTOZvbnvwjlKiaICCWcJZuhZ4Q0Pay3LMVT1Ghus8",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Prilly, Ouest Lausannois",
+                "area": [
+                    "Schweiz",
+                    "Kanton Waadt",
+                    "Ouest Lausannois",
+                    "Prilly"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job-Room"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5535768355?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-12-11T04:26:59Z",
+            "id": "5537370901",
+            "latitude": 47.374173,
+            "title": "Data Engineer",
+            "company": {
+                "display_name": "Job-Room",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Z\u00fcrich",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Z\u00fcrich",
+                    "Z\u00fcrich"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5537370901?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3MzcwOTAxIn0.M32CuFz9TxEfwIIH5aMoVq8DnEHUqJ9eNhjJ1nJR-Bs",
+            "description": " Data Engineer  (m/f/d) Freelance/temporary employment for a project Zurich Start date: asap Reference number: 853465/1  Responsibilities  * For one of our clients of the Life Sciences sector, we are looking for a Full Stack Developer / Data Engineer to support the development of an automated recommender system designed to identify and propose manufacturing process improvements * Develop and maintain backend data engineering processes, with a strong focus on: SQL-based data extraction, transfor\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.523767
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMyMDEwNTAxIn0.YRe3K1Io-VZH5psxy-rgP7mxoIHOmzU2vLaHRWY82ls",
+            "contract_type": "permanent",
+            "description": "Expleo offers a unique range of integrated engineering, quality and strategic consulting services for digital transformation. At a time of unprecedented technological acceleration, we are the trusted partner of innovative companies. We help them develop a competitive advantage and improve the daily lives of millions of people. Joining Expleo Switzerland means working for 19,000 people in 30 countries: - Technical and human support for each project and effective career management - Training to d\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5532010501?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Expleo"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Genf"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kanton Genf, Schweiz"
+            },
+            "salary_is_predicted": "0",
+            "id": "5532010501",
+            "created": "2025-12-07T02:37:18Z",
+            "title": "DATA ENGINEER"
+        },
+        {
+            "title": "Data Engineer",
+            "latitude": 47.374173,
+            "created": "2025-11-11T20:32:08Z",
+            "id": "5491073653",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Manukai"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5491073653?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Z\u00fcrich",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Z\u00fcrich",
+                    "Z\u00fcrich"
+                ]
+            },
+            "longitude": 8.523767,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Us Manukai stands for Manu _facturing and Kai _zen, a Japanese methodology of continuous improvement that translates to \u201cchange for better.\u201d In ancient Greek, Kai _ros means \u201cthe opportune moment.\u201d We are a spin-off from ETH Z\u00fcrich , aiming to bridge the gap between metal part design and machining. Our AI-powered technology empowers manufacturers to prioritize their clients\u2019 needs and deliver high-quality products to the market. Our primary focus is making an immediate impact, with client\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDkxMDczNjUzIn0.W8KR0y4hw5eld1aXbCQOSsd7I4yGFDvZ5wRjofglOAQ"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "company": {
+                "display_name": "Spacewise AG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Z\u00fcrich",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Z\u00fcrich",
+                    "Z\u00fcrich"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5302078392?utm_medium=api&utm_source=58c69264",
+            "longitude": 8.523767,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Spacewise is an innovative B2B SaaS proptech company headquartered in Zurich, Switzerland, with a rapidly expanding presence. Spacewise is revolutionizing the way commercial real estate landlords market, manage, and monetize their portfolios and spaces online to supercharge the value of their consumer facing properties. Spacewise also operates the premier online marketplace for short-term, pop-up, and promotional spaces. For landlords, we provide user-friendly software tools to digitize propert\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMwMjA3ODM5MiIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.homcJW5obosg2Ls-kgKw2DhHCr7Fdd1YqyPzvMtWSSM",
+            "title": "Data Scientist",
+            "latitude": 47.374173,
+            "id": "5302078392",
+            "created": "2025-07-14T18:24:23Z"
+        },
+        {
+            "description": "A career at Lombard Odier means working for a renowned global wealth and asset manager, with a strong focus on sustainable investing. An innovative bank of choice for private and institutional clients, our independently owned Firm is one of the best-capitalised banking groups in the world, managing close to CHF 300 billion and operating from over 25 offices across 4 continents. With a history spanning over 225 years, Lombard Odier is an investment house providing a comprehensive offering of dis\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMzc5NzQ0MSIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.IXLo-gLeAIUH_M2r8TcrtnB8RWEB3kirPuo49mRqrs8",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5413797441?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Lombard Odier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "title": "Data Analyst",
+            "id": "5413797441",
+            "created": "2025-09-24T19:39:29Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Randstad"
+            },
+            "location": {
+                "display_name": "Konolfingen, Bern-Mittelland",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Bern",
+                    "Bern-Mittelland",
+                    "Konolfingen"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5517139543?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Technikerstellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.627321,
+            "description": "Stellenbeschreibung Bist du unser n\u00e4chster Data Rockstar, der komplexe Rohdaten in wertvolle Erkenntnisse \u00fcbersetzt? Werden Sie Teil unserer Nutrition Innovation Unit und nutzen deine Expertise, um wissenschaftliche Forschung und fortschrittliche Algorithmen in zukunftsweisende Produkte zu \u00fcberf\u00fchren Data Scientist (m/w/d) ? Nutrition Innovation Unit 100% Die Welt der Ern\u00e4hrung entwickelt sich rasant weiter ? und Sie k\u00f6nnen ein wesentlicher Treiber dieser Innovation sein. Als Data Scientist bei\u2026",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzEzOTU0MyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.9x51djmJ0XAyhh55nTGyJXEpuKkAgu0b6yrGGkS57YM",
+            "contract_time": "full_time",
+            "latitude": 46.867969,
+            "title": "Data Scientist",
+            "id": "5517139543",
+            "created": "2025-11-28T00:41:06Z"
+        },
+        {
+            "latitude": 47.374173,
+            "title": "Data Engineer",
+            "created": "2025-12-11T05:40:20Z",
+            "id": "5537415851",
+            "description": "Expleo bietet ein einzigartiges Spektrum an integrierten Engineering-, Qualit\u00e4ts- und strategischen Beratungsleistungen f\u00fcr die digitale Transformation. Vor dem Hintergrund einer beispiellosen technologischen Beschleunigung sind wir der vertrauensw\u00fcrdige Partner f\u00fcr innovative Unternehmen. Wir helfen ihnen, Wettbewerbsvorteile zu entwickeln und das t\u00e4gliche Leben von Millionen von Menschen zu verbessern. Wir suchen f\u00fcr unseren Kunden in Z\u00fcrich, Schweiz erfahrene Data Engineers , die robuste Dat\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.523767,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3NDE1ODUxIn0.IivLPeWbENPwhgieZLyZ4X8761oDvY3YmAYx_Ozgloc",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5537415851?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Expleo",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Z\u00fcrich",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Z\u00fcrich",
+                    "Z\u00fcrich"
+                ]
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDE1OTk3NzE5In0.xVjAuQkUTQrlFALOLoVjdabxOC9WAkOll6l_-o9-P2E",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Lyceum Lyceum is building a user-centric GPU cloud from the ground up. Our mission is to make high-performance computing seamless, accessible, and tailored to the needs of modern AI and ML workloads. We're not just deploying infrastructure, we\u2019re designing and building our own large-scale GPU clusters from scratch. If you've ever wanted to help shape a cloud platform from day one, this is your moment. Tasks The Role We\u2019re hiring a user-obsessed Data Scientist with Life Sciences experience\u2026",
+            "longitude": 8.523767,
+            "location": {
+                "display_name": "Z\u00fcrich",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Z\u00fcrich",
+                    "Z\u00fcrich"
+                ]
+            },
+            "company": {
+                "display_name": "Lyceum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5415997719?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-09-26T19:51:29Z",
+            "id": "5415997719",
+            "title": "Data Scientist",
+            "latitude": 47.374173
+        },
+        {
+            "title": "Data Engineer",
+            "id": "5519867950",
+            "created": "2025-11-30T00:41:00Z",
+            "description": "Ihre Aufgaben und Verantwortungen Arbeitspensum 80-100% T\u00e4tigkeit Entwicklung und Umsetzung von Datenanwendungen zur Leistungsdiagnostik Aufbau und Pflege robuster Analyse-Pipelines zur automatisierten Verarbeitung von Training- und Diagnostikdaten Synthese und Visualisierung sportbezogener Daten zur korrekten und verst\u00e4ndlichen Darstellung f\u00fcr Athleten und Athletinnen, und wissenschaftliche Mitarbeitende Entwicklung und Erforschung neuer datengest\u00fctzter Analyseans\u00e4tze im Spitzensport mit wisse\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTg2Nzk1MCIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.6cI_FHkyiaVrCQCPwRMbq-7W3q8U-XAlxfEDuGOZJt8",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job-Room"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5519867950?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Data Analyst/IN",
+            "created": "2025-11-30T00:40:51Z",
+            "id": "5519867893",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ihre Aufgaben und Verantwortungen T\u00e4tigkeit Selbstst\u00e4ndige Erstellung der monatlichen Auswertungen zur variablen Verg\u00fctung im Vertriebsbereich inklusive Kontrollen, Plausibilit\u00e4tspr\u00fcfungen und erforderlichen Korrekturen Abteilungs\u00fcbergreifende Koordination bei Abweichungen sowie Sicherstellung der Einhaltung, Weiterentwicklung und Anpassung der Verg\u00fctungsreglemente Berechnung der Zielerreichung, Kalkulation verschiedener Bonus-Komponenten und Definition individueller Verkaufsziele zur Unterst\u00fct\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTg2Nzg5MyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.L2gLwGW74P9lTmlTnR-vbsL4JKd33woLVeweOUIaB94",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "company": {
+                "display_name": "Job-Room",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5519867893?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "title": "Data Engineer",
+            "created": "2025-12-08T01:49:10Z",
+            "id": "5533039692",
+            "description": " Job Description  Job Description Accenture Industry X is an advanced, digitally enabled, innovative planning and investment approach for manufacturing and asset-intensive industries. In your role within our Industry X team, you-ll help clients take advantage of significant market opportunities as digital technology moves into the core of industry in product development and manufacturing environments. You-ll assist them in transforming their product, manufacturing, and product-related services \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMzMDM5NjkyIn0.tPea5SY6MARLAUBXuxUvrVhS5-EViR08lUId-CM-d6o",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job-Room"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5533039692?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz"
+            }
+        },
+        {
+            "title": "Business Analyst/ Consultant Artificial Intelligence & Data (Data Management & Data Platforms Focus)",
+            "created": "2025-12-11T19:21:15Z",
+            "id": "5537860829",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Business Analyst/ Consultant Artificial Intelligence & Data (Data Management & Data Platforms focus) Help our clients navigate the future with confidence and embrace decision making with clear data-driven choices Deloitte AI & Data helps clients unlock the power of AI and data to deliver better human-centric solutions that catalyse growth and efficiencies. We enable them to leverage data, analytics, modern platforms, and data science & AI technologies to uncover hidden relationships from vast t\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzg2MDgyOSIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.tUqHbei6vIKlicLYveNQUbvtacLxvgOHgHj8XD5Kpnw",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5537860829?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Uniboard"
+            },
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            }
+        },
+        {
+            "title": "Master Data Manager",
+            "id": "5531893687",
+            "created": "2025-12-07T01:08:53Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hr-jobs",
+                "label": "Stellen aus Personal & Personalbeschaffung"
+            },
+            "company": {
+                "display_name": "Manpower",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5531893687?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz"
+            },
+            "description": "Manpower \u200b Experis is a global leader in IT professional resourcing, permanent recruitment, project solutions and managed services. On behalf of my global Pharmaceutical client, we are recruiting for a Master Data Manager. \u200b The perfect candidate: For this position we are looking for someone who has a strong desire for accurate organizational data and a strong continuous improvement mindset. As a Master Data Manager, the candidate will be part of Kaiseraugst's community reporting directly to th\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTg5MzY4NyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.P5hFixl3dA35qSDpO_Do7SH2FouFRfjn6K7urM73Tg0"
+        },
+        {
+            "title": "Senior Data Engineer",
+            "created": "2025-09-16T18:47:42Z",
+            "id": "5401503157",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.ch/details/5401503157?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ZYTLYN Technologies"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Technikerstellen",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Who we are ZYTLYN Technologies empowers companies across the $11 trillion travel industry to shape the future with predictive AI solutions that augment commercial planning, sales, marketing, retailing and operations. We work with some of the largest travel brands in the world, and our vision is to answer highly detailed and granular questions about the future of travel, such as demand, supply, market fluctuations and pricing. Our core focus is on airlines, airports, travel agencies, destination\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDAxNTAzMTU3In0.WRfcmGITJlxNuKMmJQ6bdzrkV74BAYnM5PJhS0BOIMc"
+        },
+        {
+            "created": "2025-11-21T21:30:33Z",
+            "id": "5508389577",
+            "title": "Master Data Specialist",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM4OTU3NyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.769LGiYD2gI1dgbzZ3tGxMp-267U04JDu2gB4OQaNNQ",
+            "description": "Adecco Hai esperienza pregressa nella creazione e manutenzione di master data, o in attivit\u00e0 di data entry, maturata all'interno di una realt\u00e0 del settore industriale? Ti ritieni una persona precisa e attenta ai dettagli? Se s\u00ec, questa opportunit\u00e0 potrebbe fare al caso tuo! Responsabilit\u00e0 - Creazione master data di nuovi prodotti, in particolare dati base e distinte base dei prodotti - Esecuzione processi di pulizia e validazione dei dati - Identificazione e risoluzione discrepanze e problemi n\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Adecco",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5508389577?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sonstige/Allgemeine Stellen",
+                "tag": "other-general-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Data Centre Operative",
+            "id": "5512643866",
+            "created": "2025-11-25T14:35:59Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ATC is a European logistics, white glove, and technical services specialist for data centres. Our focus is on anticipating the critical needs of our clients and delivering industry-leading standards for safety, security and reliability. Since being established in 1979, we have continued to lead our dedicated teams across Europe to build strong relationships with our clients. Our mission is to deliver and install Europe\u2019s data centres with precision and care. We achieve this by focusing on our t\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMjY0Mzg2NiIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.WKXdX5zWyYgh52MnzazKNFSAjCiE_6RK85d5el-paaY",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Stellen aus Wartung",
+                "tag": "maintenance-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ATC Computer Transport & Logistics"
+            },
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5512643866?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-08-22T13:25:10Z",
+            "id": "5363444924",
+            "latitude": 46.553309,
+            "title": "(Senior) Data Science & Data Analytics Consultant 60-100%",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzYzNDQ0OTI0In0.-fUphOZCNOlrX08TIkpGdqyODz5TDNtXRMYFpCNfQd8",
+            "description": "Eraneos ist eine internationale Beratungsgruppe f\u00fcr Strategie, Transformation und Technologie, die Unternehmen dabei unterst\u00fctzt, in einer dynamischen digitalen Welt erfolgreich zu sein. Mit erstklassigen Expertinnen und Experten aus Business und Technologie bef\u00e4higen wir unsere Kunden, neue Massst\u00e4be f\u00fcr nachhaltige Transformationen zu setzen \u2013 von der Strategie bis zur Umsetzung. Ob bei der Gestaltung zukunftsf\u00e4higer Organisationen, der Erschliessung neuer Potenziale durch Daten und KI oder d\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 6.688284,
+            "location": {
+                "display_name": "Lausanne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Waadt",
+                    "Lausanne",
+                    "Lausanne"
+                ]
+            },
+            "company": {
+                "display_name": "Eraneos",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5363444924?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Stellen aus PR, Werbung & Marketing"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Data Quality Lead",
+            "id": "5473170653",
+            "created": "2025-10-31T18:54:51Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz"
+            },
+            "company": {
+                "display_name": "SCOR",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5473170653?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Description Data is at the core of SCOR strategic plan Forward 2026 as one of its four enablers. As part of this ambition, the Data Foundation team plays a key role. The Data Foundation team shapes the roadmap of a governed and trusted Data Platform, as a \u2018Single Version of Truth\u2019 across SCOR, sets its iterative objectives and is accountable for the delivery of this roadmap in a multi-year journey. The team works as a \u2018Product Owner\u2019 of the Data Foundation and acts as a liaison between the Anal\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MzE3MDY1MyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.vml_Lj4aN5ZqDfJNFB7CNtqGiFf5D_8HU4VRpVuVTqQ"
+        },
+        {
+            "id": "5490012157",
+            "created": "2025-11-11T02:06:35Z",
+            "title": "Data Governance Manager",
+            "latitude": 47.555755,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ateca Consulting"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5490012157?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Basel-Stadt",
+                    "Basel-Stadt",
+                    "Basel"
+                ],
+                "display_name": "Basel, Basel-Stadt",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDkwMDEyMTU3In0.FHtt9BLahIc1sutASzjYiDMB_I_QYCqNjtIa_CTsqiw",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.588766,
+            "description": "Maintain and further develop the establishment\u2019s data governance framework for Switzerland and relevant international entities. Sustain and enforce data management policies, standards, and procedures to ensure data availability, integrity, and confidentiality. Collaborate with various stakeholders, including Legal, Risk Office, IT, Information Security, and the Data Protection Officer. Manage the data classification and identification process along the data lifecycle, and identify and mitigate \u2026"
+        },
+        {
+            "id": "5531964074",
+            "created": "2025-12-07T01:41:15Z",
+            "title": "Senior Data Architect",
+            "latitude": 46.754825,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMxOTY0MDc0In0.T5UOAo329qKJJ8xjXauAHQWk0HliiCnNtnMIF1NIuTA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.626593,
+            "description": "The Senior Data Architect supports the program by designing, implementing and managing a scalable, secure, and high-performance data architecture. The role includes end-to-end ownership of data models, lifecycle management, integration of space-related data sources, and coordination with cross-functional architecture teams. \ufeff*Key Responsibilities* \ufeff- Design, implement and manage the programs overall data architecture. - Build and maintain data models and structures for large-volume datasets. - \u2026",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job-Room"
+            },
+            "location": {
+                "display_name": "Steffisburg, Thun",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Bern",
+                    "Thun",
+                    "Steffisburg"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5531964074?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job-Room"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Aargau",
+                    "Rheinfelden",
+                    "Kaiseraugst"
+                ],
+                "display_name": "Kaiseraugst, Rheinfelden",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5526803231?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjgwMzIzMSIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.XldRn1yx5jzWxAqRg6Yglr0nNqIp20hsHrx5nazvmQg",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Master Data Manager  Roche Switzerland bridges the gap between pharmaceuticals and diagnostics. Important research and development functions are located here. For our long-term client, F. Hoffmann-La Roche AG in Kaiseraugst, we are looking for a Master Data Manager  Background: The Materials Management Organization is a major pillar within the Site including the management of production planning, local procurement, materials planning and master data. As a Master Data Manager, you will be part o\u2026",
+            "longitude": 7.721751,
+            "created": "2025-12-04T00:50:54Z",
+            "id": "5526803231",
+            "latitude": 47.539545,
+            "title": "Master Data Manager"
+        },
+        {
+            "latitude": 46.192748,
+            "title": "System & Data Manager",
+            "created": "2025-09-28T19:57:08Z",
+            "id": "5419665989",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "display_name": "Lotus Partners",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Genf",
+                    "Genf",
+                    "Genf"
+                ],
+                "display_name": "Genf",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5419665989?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 6.155925,
+            "description": "Description de poste For one of our clients, an asset management company based in Geneva, we are looking for a: HEAD OF DATA MANAGEMENT \u2013 ASSET MANAGEMENT Job description Lead and oversee the firm\u2019s data management framework to support investment operations, with a particular focus on private equity activities. Supervise and mentor a team of data and systems professionals, fostering collaboration and operational excellence. Act as the main point of contact for the private equity system, coordin\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxOTY2NTk4OSIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.cj3a9yG6G6ohwnurV9lTiRgpNuDMerXEsh_OTEwbsj4"
+        },
+        {
+            "title": "Intern - Data Science",
+            "id": "5457751786",
+            "created": "2025-10-21T20:10:16Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description : To support our Technology Department in the Advanced Materials division, we are looking for an Intern in Data Science. The position is a 6-month internship, and it is based in our Advanced Materials Innovation Center in Basel (Switzerland). The objective of this internship is to support digital transformation within the Technology department of Huntsman Advanced Materials. The intern will work within a multidisciplinary team and will contribute to the multiple knowledge manage\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1Nzc1MTc4NiIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.-xGXolRRek5Y-1l34yuFzqhn6RKxRMiFTj04bSaEZuY",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "company": {
+                "display_name": "Huntsman Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5457751786?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-09-06T13:42:58Z",
+            "id": "5386641085",
+            "title": "Reference Data Analyst",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzg2NjQxMDg1In0.5MkdXYP_7pVZQnGh04Xo0_B59VfA1_6_CgH_qEjE2Io",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description Reference Data Analyst ______________________________________________________________________ Location: Zurich, Switzerland Type: Full-time Department: Financial Markets _______________________________________________________________________ Summary As a Reference Data Analyst you will be responsible for the accurate creation, maintenance, and governance of static and dynamic reference data across multiple financial products and systems. This role plays a critical part in supporting\u2026",
+            "redirect_url": "https://www.adzuna.ch/details/5386641085?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "eClerx"
+            },
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Dietikon",
+                    "Schlieren"
+                ],
+                "display_name": "Schlieren, Dietikon",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Z\u00fchlke",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5273266630?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI3MzI2NjYzMCIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.FMvJLbMZF3xNTdBVnGzaq21NbqF6JZWaVxS4VLO9Q34",
+            "contract_time": "full_time",
+            "longitude": 8.448091,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Founded in Switzerland in 1968, Z\u00fchlke is owned by its partners and located across Europe and Asia. We are a global transformation partner, with engineering and innovation in our DNA. We're trusted to help clients envision and build their businesses for the future \u2013 to run smarter today while adapting for tomorrow\u2019s markets, customers, and communities. Our multidisciplinary teams specialise in tech strategy and business innovation, digital solutions and applications, and device and systems engi\u2026",
+            "created": "2025-06-28T13:21:15Z",
+            "id": "5273266630",
+            "latitude": 47.39622,
+            "title": "Lead Data Architect"
+        },
+        {
+            "title": "Senior Data Engineer",
+            "latitude": 47.39622,
+            "created": "2024-11-26T16:49:42Z",
+            "id": "4951811444",
+            "longitude": 8.448091,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Founded in Switzerland in 1968, Z\u00fchlke is owned by its partners and located across Europe and Asia. We are a global transformation partner, with engineering and innovation in our DNA. We're trusted to help clients envision and build their businesses for the future \u2013 to run smarter today while adapting for tomorrow\u2019s markets, customers, and communities. Our multidisciplinary teams specialise in tech strategy and business innovation, digital solutions and applications, and device and systems engi\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk1MTgxMTQ0NCIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.ZGGFaLB44s5CjuFmVcEl05PmYGqJ6gqmKz3VcZz3RuM",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Z\u00fchlke",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Schlieren, Dietikon",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Dietikon",
+                    "Schlieren"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/4951811444?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Stellen aus Buchhaltung & Finanzwesen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2025-10-09T19:52:35Z",
+            "id": "5439722235",
+            "latitude": 47.39622,
+            "title": "Data & AI Consultant",
+            "redirect_url": "https://www.adzuna.ch/details/5439722235?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Z\u00fchlke",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Dietikon",
+                    "Schlieren"
+                ],
+                "display_name": "Schlieren, Dietikon",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Beraterstellen",
+                "tag": "consultancy-jobs"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzOTcyMjIzNSIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.jJQEpTDqa1Dc1-udqjXhVqfIg03CFkC2AbQJuk3LQEI",
+            "longitude": 8.448091,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Founded in Switzerland in 1968, Z\u00fchlke is owned by its partners and located across Europe and Asia. We are a global transformation partner, with engineering and innovation in our DNA. We're trusted to help clients envision and build their businesses for the future \u2013 to run smarter today while adapting for tomorrow\u2019s markets, customers, and communities. Our multidisciplinary teams specialise in tech strategy and business innovation, digital solutions and applications, and device and systems engi\u2026"
+        },
+        {
+            "description": "Founded in Switzerland in 1968, Z\u00fchlke is owned by its partners and located across Europe and Asia. We are a global transformation partner, with engineering and innovation in our DNA. We're trusted to help clients envision and build their businesses for the future \u2013 to run smarter today while adapting for tomorrow\u2019s markets, customers, and communities. Our multidisciplinary teams specialise in tech strategy and business innovation, digital solutions and applications, and device and systems engi\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.448091,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDM5NzM0MDQxIn0.5tn6cnBbAYeh07k9orYl8hY43LQkARSRhBRd44xae-I",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Z\u00fchlke",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5439734041?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schlieren, Dietikon",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Dietikon",
+                    "Schlieren"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs",
+                "label": "Beraterstellen"
+            },
+            "title": "Data & AI Consultant",
+            "latitude": 47.39622,
+            "created": "2025-10-09T20:18:58Z",
+            "id": "5439734041"
+        },
+        {
+            "title": "Data Science Intern",
+            "latitude": 47.358044,
+            "id": "5477359446",
+            "created": "2025-11-02T19:04:52Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "company": {
+                "display_name": "Nala Earth",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5477359446?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Zollikon, Meilen",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Meilen",
+                    "Zollikon"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.557083,
+            "description": "Your Role We\u2019re looking for a Data Science Intern (all genders) based in Zurich or Berlin for 3 months starting immediately , with the possibility to extend. You\u2019ll work closely with our product team to explore and test new ideas that help businesses understand and reduce their nature-related risks. Your mission Data Analysis & Modelling : Support analysis of environmental, weather, geospatial, and business data. Prototyping : Build quick and scrappy prototypes (e.g. in Python, Streamlit, Jupyt\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDc3MzU5NDQ2In0.jgqC2a_08KZLhHCmy5ZMj7Li4orthmkZv6pCJTk8xq4"
+        },
+        {
+            "created": "2025-12-11T04:06:43Z",
+            "id": "5537343692",
+            "latitude": 47.372219,
+            "title": "Data & Analytics Engineering",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3MzQzNjkyIn0.WS0DuWbFUPqndxpEtYARDAmCxluu5gz2eu1q-bYWVSk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.541973,
+            "description": "Salary: CHF 100\u2019000 - 110\u2019000 per year Requirements: Das bringst du mit Erfolgreich abgeschlossenes Studium in Informatik oder Wirtschaftsinformatik Erste Erfahrung im Software Engineering in einem komplexen IT-Umfeld (mind. 1 Jahr, auch Teilzeit m\u00f6glich) Know-how in Big Data Technologien von Vorteil, z.B Databricks/Spark, Snowflake, Microsofte Azure Synapse, Google Dataproc, Google BigQuery, AWS Lake Formation, AWS Redshift, etc. Know-how in Speichertechnologien von Vorteil, z.B. Datalake, S3 \u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Innovation Process Technology AG"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Z\u00fcrich",
+                    "Z\u00fcrich"
+                ],
+                "display_name": "Z\u00fcrich",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5537343692?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Proton",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5473170153?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweiz",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDczMTcwMTUzIn0.auO7Ms_EXpIrt182szN21xG8KnSNmeGsU08kHeKp-GQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Join Proton and build a better internet where privacy is the default At Proton, we believe that privacy is a fundamental human right and the cornerstone of democracy. Since our inception in 2014, founded by a team of scientists from CERN, we have dedicated ourselves to providing free and open-source technology to millions worldwide, ensuring access to privacy, security, and freedom online. Our journey began with Proton Mail, the largest secure email service globally, and has since expanded to i\u2026",
+            "id": "5473170153",
+            "created": "2025-10-31T18:53:49Z",
+            "title": "Marketing Data Analyst"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Philippe Lebert GmbH"
+            },
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5537800391?utm_medium=api&utm_source=58c69264",
+            "description": "Digitale Daten sind die Grundlage f\u00fcr eine moderne Infrastruktur. Als Data Architect leisten Sie einen entscheidenden Beitrag zur nachhaltigen und sicheren Mobilit\u00e4t in der Schweiz. F\u00fcr die Bundesverwaltung suchen wir eine engagierte Pers\u00f6nlichkeit, die mit Expertise und Begeisterung mithilft, die Digitalisierung und das interoperable Datenmanagement voranzutreiben. Aufgaben Entwicklung und Optimierung von Datenarchitekturen und -modellen unter Ber\u00fccksichtigung bundeseinheitlicher Vorgaben Stru\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3ODAwMzkxIn0.2ZGmaJSfXnGMOFJAM7m8HuyTNrR_oImWA9wl-ARewS4",
+            "salary_min": 120000,
+            "title": "Data Architect Geoinformatik",
+            "id": "5537800391",
+            "created": "2025-12-11T17:51:31Z",
+            "salary_max": 150000
+        },
+        {
+            "title": "Data Center Engineer",
+            "id": "5355218680",
+            "created": "2025-08-16T13:51:33Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Kundendienststellen",
+                "tag": "customer-services-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Proton"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5355218680?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Join Proton and build a better internet where privacy is the default At Proton, we believe that privacy is a fundamental human right and the cornerstone of democracy. Since our inception in 2014, founded by a team of scientists from CERN, we have dedicated ourselves to providing free and open-source technology to millions worldwide, ensuring access to privacy, security, and freedom online.Our journey began with Proton Mail, the largest secure email service globally, and has since expanded to in\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzU1MjE4NjgwIn0.gMZaep7BHKzpdlJdZqSEg5V7DqONcH0do18rjYkmpqw"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.ch/details/5531967733?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job-Room"
+            },
+            "location": {
+                "display_name": "Chippis, Siders",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz",
+                    "Kanton Wallis",
+                    "Siders",
+                    "Chippis"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "description": " Position Overview  Qui nous sommes Novelis est anim\u00e9 par la volont\u00e9 de fa\u00e7onner ensemble un monde durable. En tant que leader mondial de produits et services innovants et le plus grand recycleur d'aluminium au monde d'aluminium, nous travaillons en partenariat avec des clients des secteurs de l'automobile, de l-a\u00e9ronautique, des canettes et des sp\u00e9cialit\u00e9s pour fournir des solutions qui am\u00e9liorent les avantages de l'aluminium l\u00e9ger. Nous disposons d'un r\u00e9seau coordonn\u00e9 d'op\u00e9rations de laminage\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.552647,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTk2NzczMyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.MAeAKVQggc56Ug1qEQntC_AGkJZ8xCnWUmR-Tn53VHE",
+            "latitude": 46.270037,
+            "title": "Master Data Expert",
+            "created": "2025-12-07T01:43:43Z",
+            "id": "5531967733"
+        },
+        {
+            "title": "Master Data Expert",
+            "created": "2025-12-05T02:36:23Z",
+            "id": "5528771243",
+            "description": "Qui nous sommes Novelis est anim\u00e9 par la volont\u00e9 de fa\u00e7onner ensemble un monde durable. En tant que leader mondial de produits et services innovants et le plus grand recycleur d'aluminium au monde d'aluminium, nous travaillons en partenariat avec des clients des secteurs de l'automobile, de l\u2019a\u00e9ronautique, des canettes et des sp\u00e9cialit\u00e9s pour fournir des solutions qui am\u00e9liorent les avantages de l'aluminium l\u00e9ger. Nous disposons d'un r\u00e9seau coordonn\u00e9 d'op\u00e9rations de laminage et de recyclage tec\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI4NzcxMjQzIn0.8xG503tCGGOOgx4UiM3aTx3njA4dY3L879E0LUCizrI",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Novelis",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5528771243?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Wallis",
+                    "Siders",
+                    "Siders"
+                ],
+                "display_name": "Siders",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Z\u00fcrich",
+                "area": [
+                    "Schweiz",
+                    "Kanton Z\u00fcrich",
+                    "Z\u00fcrich",
+                    "Z\u00fcrich"
+                ]
+            },
+            "company": {
+                "display_name": "Randstad",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5508485162?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.54768,
+            "description": "Stellenbeschreibung Bei Randstad zu arbeiten bedeutet weit mehr als nur in einer Organisation aktiv zu sein. In unserem Arbeitsumfeld r\u00fccken Menschen ins Zentrum unserer Aufmerksamkeit. Unser leidenschaftliches Engagement f\u00fcr individuelle Entfaltung kombinieren wir mit dem kraftvollen Einsatz modernster Technologien. So unterst\u00fctzen wir Menschen und Unternehmen dabei, ihr wahres Potenzial vollst\u00e4ndig zu entfalten. Dies ist unsere Vorstellung von \"Partner for Talent\", eine Partnerschaft, die \u00fcbe\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4NDg1MTYyIn0.7uvlqa1kjeMbsRKLjq0tyPoywFoZDUaY9V9yN7QWDkg",
+            "contract_type": "permanent",
+            "title": "Invoicing & Data Specialist",
+            "latitude": 47.411034,
+            "created": "2025-11-21T22:52:02Z",
+            "id": "5508485162"
+        },
+        {
+            "id": "5504021060",
+            "created": "2025-11-19T21:32:39Z",
+            "title": "Controller/in Data & Finanzen",
+            "latitude": 46.962256,
+            "contract_type": "permanent",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDAyMTA2MCIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.ztU2P8CT3Evbv1QmrV5kA4r0OnhQ1J6EiXtvm4uXZyk",
+            "description": "Stellenbeschreibung Du bist eine analytische Person mit einem Faible f\u00fcr Daten und IT-Systeme? F\u00fcr unsere Klientin, einen der gr\u00f6ssten Werkzeugmaschinenhersteller weltweit (Hauptsitz in Bern), suchen wir eine Schl\u00fcsselperson f\u00fcr die Finanzberichterstattung. \u00dcbernimm die Verantwortung daf\u00fcr, dass das Top-Management mit den richtigen Zahlen arbeitet! Deine Aufgaben Reporting-Tool: Verantwortung f\u00fcr das gruppenweite Berichtssystem (Auswahl, Einf\u00fchrung, Weiterentwicklung). Projektleitung: Leitung d\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.45542,
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Bern",
+                    "Bern-Mittelland",
+                    "Bremgarten bei Bern"
+                ],
+                "display_name": "Bremgarten bei Bern, Bern-Mittelland",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Randstad",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5504021060?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.ch/details/5526806488?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Job-Room"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Zug",
+                    "Zug",
+                    "Zug"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Zug"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjgwNjQ4OCIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.bo-AAQplluqdSsaNv0r3jH8q0Tx1Rte0HW2ZXFgXfpk",
+            "longitude": 8.515414,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": " V-ZUG Global Sales Excellence  Die Abteilung Global Sales Excellence ist ein Teil unseres Marketing-Departments. Unsere Mission besteht darin, Kundinnen und Kunden (Fokus B2B) \u00fcber die gesamte Omnichannel Customer Journey optimal zu begleiten und diese f\u00fcr unser Angebot zu begeistern. Customer Centricity und die datenbasierte Entscheidungsfindung stellen bei der Weiterentwicklung unserer Leistungsangebote und Gesch\u00e4ftsmodelle die Basis dar. Wir entwickeln den Sales-Funnel mit dem Streben nach \u2026",
+            "created": "2025-12-04T00:53:04Z",
+            "id": "5526806488",
+            "latitude": 47.166192,
+            "title": "Product Data Manager"
+        },
+        {
+            "title": "Data Engineering Solutions Design",
+            "created": "2025-09-30T15:11:13Z",
+            "id": "5422227141",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Axiom Software Solutions Limited"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5422227141?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sonstige/Allgemeine Stellen",
+                "tag": "other-general-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Title: Data Engineering Solutions Design Base Location: Munich, Germany (Fully Remote/Hybrid) Duration: B2b Contract/FTC/FTE Experience: 8-10 Years Language: Native German Domain: Utility domain Professional skills Solid SAP BTP knowledge, especially in Data intelligence and data services for the integration of external data warehouses. Experience in designing data models and architectures for big data and complex data flows. Expertise in the development and optimization of ETL processes, w\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyMjIyNzE0MSIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.e2RSPDc7tzy_eSlOuxY9DOB4Np-UHVWadz5Qo_qpK58"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzY1ODc5MyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.mGV4H7xaxwCx8IKsOcpdlzXDKu21EZZipOwuycstXjU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description To reinforce the Synechron Switzerland team, we are seeking for a passionate Data Engineer with Data Architecture skills. In the hybrid environment, you will help maintain existing pipelines, build new data pipelines using modern cloud-native technologies and SaaS , and shape the future of the enterprise data architecture. Our mission is for one of our clients , a Private Bank in Geneva. Your responsibilities: As a Data Engineer at Synechron Switzerland , you will: Design, imple\u2026",
+            "category": {
+                "label": "IT-Stellen",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Schweiz",
+                    "Kanton Genf"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kanton Genf, Schweiz"
+            },
+            "company": {
+                "display_name": "Synechron",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5537658793?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "created": "2025-12-11T11:04:02Z",
+            "id": "5537658793",
+            "title": "Data Engineer - Private Banking"
+        },
+        {
+            "title": "Scientific Data Engineer - EMEA",
+            "created": "2025-11-16T23:41:28Z",
+            "id": "5499733700",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "TetraScience is a Scientific Data and AI company with a mission to radically improve and extend human life. TetraScience combines the world's only open, purpose-built, and collaborative scientific data and AI cloud with deep scientific expertise across the value chain to accelerate and improve scientific outcomes. TetraScience is catalyzing the Scientific AI revolution by designing and industrializing AI-native scientific data sets, which it brings to life in a growing suite of next generation \u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5OTczMzcwMCIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.5H1x7vGlCcbt1x77Wv_zAnxMVGPT-fKorneHWNZYZc8",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Technikerstellen",
+                "tag": "engineering-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TetraScience"
+            },
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5499733700?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Data Analyst (a) -100%",
+            "created": "2025-12-06T01:03:01Z",
+            "id": "5530389648",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs",
+                "label": "Stellen aus Wissenschaft & Qualit\u00e4tssicherung"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Manpower"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5530389648?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Manpower \u200b MANPOWER AG ist spezialisiert in der Rekrutierung von qualifiziertem Mitarbeiter/innen und unterst\u00fctzt Firmen in der ganzen Schweiz, dass diese ihre offenen Positionen, unter Ber\u00fccksichtigung der n\u00f6tigen Stellenanforderungen, erfolgreich besetzen k\u00f6nnen. \u200b Ihre Aufgaben: - Eigenverantwortliche Erstellung und kontinuierliche Weiterentwicklung von Reports und Dashboards mit Power BI - Modellierung und Integration von Daten aus Dynamics 365 Finance & Operations - Nutzung der Power Platf\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVkptNFJ0dlc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMwMzg5NjQ4In0.eAn0MN87UIe8xt5UNI26P9K5Ox9WIWCSxjZa1v6w9o4"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description du poste Rattach\u00e9 au Learning & Development Manager, vous int\u00e9grerez une \u00e9quipe de 6 personnes. Votre mission principale en tant que r\u00e9f\u00e9rent fonctionnel Cornerstone (LMS & LXP) sera de garantir l\u2019\u00e9volution et la performance de notre plateforme, au service de l\u2019apprentissage et du d\u00e9veloppement des collaborateurs \u00e0 l\u2019\u00e9chelle mondiale. Dans ce cadre-l\u00e0, vous serez en charge de : Assurer la gouvernance fonctionnelle du LMS et garantir des configurations & workflows align\u00e9s avec les be\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMTYwOTczNyIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.9ykC8sMu0S5MuOYlCX3bVzGnTSCF-9PCEfIH-hoSR-c",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT-Stellen"
+            },
+            "company": {
+                "display_name": "Audemars Piguet",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5511609737?utm_medium=api&utm_source=58c69264",
+            "title": "Lead Coordinator LMS & Data",
+            "id": "5511609737",
+            "created": "2025-11-24T20:18:46Z"
+        },
+        {
+            "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Emerging Technologies Management Level Associate Job Description & Summary At PwC, our people in strategy consulting focus on providing strategic guidance and insights to organisations. They analyse market trends, assess business performance, and develop recommendations to help clients achieve their goals. These individuals work closely with clients to identify opportunities for growth, optimise operations, and enhance overall b\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI0MTA5NTI0MiIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.9t6QH6pi_QBxhicLI-rwau4tOYTY8GSgg4ni-LBYXcw",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Schweiz"
+                ],
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "PricewaterhouseCoopers",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5241095242?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen",
+                "tag": "it-jobs"
+            },
+            "title": "Associate / Senior Associate - Cloud, Data & AI (CD&AI) - Data Engineering",
+            "id": "5241095242",
+            "created": "2025-06-09T13:38:42Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Schweiz",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Schweiz"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Roche"
+            },
+            "redirect_url": "https://www.adzuna.ch/details/5455466436?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position The Pharma Technical Oper\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NTQ2NjQzNiIsInMiOiJWSm00UnR2VzhCR3hfTnRkbF92T3J3In0.qBxBj0skerG8sLhyn0Rj5qrIEtFJ-eGA0CqfpU7u1zI",
+            "contract_time": "full_time",
+            "title": "Head of PT Data Engineering",
+            "created": "2025-10-19T20:05:19Z",
+            "id": "5455466436"
+        }
+    ],
+    "mean": 90543.88
+}

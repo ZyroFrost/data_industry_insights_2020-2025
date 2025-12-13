@@ -1,0 +1,1384 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "description": "Launch Proposal Vehicle Analyst Pilot (VAP) Triage problems in the plant. Discover issues. Quality Analyst Pilot (QAP) Supplier Conformance Pilot (SCP) Component/Assembly Assessment Through Data Correlation (initially just for parts that we are dimensionally responsible (create drawings for); but can be extended to supplier responsible based on workload). Have suppliers measure 5 sets of parts. Have Stellantis measure same 5 parts for measurement correlation. Analyze data to verify supplier mea\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -101.269509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDg1NDMzMiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.dtFa0F1PsyAhTzEp9Icr07jnwx-3yjKItaTvi3kq-o0",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Empleos en ingenier\u00eda"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5520854332?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=32D965A292023BD3900952CE40BF7BE513CD33EE",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Coahuila de Zaragoza",
+                    "Saltillo"
+                ],
+                "display_name": "Saltillo, Coahuila de Zaragoza",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Stellantis"
+            },
+            "latitude": 25.280824,
+            "title": "Commodity Quality Lead",
+            "id": "5520854332",
+            "created": "2025-12-01T01:11:53Z"
+        },
+        {
+            "category": {
+                "label": "Empleos en fabricaci\u00f3n y manufactura",
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Confidential Company",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Juarez, Chihuahua",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Chihuahua",
+                    "Juarez"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5537721913?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F724DBC69A77179A83D09572E319B5C4487E8738",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3NzIxOTEzIn0.g0yZO9f9mJDKHnh1JsOuzVF1k24f0INvaUfs55e_XpA",
+            "longitude": -106.459483,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Sr Material Financial Analyst is responsible for providing financial analysis and strategic support within a manufacturing environment, often involving budgeting, cost variance analysis, and reporting to guide financial decision-making Functions Analyze, report, and explain variances in material costs, work orders, and other operational areas. Support the Monthly/ annual Fcst / budget process and long-term financial forecasts, often working closely with the FP&A Manager, Operations and Plant Co\u2026",
+            "created": "2025-12-11T05:54:00Z",
+            "id": "5537721913",
+            "title": "Sr Material Financial Analyst",
+            "latitude": 31.646963
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "1.Descripci\u00f3n del puesto: Buscamos un(a) Analista Financiero(a) con pensamiento estructurado, dominio de Excel/Sheets y experiencia generando reportes financieros operativos. Ser\u00e1 responsable de convertir datos en informaci\u00f3n clara para la direcci\u00f3n: m\u00e1rgenes, flujo, proyecciones, KPIs y variaciones mensuales. Ideal para perfiles con 2\u20134 a\u00f1os de experiencia en finanzas, FP&A, an\u00e1lisis de datos, contabilidad operativa o auditor\u00eda 2.Responsabilidades: Elaborar estado de resultados operativo mensu\u2026",
+            "longitude": -100.545833,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMyMzA5MTQ2In0.8f4NZ8G-cymdWwDGqOuCqWiio8eASjkuXSrF_F2MRTs",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5532309146?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=11E80AB4A5A35659F170840A3CF97D59EF873A3D",
+            "location": {
+                "display_name": "Apaseo el Alto, Guanajuato",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Guanajuato",
+                    "Apaseo el Alto"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mindusx"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "latitude": 20.430278,
+            "title": "Analista financiero (PYME \u2013 Operaciones / Servicios)",
+            "id": "5532309146",
+            "created": "2025-12-07T06:18:21Z"
+        },
+        {
+            "title": "Finance Project Manager",
+            "created": "2025-11-27T06:13:39Z",
+            "id": "5516038516",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Empleos en contabilidad y finanzas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5516038516?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=EC64663628C4B332428E0289C0BE44A17969B734",
+            "company": {
+                "display_name": "Greenday Finance",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Finance Project Manager Location: Mexico City (Hybrid, Full-time) Company: GreenDay Finance About the Role GreenDay Finance is seeking a highly organized and analytical Finance Project Manager to lead and execute key financial initiatives across our growing organization. This role is ideal for someone who excels at project coordination, financial analysis, and cross-functional teamwork in a fast-paced environment. What You\u2019ll Do Lead and manage financial projects from planning to execution, ens\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE2MDM4NTE2In0.yVifZg8MlAMIwbOWlP_3YNBe7_uRZUX5mWPJlKrtMX4"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en contabilidad y finanzas",
+                "tag": "accounting-finance-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5527172257?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=53904D50295B4601A18A3AABAC5F0D4B48DF690C",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Du Xiaoman Technology"
+            },
+            "description": "Media Communications Specialist Job Responsibilities: Develop the brand's exposure strategy across Mexican media channels (traditional media, SNS, and digital channels). Design media mix plans, optimize budget allocation, and track performance. Lead the creation of media content and campaign briefs, regularly review performance data, and refine strategies. Monitor local media trends and anticipate communication opportunities and risks. Qualifications: Must be a Mexican with a deep understanding\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzE3MjI1NyIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.Dv-DEh7LJXfnEapPt9j9VhZOYgjstLbOGBnch_LJrOA",
+            "title": "Media Communications Specialist",
+            "id": "5527172257",
+            "created": "2025-12-04T04:46:19Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en educaci\u00f3n",
+                "tag": "teaching-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5527172312?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=C1CD00BC6AFBA70CFC62EFCB3B56A5D0B8C0B611",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Confidential"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "\u00a1Estamos contratando! Coordinadora de Transformaci\u00f3n Operativa En Lottus buscamos a una profesional apasionada por la educaci\u00f3n, la innovaci\u00f3n y el an\u00e1lisis de datos para impulsar proyectos que eleven la experiencia estudiantil y mejoren la retenci\u00f3n en nuestras instituciones.  \u00bfQu\u00e9 har\u00e1s? Liderar proyectos de transformaci\u00f3n operativa. Dise\u00f1ar soluciones escalables basadas en insights. Conectar \u00e1reas, planteles y equipos para asegurar adopci\u00f3n y ejecuci\u00f3n. Traducir datos en estrategia y decisio\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI3MTcyMzEyIn0.wuaZBXKnkTcTJQ5Zz-QKR2jptqg-auGgNOrR6DUKBaA",
+            "title": "Coordinador de Innovaci\u00f3n y Retenci\u00f3n Estudiantil",
+            "id": "5527172312",
+            "created": "2025-12-04T04:46:22Z"
+        },
+        {
+            "created": "2025-12-04T09:47:59Z",
+            "id": "5527348342",
+            "title": "API ENGINEERING MANAGER (IT)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzM0ODM0MiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.Fc4nixGKESXoeR4cpJe94FWACiq4yABdgVBLeCzaG1g",
+            "description": "KEY RESPONSIBILITIES AS ENGINEERING MANAGER \uf0bbCollaborate with the leadership team in the definition of strategic Objectives and Key Results. \uf0bbOversee the collection, analysis, and interpretation of data to drive strategic decisions. \uf0bbDevelop and monitor key performance indicators (KPIs) to measure impact in Core Products and identify opportunities for improvement. \uf0bbDevelop and maintain robust analytics functions using the Edenred Data Platform and market tools like Power BI, ensuring that the t\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5527348342?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=DDBB35FC0A7BD191E2176B347E7249321F612E4A",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Randstad M\u00e9xico"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Empleos en contabilidad y finanzas"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Ecommerce Specialist Mobile Phone Industry",
+            "created": "2025-11-21T09:35:18Z",
+            "id": "5507586235",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            },
+            "company": {
+                "display_name": "HONOR",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5507586235?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2D646F83D1B0960D9F883B315EBC52A5AE4C877D",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ecommerce Specialist Mobile Phone Industry Responsibility Description Responsible for the end-to-end operation of 1\u20132 Mercado Libre stores, including product listing, pricing, inventory control, campaign execution, and paid advertising. Continuously optimize traffic, conversion rate, and sales growth through data-driven decision making. Maintain and manage relationships with mobile phone distributors/agents, coordinating supply, pricing policies, and joint marketing activities to ensure stable \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNzU4NjIzNSIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.sDGbFiMvBGiIwJthbuKt8Hv1_g4PRfxj_lG9BVGj-5E"
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Scanntech M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Nuevo Le\u00f3n",
+                    "Monterrey"
+                ],
+                "display_name": "Monterrey, Nuevo Le\u00f3n",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5505036703?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=37936E80582F52A771FCB8BD2E4FCC7AE936A528",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA1MDM2NzAzIn0.i26hH4n-3bmf9Grzncxp5hBfXAr7z21l_5GxnJIJ8h0",
+            "description": "Oportunidad: Buscamos Ejecutivos, Especialistas y Analistas de Inteligencia en Retail para formar parte del equipo de relacionamiento comercial y de an\u00e1lisis de Scanntech con sus clientes de cadenas de supermercados en Monterrey. Competencias requeridas: Si cuentas con: Experiencia en inteligencia comercial o inteligencia de mercado en cadenas de supermercados Experiencia en an\u00e1lisis de datos de categor\u00edas alimentos y/o bebidas, entre otras categor\u00edas de consumo masivo Perfil anal\u00edtico con foco\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -100.409548,
+            "id": "5505036703",
+            "created": "2025-11-20T06:11:47Z",
+            "latitude": 25.781252,
+            "title": "Ejecutivo de Inteligencia en Retail Monterrey"
+        },
+        {
+            "id": "5495510162",
+            "created": "2025-11-14T05:29:09Z",
+            "title": "Alibaba.com-Account manager-Mexico City",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk1NTEwMTYyIn0.gdfatxKaDqHOJ33zks8uStxavBS7IgoQ3sqVRaFEeQU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Responsibilities About the Role We\u2019re looking for an Account Manager to support Alibaba.com\u2019s Mexico market. This role focuses on optimizing merchant performance, enhancing transaction conversion, and driving business growth through scalable operations, data insights, and cross-functional collaboration. Key Responsibilities Merchant Growth & Conversion: Design and optimize service delivery systems that enhance product operations, lead generation, and transaction conversion for new merchants on \u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Empleos en inform\u00e1tica"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5495510162?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=82F95D77ACBD056E95853EF9C72CCF7E379BF84A",
+            "company": {
+                "display_name": "Alibaba.com",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Oportunidad: Buscamos Ejecutivos, Especialistas y Analistas de Inteligencia en Retail para formar parte del equipo de relacionamiento comercial y de an\u00e1lisis de Scanntech con sus clientes de cadenas de supermercados en Quer\u00e9taro. Competencias requeridas: Si cuentas con: Experiencia en inteligencia comercial o inteligencia de mercado en cadenas de supermercados Experiencia en an\u00e1lisis de datos de categor\u00edas alimentos y/o bebidas, entre otras categor\u00edas de consumo masivo Perfil anal\u00edtico con foco\u2026",
+            "longitude": -100.3899,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTAzNjc4NyIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.VhYREDCB20A-OlkPWErzxTW96SCMoWDex7zwSQn17Sk",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5505036787?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=761AB7445A2C2E6040625BF57A63020C62473F63",
+            "company": {
+                "display_name": "Scanntech M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Quer\u00e9taro"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Quer\u00e9taro, M\u00e9xico"
+            },
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Ejecutivo de Inteligencia en Retail Queretaro",
+            "latitude": 20.5888,
+            "id": "5505036787",
+            "created": "2025-11-20T06:11:50Z"
+        },
+        {
+            "title": "Accounts Receivable Manager - Cash & Collections",
+            "created": "2025-11-28T06:30:23Z",
+            "id": "5517630151",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role Overview We are seeking a highly experienced Senior Manager \u2013 Accounts Receivable (Cash & Collections) to lead and optimize our AR operations across multiple business streams. This role requires deep expertise in Billings, cash application, collections, and team leadership, with a strong focus on data analytics and process improvement. Key Responsibilities Lead AR operations for cash application and collections across multiple regions. Manage large teams handling cash posting, collections,\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzYzMDE1MSIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.Qq3PzvdGNuu99CZwEngn97XoLRJvc6S78rKzrf0K2Pw",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5517630151?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F50DD6DA7C269249223C07AB0FA3B2D146CED9A8",
+            "company": {
+                "display_name": "Walmart Global Tech",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            }
+        },
+        {
+            "title": "Media Buyer Senior",
+            "id": "5536093521",
+            "created": "2025-12-10T06:55:31Z",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5536093521?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A9E43F3FC1311ACCAAB25E866CA1D0C81052FBA5",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Midios M\u00e9xico"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "\u00c1rea: Estrategia / Performance Prop\u00f3sito Dise\u00f1ar, implementar y optimizar estrategias de pauta digital multicanal para lograr los objetivos de alcance, tr\u00e1fico, leads y conversi\u00f3n de las marcas. Buscamos a una persona anal\u00edtica, estrat\u00e9gica y curiosa, que combine pensamiento de negocio con un excelente manejo de plataformas y datos. Responsabilidades Clave Planificar e implementar campa\u00f1as pagadas en Meta, Google, TikTok, LinkedIn y Pinterest Ads. Administrar presupuestos, audiencias, segmentac\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA5MzUyMSIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.OItld31BnRbTH3UMcof0GvDyJsuzegUhjtmqi0q6mNI"
+        },
+        {
+            "created": "2025-11-30T04:14:35Z",
+            "id": "5520058964",
+            "title": "Infor CloudSuite Industrial (CSI) - Syteline Consutlant",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDA1ODk2NCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.S69t_Uh2Cd7XdS7ff17_OGj24LCgSD6M_x6WZhL4B18",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "WHO WE ARE Datamtx (www.datamtx.com) established in 1993 is globally HQ'd in Atlanta with a stellar history supporting both Tier 1 and 2 ERP projects including: S/4HANA, JDE, Oracle Cloud ERP, Peoplesoft, Deltek, Infor (M3 / S3 / Syteline / LN), IFS, Deltek, Blackbaud, Ellucian Banner, D365, SysPro, Epicor, BlackLine along with Salesforce & major ISV products such as Fusion RM, BlackBaud, etc Our ERP projects cover the gamut of typical implementation but we also support bespoke projects and spe\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DataMTX"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5520058964?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F0C4EE0FF59853EC3942A7FD5E5BECBAA57FF3AB",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "category": {
+                "tag": "manufacturing-jobs",
+                "label": "Empleos en fabricaci\u00f3n y manufactura",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5448608040?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B8A3B8ABDC5A7483D22199CD4F92514F0B92AF31",
+            "company": {
+                "display_name": "Amphenol Communications Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Baja California",
+                    "Mexicali"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mexicali, Baja California"
+            },
+            "longitude": -115.475442,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A local position in charge of dealing with queries, claims, comments and eventually, complaints from users or clients of an organization. Serves customers through different interfaces managed by marketing, oversees service Quality. Customer service representatives work directly with customers to provide assistance, resolve questions, and process orders. It is responsible for providing users with information and support in relation to the products or services offered by the company. Responsabili\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDQ4NjA4MDQwIn0.cItOg18R-oORqDnTRuDxRAIR_mSqaE32bRGwYMXQV08",
+            "latitude": 32.658884,
+            "title": "Customer Service Representative",
+            "id": "5448608040",
+            "created": "2025-10-15T07:02:36Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1OTA1NzAzMiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.GYrxFQ5doyV5QvWEaB9od2IaAXcfjz-t8dMkebRayNE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Oportunidad: Buscamos Ejecutivos, Especialistas y Analistas de Inteligencia en Retail para formar parte del equipo de relacionamiento comercial y de an\u00e1lisis de Scanntech con sus clientes de cadenas de supermercados en M\u00e9rida. Competencias requeridas: Si cuentas con: Experiencia en inteligencia comercial o inteligencia de mercado en cadenas de supermercados Experiencia en an\u00e1lisis de datos de categor\u00edas alimentos y/o bebidas, entre otras categor\u00edas de consumo masivo Perfil anal\u00edtico con foco en\u2026",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Scanntech M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5459057032?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=BA3DE90A7B1132A4014FECEFCD341D1B635CB940",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-10-22T06:06:27Z",
+            "id": "5459057032",
+            "title": "Ejecutivo de Inteligencia en Retail M\u00e9rida"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Publicis Groupe M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5510306087?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=CF8E438FF22FF820B95AB550B6032A0A88C03D9D",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTEwMzA2MDg3In0.nMlnQSwHGt2sJp183blnomRfBlKWSQ84XMqdStTcaos",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Descripci\u00f3n de la empresa: Publicis Groupe M\u00e9xico es una destacada agencia de publicidad y comunicaci\u00f3n integral que ofrece soluciones creativas y estrat\u00e9gicas en marketing digital, medios y relaciones p\u00fablicas. Parte del conglomerado global Publicis Groupe, se especializa en innovar y conectar marcas con sus audiencias a trav\u00e9s de campa\u00f1as efectivas y tecnolog\u00eda avanzada. Objetivo de la posici\u00f3n: Responsable de implementar, optimizar y analizar campa\u00f1as de Paid Social, asegurando una ejecuci\u00f3n\u2026",
+            "created": "2025-11-23T06:47:32Z",
+            "id": "5510306087",
+            "title": "Paid Social Media Specialist"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Lasso MD",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5512361665?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=C59325AD7737C3C69426F05AEFC8CF4D799D0428",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": " READ THE ENTIRE JOB DESCRIPTION BEFORE APPLYING   Mexico-Based Only  Company Summary Lasso MD offers a powerful blend of innovative marketing services and advanced software tools to drive revenue growth for dental practices. By integrating custom websites, SEO, social media marketing, and targeted advertising with lead management, ROI analytics, and automated reviews, we help practices attract more patients and increase their revenue. Role Summary The Google Ads Manager will be responsible for\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMjM2MTY2NSIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.SaiVRzKdRA0D7kgM_8yelPU6OZoPIpFZpcedmKUq8MI",
+            "title": "Google Ads Manager",
+            "id": "5512361665",
+            "created": "2025-11-25T05:38:45Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista Sr. Estrategia de Negocio. La atracci\u00f3n del mejor talento es un factor estrat\u00e9gico para-Walmart. \u00bfte imaginas trabajar en una compa\u00f1\u00eda que contrata al a\u00f1o m\u00e1s de 150,000 nuevos asociados? Nuestro equipo est\u00e1 formado por profesionales de reclutamiento que trabajamos todos los d\u00edas por innovar y hacer de la experiencia de nuestros candidatos nuestro principal objetivo. \u00a1Ven y \u00fanete a nosotros! \u00bfQu\u00e9 har\u00e1s? Responsable de brindar soporte anal\u00edtico y estrat\u00e9gico que fundamenta la toma de de\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNjAzODQ2NiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.rx_DKa92H0ZL08fjv_VbmQsRGg00NyiSX2aPe7yIyGA",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Walmart de M\u00e9xico y Centroam\u00e9rica"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5516038466?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=02644872AFFCC2A17E37AC48EBA2B71D238E779C",
+            "category": {
+                "label": "Empleos en tiendas",
+                "tag": "retail-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Analista Sr. Estrategia de Negocio",
+            "created": "2025-11-27T06:13:29Z",
+            "id": "5516038466"
+        },
+        {
+            "id": "5498117802",
+            "created": "2025-11-15T13:45:47Z",
+            "latitude": 32.541375,
+            "title": "Chief Marketing Officer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "legal-jobs",
+                "label": "Empleos en legal"
+            },
+            "company": {
+                "display_name": "Legal Management Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5498117802?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=E713473281E692FAF2939F478E356A93553EF4C1",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Baja California",
+                    "Tijuana"
+                ],
+                "display_name": "Tijuana, Baja California",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5ODExNzgwMiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.8x9_RO2dfeZ2VsRIfx5eS0ebvymXq46NHCmMhnUBAi8",
+            "description": "Position Summary The CMO will lead the firm's end-to-end marketing strategy, performance analytics, and intake optimization. This role requires a seasoned leader who combines marketing expertise with operational oversight and a passion for data-driven decision-making. The ideal candidate has prior experience in high-volume marketing environments (preferably PI law) and understands how to convert leads into cases efficiently through well-managed intake systems. This is a high-impact, in-office l\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -116.886839
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hawk-Eye Innovations"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5532309270?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=BB4FFE51D28E15E9E20F1C5956DF2DD496EEDFA8",
+            "description": "\u00bfTe apasiona el deporte y te entusiasma trabajar con tecnolog\u00eda y datos? Esta es tu oportunidad de unirte a un equipo que opera tecnolog\u00eda de clase mundial para analizar jugadas en tiempo real dentro de la MLB. Si est\u00e1s iniciando tu carrera profesional , te interesa la tecnolog\u00eda y te motiva aprender en un entorno din\u00e1mico, \u00a1esta oportunidad es para ti! No necesitas experiencia previa en an\u00e1lisis deportivo: buscamos talento con ganas de crecer. \u26be \u00bfQu\u00e9 har\u00e1s? Operar y monitorear tecnolog\u00eda de se\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMyMzA5MjcwIn0.KwT37NJbqtwaC7-SdalHNJJ9C-PvzyD6pCQ4VrcNwEU",
+            "title": "Operador de Tecnolog\u00eda Deportiva",
+            "id": "5532309270",
+            "created": "2025-12-07T06:18:29Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Empleos en fabricaci\u00f3n y manufactura",
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Akkodis",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5527172572?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=4D7531DD06AD2537573F008CDEF6E82302476E99",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Nuevo Le\u00f3n",
+                    "Monterrey"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Monterrey, Nuevo Le\u00f3n"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -100.409548,
+            "description": "Buscamos un Material Controller JR para garantizar la disponibilidad continua de partes en la l\u00ednea de producci\u00f3n, mantener la salud del inventario y optimizar procesos en la cadena de suministro. Este rol implica coordinaci\u00f3n con proveedores, an\u00e1lisis de datos y toma de decisiones para evitar paros de l\u00ednea y reducir costos. Responsabilidades principales: Monitorear y resolver faltantes de material para evitar interrupciones. Coordinar con proveedores y equipos internos para asegurar entregas \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzE3MjU3MiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.VS0tWIk3ufQu1rhJpMHbW0VxoiKItppWOttM94rPjyU",
+            "title": "Material Controller JR",
+            "latitude": 25.781252,
+            "created": "2025-12-04T04:46:37Z",
+            "id": "5527172572"
+        },
+        {
+            "title": "Supply Chain Vendor Compliance Analyst",
+            "created": "2025-11-23T06:48:16Z",
+            "id": "5510306360",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Overview: The purpose of this job is to ensure data integrity and accuracy of high volume vendor compliance failures reported by reviewing, researching, resolving, and analyzing high volumes of vendor compliance disputes for Product Availability, ASN, and Operational Compliance Programs currently in place. Supports field supply chain operations, inventory management organization, and merchandising organization relative to supply chain compliance. Build and maintain vendor relationships by educa\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDMwNjM2MCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.9qAdK9YpH3EGE6g5s0WfnGI_wl-Dhfv3k95joT0XW6U",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5510306360?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=7FAC3D445CEFEE87D0292D67336F5BA37A6105E0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "VEYER"
+            },
+            "location": {
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "id": "5505037041",
+            "created": "2025-11-20T06:12:11Z",
+            "title": "Head of Commerce Content & Strategic Content Solutions",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTAzNzA0MSIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.zYw0OusgZ-Z2nv4jhvco42EOD5qUk79qDexx2D2PMdE",
+            "description": "` About the Company Community-driven group of media and marketing specialists. Through our portfolio of brands, and culture of collaboration, we offer the media and marketing capabilities it takes to invest smarter and grow our client\u2019s businesses now and in the future. The Head of Commerce Content & Strategic Content Solutions is responsible for redefining and expanding the agency\u2019s content product, evolving from traditional social media and organic content into strategic, revenue-generating s\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Empresa Confidencial",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5505037041?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B368AE8724B73C609524A2326EBEBF15E23C6D7E",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Resumen Descripci\u00f3n del puesto Daimler, grupo l\u00edder y pionero a nivel mundial en la industria automotriz con m\u00e1s de 120 a\u00f1os y presencia en m\u00e1s de 200 pa\u00edses. En M\u00e9xico cuenta con las divisiones de: Daimler Truck, Daimler Buses y Daimler Financial Services. En Nuestra Gente Podemos Reflejar Nuestros Valores Corporativos Pasi\u00f3n, Respeto, Integridad y Disciplina y estamos buscando personas altamente comprometidas para unirse al grupo en un ambiente de diversidad y retos constantes. Descripci\u00f3n de\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMwMDE4MzM1In0.96d2gA3SxkWuyDvarG1snIH7BSxXXTO-s7DBmwFpisU",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Daimler Truck M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5530018335?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A9A98DCF761EB3450FF5F48048E6B39F2AE9714A",
+            "category": {
+                "label": "Empleos en fabricaci\u00f3n y manufactura",
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Practicante de Bussiness Intelligence & Connectivity Strategy/Product Strategy",
+            "created": "2025-12-05T15:18:46Z",
+            "id": "5530018335"
+        },
+        {
+            "description": "The developed product is a leading software system in the Energy domain, covering all aspects of Oil & Gas production\u2014from geological exploration to the optimization of ongoing operations. Our technology solution enables geologists and geophysicists to efficiently research, visualize, and interpret large volumes of geological data. This role requires collaborating closely with the customer team based in Houston while following Agile principles. You'll be joining a senior, supportive, and friend\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTAzNjcyMyIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.EjZrBtLVdO6pKc7SQMInGq2qel4oNewTf7miLBN8UIQ",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Luxoft"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5505036723?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2A15F6D91466F7B82598F36C6DDB37ABD6651B98",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Test Engineer",
+            "id": "5505036723",
+            "created": "2025-11-20T06:11:49Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Descripci\u00f3n del Rol El Head of Creative, Innovation & Content Commerce ser\u00e1 responsable de liderar la estrategia, creaci\u00f3n y optimizaci\u00f3n de contenidos (A Content) y fichas de producto para marketplaces como Amazon, Mercado Libre, Walmart.com y plataformas adicionales seg\u00fan cada cliente. Este rol integra creatividad, data y performance para construir experiencias de contenido enfocadas en conversi\u00f3n, visibilidad y crecimiento de negocio. Ser\u00e1 la persona encargada de asegurar que cada contenido \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMjM2MTUzNCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.m9S40JXQZzZqCGLrVR7ZrzxsWHa51CJbNLuCOp8DfDY",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5512361534?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=350D2DBB257A57A865418316F01C768A6D8A8C55",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Publicis Groupe M\u00e9xico"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Head of Creative, Innovation & Content Commerce",
+            "created": "2025-11-25T05:38:22Z",
+            "id": "5512361534"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are looking for a Sales Manager at Mexico City! (On-site) Are you passionate about driving business growth and leading successful teams? As a Sales Manager, you'll oversee and inspire a dynamic team dedicated to generating revenue and fostering business growth. You will lead efforts in customer success, including onboarding while also managing revenue retention through renewals and upselling. Build strategic client relationships alongside our Sales Director and make a significant impact. Req\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE0NDcyNzUyIn0.46_AEaEjO_HFtJg41T9uWKScvw35SSry4rUGhxYk5XU",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5514472752?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F29D7D2F2849E10C8EFD114134070642441C1F5D",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Concentrix"
+            },
+            "title": "B2B Sales Manager",
+            "id": "5514472752",
+            "created": "2025-11-26T06:21:20Z"
+        },
+        {
+            "description": "Engineering Driver \u2013 Relocation to Michigan, USA Location: Michigan, United States (Relocation from Mexico) Employment Type: Full-time | Multi-shift operation Position Overview: We are seeking recent graduates in engineering to join a specialized driver team supporting a high-profile vehicle testing project in Michigan, USA . This position involves the operation of test vehicles, sensor calibration, and data handling under structured testing protocols. Candidates will relocate from Mexico to th\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTIwMDU4OTUwIn0.vFnshJaDKG43nROoBUbqI5dzTKSBxTNVKFCYFAyAXUE",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5520058950?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3E16D24AA2330B1088ED767C6F5E948FD588EEA3",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "SEGULA Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Empleos en inform\u00e1tica"
+            },
+            "title": "Engineering Driver \u2013 Relocation to Michigan, USA",
+            "created": "2025-11-30T04:14:33Z",
+            "id": "5520058950"
+        },
+        {
+            "created": "2025-12-11T05:53:50Z",
+            "id": "5537721818",
+            "title": "Jr. HRBP",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzcyMTgxOCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.SVNNO6_Zw5e3gC16DdECM4fm4YQoTywRU3y7tDLC_PY",
+            "description": "TCS is looking for: Jr. HRBP Good communication skills Preferably some academic HR background Graduation date: 2025 Work from office Availability to attend an in-person interview",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Tata Consultancy Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5537721818?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=D74036C7129D5613A6791758CF0DF184867DDEA3",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "Empleos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5536091464?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3D880B66401C4DD1D65BCEE9740CE38F4E182229",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Herbalife"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en sanidad y salud",
+                "tag": "healthcare-nursing-jobs"
+            },
+            "description": "Empresa global l\u00edder en la comercializaci\u00f3n y distribuci\u00f3n de complementos alimenticios, busca talento con el siguiente perfil: FP&A Sr. Analyst Requisitos: Licenciatura terminada en Finanzas, Econ\u00f3m\u00eda, Ing. Financiera o afin Manejo de Excel avanzado Experiencia en creaci\u00f3n de dashboards en Power BI Dominio de algun sistema administrativo: SAP u Oracle deseable 1 a\u00f1os o m\u00e1s de experiencia en procesos de planeaci\u00f3n financiera, procesos de presupuestos, forecasting, previsi\u00f3n y diagn\u00f3stico financ\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA5MTQ2NCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.WzRqoPiC3soZeSV0JvJhqig7FUz1TYu12TJJ9vYieW8",
+            "title": "FP&A Sr. Analyst",
+            "created": "2025-12-10T06:55:03Z",
+            "id": "5536091464"
+        },
+        {
+            "id": "5516038664",
+            "created": "2025-11-27T06:13:58Z",
+            "title": "Expansion Manager",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE2MDM4NjY0In0.7ISx6bUWdNnd7Ahhre2_6DvoQh5-6mKFUVzEuoI-Zc8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Dise\u00f1ar, ejecutar y liderar, la estrategia de expansi\u00f3n y la configuraci\u00f3n \u00f3ptima de la red comercial a nivel nacional con base en un modelo de crecimiento que balancea la expansi\u00f3n org\u00e1nica (red actual) e inorg\u00e1nica (nuevas aperturas), el an\u00e1lisis predictivo de datos y los objetivos financieros de la compa\u00f1\u00eda. Para garantizar un crecimiento rentable y sostenible del negocio, maximizando la cobertura, la penetraci\u00f3n de mercado y el retorno de inversi\u00f3n. Estrategia de Expansi\u00f3n Nacional: Definir\u2026",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "dmX",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5516038664?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=513CF5AD38A5E15FCCBCBB1A40611611C15B4CDD",
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5533396877",
+            "created": "2025-12-08T06:13:52Z",
+            "title": "Copywriter",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMzMzk2ODc3In0.OJbCZ1hmD56FE8xNbh9YU3eY_SFI5vkwj-pIJXaHIfw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Sobre LePub LePub es la agencia creativa de Publicis Groupe enfocada en ideas impulsadas por data, cultura y tecnolog\u00eda. Trabajamos para conectar a las marcas con las personas a trav\u00e9s de creatividad relevante, construida a partir de comportamientos reales y experiencias digitales. Objetivo del Rol Desarrollar conceptos y contenidos creativos que conecten con audiencias digitales y aporten valor a las marcas. La persona en esta posici\u00f3n ser\u00e1 responsable de transformar insights y estrategias en \u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LePub"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5533396877?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=995BD8C110F32F45CA556EC6DB3AB09D1D9DD4A3",
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5527172147?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A6B6E5C61FC10476DEBC9BB10909D5CA23EA5187",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ATISA Group"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Baja California",
+                    "Tijuana"
+                ],
+                "display_name": "Tijuana, Baja California",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "property-jobs",
+                "label": "Empleos en inmobiliarias"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Descripci\u00f3n Buscamos un(a) Analista Financiero FP&A con enfoque estrat\u00e9gico, dominio de Excel avanzado y an\u00e1lisis de informaci\u00f3n financiera. Ser\u00e1 responsable de crear modelos financieros, analizar datos clave y participar en proyectos de automatizaci\u00f3n e inteligencia artificial dentro del sector de bienes ra\u00edces y cuidado de adultos mayores. Funciones y responsabilidades principales Preparar y analizar los estados de resultados de \u00e1reas espec\u00edficas. Recopilar y analizar datos financieros. Calcu\u2026",
+            "longitude": -116.886839,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI3MTcyMTQ3In0.tN_UOrBcV2q8xVpYTSHgenTZbr9eGHFnb1WIalfN04Q",
+            "title": "Especialista Financiero (Financial Planning and Analysis)",
+            "latitude": 32.541375,
+            "id": "5527172147",
+            "created": "2025-12-04T04:46:11Z"
+        },
+        {
+            "title": "Analista Cuentas Financieras (Con Ingl\u00e9s), Remote Mexico",
+            "id": "5502690843",
+            "created": "2025-11-18T20:17:58Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Summary We are seeking a detail-oriented and proactive Finance Professional with expertise in accounting analysis to join our team in Canc\u00fan, Mexico, with a hybrid working model. This role is responsible for managing accounts, analyzing them, supporting audits, and handling day to day issues succesfully. Job Responsibilities Establish and own accurate and robust reporting processes to track performance perspective and being compliant with all the processes. Collaborate in the creation of co\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAyNjkwODQzIn0.XdjO5jyg9p7oFmFyItbfGG51fqVTIQ5bNvQ7xjG3uOE",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5502690843?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=5A6AE38817576D807A64B26A6A4404F6103463FB",
+            "company": {
+                "display_name": "HBX Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Volaris"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5536092602?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3FD1DE0F4D39D25F104132CC3865C929DA51E0C1",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "category": {
+                "tag": "travel-jobs",
+                "label": "Empleos en turismo",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA5MjYwMiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.QqewPSGv5js23hVAvUxWjG-G-AcTDtmCfSK87RSmu2M",
+            "description": "\u00a1\u00danete a la gran Familia Volaris como Arquitecto IA! \u00a1Desde el 2019 somos la aerol\u00ednea No.1 en M\u00e9xico! Hoy en d\u00eda operamos m\u00e1s de 180 rutas en 7 pa\u00edses de Norte, Centro y Sudam\u00e9rica. Buscamos trascender al crear y vivir las mejores experiencias de viaje\u2026 \u00a1Queremos pintar el cielo de morado! El puesto: Buscamos un Arquitecto IA con visi\u00f3n estrat\u00e9gica, capaz de dar forma a soluciones tecnol\u00f3gicas de impacto, alineadas con los diferentes equipos y objetivos de negocio. Responsable de definir la ar\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-10T06:55:22Z",
+            "id": "5536092602",
+            "title": "Arquitecto IA"
+        },
+        {
+            "category": {
+                "label": "Empleos en dise\u00f1o y artes gr\u00e1ficas",
+                "tag": "creative-design-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hyer Boots"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Guanajuato",
+                    "Le\u00f3n"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Le\u00f3n, Guanajuato"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5415045221?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F49DBB000090EBB581A8084599A6296E412E3EC4",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNTA0NTIyMSIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.ijLXWcJii0zWu0iWOgeq_9k1fb0XuUkz4_eOgW8ESBo",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -101.503611,
+            "description": "Title: Head of Sourcing Department: Product Employment Type : Full-Time Location: Leon, Mexico About Hyer Hyer Boots is igniting a new generation's passion for Western heritage with bold design, radical authenticity, and a disruptive go-to-market strategy. We\u2019re on a mission to reclaim our legacy as the most iconic Western brand in America\u2014and we\u2019re just getting started. About the Position Serve as the on-the-ground driver who ensures information transparency: secure components at the right cos\u2026",
+            "created": "2025-09-26T06:20:17Z",
+            "id": "5415045221",
+            "title": "Head of Sourcing (Mexico)",
+            "latitude": 21.040278
+        },
+        {
+            "created": "2025-12-04T04:46:17Z",
+            "id": "5527172218",
+            "title": "Continuous Improvement Professional",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzE3MjIxOCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.h1_MHKi4jSZvqik48wsT3vPbkBEtGl8MvkRgwl6jDgQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "CEVA Logistics provides global supply chain solutions to connect people, products and providers all around the world. Present in 170 countries and with more than 110,000 employees spread over 1,300 sites, we are well on our way to achieving our vision: to be a Top 5 global 3PL. We believe that our employees are the key to our success. We want to engage and empower our diverse, global team to co-create value with our customers through our solutions in contract logistics and air, ocean, ground, a\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CEVA Logistics"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5527172218?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=4ACDE7913640322A7A7C49BDA72967DB3B0582F8",
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "display_name": "M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Confidencial"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5532309070?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=6D105F165525D2FA4A574EBFE6797C5388E37180",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Monterrey, Nuevo Le\u00f3n",
+                "area": [
+                    "M\u00e9xico",
+                    "Nuevo Le\u00f3n",
+                    "Monterrey"
+                ]
+            },
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjMwOTA3MCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.B1Br3qCDxSU0X9kfuxV1Xhp4U8yvU93iE2ALA9hAVR0",
+            "description": "Ubicaci\u00f3n: Monterrey, N.L. \u00bfTe apasiona la mejora continua y el mantenimiento predictivo? \u00danete a un equipo l\u00edder en soluciones industriales y s\u00e9 parte de proyectos que marcan la diferencia. Requisitos: Ingenier\u00eda Mec\u00e1nica, Electromec\u00e1nica, Industrial, Mecatr\u00f3nica o af\u00edn (trunco aceptado). Experiencia en an\u00e1lisis de vibraciones y maquinaria rotativa (ISO-18436 Cat. 1 o 2 deseable). Conocimiento en lubricaci\u00f3n, alineaci\u00f3n de ejes y poleas, balanceo din\u00e1mico en sitio. Manejo de tecnolog\u00eda y monta\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -100.409548,
+            "id": "5532309070",
+            "created": "2025-12-07T06:18:16Z",
+            "latitude": 25.781252,
+            "title": "Reliability Technician"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "retail-jobs",
+                "label": "Empleos en tiendas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Walmart de M\u00e9xico y Centroam\u00e9rica",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico",
+                "area": [
+                    "M\u00e9xico"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5519048466?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=4E0A5B29FED67849812F78D537269BF4061CF78F",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "En Walmart de M\u00e9xico y Centroam\u00e9rica estamos comprometidos con una cultura de pertenencia, por lo que buscamos incorporar el mejor talento bas\u00e1ndonos en competencias, habilidades y potencial; no discriminamos por ning\u00fan motivo, incluyendo g\u00e9nero, edad, origen \u00e9tnico, apariencia f\u00edsica, estado civil, condiciones de salud por VIH o cualquier enfermedad, situaci\u00f3n socioecon\u00f3mica, discapacidad, orientaci\u00f3n sexual, identidad o expresi\u00f3n de g\u00e9nero por ello durante el proceso de atracci\u00f3n y selecci\u00f3n \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE5MDQ4NDY2In0.ztVJlqC0Cz36q1WRfB7NDXkBMKZys28D9l8NqciQFw0",
+            "title": "Sr. Manager Renovaci\u00f3n y Control",
+            "created": "2025-11-29T05:15:28Z",
+            "id": "5519048466"
+        },
+        {
+            "description": " Head of Growth \u2013 M\u00e9xico Impulsa el crecimiento m\u00e1s acelerado de Latam. En Rappi buscamos a un/a Head of Growth visionario/a, estratega y obsesionado/a por el impacto. Alguien con la mezcla perfecta entre creatividad , data-driven mindset y ejecuci\u00f3n impecable , capaz de romper inercias y escalar iniciativas que mueven la aguja del negocio real. Ser\u00e1s responsable de dise\u00f1ar, ejecutar y optimizar toda la estrategia de crecimiento en M\u00e9xico, potenciando todas las verticales \u2014con especial foco en \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA5MTU1NyIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.UL45W2vsNx-lRxCb1K-juC1n6THwoGTkIUXQqGszXwk",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rappi"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5536091557?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=CC6FAD6BB17270A4115B1B9D8EED0AEF5DAFDFD8",
+            "location": {
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "title": "Head of Growth",
+            "id": "5536091557",
+            "created": "2025-12-10T06:55:11Z"
+        },
+        {
+            "latitude": 25.781252,
+            "title": "Project Director D365",
+            "created": "2025-12-11T05:53:42Z",
+            "id": "5537721741",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HCLTech"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5537721741?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=75D0080C5F351CB4BE149868AD1166ED9E1BF245",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Monterrey, Nuevo Le\u00f3n",
+                "area": [
+                    "M\u00e9xico",
+                    "Nuevo Le\u00f3n",
+                    "Monterrey"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Empleos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "description": "HCLTech is a global technology company, home to more than 223,000 people across 60 countries, delivering industry-leading capabilities centered around digital, engineering, cloud and AI, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, High Tech, Semiconductor, Telecom and Media, Retail and CPG, and Public Services. Consolidated reve\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -100.409548,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3NzIxNzQxIn0.1W9u9FGQX4NuF9PHNH7UCgTwj5n8OdzzTSrXAAFwjJc"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5498119180?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=6F94FC1052699EEC2694981865DAAFF712B1AA6F",
+            "company": {
+                "display_name": "Grupo Aeroportuario del Pac\u00edfico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Jalisco",
+                    "Guadalajara"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Guadalajara, Jalisco"
+            },
+            "category": {
+                "label": "Empleos en turismo",
+                "tag": "travel-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "En Servicios a la Infraestructura Aeroportuaria del Pac\u00edfico, buscamos responsable para trabajar de la mano con la Gerencia de Auditor\u00eda Interna, en su responsabilidad de planear, ejecutar, administrar y reportar las auditor\u00edas designadas del Grupo, analizando informaci\u00f3n y verificando el cumplimiento de las pol\u00edticas y procedimientos internos, adem\u00e1s de las leyes y reglamentos aplicables. Lugar de trabajo: Av. Mariano Otero 1249 B, Colonia Rinconada del Bosque, Guadalajara Jalisco, C.P. 44530 \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -103.370691,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk4MTE5MTgwIn0.iMKXV3poIRSzfbAFV92iA8CXBc-epo2Vfypv1f5wr1w",
+            "latitude": 20.635087,
+            "title": "Jefe de Auditor\u00eda Financiera y TI",
+            "created": "2025-11-15T13:46:11Z",
+            "id": "5498119180"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5537721696?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=7600BDD85D3CE6D47CDE479B9F0EA374333D3719",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Jalisco",
+                    "Puerto Vallarta"
+                ],
+                "display_name": "Puerto Vallarta, Jalisco",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Grupo Vidanta"
+            },
+            "description": "En Grupo Vidanta , somos una compa\u00f1\u00eda mexicana l\u00edder en hospitalidad, entretenimiento y desarrollo tur\u00edstico. Estamos en b\u00fasqueda de un Gerente de Estrategia y Medios con visi\u00f3n estrat\u00e9gica, profundo entendimiento del consumidor y experiencia liderando ecosistemas de medios de gran escala. Objetivo del puesto Liderar la visi\u00f3n estrat\u00e9gica y la planificaci\u00f3n integral de medios, traduciendo los objetivos de negocio en estrategias de comunicaci\u00f3n innovadoras, basadas en datos e insights, que maxim\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -105.21129,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzcyMTY5NiIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.CAczVgjF0mSnSqaa0Ld_6Oc1V0EgEHcZ1B9bIF3hlOI",
+            "latitude": 20.7135,
+            "title": "Gerente de Estrategia y Medios",
+            "created": "2025-12-11T05:53:36Z",
+            "id": "5537721696"
+        },
+        {
+            "title": "Supply Planner",
+            "created": "2025-12-06T06:54:53Z",
+            "id": "5530787165",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Rappi",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5530787165?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2341A59AEB55D9D772D2C78C67770BDEC3B8C31B",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Supply Planner \u2013 Rappi (Retail & Grocery Operations) Ubicaci\u00f3n: CDMX En Rappi estamos reimaginando c\u00f3mo las personas compran su s\u00faper y reciben productos ultra-r\u00e1pido. Para lograrlo, necesitamos un Supply Planner con mentalidad anal\u00edtica, obsesi\u00f3n por el detalle y pasi\u00f3n por construir procesos escalables en un ambiente de alto impacto. Este rol es clave para asegurar disponibilidad , eficiencia , buen uso del working capital y la mejor experiencia para miles de usuarios cada d\u00eda.  \u00bfQu\u00e9 har\u00e1s en\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMwNzg3MTY1In0.JzqSVxNivOckT5unj-0BjD9kqV8_bx2BjTDeIaNvgBc"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Nuevo Le\u00f3n",
+                    "Monterrey"
+                ],
+                "display_name": "Monterrey, Nuevo Le\u00f3n",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5514472918?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=1B03814BC565CFBC96E4E39AD3A9DB96D2449582",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Grupo Industrial Saltillo"
+            },
+            "description": "Ready to make a difference? Apply now and join our team! This Isn't Just an Analysis Role. This is Global Strategy. We're looking for a sharp, curious, and ambitious analyst to help shape the future of a global company, you'll be on the front lines of high-impact decisions, including M&A, global market expansion, and capital investment. Your Impact & Responsibilities From day one, you will: Lead & Optimize: Guide multi-disciplinary teams to develop and execute optimization projects for our most\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -100.409548,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ3MjkxOCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.Sr-BjemQU79tFOrAsu15bHkZzO-RM8u4kqooM5tXDfA",
+            "title": "Corporate Strategy Analyst",
+            "latitude": 25.781252,
+            "created": "2025-11-26T06:21:41Z",
+            "id": "5514472918"
+        },
+        {
+            "latitude": 20.635087,
+            "title": "Junior Demand Analyst",
+            "id": "5507338906",
+            "created": "2025-11-21T05:58:17Z",
+            "longitude": -103.370691,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "NatureSweet\u00ae is the single-source solution for greenhouse-grown vegetables and is the 1 best-selling brand in snacking tomatoes. The largest vertically integrated agriculture company in North America, NatureSweet guarantees great-tasting produce year-round, both organic and conventional. Our vegetables are carefully grown, harvested, and packaged by more than 6,000 directly employed company Associates. NatureSweet tomatoes, cucumbers, and sweet peppers are handpicked at the peak of freshness an\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA3MzM4OTA2In0.TU19VZtICTq6yYxs4nY0TPLueAb-MK1hhNR_Uck4dJs",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NatureSweet"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5507338906?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=452F9D401162385DC2C73FCE65A5E3D845A48B87",
+            "location": {
+                "display_name": "Guadalajara, Jalisco",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "M\u00e9xico",
+                    "Jalisco",
+                    "Guadalajara"
+                ]
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYU5qUUZkUFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA3MzM3NzgzIn0.XkgPSS0Zvo35Pjy-8JXBg1Fo6Jm9cMqUnWjjyVkBe2M",
+            "description": "Importante empresa global del sector de alimentos y bebidas busca un Especialista en An\u00e1lisis de SKU y Mantenimiento de BOM para integrarse a su equipo de Finanzas de Cadena de Suministro en Ciudad de M\u00e9xico . Este rol es clave para garantizar la integridad financiera de las Listas de Materiales (BOM) y el an\u00e1lisis detallado de SKUs , asegurando costos precisos y alineaci\u00f3n con los objetivos de rentabilidad. Principales responsabilidades: Creaci\u00f3n y mantenimiento de BOM: Supervisar la creaci\u00f3n \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hays"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5507337783?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=C21457EA41C9D4F2F5179C24548CE9B8C3D0E1E8",
+            "location": {
+                "area": [
+                    "M\u00e9xico",
+                    "Ciudad de M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ciudad de M\u00e9xico, M\u00e9xico"
+            },
+            "salary_is_predicted": "0",
+            "id": "5507337783",
+            "created": "2025-11-21T05:58:03Z",
+            "title": "Gerente Financiero de Costos"
+        },
+        {
+            "created": "2025-12-10T13:56:12Z",
+            "id": "5536977294",
+            "title": "Ejecutivo de Insights del Consumidor",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjk3NzI5NCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.TCkD10T5u6StnI3jixZuH95MClRAlNvjMciCYWpd5Hs",
+            "description": "Dise\u00f1ar, coordinar y ejecutar estudios de mercado que integren inteligencia artificial, an\u00e1lisis de datos avanzados, as\u00ed como metodolog\u00edas cuantitativas y cualitativas para generar insights accionables que impulsen decisiones comerciales, de producto y marketing. Integraci\u00f3n de IA y anal\u00edtica avanzada: Aplicar modelos predictivos, clustering y machine learning para analizar grandes vol\u00famenes de datos de consumidores. \u2022Visualizaci\u00f3n de datos: Crear dashboards y reportes ejecutivos usando herrami\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5536977294?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=43D2049B3319CF3A003FFB15AD7A24C7383F183F",
+            "company": {
+                "display_name": "Grupo Pe\u00f1afiel",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "M\u00e9xico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "M\u00e9xico"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.mx/land/ad/5530787208?se=aNjQFdPW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B620A77EDA492A613911137D9B7171C16A982754",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nuevo Le\u00f3n, M\u00e9xico",
+                "area": [
+                    "M\u00e9xico",
+                    "Nuevo Le\u00f3n"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Akkodis"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDc4NzIwOCIsInMiOiJhTmpRRmRQVzhCR3hfTnRkbF92T3J3In0.kagmOlRVkjAXkcHBnRa5N9lWxgry3aqIGFbELMbxwJI",
+            "longitude": -99.9962,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Key Responsibilities: Capital Projects & Equipment Integration: Provide technical maintenance support for all new machining equipment related to capital projects, ensuring smooth integration and startup. Equipment Redesign & Upgrades: Lead redesign initiatives for outdated or failing machine components to extend equipment lifecycle and improve performance. Strategic Maintenance Planning: Develop and implement sustainable, cost-efective maintenance strategies to maximize equipment availability a\u2026",
+            "id": "5530787208",
+            "created": "2025-12-06T06:55:13Z",
+            "latitude": 25.5922,
+            "title": "Maintenance Engineer"
+        }
+    ],
+    "count": 36548,
+    "mean": 174554.84
+}

@@ -1,0 +1,1531 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 14587,
+    "results": [
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistics & Warehouse Jobs",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "latitude": -33.885283,
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5501432537",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-18T18:16:48Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5501432537?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAxNDMyNTM3In0.Hkm3DOZ3AxrAxlvlBSVUA7WAzIRk5natO6B-IWu49Kk",
+            "salary_max": 115000,
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Arrotex Pharmaceuticals Pty"
+            },
+            "contract_type": "permanent",
+            "salary_min": 115000,
+            "description": "About DBG Health & VidaCorp: DBG Health is a leading independent health, wellness, and beauty company headquartered in Melbourne. With a team of over 1,500 dedicated professionals, we are committed to delivering affordable and innovative solutions that enhance the wellbeing of all people. DBG Health's consumer division, VidaCorp, builds brands in health, wellness, personal care, and beauty with a mission to enhance the health and wellbeing of people everywhere. VidaCorp operates globally across\u2026",
+            "title": "Demand Planner"
+        },
+        {
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5517446799?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-28T18:15:37Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Andromeda Robotics"
+            },
+            "title": "Senior Software Engineer - Cross-Platform Applications",
+            "description": "The Bigger Picture At Andromeda Robotics, we\u2019re not just imagining the future of human-robot relationships; we\u2019re building it. Abi is the first emotionally intelligent humanoid companion robot, designed to bring care, conversation, and joy to the people who need it most. Backed by tier-1 investors and with customers already deploying Abi across aged care and healthcare, we\u2019re scaling fast, and we\u2019re doing it with an engineering-first culture that\u2019s obsessed with pushing the limits of what\u2019s pos\u2026",
+            "latitude": -37.8324,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzQ0Njc5OSIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.AK3of9pX4jroo0weWG9cwJMgG1kQx2hKi-8Nna09U2s",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 144.960514,
+            "id": "5517446799",
+            "location": {
+                "display_name": "South Melbourne, Port Phillip",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Port Phillip",
+                    "South Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "latitude": -37.9335,
+            "category": {
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hr-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5525448790",
+            "location": {
+                "display_name": "Moorabbin, Kingston Area",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Kingston Area",
+                    "Moorabbin"
+                ]
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5525448790?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-03T18:34:28Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI1NDQ4NzkwIn0.iKnTFQsIJx45SVDtiPFojMN6Y9UATiG5t384Wj6Capo",
+            "salary_is_predicted": "0",
+            "longitude": 145.0385,
+            "salary_max": 130000,
+            "company": {
+                "display_name": "Prestige Inhome Care",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Talent Acquisition Manager",
+            "description": "Join one of AFR Boss Best Places to Work as Talent Acquisition Manager ABOUT US At Prestige Inhome Care, we're not just a care provider; we're a family dedicated to making lives better by keeping people in the comfort of their homes for the past 20 years. ABOUT THE ROLE: Ready to shape the future of homecare talent? We\u2019re looking for a strategic, innovative, and data-driven Talent Acquisition Manager to lead our recruitment function and help us attract the best in the industry. As Talent Acquis\u2026",
+            "salary_min": 130000,
+            "contract_type": "permanent"
+        },
+        {
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "latitude": -34.917705,
+            "id": "5535768360",
+            "location": {
+                "display_name": "Adelaide, Adelaide Region",
+                "area": [
+                    "Australia",
+                    "South Australia",
+                    "Adelaide Region",
+                    "Adelaide"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-12-10T14:37:13Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5535768360?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM1NzY4MzYwIn0.VhTbI1puIK0QkK9LbyTnquDN44IUQmymeZGFPv17H64",
+            "salary_max": 230000,
+            "salary_is_predicted": "0",
+            "longitude": 138.59607,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BespokeHR"
+            },
+            "contract_type": "permanent",
+            "title": "Chief Financial Officer",
+            "salary_min": 180000,
+            "description": "About our Client: Shiels is a growing family jewellery business with stores located in major shopping centres across metropolitan Adelaide, Perth, Queensland and Western Sydney. Shiels prides itself on providing an extensive range of jewellery that embodies great design, impeccable quality and durability. Shiels prices are so competitive it enables them to maintain their reputation as the leading jewellery retailer in Australia and the perfect destination for any engagement ring. They don't jus\u2026"
+        },
+        {
+            "title": "AMPS Administrator",
+            "description": "Date Posted: 2025-11-24 Country: Australia Location: AUSWA117: NCC-H WA, 103 Quill Way, Henderson, WA, 6166, Australia Position Role Type: Unspecified  Support Australia's defence mission  Flexible work opportunities and a supportive culture  Be valued and empowered to reach your full potential, supported by an inclusive culture  Enable the Australian Defence Force to execute missions effectively Your mission starts here at Raytheon Australia! Right now, we are seeking a bright and energised AM\u2026",
+            "created": "2025-11-26T10:27:56Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RTX Corporation"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5513884935?utm_medium=api&utm_source=58c69264",
+            "id": "5513884935",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Cairns Region",
+                    "Cairns"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cairns, Cairns Region"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 145.728782,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "latitude": -16.903028,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTEzODg0OTM1In0.L6XZWTuFCCFxGOXhtnmWzhySiKJ9KG3o7aw4ZN8Cs_s"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 130.871836,
+            "location": {
+                "display_name": "Darwin, Darwin Region",
+                "area": [
+                    "Australia",
+                    "Northern Territory",
+                    "Darwin Region",
+                    "Darwin"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5513884938",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzg4NDkzOCIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.i6CDZCWjBfoN6bQzWJMvy9jD9wfAZLcOqH16nJdnp6g",
+            "latitude": -12.402444,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "description": "Date Posted: 2025-11-24 Country: Australia Location: AUSWA117: NCC-H WA, 103 Quill Way, Henderson, WA, 6166, Australia Position Role Type: Unspecified  Support Australia's defence mission  Flexible work opportunities and a supportive culture  Be valued and empowered to reach your full potential, supported by an inclusive culture  Enable the Australian Defence Force to execute missions effectively Your mission starts here at Raytheon Australia! Right now, we are seeking a bright and energised AM\u2026",
+            "title": "AMPS Administrator",
+            "redirect_url": "https://www.adzuna.com.au/details/5513884938?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "RTX Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-26T10:27:56Z"
+        },
+        {
+            "description": "Date Posted: 2025-11-24 Country: Australia Location: AUSWA117: NCC-H WA, 103 Quill Way, Henderson, WA, 6166, Australia Position Role Type: Unspecified  Support Australia's defence mission  Flexible work opportunities and a supportive culture  Be valued and empowered to reach your full potential, supported by an inclusive culture  Enable the Australian Defence Force to execute missions effectively Your mission starts here at Raytheon Australia! Right now, we are seeking a bright and energised AM\u2026",
+            "title": "AMPS Administrator",
+            "company": {
+                "display_name": "RTX Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-26T10:27:56Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5513884936?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Henderson, Cockburn Area",
+                "area": [
+                    "Australia",
+                    "Western Australia",
+                    "Perth Region",
+                    "Cockburn Area",
+                    "Henderson"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5513884936",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 115.77013,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzg4NDkzNiIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.WgAqGNQbgwkmLmnazr2zgIjEFgeIcXYU1eAcSENp8aI",
+            "latitude": -32.15695
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjgxMzEwOCIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.jwNY4vf0zNuShBrEXMxglNbTCFzjJkbJvhbfKUw9IhI",
+            "latitude": -33.885283,
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5482813108",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "company": {
+                "display_name": "Colgate-Palmolive",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-06T09:07:09Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5482813108?utm_medium=api&utm_source=58c69264",
+            "description": "No Relocation Assistance Offered Job Number 170179 - Sydney, New South Wales, Australia Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their pets,\u2026",
+            "title": "Assistant Brand Manager, Hill's ANZ"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMwNTM5OTg4NyIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.gLXPuOMPAndfKNtkjmz74TTqeZlOBNx-KHE8fKm8yE8",
+            "latitude": -33.885283,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5305399887",
+            "redirect_url": "https://www.adzuna.com.au/details/5305399887?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Broadcom",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-07-16T10:40:35Z",
+            "description": "Please Note: 1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In > Create Account) 2. If you already have a Candidate Account, please Sign-In before you apply. Job Description: Overview: A Senior Consultant is responsible to provide subject-matter expertise, thought leadership, adoption guidance and solution/technical specialization as a Mainframe DB2 System Programmer. You will also be expected to Install, upgrade and maintain \u2026",
+            "title": "Sr Consultant - DB2 SME Sysprog (Australia, Canberra, Remote)"
+        },
+        {
+            "created": "2025-04-30T06:29:38Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT America, Inc."
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5169435404?utm_medium=api&utm_source=58c69264",
+            "title": "Junior SAP Berater:in Rechnungswesen (FI / CO)",
+            "description": "Junior SAP Berater:in Rechnungswesen (FI/CO) (w/m/d) In Voll- oder Teilzeit Empowering You  to feel our passion for technology Als NTT DATA Business Solutions sind wir mehr als nur ein Unternehmen. Wir sind ein Team von leidenschaftlichen Menschen, die Innovationen vorantreiben - von der Beratung und Implementierung bis hin zu Managed Services und dar\u00fcber hinaus. Mit SAP als Herzst\u00fcck und einem starken Partnernetzwerk verbessern wir kontinuierlich L\u00f6sungen und Technologien, damit sie f\u00fcr Untern\u2026",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MTY5NDM1NDA0In0.HWgFIgjo7iuJqE2k5K1TNm83jAhGq8h4tDa7EI8gQDQ",
+            "id": "5169435404",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "SAP Berater:in Rechnungswesen (FI/CO)",
+            "description": "SAP Berater:in Rechnungswesen (FI/CO) (w/m/d) In Voll- oder Teilzeit Empowering You  to feel our passion for technology Als NTT DATA Business Solutions sind wir mehr als nur ein Unternehmen. Wir sind ein Team von leidenschaftlichen Menschen, die Innovationen vorantreiben - von der Beratung und Implementierung bis hin zu Managed Services und dar\u00fcber hinaus. Mit SAP als Herzst\u00fcck und einem starken Partnernetzwerk verbessern wir kontinuierlich L\u00f6sungen und Technologien, damit sie f\u00fcr Unternehmen -\u2026",
+            "created": "2025-04-30T06:29:38Z",
+            "company": {
+                "display_name": "NTT America, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5169435403?utm_medium=api&utm_source=58c69264",
+            "id": "5169435403",
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE2OTQzNTQwMyIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.s0yvhfeljmBQJ8TvjSf5lU3bg_x_G4pAH-z2x9xl2zM"
+        },
+        {
+            "title": "SAP Entwickler:in / Developer (ABAP Entwicklung)",
+            "description": "SAP Entwickler:in / Developer (ABAP Entwicklung) (w/m/d) In Voll- oder Teilzeit Empowering You  to feel our passion for technology Als NTT DATA Business Solutions sind wir mehr als nur ein Unternehmen. Wir sind ein Team von leidenschaftlichen Menschen, die Innovationen vorantreiben - von der Beratung und Implementierung bis hin zu Managed Services und dar\u00fcber hinaus. Mit SAP als Herzst\u00fcck und einem starken Partnernetzwerk verbessern wir kontinuierlich L\u00f6sungen und Technologien, damit sie f\u00fcr Un\u2026",
+            "created": "2025-04-30T06:29:38Z",
+            "company": {
+                "display_name": "NTT America, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5169435405?utm_medium=api&utm_source=58c69264",
+            "id": "5169435405",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MTY5NDM1NDA1In0.NX9OmnnpEE41BL9dLgdFIe5M1wzKlBG1q6L0G3yH0UI"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5305399889?utm_medium=api&utm_source=58c69264",
+            "created": "2025-07-16T10:40:35Z",
+            "company": {
+                "display_name": "Broadcom",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Sr Consultant - DB2 SME Sysprog (Australia, Canberra, Remote)",
+            "description": "Please Note: 1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In > Create Account) 2. If you already have a Candidate Account, please Sign-In before you apply. Job Description: Overview: A Senior Consultant is responsible to provide subject-matter expertise, thought leadership, adoption guidance and solution/technical specialization as a Mainframe DB2 System Programmer. You will also be expected to Install, upgrade and maintain \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MzA1Mzk5ODg5In0.X8gIWGvvOoGYx38Y3BSlCng0NgcshLnN5esXFnZ95Pg",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5305399889",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Alice Springs, Alice Springs Area",
+                "area": [
+                    "Australia",
+                    "Northern Territory",
+                    "Darwin Region",
+                    "Alice Springs Area",
+                    "Alice Springs"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5461864952",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 133.88089,
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDYxODY0OTUyIn0.3vv25b7QzTiFJBNLB-opoLe56Ti1qCy8Q1gTEkkEV20",
+            "latitude": -23.70036,
+            "description": "The Asset Management Analyst is responsible for provision of high-level analytical evaluation and maintenance of data integrity related to all critical and non-critical assets at the site. This role delivers accurate information related to asset life cycle conditions, maintenance, and regulatory requirements to necessary to optimize asset operational resiliency, reliability, efficiency and capability; and is a key contributor to the development of an integrated and Site wide asset management cu\u2026",
+            "title": "Asset Management Analyst",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amentum"
+            },
+            "created": "2025-10-24T13:17:04Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5461864952?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 144.957935,
+            "id": "5438323710",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "latitude": -37.806509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDM4MzIzNzEwIn0.vY9zzSGPKAjrGB5QsspMmKvcclXVkVhiS204m181SAs",
+            "category": {
+                "label": "Logistics & Warehouse Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "title": "Logistics Specialist",
+            "description": "Description AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we're the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain - and we're looking for talent\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5438323710?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-09T13:05:40Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MzM0MjkwNjE3In0.8v8svryoCKM29sVEGL9nAA5Fde4ilBHs2gw7ZIkFt-w",
+            "id": "5334290617",
+            "location": {
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-08-02T20:48:04Z",
+            "company": {
+                "display_name": "Aerospike",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5334290617?utm_medium=api&utm_source=58c69264",
+            "title": "Senior Site Reliability Engineer",
+            "description": "Aerospike is the real-time database for mission-critical use cases and workloads, including machine learning, generative, and agentic AI. Aerospike powers millions of transactions per second with millisecond latency, at a fraction of the total cost of ownership compared to other databases. Global leaders, including Adobe, Airtel, Barclays, Criteo, DBS Bank, Experian, Grab, HDFC Bank, PayPal, Sony Interactive Entertainment, The Trade Desk, and Wayfair, rely on Aerospike for customer 360, fraud d\u2026"
+        },
+        {
+            "latitude": -34.917705,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzOTY5NzQzNiIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.GmgobOcdGSYbdqo1lQlyuJCBXz5PHzaBhbUAKgw8fzY",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 138.59607,
+            "salary_is_predicted": "0",
+            "id": "5439697436",
+            "location": {
+                "display_name": "Adelaide, Adelaide Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "South Australia",
+                    "Adelaide Region",
+                    "Adelaide"
+                ]
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5439697436?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-10T04:21:34Z",
+            "company": {
+                "display_name": "DroneShield",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "RF Communications Engineer (AU)",
+            "description": "About the role The ideal candidate has a strong background in digital signal processing, wireless communications, and transmission waveform/protocol analysis, with experience in physical layer algorithms development including packet and signal detection, synchronisation and channel decoding. Understanding of the multiple access techniques including FHSS, TDMA, OFDMA/SC-FDMA will be highly desired. The position will report to the Sensors and Effectors Principal Architect. The Sensors and Effecto\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "salary_is_predicted": "0",
+            "id": "5307547775",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MzA3NTQ3Nzc1In0.768MeTLm7mEcxokrzzi9NAabfk5-G6wry3fAnj7FbKo",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Software Engineer, Quantum Sensing",
+            "description": "About the team The Sensing Engineering team at Q-CTRL transforms quantum research into deployable technologies that address real-world problems. We design, build, and field-validate an array of quantum sensors that support our key products, including Ironestone Opal - our solution for GPS-denied navigation. You don\u2019t need a background in quantum to make an impact here. We value strong engineering fundamentals, a product mindset, and a drive to solve the hardest engineering problems in quantum s\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5307547775?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-07-17T10:56:01Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Q-Ctrl"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Richmond, Yarra Area",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Yarra Area",
+                    "Richmond"
+                ]
+            },
+            "id": "5473074116",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 144.99918,
+            "category": {
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MzA3NDExNiIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.ctZRkvA8ygzXz7_i07k7PNXxqww_mwbNGhvI9c2Y2m4",
+            "latitude": -37.81859,
+            "description": "Founded in Canada in 2013, Planitar Inc. is the maker of iGUIDE, a proprietary camera and software platform for capturing and delivering accurate floorplans, immersive 3D virtual tours and extensive property data. By integrating floor plans and visual data, iGUIDE provides an intuitive and practical way to navigate and explore built environments digitally. Where does REA fit in? With bold and ambitious goals, REA Group is changing the way the world experiences property. No matter where you\u2019re a\u2026",
+            "title": "Digital Marketing Manager, iGuide",
+            "company": {
+                "display_name": "REA Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-01T04:21:15Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5473074116?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-09-10T21:13:46Z",
+            "company": {
+                "display_name": "Oracle",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5392278943?utm_medium=api&utm_source=58c69264",
+            "title": "Senior Manager - Applied Science",
+            "description": "Description Oracle Health AI (OHAI) is Oracle\u2019s center of innovation for applying advanced artificial intelligence to the most critical challenges in healthcare and enterprise. Leveraging Oracle\u2019s extensive cloud resources and rich healthcare data assets, our multidisciplinary team of scientists, engineers, and clinicians develops leading-edge AI solutions\u2014such as large language models and generative AI\u2014that drive smarter decisions, automate workflows, and improve outcomes at scale. At OHAI, we\u2026",
+            "salary_min": 0,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MzkyMjc4OTQzIn0.9aFWDC2Ne0eFn8leq97vIIFp20nTGcVHlDcb3qeVop4",
+            "id": "5392278943",
+            "salary_max": 10,
+            "location": {
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5459614109?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-23T04:25:05Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DoorDash Australia"
+            },
+            "title": "Associate Manager, Customer Success",
+            "description": "About the Team The Customer Success team at SevenRooms is the heartbeat of our customers. We\u2019re a diverse, global group of empathetic relationship builders, curious thinkers, strategic problem-solvers, and passionate collaborators. Our mission is to help hospitality operators succeed by driving adoption and value through a deep understanding of our product, data, and our customers\u2019 business goals. We are customer-obsessed and thrive on turning challenges into long-term success. About the Role I\u2026",
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDU5NjE0MTA5In0.5TtjdurkMNKInlbzMZWeH0IX12f5iT2uhyVG5d_azfc",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "customer-services-jobs",
+                "label": "Customer Services Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "salary_is_predicted": "0",
+            "id": "5459614109",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            }
+        },
+        {
+            "title": "SAP BTP Integration Specialist",
+            "description": "About Toll Group At Toll, we do more than just logistics - we move the businesses that move the world. Our 16,000 team members can help solve any logistics, transport, or supply chain challenge \u2013 big or small. We have been supporting our customers for more than 130 years. Today, we support more than 20,000 customers worldwide with 500 sites in 27 markets, and a forwarding network spanning 150 countries. We are proudly part of Japan Post \u2014 www.tollgroup.com SAP BTP Integration Specialist Being a\u2026",
+            "created": "2025-11-16T04:56:23Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Toll Group"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5497836674?utm_medium=api&utm_source=58c69264",
+            "id": "5497836674",
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODM2Njc0In0.YlEx6HC81qsw7zPSYsaELqMY1nnHy3A9P2sXvMfWH-I"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Endeavour Foundation"
+            },
+            "created": "2025-11-18T14:37:20Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5501267144?utm_medium=api&utm_source=58c69264",
+            "description": "Endeavour Foundation is one of Australia\u2019s largest employers of people living with disability. Our people live and breathe our purpose every day, with flexible working, great perks, and work/life balance. We are dedicated to creating an inclusive culture where our employees can grow, learn, and do their best work. Our purpose is simple: make possibility a reality. Make an Impact As the Digital Performance Lead , you will elevate the performance of Endeavour Foundation\u2019s digital ecosystem across\u2026",
+            "title": "Digital Performance Lead",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAxMjY3MTQ0In0.q5l43ocUc10_bdjvW4Fmw8e0FBdN_7SFZZG28_wgMQw",
+            "latitude": -27.467089,
+            "location": {
+                "display_name": "Brisbane CBD, Brisbane",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "Brisbane CBD"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5501267144",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 153.023362,
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5464473091",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDY0NDczMDkxIn0.RLNwQRDsECzfUrXr2LsJjwFlLVC869RX6RU6v8eh9iE",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs"
+            },
+            "title": "Asset Management Analyst",
+            "description": "The Asset Management Analyst is responsible for provision of high-level analytical evaluation and maintenance of data integrity related to all critical and non-critical assets at the site. This role delivers accurate information related to asset life cycle conditions, maintenance, and regulatory requirements to necessary to optimize asset operational resiliency, reliability, efficiency and capability; and is a key contributor to the development of an integrated and Site wide asset management cu\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5464473091?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-10-26T04:23:02Z",
+            "company": {
+                "display_name": "Amentum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2025-11-19T06:01:47Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5502309293?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "id": "5502309293",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "Seven Hills"
+                ],
+                "display_name": "Seven Hills, Brisbane"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -27.476089,
+            "title": "Digital Performance Lead",
+            "description": "Endeavour Foundation is one of Australia\u2019s largest employers of people living with disability. Our people live and breathe our purpose every day, with flexible working, great perks, and work/life balance. We are dedicated to creating an inclusive culture where our employees can grow, learn, and do their best work. Our purpose is simple: make possibility a reality. Make an Impact As the Digital Performance Lead , you will elevate the performance of Endeavour Foundation\u2019s digital ecosystem across\u2026",
+            "salary_min": 115000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Endeavour Foundation"
+            },
+            "salary_max": 120000,
+            "salary_is_predicted": "0",
+            "longitude": 153.078234,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAyMzA5MjkzIn0.ZbXzE3SwbPyHKctyakH1uzvABkw2XHXlBvmxfMn8fYM"
+        },
+        {
+            "description": "Hungry, Humble, Honest, with Heart. The Opportunity We have an exciting career opportunity for a Senior Employee Relations Partner to join our Global Employee Relations team as a regional lead for APAC. In this key role on a people-focused ER team, you will apply your deep expertise in investigations, performance management, conflict resolution, and Employee Relations best practices \u2014 combined with data analytics and program management skills \u2014 to deliver high-quality ER support across a divers\u2026",
+            "title": "Senior Employee Relations Partner",
+            "company": {
+                "display_name": "Nutanix",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-15T04:15:42Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5447328031?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "id": "5447328031",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "category": {
+                "tag": "hr-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "HR & Recruitment Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDQ3MzI4MDMxIn0.scCbVp67o6ov842vatlGpMi3gk_sQ3QnFycw83SP5U4",
+            "latitude": -33.885283
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNjY4MDEzMSIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.kJ1Cf03GQUVefSxMJyplQPbZmM7_uVSqm-k9vgMZ1GI",
+            "latitude": -33.81839,
+            "location": {
+                "display_name": "Parramatta, Parramatta Area",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Western Sydney",
+                    "Parramatta Area",
+                    "Parramatta"
+                ]
+            },
+            "id": "5516680131",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.005359,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "The A21 Campaign"
+            },
+            "created": "2025-11-28T05:54:16Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5516680131?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "description": "WHO WE ARE: A21 is a nonprofit organization fueled by radical hope that human beings everywhere will be rescued from bondage and completely restored. We are the abolitionists of the 21st century, and we work to free people in slavery and disrupt the demand. For 17 years now, we've rolled up our sleeves and set our feet to action. Why? Because in a single moment a number can turn into a name, a tragedy into a victory, and a belief into an action. Freedom. That's our goal for every human being on\u2026",
+            "title": "Support Specialist"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "id": "5509880894",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA5ODgwODk0In0.W24kYV4CM6Ghkdc3EX4_Xq8CDaJyaPuU1Ft4rFwouQg",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Our business is growing, and so is our team. We\u2019re looking for an experienced System Administrator who thrives in a fast-paced environment, is a self-starter and driven by high quality outcomes. The Role You Could Play The System Administrator \u2013 People Applications is responsible for the day-to-day administration, configuration, and governance of Mecca\u2019s workforce and HR technology platforms \u2014 including UKG, Workday, HR3 and Donesafe. This role ensures application stability, data integrity, and\u2026",
+            "title": "System Administrator \u2013 People Applications",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5509880894?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MECCA"
+            },
+            "created": "2025-11-23T08:41:40Z"
+        },
+        {
+            "id": "5418177651",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxODE3NzY1MSIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.aSuq24WfdseqHoWmfcn3eq2leCxOB06cVctGNOxRUwQ",
+            "title": "Senior Customer Experience Consultant",
+            "description": "About SugarCRM From the very beginning, SugarCRM had a unique vision: to offer a different kind of customer relationship management (CRM) software. We pioneered a solution that easily adapts to customer needs, and now, more than two decades later, we\u2019re on a mission to help sales teams reach their highest potential. Our diverse team around the world shares a passion for helping customers succeed. Together, we\u2019re building a culture that values personal and professional growth\u2014and we\u2019re proud to \u2026",
+            "created": "2025-09-28T03:56:36Z",
+            "company": {
+                "display_name": "SugarCRM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5418177651?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "category": {
+                "label": "Scientific & QA Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDc4MTE3MyIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.f6CVYjP6D5gMWtj7yEOxuBNi1-03NR5JGLKSc8hgmDI",
+            "id": "5510781173",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "created": "2025-11-24T10:11:42Z",
+            "company": {
+                "display_name": "The Hospitals Contribution Fund of Australia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5510781173?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "contract_type": "contract",
+            "title": "Benefit Integrity Analyst",
+            "description": "At HCF, our Benefit Integrity team is dedicated to protecting our members\u2019 interests by ensuring claims are processed accurately, fairly, and in full compliance with industry regulations. We combine analytical rigour with a commitment to continuous improvement, helping to maintain the financial health of Australia\u2019s largest not-for-profit health insurer. As a Benefit Integrity Analyst, you will play a key role in identifying trends, risks, and opportunities related to health insurance claims an\u2026"
+        },
+        {
+            "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn\u2019t changed \u2014 we\u2019re here to stop breaches, and we\u2019ve redefined modern security with the world\u2019s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily . Our customers span all industries, and they count on CrowdStrike to keep their businesse\u2026",
+            "title": "Database Reliability Engineer (Remote, AUS)",
+            "company": {
+                "display_name": "CrowdStrike",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-09-04T21:10:40Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5382828935?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "id": "5382828935",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MzgyODI4OTM1In0.Dfy3Pc4WcYopsS4Dh3AktKlWHbOVUtJnQjFr3j-3BD4"
+        },
+        {
+            "title": "Industry Consultant",
+            "description": "\u2022 Join a global leader at the forefront of Automation, Robotics and Engineering \u2022 This role will be located in Notting Hill, VIC - WFH and Office flexibility \u2022 Innovative and supportive workplace culture We offer: Power your future and start you dream role with Dematic today ! Why Work for Dematic and what sets us apart? This is an exciting time to join Dematic. If you have ever wondered how your online shopping arrives to your door, we play a major part in this process, and we want you to join\u2026",
+            "created": "2025-11-29T05:48:53Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KION"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5518308693?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "id": "5518308693",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Monash Area",
+                    "Notting Hill"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Notting Hill, Monash Area"
+            },
+            "longitude": 145.14578,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Logistics & Warehouse Jobs"
+            },
+            "latitude": -37.9016,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4MzA4NjkzIn0.V6GV5YHSbPuN7vKv_Zhy_eNnORf2yT7lakJC_r-ho5M"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NjQ2NDQ4MCIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.Iem-3eK2-qjNyQbaRNceKoj4j0joSCwwExj5j2jKtRI",
+            "salary_max": 141000,
+            "id": "5456464480",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-10-21T04:24:49Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Booz Allen Hamilton"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5456464480?utm_medium=api&utm_source=58c69264",
+            "title": "RF Analyst and Operator, Mid",
+            "description": "RF Analyst and Operator, Mid The Opportunity: Critical decisions are made every day in our government. What if you could use your technical skills to help them make informed decisions? As an RF Analyst and Operator on our team, you\u2019ll use your specialized technical experience and your attention to detail to develop strategies to give your clients the actionable information and the context they need to understand and optimize their information landscape. If you have strong analytical skills and \u2026",
+            "salary_min": 61900
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjQxNjk1OCIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.5ImONa0LAlv9V9ew_v4KtLy9Ku1wtoc7-pzgXKwlqfI",
+            "id": "5526416958",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "created": "2025-12-04T05:59:26Z",
+            "company": {
+                "display_name": "Virgin Australia Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5526416958?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "title": "AI Engineering Lead",
+            "description": "Hello. We\u2019re Virgin Australia. We\u2019re the airline that\u2019s always done things a little different. Our way. The Virgin way. We\u2019re on a mission to make flying better than \u2018nice\u2019. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety \u2013 in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions. What you\u2019ll be doing: You\u2019ll be at the fo\u2026"
+        },
+        {
+            "created": "2025-11-05T04:42:09Z",
+            "company": {
+                "display_name": "Colgate-Palmolive Company",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5480743818?utm_medium=api&utm_source=58c69264",
+            "title": "Assistant Brand Manager, Hill's ANZ",
+            "description": "No Relocation Assistance Offered Job Number 170179 - Sydney, New South Wales, Australia Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their pets,\u2026",
+            "category": {
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDgwNzQzODE4In0.U5BOUhsEPebVddAxkC7sNbIUeS8lTqpP3G9e7-fzQjE",
+            "id": "5480743818",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMxNTgzMDEzIn0.FLZNPDOuwPwb8r12_CBHQFzsIUvOILGIe5rptPlxq0Y",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "salary_max": 141000,
+            "id": "5531583013",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5531583013?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-07T05:57:57Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Booz Allen Hamilton"
+            },
+            "title": "RF Analyst and Operator",
+            "description": "RF Analyst and Operator The Opportunity: Critical decisions are made every day in our government. What if you could use your technical skills to help them make informed decisions? As an RF Analyst and Operator on our team, you\u2019ll use your specialized technical experience and your attention to detail to develop strategies to give your clients the actionable information and the context they need to understand and optimize their information landscape. If you have strong analytical skills and a pro\u2026",
+            "salary_min": 61900
+        },
+        {
+            "created": "2025-11-24T10:35:58Z",
+            "company": {
+                "display_name": "Booz Allen Hamilton",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5510850910?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "title": "RF Analyst and Operator",
+            "salary_min": 61900,
+            "description": "RF Analyst and Operator The Opportunity: Critical decisions are made every day in our government. What if you could use your technical skills to help them make informed decisions? As an RF Analyst and Operator on our team, you\u2019ll use your specialized technical experience and your attention to detail to develop strategies to give your clients the actionable information and the context they need to understand and optimize their information landscape. If you have strong analytical skills and a pro\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTEwODUwOTEwIn0.FT0DECAR4PUCLwXdnUReN4FFT1W66j3T5wgWxLw-Ql0",
+            "salary_max": 141000,
+            "id": "5510850910",
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTU3ODIwOSIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.y6Ls5FQ1Efozx-oSAvIAxUksSBALejv8QMB3_lyJjEw",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5485578209",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "East Brisbane"
+                ],
+                "display_name": "East Brisbane, Brisbane"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5485578209?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-08T01:57:17Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PsiQuantum"
+            },
+            "title": "Internship Resume Submission \u2013 Australia only",
+            "description": "PsiQuantum\u2019s mission is to build the first useful quantum computers\u2014machines capable of delivering the breakthroughs the field has long promised. Since our founding in 2016, our singular focus has been to build and deploy million-qubit, fault-tolerant quantum systems. Quantum computers harness the laws of quantum mechanics to solve problems that even the most advanced supercomputers or AI systems will never reach. Their impact will span energy, pharmaceuticals, finance, agriculture, transportat\u2026",
+            "contract_type": "contract"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5531584202?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-07T06:00:26Z",
+            "company": {
+                "display_name": "Cirium",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Business Development Manager",
+            "description": "About the job Business Development Manager Are you a talented sales professional? Will you like to be part of a high-growth sales team in APAC? About the company At Cirium, our purpose is to make aircraft do more for humanity. We are the industry leader in aviation data and analytics; enabling airlines, airports, travel companies, tech giants, aircraft manufacturers, financial institutions and many more accelerate their own digital transformation. Find out more about careers at Cirium, hear fro\u2026",
+            "contract_type": "permanent",
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTU4NDIwMiIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.uRLxhfqT0EbUZ7kXAvE4KyC1Xu3BqZI_eR0JZcKAD58",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs",
+                "tag": "sales-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "salary_is_predicted": "0",
+            "id": "5531584202",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2025-12-08T06:09:01Z",
+            "company": {
+                "display_name": "News Corp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5532725786?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "title": "Digital Product Manager Sport",
+            "description": "What's the role? As the perennial leader in Australian sports media, News Corp Australia requires a product team that is as passionate about shaping premium digital experiences as our readers are about their sports. As a Product Manager, you will deliver consumer-led product solutions across our websites and apps to increase consumer engagement, grow our audience reach and drive subscription growth. Reporting to the Head of Product for our State & Community pillar and working directly with the \u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "creative-design-jobs",
+                "label": "Creative & Design Jobs"
+            },
+            "latitude": -33.88882,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjcyNTc4NiIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.IDqzbBSodc7h4K-1TZ2tjyTnMzAsNJVjWkJQiJBT38Y",
+            "id": "5532725786",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "Surry Hills"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Surry Hills, Sydney"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.21333
+        },
+        {
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "id": "5475527531",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NTUyNzUzMSIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.IzU_wHiR4mGyOcERHpNTIIG2nTq6G7w3Iq9gBYeABV0",
+            "description": "HUB24 leads the wealth industry as the best provider of integrated platform, technology and data solutions. At HUB24, we know the smartest investments start with our people. We are innovative and ambitious, and we move fast. At HUB24, we empower our employees to bring their ideas and creativity to work. Rather than getting bogged down in bureaucracy and red tape, we build a culture that supports our team members to have a real impact on our business and the success of our customers. HUB24 Limit\u2026",
+            "title": "Risk Analyst",
+            "company": {
+                "display_name": "HUB24",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-02T04:27:27Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5475527531?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5456463233?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-21T04:19:08Z",
+            "company": {
+                "display_name": "Baker Hughes",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Early Engagement - Senior Reliability Engineer, Australia (DS)",
+            "description": "At Baker Hughes, we are building a Talent Community of highly talented and motivated professionals for future job roles. If you match the described job role and are as excited as we are to have you on-board in the future, please hit the apply button to be a part of our Talent Community. As a member of our talent community, you will be amongst the first to get exclusive news about Baker Hughes, various cool projects we are working on, our employee success stories and new job opportunities you ma\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NjQ2MzIzMyIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.I2HuNCu7890dSnYmfN42rI1pWlJRTJalTX12p5MvXoU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5456463233",
+            "location": {
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ]
+            }
+        },
+        {
+            "latitude": -33.865715,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI5MDQ4OTE4In0.QLCgw5R6dESqsi5RC9qLuEWvdBahibL1t01bPE5KhcU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.206616,
+            "id": "5529048918",
+            "location": {
+                "display_name": "The Rocks, Sydney",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5529048918?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-05T20:44:14Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JLL"
+            },
+            "title": "Research Analyst",
+            "description": "This is a Research Analyst role with JLL based in Sydney, NSW, AU  JLL  Role Seniority - graduate More about the Research Analyst role at JLL JLL empowers you to shape a brighter way . Our people at JLL and JLL Technologies are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where the\u2026"
+        },
+        {
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI0OTc5Nzc2NTEyIn0.KlFf6wCQuNdQN-JmxLoKnhtQxvcqt-VBMyByGivVd7w",
+            "latitude": -33.885283,
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4979776512",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "company": {
+                "display_name": "SIG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-12-16T18:16:12Z",
+            "redirect_url": "https://www.adzuna.com.au/details/4979776512?utm_medium=api&utm_source=58c69264",
+            "description": "We\u2019re looking for quant-minded strategists who value the power of interdisciplinary knowledge and cooperative thinking. Our Quantitative Systematic Traders combine the skills of quantitative research with the knowledge of trading to develop new electronic strategies and monitor real-time performance. As a true hybrid of our core disciplines, Quantitative Systematic Traders are constantly communicating and connecting ideas between trading, technology, and quantitative research. The general life \u2026",
+            "title": "Quantitative Systematic Trader - Honours and Master\u2019s"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia"
+            },
+            "id": "5473075369",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDczMDc1MzY5In0.VIdsHcLWUHPjb6NdFuV95iZnEEwrE1AV2hDVqmEgc6A",
+            "category": {
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs"
+            },
+            "description": "Join a Global Team Making a Lasting Impact with Lumivero Are you ready to be part of a team that\u2019s changing the world? At Lumivero, we develop powerful data-intelligence software that empowers users to answer their most pressing questions. Our trusted research, decision-making, and organizational tools help academic and corporate professionals create impactful insights from their most complex data \u2013 enabling them to work more efficiently and make informed, confident decisions. The Role \u200bLumiver\u2026",
+            "title": "Enterprise Account Executive",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5473075369?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lumivero"
+            },
+            "created": "2025-11-01T04:23:31Z"
+        },
+        {
+            "company": {
+                "display_name": "PeopleHub",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-19T05:41:02Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5502282966?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "description": "Description Where good people grow great futures At Dairy Australia, we believe in growing great futures - that includes yours. Here, you'll contribute to something bigger: the livelihood of farmers, the sustainability of communities in dairy regions and the future of one of Australia's most vital industries. Working alongside people whose knowledge and passion run deep, you\u2019ll love being part of a team where flexibility matters and support comes in abundance. What\u2019s more, we\u2019re as invested in \u2026",
+            "title": "Analysis & Insights Manager",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs",
+                "label": "Consultancy Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjI4Mjk2NiIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.g0kLEnUdLGqXDFlXxHfPKsxgBYZqw81GzZw4O2ok1gQ",
+            "latitude": -37.82286,
+            "location": {
+                "display_name": "Southbank, Melbourne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne",
+                    "Southbank"
+                ]
+            },
+            "id": "5502282966",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 144.96442
+        },
+        {
+            "category": {
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs"
+            },
+            "latitude": -37.806509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM2ODUyNTk3In0.fvAiK2eXZd2BAfnWBvqimq5T_ViNJh-diwMMBJzJd5s",
+            "id": "5536852597",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 144.957935,
+            "created": "2025-12-11T06:17:20Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Varonis"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5536852597?utm_medium=api&utm_source=58c69264",
+            "title": "Sales Development Representative",
+            "description": "Description Job Description Job Title :Sales Development Representative (SDR) FLSA Status : Non E xempt Department : Sales Summary Varonis Systems is the leader in unstructured and semi-structured data governance software , which is any human generated data that is within a company\u2019s environment. O ur goal is to protect companies most sensitive information from insider threats and cyberattacks. We do this by allowing organizations to analyze, secure, manage, and migrate their volumes of unstruc\u2026"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "id": "5509697687",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwOTY5NzY4NyIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.TzR6sJDKfy62n8c1608QnXnci_XmJ2XFHszY_iewMBs",
+            "latitude": -33.885283,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "description": "Susquehanna technologists are at the heart of where cutting-edge technology meets the fast-paced world of trading. Our growing teams build some of the most powerful trading systems in the financial industry and solve complex problems in a constantly changing environment. From large scale computations, real-time systems, high performance computing to petabytes of data. By integrating sophisticated coding techniques with innovative engineering ideas, we design and optimise systems that can proces\u2026",
+            "title": "C++ Developer",
+            "redirect_url": "https://www.adzuna.com.au/details/5509697687?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "SIG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-23T07:51:51Z"
+        },
+        {
+            "company": {
+                "display_name": "SIG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-12-16T18:16:12Z",
+            "redirect_url": "https://www.adzuna.com.au/details/4979776510?utm_medium=api&utm_source=58c69264",
+            "description": "We\u2019re looking for quant-minded strategists who value the power of interdisciplinary knowledge and cooperative thinking. Our Quantitative Systematic Traders combine the skills of quantitative research with the knowledge of trading to develop new electronic strategies and monitor real-time performance. As a true hybrid of our core disciplines, Quantitative Systematic Traders are constantly communicating and connecting ideas between trading, technology, and quantitative research. The general life \u2026",
+            "title": "Quantitative Systematic Trader - PhD",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk3OTc3NjUxMCIsInMiOiI0QnJGazg3VzhCR2UzS3BfM2VvSDNRIn0.7KXMSYInhbmm_nFCzfOM8L_VDtHxFFjc--GsQCOZoWs",
+            "latitude": -33.885283,
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "id": "4979776510",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-11T11:19:44Z",
+            "company": {
+                "display_name": "Alfred Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5537163775?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "contract_type": "contract",
+            "title": "Clinical Trial Coordinator",
+            "description": "Alfred Health Alfred Health is a leader in health care delivery, improvement, research and education. We are the main provider of health services to people living in the inner southeast suburbs of Melbourne, from ambulatory to inpatient and home and community-based services. On 1 January 2026, Alfred Health will come together with Kooweerup Regional Health Service, Peninsula Health, Bass Coast Health and Gippsland Southern Health Service to create Bayside Health, a newly merged health service w\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Healthcare & Nursing Jobs",
+                "tag": "healthcare-nursing-jobs"
+            },
+            "latitude": -37.844856,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNEJyRms4N1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3MTYzNzc1In0.9D46suldwvVdfNbg2mycm8YbEl-6uG2wyE6erO4vO7I",
+            "id": "5537163775",
+            "location": {
+                "display_name": "Middle Park, Port Phillip",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Port Phillip",
+                    "Middle Park"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 144.977613
+        }
+    ],
+    "mean": 113870.02
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+
+# Environment
+.env
+.streamlit/secrets.toml
+
+# Data files
+data/data_raw/
+data/data_processing/
+data/data_processed/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log

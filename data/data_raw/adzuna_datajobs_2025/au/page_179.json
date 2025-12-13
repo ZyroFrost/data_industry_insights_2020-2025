@@ -1,0 +1,1533 @@
+{
+    "mean": 113870.02,
+    "count": 14587,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "salary_min": 72140,
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "id": "4912010669",
+            "title": "Temporary Employment Register - Corporate",
+            "salary_max": 72140,
+            "company": {
+                "display_name": "APS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) is Australia's independent expert regulator for health and safety, structural integrity, well integrity and environmental management for all offshore energy operations and greenhouse gas storage activities in Commonwealth waters, and in coastal waters where regulatory powers and functions have been conferred. NOPSEMA also administers the functions of the Offshore Infrastructure Regulator (OIR), for the offsh\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI0OTEyMDEwNjY5In0.VVeKCFyR3ATugcM0tEUlX2s_qgbXExzx51Nc_NZt1g8",
+            "redirect_url": "https://www.adzuna.com.au/details/4912010669?utm_medium=api&utm_source=58c69264",
+            "created": "2024-10-24T16:39:40Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Scientific & QA Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-05-14T23:40:25Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE5ODE2NTgzOSIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.hT98wwaOTQdJ_ePw3k8ps4wDpntkb9ihpUCKTLEk-Dc",
+            "redirect_url": "https://www.adzuna.com.au/details/5198165839?utm_medium=api&utm_source=58c69264",
+            "latitude": -37.806509,
+            "description": "Company Overview EIL Global IT Solutions and Services Pvt Ltd is a leading IT service provider headquartered in Adelaide, Australia, with offices across Asia Pacific and EMEA regions. Specializing in an array of technologies including desktops, servers, networks, and data center solutions, EIL Global supports the digital transformation of enterprises with professional and managed IT services, incorporating AIOPS, AI automation, and Blockchain solutions. As a company with a team size of 11-50 em\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "id": "5198165839",
+            "title": "Desktop and Network support FE- Melbourne",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EIL Global IT Solutions and Services Pvt Ltd"
+            },
+            "longitude": 144.957935,
+            "location": {
+                "display_name": "Melbourne, Melbourne Region",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5048310870?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA0ODMxMDg3MCIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.o-8D8WCBeVldPgBdu6_Klg-f-wvsrHT0cdEq7gStwu0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-02-14T00:08:59Z",
+            "title": "IT Field Services Technician",
+            "salary_is_predicted": "0",
+            "id": "5048310870",
+            "company": {
+                "display_name": "EIL Global IT Solutions and Services Pvt Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane"
+                ],
+                "display_name": "Brisbane, Brisbane Region"
+            },
+            "longitude": 152.928532,
+            "description": "Company Overview We are EIL Global IT Solutions and Services Pvt Ltd, a dynamic organization providing comprehensive IT services across the Asia Pacific and EMEA regions. Specializing in a range of cutting-edge technologies, EIL Global supports enterprises in their digital transformation journeys with professional and managed services. Catering to the IT infrastructure landscape, our expertise spans desktops, servers, networks, and data centers, along with AIOPS and AI-based automation solution\u2026",
+            "latitude": -27.416056,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Company Overview EIL Global is an IT solutions company headquartered in Adelaide, Australia, delivering IT services across Asia Pacific and EMEA. Specializing in desktops, servers, networks, and data center technologies, EIL Global supports enterprises through professional and managed services, focusing on digital transformation using advanced technologies such as AIOPS and AI-based workforce automation. EIL Global is dedicated to providing comprehensive IT infrastructure solutions. Job Overvie\u2026",
+            "latitude": -33.885283,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5267450877",
+            "contract_type": "contract",
+            "title": "Desktop & Network Support Field Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EIL Global IT Solutions and Services Pvt Ltd"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 151.203231,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "part_time",
+            "created": "2025-06-25T23:55:53Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5267450877?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI2NzQ1MDg3NyIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.rn2FzM7YHSYIWah20fkGR2GQzx6yROruTRlOGCf4XkQ"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "IT Field Services Technician",
+            "company": {
+                "display_name": "EIL Global IT Solutions and Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5281113084",
+            "salary_max": 108000,
+            "salary_min": 72000,
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Company Overview We are EIL Global IT Solutions and Services Pvt Ltd, a dynamic organization providing comprehensive IT services across the Asia Pacific and EMEA regions. Specializing in a range of cutting-edge technologies, EIL Global supports enterprises in their digital transformation journeys with professional and managed services. Catering to the IT infrastructure landscape, our expertise spans desktops, servers, networks, and data centers, along with AIOPS and AI-based automation solution\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.au/details/5281113084?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjgxMTEzMDg0In0.OdahdE37Gw1fkQUmMESfjZqDUqIKMKy6-OjIAov-LV8",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-07-03T20:34:05Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Security Engineer",
+            "id": "5326449390",
+            "company": {
+                "display_name": "Jump Trading",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incentivising collaboration and mutual respe\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.au/details/5326449390?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzI2NDQ5MzkwIn0.TpEshH_UbsFOKtbJW1JicmSLSFQPltS-8WoibSRAYlI",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-07-29T20:52:45Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-06-30T18:13:57Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI3NTQ2MDA5OSIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.jKC6IQKcI9r_jQMmbIecImvnmziFQ93FuET8zVdQ6IU",
+            "redirect_url": "https://www.adzuna.com.au/details/5275460099?utm_medium=api&utm_source=58c69264",
+            "description": "Job role: Angular Front End Tech Developer & Lead Location: Sydney Job Overview: We are seeking an experienced Front End Technical Lead/Architect to join our team and take charge of designing and architecting the front-end framework for a new digital web application. This role requires a strategic thinker with extensive experience in the Angular framework and a proven track record of successfully leading a team of front-end engineers. Experience in assessing digital projects and estimating fron\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Front End Developer /Lead",
+            "company": {
+                "display_name": "Tech Aalto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5275460099",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Monash Area",
+                    "Mulgrave"
+                ],
+                "display_name": "Mulgrave, Monash Area"
+            },
+            "longitude": 145.172893,
+            "salary_is_predicted": "0",
+            "id": "5364013679",
+            "title": "Operating Standards Specialist",
+            "company": {
+                "display_name": "BYD Australia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About BYD BYD is a high-tech company devoted to technological innovations for a better life. BYD is dedicated to providing zero-emission energy solutions. As a leading battery-electric zero-emission vehicle (ZEV) manufacturer, BYD has created a broad range of battery-electric, hybrid-electric, and internal combustion (IC) passenger vehicles. Developing electric vehicles that are intelligent and connected, BYD is inaugurating a new age of automotive innovation featuring a sleek design and an inn\u2026",
+            "latitude": -37.929148,
+            "redirect_url": "https://www.adzuna.com.au/details/5364013679?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzY0MDEzNjc5In0.qZBr0Cn69JB9-x0LGdKchlKGzQ3cneeKnJ8yMNJryTY",
+            "created": "2025-08-23T05:17:15Z",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2025-08-27T21:02:06Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5370143988?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzcwMTQzOTg4In0.DtUCwjec7KA4S7UXTHR5KQ9mKPprFkWp70jbZsObOGA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Us Founded 37 years ago, Micromine is at the cutting edge of next-generation technology for mining. With offices in 9 different countries, we are one of the world's premier mining software companies; our technology is used in all corners of the globe. What We Offer An established multinational business that is growing fast, with great benefits: A role at the intersection of geology and technology in the mining sector. Perth CBD-based with flexibility and work-from-home options. 12 weeks p\u2026",
+            "latitude": -31.953357,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Perth CBD, Perth",
+                "area": [
+                    "Australia",
+                    "Western Australia",
+                    "Perth Region",
+                    "Perth",
+                    "Perth CBD"
+                ]
+            },
+            "longitude": 115.859784,
+            "title": "Junior Geologist (Technical Presales)",
+            "salary_is_predicted": "0",
+            "id": "5370143988",
+            "company": {
+                "display_name": "Micromine",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Account Executive, Social & Influencer",
+            "id": "5382841954",
+            "company": {
+                "display_name": "Daniel J Edelman Holdings",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 151.203231,
+            "description": "Edelman is a global communications firm that partners with businesses and organizations to evolve, promote and protect their brands and reputations. We believe that digital offers an exciting opportunity to connect with people. Our approach and ideas allow brands to reach beyond the screen to inspire action. The stories we tell are always designed to move people to act, to share, to see things differently, to spread the word, to fall back in love with a brand, and ultimately, to buy. The Accoun\u2026",
+            "latitude": -33.885283,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.au/details/5382841954?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM4Mjg0MTk1NCIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.f_vEVmIqKPuXoaYKYqCC3GQmovJFQ5M_xhyQcQiGZ-o",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-09-04T21:13:37Z"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "part_time",
+            "created": "2025-09-07T05:40:25Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5386999249?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzg2OTk5MjQ5In0.nGcpGA3ICOyifRxxYtonXtxdcsWNYbNQ28iNwwenRZI",
+            "description": "Company Overview EIL Global IT Solutions and Services Pvt Ltd is a leading IT service provider headquartered in Adelaide, Australia, with a presence across Asia Pacific and EMEA. Specializing in desktops, servers, networks, and data center technologies, we aid enterprises in their digital transformation journeys. Our comprehensive solutions include professional and managed services, AIOPS, AI-based Workforce Automation, and Blockchain Solutions. Visit us at EIL Global for more information. Job \u2026",
+            "latitude": -27.416056,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "id": "5386999249",
+            "title": "Onsite Desktop & Network Support Engineer-Brisbane",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EIL Global IT Solutions and Services Pvt Ltd"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane"
+                ],
+                "display_name": "Brisbane, Brisbane Region"
+            },
+            "longitude": 152.928532
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Cold End Operator/Technician (Multiple roles) Job no: 512073 Work type: Full Time Location: Yatala, Gold Coast At Visy, our people set us apart. We focus on finding solutions, seizing opportunities, and driving progress. We seek individuals who are forward-thinking and action-oriented, those helping us lead in sustainable packaging. Together, we\u2019re building a better future. About the Opportunity: Our new glass factory in Yatala is our largest investment to date. It will recycle up to 200,000 to\u2026",
+            "latitude": -27.979275,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Gold Coast Region"
+                ],
+                "display_name": "Gold Coast Region, Queensland"
+            },
+            "longitude": 153.340396,
+            "id": "5356390039",
+            "salary_is_predicted": "0",
+            "title": "Cold End Operator/Technician (Multiple roles)",
+            "company": {
+                "display_name": "Visy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-08-17T20:55:29Z",
+            "category": {
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Manufacturing Jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5356390039?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzU2MzkwMDM5In0.bF9ydlajiZvcyN7PYZyS8riEni7ev2eSmx5bE_Lju60"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI4MTEwNzE4NiIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.Uvgi-y2IpGwW9A0NlxHGkSQEBxYyv6RGJS64CJdBC0w",
+            "redirect_url": "https://www.adzuna.com.au/details/5281107186?utm_medium=api&utm_source=58c69264",
+            "created": "2025-07-03T20:30:54Z",
+            "contract_time": "part_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 62400,
+            "salary_max": 208000,
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "title": "Desktop Support Specialist",
+            "id": "5281107186",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EIL Global IT Solutions and Services"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Company Overview EIL Global IT Solutions and Services Pvt Ltd is a prominent IT service provider based in Adelaide, Australia. We focus on enabling the digital transformation of enterprises with professional and managed services in IT infrastructure, artificial intelligence, and blockchain solutions. Operating across Asia Pacific and EMEA, we have a diverse client base supported by our expertise in desktops, servers, networks, and data centre technologies. Job Overview We are seeking a dedicate\u2026"
+        },
+        {
+            "category": {
+                "tag": "social-work-jobs",
+                "label": "Social work Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-09-16T10:24:35Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5400907038?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDAwOTA3MDM4In0.C5ChqXTN8-iy7F9P8JOOeIond0UiObBCn1uBoeyMfnY",
+            "description": "Flexible working conditions Up to $3,500 for relocation assistance to Darwin Wellness vouchers for employee wellbeing Why Veritable? Veritable has a reputation for providing the most innovative, responsive, evidence-based, and person-centred specialist supports to people and service providers in remote Australia. This includes direct support for clients, reflective sessions, consultancy, and group workshops. They invest in their staff so, they are continuously learning, offer high quality servi\u2026",
+            "latitude": -15.622074,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "id": "5400907038",
+            "title": "Behaviour Support Practitioner - Veritable - Darwin",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Northern Territory PHN"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Northern Territory",
+                    "Darwin Region"
+                ],
+                "display_name": "Darwin Region, Northern Territory"
+            },
+            "longitude": 131.955335
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDAxNTY2MzcwIn0.t4tRJb5Ionkw4_VfzoZ1G972ky9clywJjg6UAZbQkDc",
+            "redirect_url": "https://www.adzuna.com.au/details/5401566370?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-17T03:15:56Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "title": "Electrical Systems Engineer",
+            "id": "5401566370",
+            "company": {
+                "display_name": "Our client",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Our client is an international manufacturer and supplier of specialised machinery and equipment for the meat processing industry. The company leads the world in the innovation and development of meat processing solutions that raise the bar on the hygiene and table quality of retail meat products. At this time we are looking for a Senior Control Systems Engineer to take on a pivotal role in the customisation and integration of new and existing installations that incorporate this technology into \u2026"
+        },
+        {
+            "created": "2025-09-17T03:21:36Z",
+            "category": {
+                "tag": "trade-construction-jobs",
+                "label": "Trade & Construction Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDAxNTc0MzIxIn0.yTtfD6l6lHQcPR14h9Oe93lq4PN9xIP6PbFp6eLZ-hw",
+            "redirect_url": "https://www.adzuna.com.au/details/5401574321?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -15.622074,
+            "description": "Fantastic Opportunity! Our client who is a manufacturing leader in the electrical cabling industry are seeking to appoint a Project Coordinator for a newly created position. Based in the Northern Territory suburbs, they are a great company to work for! Essential - Electrical Cable Industry Experience Benefits: State bonus scheme Career development Opportunities Great team environment Retirement Fund Flexible Work Hours Key Responsibilities: To manage, monitor and support Projects and assist in \u2026",
+            "longitude": 131.955335,
+            "location": {
+                "area": [
+                    "Australia",
+                    "Northern Territory",
+                    "Darwin Region"
+                ],
+                "display_name": "Darwin Region, Northern Territory",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5401574321",
+            "contract_type": "contract",
+            "title": "Project Coordinator",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RPR Trades"
+            }
+        },
+        {
+            "company": {
+                "display_name": "RPR Trades",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "title": "Project Coordinator WA",
+            "id": "5401571314",
+            "location": {
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Fantastic Opportunity! Our client who is a manufacturing leader in the electrical cabling industry are seeking to appoint a Project Coordinator for a newly created position. Based in Perth's southern suburbs, they truly are a great company to work for! Essential - Electrical Cable Industry Experience Benefits: State bonus scheme Career development Opportunities Great team environment Retirement Fund Flexible Work Hours Key Responsibilities: To manage, monitor and support Projects and assist in \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.au/details/5401571314?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMTU3MTMxNCIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.0dQxRInBcuQDZg0k92qn4JG2bELXEjJN2UiqUE-01Nw",
+            "category": {
+                "tag": "trade-construction-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trade & Construction Jobs"
+            },
+            "created": "2025-09-17T03:19:52Z"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-20T03:47:24Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwNzA4MTU3NCIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.tcsJjF2jW-l2rNdlvNQeCMlRHtAB8HrRdE5AEn_TbXQ",
+            "redirect_url": "https://www.adzuna.com.au/details/5407081574?utm_medium=api&utm_source=58c69264",
+            "description": "SailPoint Tester About the Role We are seeking an experienced SailPoint Tester to join our Identity and Access Management (IAM) team. The ideal candidate will have strong expertise in test planning, test strategy, and execution for SailPoint implementations, including out-of-the-box (OOTB) and custom connectors, automated provisioning/de-provisioning, and application onboarding . The role requires hands-on experience in designing and executing test cases for IAM use cases, JML (Joiner, Mover, L\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "SailPoint Tester",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Tech Aalto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5407081574",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "About Us Founded 37 years ago, Micromine is at the cutting edge of next-generation technology for mining. With offices in 9 different countries, we are one of the world's premier mining software companies; our technology is used in all corners of the globe. What We Offer An established multinational business, growing fast, with great benefits: High growth company providing growth opportunities for our people Work from home (WFH) and flexibility options to balance work and home life 12 weeks pai\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Senior Product Specialist (Pitram)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Micromine"
+            },
+            "id": "5408547246",
+            "location": {
+                "display_name": "East Brisbane, Brisbane",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "East Brisbane"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-21T03:29:41Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDA4NTQ3MjQ2In0.DIt8LNTSZAhi_17718ixjyiW3-6wDx9tEi8Ba51rqtU",
+            "redirect_url": "https://www.adzuna.com.au/details/5408547246?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "description": "Are you a client-focused operator with sharp commercial instincts and a passion for delivering high-impact projects? We\u2019re looking for an experienced Account Manager to join our fast-paced, cross-functional team delivering cutting-edge exhibitions and brand experiences across Australia and beyond. At Expo Centric, we don\u2019t just build stands \u2014 we shape outcomes. Our Account Managers don\u2019t sit on the sidelines; they own the delivery of every project, from initial brief through to on-site executio\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rydalmere, Parramatta Area",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Western Sydney",
+                    "Parramatta Area",
+                    "Rydalmere"
+                ]
+            },
+            "salary_min": 90000,
+            "title": "Account Manager",
+            "salary_max": 110000,
+            "company": {
+                "display_name": "Expo Centric",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-09-24T04:02:40Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDEyMzA0ODM5In0.hIZtnVrTy_fcvF9vX_RoaOzEj4zFCu3nnt2fUdCa2-g",
+            "redirect_url": "https://www.adzuna.com.au/details/5412304839?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -33.812414,
+            "longitude": 151.038422,
+            "salary_is_predicted": "0",
+            "id": "5412304839"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Enterprise Systems Engineer (SASE) - Australia",
+            "id": "5413792523",
+            "company": {
+                "display_name": "Fortinet",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "description": "Description Location: Australia (Sydney, Melbourne, Brisbane, Adelaide) Join Fortinet, a cybersecurity pioneer with over two decades of excellence, as we continue to shape the future of cybersecurity and redefine the intersection of networking and security. At Fortinet, our mission is to safeguard people, devices, and data everywhere. We are currently seeking a dynamic Systems Engineer to contribute to the success of our rapidly growing business. You would act as the Systems Engineer for SASE. \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.au/details/5413792523?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMzc5MjUyMyIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.yULu1-xbP1yZw5em4COyc-9UbMozo_Zu2D8jDrLyw9g",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-09-25T03:27:14Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Why Smart People Join Epic? Work That Matters You won\u2019t just be ticking boxes. You\u2019ll shape risk assessments that guide critical decisions across infrastructure, contaminated land, mining, and industrial redevelopment \u2014 with real-world health and ecological impacts. A Culture You\u2019ll Thrive In We ditch the hierarchy and politics. You\u2019ll work with down-to-earth experts who back each other, share knowledge, and know how to enjoy the ride. Career Progression Without the Spin We invest in your devel\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region"
+            },
+            "salary_is_predicted": "0",
+            "title": "Principal Human Health/Ecological risk assessor",
+            "id": "5319319828",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Montrose Environmental Group"
+            },
+            "created": "2025-07-24T11:02:13Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Consultancy Jobs",
+                "tag": "consultancy-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5319319828?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzE5MzE5ODI4In0.G3sIvEY2hUjJ6NKiddtckTKBgoLBZs-FLVIrAp5q7z0"
+        },
+        {
+            "title": "Child Care Educator",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hillsong"
+            },
+            "id": "4942089512",
+            "longitude": 150.974102,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "The Hills District",
+                    "Baulkham Hills"
+                ],
+                "display_name": "Baulkham Hills, The Hills District"
+            },
+            "latitude": -33.759345,
+            "description": "Are you passionate about working with children? Do you have early childhood qualifications and want to work in a Christ-centered environment that is focused on fostering children's development? Do you want to be part of a fun and supportive team that is investing and developing young lives? Our Child Care Team are currently looking for a Child Care Educator to be an active team member which provides high quality early childhood education and care to children by developing strong relationships w\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI0OTQyMDg5NTEyIn0.x0YJiJ7FrbVc6FriPeI-ZxVFCOzYD8-vWzoSf5SKgsc",
+            "redirect_url": "https://www.adzuna.com.au/details/4942089512?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "teaching-jobs",
+                "label": "Teaching Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2024-11-17T20:35:40Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Us Harnest, part of the Mazzei Group, is dedicated to building stronger communities through safe, inclusive and dignified housing. We partner with government, community organisations and private clients to deliver high-quality social, affordable and specialist disability accommodation across Victoria and South Australia. About the Role We\u2019re seeking an experienced Estimator to join our growing Harnest team. Reporting to the Estimating Manager, you\u2019ll play a key role in the preparation of \u2026",
+            "latitude": -37.823757,
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Boroondara Area",
+                    "Glenferrie South"
+                ],
+                "display_name": "Glenferrie South, Boroondara Area",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 145.035778,
+            "salary_is_predicted": "0",
+            "title": "Estimator",
+            "id": "5426427103",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mazzei Group"
+            },
+            "created": "2025-10-02T19:51:09Z",
+            "category": {
+                "tag": "trade-construction-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trade & Construction Jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5426427103?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNjQyNzEwMyIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.utZCVV3gr_2rM1Otk_wMhla7IQiIrZdYOJAl1ipQlks"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "salary_min": 90000,
+            "salary_is_predicted": "0",
+            "title": "BCBA Clinical Director",
+            "id": "5429709424",
+            "salary_max": 95000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Empower Behavioral Health"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Full-time Description Reports to: Area Clinical Manager The Clinical Director is responsible for providing clinical leadership to staff, maintaining high clinical quality standards for all patients, and demonstrating exceptional supervision and mentorship to BCBAs on their team. Come join our team! Duties and Responsibilities: Assist with conducting BCBA interviews and making hiring decisions in conjunction with Human Resources and RCD Complete and oversee new hire training for BCBAs Conduct on\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDI5NzA5NDI0In0.IokBjpfE1SbC5gLwaExwf4VRoOHXGHJP6bbmHfuVOBA",
+            "redirect_url": "https://www.adzuna.com.au/details/5429709424?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-04T03:35:03Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Healthcare & Nursing Jobs",
+                "tag": "healthcare-nursing-jobs"
+            }
+        },
+        {
+            "category": {
+                "tag": "maintenance-jobs",
+                "label": "Maintenance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-04T14:12:18Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5430778881?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzMDc3ODg4MSIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.Dq52MKbpDNXk3lBdfgdFPY6mGHRYQzyHNJ_pkpSJ5ZU",
+            "description": "About Us Greyhound Australia is the country\u2019s only national coach company and has proudly connected Australians for over 110 years. In 2023, we began an exciting new chapter as part of the Entrada Travel Group, expanding our travel and tourism operations across Australia and New Zealand. We\u2019re focused on the future and proud to be ambassadors of the beautiful country we share and explore every day. When you join us, you don\u2019t just see Australia\u2014you feel the heart of Australia and now is a fanta\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Greyhound Australia - Leading Hand - Relocate to Brisbane",
+            "company": {
+                "display_name": "Greyhound",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5430778881",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "title": "Registered Nurse, Don Medical Clinic",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HR+"
+            },
+            "id": "5409604943",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "description": "Vacancies Registered Nurse, Don Medical Clinic Don Medical Clinic Location: North West Tasmania Occupation: Nursing Position Type: Permanent, Part Time Don Medical Clinic is seeking a compassionate and experienced Registered Nurse to join their friendly general practice team in Devonport, Tasmania. This part-time position offers the opportunity to make a real difference in the lives of patients while working in a supportive, GP-owned clinic. The Position As a Registered Nurse in general practic\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDA5NjA0OTQzIn0.4jy7UrsGztwq8zUW7AJ_vPgNlf25TiQg9JffFuUXH_s",
+            "redirect_url": "https://www.adzuna.com.au/details/5409604943?utm_medium=api&utm_source=58c69264",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "healthcare-nursing-jobs",
+                "label": "Healthcare & Nursing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-21T21:47:58Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5120332752?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MTIwMzMyNzUyIn0.vw-mxLzvPH90BhQo6q8E2SwJRpFYbtL8tMi_h5gPzIk",
+            "created": "2025-04-01T06:17:15Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ]
+            },
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "title": "UI Developer",
+            "id": "5120332752",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Tech Aalto"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Title: Senior UI Developer - React.js  Node.js  Express Location: Melbourne Job Type: Contract About the Role: We are looking for a skilled Senior UI Developer with expertise in React.js, Node.js, and Express to design, develop, and maintain high-quality web applications. The ideal candidate will have strong experience in front-end and back-end development, database management, and API integrations, ensuring seamless functionality and performance across platforms. Key Responsibilities: Deve\u2026"
+        },
+        {
+            "created": "2025-10-09T04:15:37Z",
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDM3NTc5NDU1In0.kvbtx22ST4bfMF_LIjYFTfuIf1E1SuN3p1dq4f3ZsF4",
+            "redirect_url": "https://www.adzuna.com.au/details/5437579455?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "What are we looking for? As an Account Executive covering regional accounts, you will be tasked with building out a direct sales channel as well as various partner-led solution channels including managed security services. You will work closely with the marketing and product teams to design and implement successful Lead Generation and Go-to-Market campaigns, and drive overall sales excellence in a competitive endpoint security market. Ideal candidates will have prior experience selling Endpoint\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "East Brisbane"
+                ],
+                "display_name": "East Brisbane, Brisbane"
+            },
+            "salary_is_predicted": "0",
+            "title": "Queensland Territory Manager",
+            "id": "5437579455",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SentinelOne"
+            }
+        },
+        {
+            "id": "5341711271",
+            "salary_is_predicted": "0",
+            "title": "Maintenance Electrical Technician",
+            "company": {
+                "display_name": "Serioplast",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "description": "Serioplast , a Global Leader in Rigid Plastic Packaging , is Looking for an Maintenance Electrical Technician for the plants in Ingleburn, NSW, Australia! Are you an experienced technician looking for an exciting opportunity to thrive in a fast-paced, global environment? Join us and take your career to new heights! What will you do? Ensure production continuity through the correct maintenance of machines, equipment, and facilities in compliance with health and safety regulations and company sta\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.au/details/5341711271?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzQxNzExMjcxIn0.h2Yxsc3d1TwggYhMr1ICvmaLBWjBgDCdu6t-hOba_Ck",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-08-07T21:06:20Z"
+        },
+        {
+            "description": "Who are Asuria? We are a leading provider of Employment Services in Australia, dedicated to connecting individuals with sustainable employment opportunities. We are a company that beats to an Enterprising Heart and our mission is to inspire, support and guide participants to unlock their full potential. Our people are at the heart of everything we do! What will I be doing? Your role involves delivery of high-quality administrative and customer support such as: Respond to incoming calls, emails,\u2026",
+            "latitude": -33.795118,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Customer Service Specialist",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Asuria",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5439695088",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chatswood West, Willoughby Area",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "North Shore",
+                    "Willoughby Area",
+                    "Chatswood West"
+                ]
+            },
+            "longitude": 151.174739,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "HR & Recruitment Jobs",
+                "tag": "hr-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-10T04:16:09Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5439695088?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDM5Njk1MDg4In0.nXRdxMA85HcShWKgsrfpAcygpej3f2O_Rskmnu9NHKM"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5443258208?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MzI1ODIwOCIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.1O_csXSnfqS-c2Um9auXnNUtzeIVkA6I50brsQ9GgbU",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-12T04:46:22Z",
+            "salary_is_predicted": "0",
+            "title": "Azure Cloud Services- Technical Lead",
+            "company": {
+                "display_name": "Tech Aalto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5443258208",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "description": "Job Description: Azure Cloud Services- Technical Lead Technical Skills- Proven experience in Azure cloud operations within enterprise environments. Strong proficiency in Terraform, Bicep, and IaC principles. Experience with Azure DevOps, GitHub, and CI/CD automation. Deep understanding of Azure AD, Microsoft Entra ID, RBAC, Managed Identities, and Conditional Access. Hands-on experience with AKS, Azure Container Apps, and Helm charts. Familiarity with Azure Policy, Blueprints, and Security Cent\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Introduction Who we are McMullen Nolan Group (MNG), was formed in 1989 to provide alternative survey services in the land development industry. Since the company's inception MNG has been dedicated to providing personalised and innovative spatial solutions to both the Land Development and Engineering & Infrastructure sectors across Australia. Today, our core business focus upon the provision of survey services to larger scale greenfields subdivision clients who have a dominant share of the Land \u2026",
+            "latitude": -31.948808,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ECCO"
+            },
+            "title": "Engineering Surveyor",
+            "id": "5403277245",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Western Australia",
+                    "Perth Region",
+                    "Perth"
+                ],
+                "display_name": "Perth, Perth Region"
+            },
+            "longitude": 115.86056,
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-09-18T03:28:38Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5403277245?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMzI3NzI0NSIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.58gpSKSs_pfZTCiS3iRBiwUzcbWsd1uqngz8oLAwL9U"
+        },
+        {
+            "title": "Senior QA Engineer - Web3 Wallet",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Binance",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "4924529431",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "description": "Binance is a leading global blockchain ecosystem behind the world\u2019s largest cryptocurrency exchange by trading volume and registered users. We are trusted by over 280 million people in 100 countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the p\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyNDUyOTQzMSIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.2Jl2cUCMqBJ8JTTipegx3FFjVKL08GQvSjNEtzwpBU0",
+            "redirect_url": "https://www.adzuna.com.au/details/4924529431?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2024-11-03T23:29:18Z"
+        },
+        {
+            "description": "Join Our Dynamic Team at St. Mary\u2019s in Hobart, IN At IN Compass Health, we take pride in delivering exceptional inpatient care through physician-led hospitalist programs that prioritize quality, efficiency, and collaboration. Located in Hobart, Indiana , St. Mary\u2019s Hospital is a cornerstone of the local community, providing top-tier healthcare to the region. Hobart, a welcoming city in Northwest Indiana, offers the charm of small-town living with close proximity to the vibrant city of Chicago \u2014\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Night Owl Wanted: Advanced Practice Provider",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Compass Health"
+            },
+            "id": "4984340919",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Healthcare & Nursing Jobs",
+                "tag": "healthcare-nursing-jobs"
+            },
+            "created": "2024-12-20T21:32:20Z",
+            "redirect_url": "https://www.adzuna.com.au/details/4984340919?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk4NDM0MDkxOSIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.8y3JOhoFrf7OhA3jwjGyeOwWGKCt_s15ioPr16nDTIM"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -33.885283,
+            "description": "About the role We\u2019re looking for a Platforms Engineer to help scale and evolve the internal systems and tooling that support our engineering and AI workloads, with a strong focus on AWS infrastructure. As part of the Platforms team, you\u2019ll help define best practices for managing AWS environments, build out infrastructure automation, and contribute to improving deployment pipelines and developer experience \u2014 driving measurable outcomes through DORA metrics. You\u2019ll also contribute to key cross-fu\u2026",
+            "longitude": 151.203231,
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5452526257",
+            "salary_is_predicted": "0",
+            "title": "Platforms Engineer AWS (AU)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DroneShield"
+            },
+            "created": "2025-10-18T04:21:50Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDUyNTI2MjU3In0.XZj5J_5hu7s3rvimAadlbuLVq-ox3te1tI9AsPbJI7s",
+            "redirect_url": "https://www.adzuna.com.au/details/5452526257?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "The Role As a DevOps Engineer, you will establish and facilitate DevOps best practices, cloud/container-based orchestration and establish automated testing strategies. You will focus on the building, configuring, and securing the infrastructure and cloud components by Infrastructure as Code. You will help teams and organizations provide agility and business-value. Technical Requirements Overall 15 years of IT experience and 5 years of experience in GCP/Azure cloud environments. (Mandatory) 5 ye\u2026",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "display_name": "Melbourne, Melbourne Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Tech Aalto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "DevOps Engineer",
+            "id": "5271099850",
+            "created": "2025-06-27T18:40:10Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5271099850?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjcxMDk5ODUwIn0.ujfaGF5wwJMFIWCp1GSpDeM5FsPVYwDTvbL2qzat7A0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Product Compliance Associate",
+            "company": {
+                "display_name": "MECCA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5461267364",
+            "location": {
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "The Role You Could Play We\u2019re looking for a detail-driven and proactive Product Compliance Associate to join our Finance team, based in our Richmond Support Centre . This role ensures that every product imported and sold by MECCA meets all regulatory requirements across Australia and New Zealand \u2014 spanning ingredients, packaging, labelling, claims and dangerous goods management. You\u2019ll work closely with Brand Partners, Buying, Legal and Marketing teams to uphold compliance standards and support\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.au/details/5461267364?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxMjY3MzY0In0.nkVXwYztsOZe9ZrkUkTdi4j7w7owJPlSyTpHd8bZodc",
+            "category": {
+                "label": "Scientific & QA Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-24T04:21:08Z"
+        },
+        {
+            "title": "Junior Geologist (Technical Presales)",
+            "salary_is_predicted": "0",
+            "id": "5367685183",
+            "company": {
+                "display_name": "Micromine",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 115.859784,
+            "location": {
+                "display_name": "Perth CBD, Perth",
+                "area": [
+                    "Australia",
+                    "Western Australia",
+                    "Perth Region",
+                    "Perth",
+                    "Perth CBD"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": -31.953357,
+            "description": "NO FIFO, Perth CBD based. An enjoyable team culture, work from home (WFH) options, and great benefits. Join the world\u2019s premier mining technology company. About Us Founded 37 years ago, Micromine is at the cutting edge of next-generation technology for mining. With offices in 9 different countries, we are one of the world's premier mining software companies; our technology is used in all corners of the globe. What We Offer An established multinational business that is growing fast, with great b\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzY3Njg1MTgzIn0.pJBqQAP9Ni4HXqxy3JUig4OeLIjoQx2-pF6hgEm-9Pk",
+            "redirect_url": "https://www.adzuna.com.au/details/5367685183?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-08-26T04:54:30Z"
+        },
+        {
+            "category": {
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistics & Warehouse Jobs"
+            },
+            "created": "2025-08-26T07:41:19Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5368105915?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2ODEwNTkxNSIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.tvBWvtD3QFejzQr5pPhBc25d1E_edpqFFQe37NXRtIk",
+            "description": "Purpose & Overall Relevance for the Organization: The Order Fulfilment team ensures transparency and reliability of the order book by optimizing stock availability, executing timely allocations, and managing logistics planning. Our mission is to deliver every order in full and on time, while driving efficiency and reliability across the supply chain. Key Responsibilities: Order Book Management Maintain and execute the order book to meet customer expectations, ensuring on-time delivery of campai\u2026",
+            "latitude": -37.806509,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Senior Specialist, Order Fulfilment",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "adidas",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5368105915",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "longitude": 144.957935
+        },
+        {
+            "description": "Description Location: Australia (Sydney, Melbourne, Brisbane) Join Fortinet, a cybersecurity pioneer with over two decades of excellence, as we continue to shape the future of cybersecurity and redefine the intersection of networking and security. At Fortinet, our mission is to safeguard people, devices, and data everywhere. We are currently seeking a dynamic Systems Engineer to contribute to the success of our rapidly growing business. You would act as the Systems Engineer for Switching and Wi\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Systems Engineer (Switching and Wifi) - Sydney/Melbourne",
+            "id": "5427264507",
+            "company": {
+                "display_name": "Fortinet",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-10-03T03:31:42Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDI3MjY0NTA3In0.4zOqBwwxe6BZNvIKwDBPpZlq91zfMCjSi5prjmgX9JU",
+            "redirect_url": "https://www.adzuna.com.au/details/5427264507?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5469863480?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2OTg2MzQ4MCIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.wWXIkUYMr6_tgQJUZie0OdfAvSkkF484pq60yhUvcww",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-30T04:21:03Z",
+            "title": "Customer Engineer - Thermal, VIC",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Vertiv Group"
+            },
+            "id": "5469863480",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "display_name": "Melbourne, Melbourne Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 144.957935,
+            "description": "Description Key Responsibilities Planning & Reporting: Plan your customer service maintenance visits in a structured and methodical manner. Time Sheets \u2013 Digital reporting tool to be used (i.e., accurately record hours worked, and all call out and response times) each day. Field Service Reports - to be completed for every maintenance & service call attended. Operational Delivery: Carry out commissioning, service maintenance and after-hours service commitments in a professional, efficient manner\u2026",
+            "latitude": -37.806509,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -37.991707,
+            "description": "Description At Sensient Technologies , we are experts in the science, art and innovation of color and flavor. We are market-savvy and visionary. We are problem solvers. And we will be better with you. We currently seek a collaborative and meticulous Regulatory Specialist to join our team at our Regulatory Team. You will be responsible to provide product documentation, regulation and compliance information internally and externally to the business. This position requires timely creation, mainten\u2026",
+            "longitude": 145.173958,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Greater Dandenong",
+                    "Keysborough"
+                ],
+                "display_name": "Keysborough, Greater Dandenong"
+            },
+            "salary_is_predicted": "0",
+            "title": "Regulatory Specialist",
+            "id": "5469868486",
+            "company": {
+                "display_name": "Sensient",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-30T04:27:10Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDY5ODY4NDg2In0.RKIRSyTZuegiqIGKzv7ie2DeeLAhVjLQCElcLzsce2I",
+            "redirect_url": "https://www.adzuna.com.au/details/5469868486?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "description": "Lovisa Life: Lovisa was established in Australia in 2010 and has rapidly grown to become one of the world\u2019s leading fast-fashion jewellery retailers. With a strong global focus, we now operate over 1,000 stores across more than 50 markets worldwide. As a trend-driven brand, we cater to everyone, delivering over 150 new styles to our stores each week. Join a dynamic, high-growth international retailer proudly listed on the ASX. Your Opportunity: The Planning Coordinator provides support and assi\u2026",
+            "latitude": -37.823757,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lovisa"
+            },
+            "title": "Planning Coordinator",
+            "id": "5470806660",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Boroondara Area",
+                    "Glenferrie South"
+                ],
+                "display_name": "Glenferrie South, Boroondara Area",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 145.035778,
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-30T21:21:12Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5470806660?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDcwODA2NjYwIn0.zq0rTYQUfRUGpuFFYSKga9ACQ3l0xJYCekrLeM-8UXg"
+        },
+        {
+            "created": "2025-11-01T04:23:17Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "HR & Recruitment Jobs",
+                "tag": "hr-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDczMDc1MjE2In0.dg21gWPXDRGQoCo3JHMCkszmK-3_AdXArsI7PVAe6L4",
+            "redirect_url": "https://www.adzuna.com.au/details/5473075216?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -33.885283,
+            "description": "The key to Optiver\u2019s success as a leading market marker is our people. The Recruitment Team is responsible for hiring top talent from around the world and creating a first-in-class candidate experience. Optiver is looking for a self-starter and organised Recruitment Coordinator to join our Recruitment Team. As a Recruitment Coordinator, you\u2019ll support the team\u2019s hiring strategies by owning a streamlined candidate management and recruitment process, while driving continuous improvement. This is \u2026",
+            "longitude": 151.203231,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region"
+            },
+            "title": "Recruitment Coordinator",
+            "salary_is_predicted": "0",
+            "id": "5473075216",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Optiver"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Adelaide, Adelaide Region",
+                "area": [
+                    "Australia",
+                    "South Australia",
+                    "Adelaide Region",
+                    "Adelaide"
+                ]
+            },
+            "salary_min": 80000,
+            "id": "5473074330",
+            "salary_is_predicted": "0",
+            "title": "Payroll Officer",
+            "salary_max": 90000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Reo Group"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Location: Northern Suburbs Salary Package: Negotiable Role Highlights: Take ownership of payroll processing across a dynamic apprenticeship program, gain exposure to a supportive and high-performing finance team, and accelerate your career in a collaborative environment. Role Overview Reporting into the Finance Team Leader, this is an excellent opportunity for a Payroll Officer to take ownership of processing payrolls, entitlements, and related obligations for a diverse group of\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MzA3NDMzMCIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.ePeOHCmbL1TgIaUNnCdaxMRGxSV5tXWVJiE6G96QgFo",
+            "redirect_url": "https://www.adzuna.com.au/details/5473074330?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-01T04:21:26Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            }
+        },
+        {
+            "latitude": -33.885283,
+            "description": "PURPOSE & OVERALL RELEVANCE FOR THE ORGANISATION Support and grow adidas\u2019 digital wholesale business with THE ICONIC by combining account management and digital commerce expertise. This role balances commercial accountability with executional excellence \u2014 driving sell-through, strengthening buyer partnerships, and maximizing adidas\u2019 digital presence. You\u2019ll manage Digital Partner Commerce (DPC) initiatives, support seasonal sell-in, and deliver insights that improve both partner performance and\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Digital Key Account Manager - THE ICONIC",
+            "company": {
+                "display_name": "adidas",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5382087588",
+            "longitude": 151.203231,
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-04T07:51:00Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzgyMDg3NTg4In0.vpA0XgIpH8wFsSepnxrPQ14_Gs_P6oGyX2rXY-hVxOQ",
+            "redirect_url": "https://www.adzuna.com.au/details/5382087588?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Systems Engineer (Enterprise) - Melbourne",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Fortinet",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5477315603",
+            "longitude": 144.957935,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "latitude": -37.806509,
+            "description": "Description Location: Australia (Melbourne) Join Fortinet, a cybersecurity pioneer with over two decades of excellence, as we continue to shape the future of cybersecurity and redefine the intersection of networking and security. At Fortinet, our mission is to safeguard people, devices, and data everywhere. We are currently seeking a dynamic Systems Engineer to contribute to the success of our rapidly growing business. You would act as the Systems Engineer for Enterprise. As a Systems Engineer,\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NzMxNTYwMyIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.lt9OPC6_iUD_7WaLwCh30qVpdLfKvgZingggQsP6d5I",
+            "redirect_url": "https://www.adzuna.com.au/details/5477315603?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-03T04:26:55Z"
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-03T04:24:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3NzMxMzIxMiIsInMiOiJURzZUS01fVzhCRzdnY3JqVkVhaUR3In0.nmY8_lfTg49OvKkAJ8NVtr2zF4UEyiYV-RrH2WabV3A",
+            "redirect_url": "https://www.adzuna.com.au/details/5477313212?utm_medium=api&utm_source=58c69264",
+            "latitude": -34.762546,
+            "description": "Who are JobEdge? We are a leading provider of Employment Services in Australia, dedicated to connecting individuals with sustainable employment opportunities. We are a company that beats to an Enterprising Heart and our mission is to inspire, support and guide participants to unlock their full potential. Our people are at the heart of everything we do! What will I be doing? As an Employment Consultant, your role will be to empower individuals with a disability, injury or a health condition, to \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Employment Consultant - Northern Adelaide",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Asuria",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5477313212",
+            "longitude": 138.625024,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "South Australia",
+                    "Adelaide Region",
+                    "Salisbury Area",
+                    "Salisbury Downs"
+                ],
+                "display_name": "Salisbury Downs, Salisbury Area"
+            }
+        },
+        {
+            "category": {
+                "tag": "scientific-qa-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Scientific & QA Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-09-30T04:12:26Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5420915296?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEc2VEtNX1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDIwOTE1Mjk2In0.CK6yAUceznU6Xlwltyr3sCNUDKROkWWIlhCnj6u4KdA",
+            "description": "At ALS, we encourage you to dream big. When you join us, you\u2019ll be part of a global team harnessing the power of scientific testing and data-driven insights to build a healthier future. About the role: ALS Water Canberra (Hume) are looking for a full-time Quality / Safety Officer to join the team in our new modern laboratory, equipped with the latest in analytical technology. The successful applicant will receive training and support in the technical components and procedures of the role and in\u2026",
+            "latitude": -35.311933,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "title": "Quality / Safety Officer",
+            "company": {
+                "display_name": "ALS Global",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5420915296",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Australian Capital Territory",
+                    "Canberra Region"
+                ],
+                "display_name": "Canberra Region, Australian Capital Territory",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 149.112048
+        }
+    ]
+}

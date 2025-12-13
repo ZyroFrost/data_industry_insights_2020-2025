@@ -4,49 +4,46 @@ End-to-end data pipeline and analytics project analyzing global Data job market 
 
 ## 📁 Project Folder Structure
 ```
-data_industry_insights_2020-2025/
+data_industry_insights/
 │
-├── app/                                # Streamlit application (UI)
+├── app/                                    # Streamlit UI / Giao diện Streamlit
 │   └── app.py
 │
-├── dashboard/                           # Power BI dashboard
-│   └── Data_Industry_Trends.pbix
+├── analysis/                               # Manual data checks & notes / Kiểm tra dữ liệu thủ công
+│   ├── schema_mapping_notes.md
+│   └── schema_audit.xlsx
 │
-├── data/
-│   ├── data_raw/                        # Raw scraped API/HTML/JSON data
-│   ├── data_processing/                 # Parsed/converted intermediate data (not cleaned)
-│   ├── data_processed/                  # Final cleaned datasets ready for analytics
-│   ├── data_seeds/                      # Lookup tables & enrichment datasets
-│   └── metadata/                        # Schema documentation
+├── dashboard/                              # Power BI dashboard
+│   └── Data_Industry_Insights.pbix
 │
-├── pipeline/                            # Data pipeline: crawlers + processing
+├── data/                                   # DATA FILES ONLY / FOLDER CHỈ CHỨA DATA (JSON VÀ CSV SAU KHI LẤY TỪ PIPELINE)
+│   ├── data_raw/                           # Raw scraped data (API / HTML / JSON) / Dữ liệu thô (file JSON lấy trực tiếp từ web)
+│   ├── data_processing/                    # Transformed intermediate data / Dữ liệu chuyển đổi (file CSV sau khi parse từ JSON)
+│   ├── data_processed/                     # Cleaned final data for analytics / Dữ liệu cuối để phân tích (đã merge và tách bảng)
+│   ├── data_seeds/                         # Lookup & reference data / Dữ liệu chuẩn tra cứu (không dùng cho pipeline chính)
+│   └── metadata/                           # Schema & source documentation / Tài liệu mô tả cấu trúc JSON của từng nguồn web
+│
+├── pipeline/                               # DATA PIPELINE LOGIC / LOGIC XỬ LÝ DỮ LIỆU (FOLDER CHỈ CHỨA CODE PYTHON)
 │   ├── crawlers/
-│   │   ├── api/
-│   │   │   ├── authenticated/
-│   │   │   └── public/
-│   │   │
-│   │   └── scrape
-│   │       ├── protected/
-│   │       └── public/
+│   │   ├── api/                            # Crawl via APIs
+│   │   │   ├── authenticated/              # APIs require key / API cần đăng ký
+│   │   │   └── public/                     # Public APIs / API công khai
+│   │   └── scrape/                         # HTML web scraping
+│   │       ├── protected/                  # Anti-bot sites (testing only) / Web có chống bot
+│   │       └── public/                     # Public websites / Web công khai
 │   │
-│   ├── processing/
+│   ├── processing/                         # Cleaning & normalization logic / Làm sạch dữ liệu
 │   │
-│   ├── seeds/
+│   ├── seeds/                              # Fake data for testing only / Dữ liệu giả để test
 │   │   └── seed_data.py
 │   │
-│   └── main.py                           # Pipeline entry point
+│   ├── tools/                              # Helper tools for data processing / Công cụ hỗ trợ chạy thủ công
+│   │   └── column_mapper_app.py            # Column mapping and normalization tool / App hỗ trợ map và kiểm tra tên cột
+│   │
+│   └── main.py                             # Pipeline entry point / File chạy chính
 │
-├── database/                             # Database schema & ERD
-│   ├── schema.sql                        # SQL script to create tables
-│   ├── ERD.png                           # Entity Relationship Diagram
-│   └── README.md                         # Explanation of data model
-│
-├── .streamlit/                           # Streamlit configuration (secrets, settings)
-│   └── secrets.toml
-│
-├── requirements.txt                      # Dependencies for pipeline
-├── requirements_app.txt                  # Dependencies for Streamlit app
-├── README.md
-├── .gitignore
-└── .env
+├── database/                               # Database schema & ERD (chỉ chứa cấu trúc tạo bảng SQL và mô hình ERD)
+│   ├── schema.sql                          # SQL schema / Tạo bảng database
+│   ├── ERD.png                             # Entity Relationship Di
+│   └── README.md                           # Database structure and usage notes / Giải thích cấu trúc và cách dùng database
 ```

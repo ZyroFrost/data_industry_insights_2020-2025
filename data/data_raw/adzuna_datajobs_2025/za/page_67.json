@@ -1,0 +1,1550 @@
+{
+    "mean": 453832.71,
+    "count": 21052,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "location": {
+                "display_name": "Sandton, North Johannesburg",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "North Johannesburg",
+                    "Sandton"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 28.04833,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "GMI Advisory"
+            },
+            "id": "5453068565",
+            "salary_is_predicted": "0",
+            "title": "IT Operations Manager",
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "\u2022 Managing incidents and that they are logged and resolved \u2022 Managing projects and producing reports \u2022 Support problem and incident management processes \u2022 Manage and plan data centre and related applications \u2022 Manage and plan for business continuity \u2022 Maintain third-party, internal customer and service level agreements \u2022 Ensure that all service level agreements are adhered to \u2022 Assess security, governance and policies against prescribed frameworks \u2022 Manage ICT assets and infrastructure \u2022 Provid\u2026",
+            "latitude": -26.06861,
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5453068565?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=CEA5562AE177CF6B701687A91810EB3480A054B4",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDUzMDY4NTY1In0.IPZgXAwsdyJOrlsBMSNkDmMRoHtfbDCGyCyjWF2JNS8",
+            "created": "2025-10-18T01:44:17Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/details/5514162346?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE0MTYyMzQ2In0.2IJFqYu_N0WGcJwxhJFCtU7nNRUotgXWFAOvzEniXxc",
+            "created": "2025-11-26T04:34:09Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "display_name": "Gauteng, South Africa",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5514162346",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sabenza IT & Recruitment"
+            },
+            "salary_is_predicted": "0",
+            "title": "Expert Front End Developer & Application Owner",
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Step into a hub where innovation meets cutting-edge IT! We provide advanced IT solutions across a global enterprise, driving data intelligence, cloud initiatives, and next-gen applications. Here, you\u2019ll work alongside talented teams on exciting projects, from dashboards and analytics platforms to data pipelines and hi-code applications, empowering decision-making with actionable insights. We combine Agile ways of working , modern tools, and a collaborative culture to ensure our developers thriv\u2026"
+        },
+        {
+            "created": "2025-11-10T16:53:17Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4OTQ2MDY4NSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.qbGhAiLczz_9d2EZyda7V2VX6iITQIINffpPMfoutMA",
+            "redirect_url": "https://www.adzuna.co.za/details/5489460685?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Hire Resolve's client is seeking a BI Reporting Analyst who will act as the critical interface between non-data business users and the data ecosystem. This role focuses on translating business needs into actionable data queries, delivering ad hoc analysis, and building sustainable reporting solutions. The successful candidate will play a key role in optimizing and maintaining commercial reporting for the lending business, enabling data-driven decision. Key Responsibilities: Business Liaison & I\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cape Town City Centre, Cape Town Region",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hire Resolve"
+            },
+            "id": "5489460685",
+            "salary_is_predicted": "0",
+            "title": "Intermediate BI Reporting Analyst",
+            "contract_type": "permanent"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "North Johannesburg",
+                    "Midrand"
+                ],
+                "display_name": "Midrand, North Johannesburg"
+            },
+            "longitude": 28.15306,
+            "id": "5494328792",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 540000,
+            "title": "Project Procurement Manager",
+            "salary_min": 540000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Project Procurement Manager Report to: Operations Manager Seniority Level: Professional Duties and Responsibilities: Participates in project/sales meetings as project core team member to optimize internal workflows. Establishes proper sourcing and Procurement processes, controls all activities in the project. Analyzes customer inquiries during bid preparation phase, understands customer's functional needs. Supports project calculation with reliable material cost data. Drives Procurement strateg\u2026",
+            "latitude": -26.03667,
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5494328792?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F580501B8C16BB193E467FFA44586872DA892DBD",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk0MzI4NzkyIn0.jFMJtzcez7txc3DDQBD2SDWmpM202gYzeYKvdSdCTJ4",
+            "created": "2025-11-13T18:53:17Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            }
+        },
+        {
+            "created": "2025-11-19T21:30:56Z",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTAzODU1MjQ4In0.BY0vaw5vsw5T9piVGaBmzK6N_k2dMqvOYoGDgPwLxKc",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5503855248?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=9FDCE6220C5739AF23D5472156C54DC6D4222D37",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description: As the Senior Accountant, your duties include the following: Prepare, review and maintain accurate financial records, statements and reports Oversee accounts payable and receivable Perform bank reconciliations Manage the month-end and year-end closing processes Maintain the general ledger Ensure correct account allocations and classifications Support budgeting, forecasting, and overall financial planning activities Evaluate and enhance financial processes, internal controls, an\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cape Town City Centre, Cape Town Region",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ]
+            },
+            "salary_min": 500000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5503855248",
+            "salary_is_predicted": "0",
+            "salary_max": 500000,
+            "title": "Newly-qualified CA(SA)\u00e2\u0080\u0099s"
+        },
+        {
+            "description": "As the FP&A Analyst, your duties include the following: Prepare and analyse monthly management accounts, ensuring accuracy and timely delivery Support budgeting, forecasting, and long-term planning processes Provide data-driven insights to support strategic and operational decision-making Develop, refine, and maintain financial models and performance dashboards Partner with business units to identify trends, risks, and opportunities for improvement Monitor financial performance against budgets \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5494328719",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "FP&A Analyst",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Cape Town City Centre, Cape Town Region",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ]
+            },
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "created": "2025-11-13T18:53:17Z",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5494328719?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=EFD18AE5EE3A9C87E6265E963158F9F31D4C7F43",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk0MzI4NzE5In0.S5eTMqzaWUpAwpkaP7zd5mZssJ18M0A0DBYKKF6pK-4"
+        },
+        {
+            "created": "2025-09-26T22:28:30Z",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5416355146?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=BCD4A25E91A6A9FDD2480502B13AFF42EBCCFEB9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNjM1NTE0NiIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.skMqHSSTas91FMoX-j2AZclnnT-LOY4WZZFfBlWKGGc",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Key Duties: Handle all inbound sales queries and orders. Assist customers face-to-face, over the phone, and via email. Verify orders, including customer details and payment information. Capture data into our internal computer system. Provide quotes to existing and potential clients. Inform clients about stock availability, alternatives, and lead times. Accurately invoice clients. Expedite orders through internal coordination. Manage your time effectively to ensure timely responses to customer r\u2026",
+            "latitude": -33.926942,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Winelands",
+                    "Stellenbosch"
+                ],
+                "display_name": "Stellenbosch, Cape Winelands"
+            },
+            "longitude": 18.855339,
+            "id": "5416355146",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Sales Administrator"
+        },
+        {
+            "created": "2025-11-28T21:37:06Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5518392483?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=55BE302E718E957A4D965205B734023DFFFEC4AF",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODM5MjQ4MyIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.ma9-7L-XJ0YKIs3VjoXZ5rTG6qemKHQp4iEYjiZPdBI",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Key Responsibilities: Develop and maintain cross-platform mobile applications using .NET MAUI. Integrate APIs to enable seamless data retrieval, processing, and storage. Work with UI/UX designers to deliver intuitive, responsive, and visually appealing interfaces. Write clean, scalable, and maintainable C# code following best practices. Participate in code reviews and provide constructive technical feedback. Troubleshoot, debug, and optimize mobile applications for performance and stability. Co\u2026",
+            "latitude": -26.183117,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "longitude": 28.026104,
+            "id": "5518392483",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": ".NET Mobile App Developer (MAUI)"
+        },
+        {
+            "created": "2025-11-29T21:36:59Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTY4NDQyMCIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.8UhcQwI7LlIife6-q8rWhKKor_fZ8-9LTuRlTA60T-8",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5519684420?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C3A2B97832A682F6080367543201544BCCDA80E9",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Your Mission Design and build scalable web applications delivering lightning-fast reporting and map visualizations Collaborate with Campaign Managers, Ops, and Sales to enhance platform capabilities Automate campaigns, optimize performance, and wrangle data for maximum efficiency Your Tech Stack Languages: HTML5, CSS3, JavaScript, PHP 7.1, MySQL 5.7 Frameworks: JQuery, Angular 1/2, VueJS, Laravel 5.5 Bonus Skills: AWS, Google Cloud, Agile/Scrum, Ad Tech Location & Culture Based in Western Cape \u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ],
+                "display_name": "Cape Town City Centre, Cape Town Region"
+            },
+            "id": "5519684420",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Full Stack Developer"
+        },
+        {
+            "longitude": 28.026104,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "display_name": "Johannesburg, Gauteng"
+            },
+            "salary_is_predicted": "0",
+            "id": "5490926464",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "LEARNING PROGRAMME MANAGER",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -26.183117,
+            "description": "Educational requirements: Matric / Grade 12; 3 Years Bachelors degree with Honours in Project Management or Business Administration. A code 08 Driver's Licence and own vehicle Required work experience: 6 - 8 years in a project management environment. 4-6 years management experience with a national /regional footprint; Broad understanding of the SETA environment; Experience in working and data manipulation in large databases and applicable IT Software Salary range: R1 207 723 - R1 579 050 per an\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDkyNjQ2NCIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.kg60bbmvp8BJqpln30N87eQJHpwrSipN-yQA9j-k2Go",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5490926464?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2CC8B063E51DD30CE7E1BF084B1D99A0D4EC8DE1",
+            "created": "2025-11-11T18:47:16Z",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "longitude": 25.397419,
+            "location": {
+                "display_name": "Uitenhage, Nelson Mandela Bay",
+                "area": [
+                    "South Africa",
+                    "Eastern Cape",
+                    "Nelson Mandela Bay",
+                    "Uitenhage"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Office Administrator",
+            "id": "5526497177",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -33.761627,
+            "description": "Job Requirements: Matric/Grade 12 required; relevant administration or office management qualifications preferred. Minimum 3 - 5 years of administration experience. Fluency in Afrikaans and English is required Experience in office coordination or supervisory support is an advantage. Strong organizational and time-management skills. Excellent verbal and written communication. Proficiency in MS Office (Word, Excel, Outlook). Ability to work independently and handle confidential information. Leade\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjQ5NzE3NyIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.kiDLUlK0utl1EY0JfMCSA5HwUwSkp1VOa1vBpsSk6Hg",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5526497177?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=52A6395C87AE32AAD6D94B48416A99898A95BC64",
+            "created": "2025-12-03T21:40:18Z",
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5526496918?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=03A7873D6259ACA28A8032731364584804DFDEE7",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI2NDk2OTE4In0.A0EPJyma1hEm8w8PMVGZHSBP9TqZ_mdZvs-53m5rLc4",
+            "created": "2025-12-03T21:40:16Z",
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Eastern Cape",
+                    "Nelson Mandela Bay",
+                    "Port Elizabeth"
+                ],
+                "display_name": "Port Elizabeth, Nelson Mandela Bay"
+            },
+            "longitude": 25.5,
+            "id": "5526496918",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Administrator",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Minimum Requirements Matric (essential) A tertiary qualification (advantageous) 35 years administrative experience in a corporate-type environment Must reside in Gqeberha Strong command of English, understanding Afrikaans will be an advantage Key Responsibilities Provide day-to-day administrative and office support Assist with document preparation, filing, and record-keeping Maintain client information and ensure accurate data management Support financial planners with workflow coordination and\u2026",
+            "latitude": -33.955
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI4MTg1NTAyIn0.0UgOo2mftPrFIppYzmmsmRY79ZKP8J6jHKADKjTArbo",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5528185502?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=05065E06DCB91D86F8CE2FAC201793004F07EE29",
+            "created": "2025-12-04T22:20:17Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Manufacturing Jobs",
+                "tag": "manufacturing-jobs"
+            },
+            "longitude": 28.026104,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5528185502",
+            "salary_is_predicted": "0",
+            "title": "Cycle Count/Stock Count",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -26.183117,
+            "description": "Duties and Responsibilities: Performing number of counts per day over 98% of plan (inventory controller will determine the standard). Maintaining inventory accuracy by location and tracking units at 95%. Ensuring zero accidents by strictly adhering to safety and security rules. Conducting counts of material locations based on daily instructions from stock controller. Counting full pallets according to item master data and part pallets based on primary unit of measure. Make sure database behind \u2026"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "created": "2025-12-04T22:20:17Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODE4NTU1NSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.mo3I_RD_HvQlp2MY_O4qoGjrpnDd8VZoVlXedsXAEqY",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5528185555?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3FD3D8EF20EB1C53A76B59401C167280FA4B56B9",
+            "latitude": -26.183117,
+            "description": "Duties & Responsibilities: Manage project costing, budgeting, forecasting, and financial analysis. Monitor and control project expenditure, including variance analysis. Work closely with project managers to track progress and financial performance. Handle multi-currency transactions and financial project reporting. Maintain accurate project cost structures and ensure alignment with financial controls. Utilise ODOO (ERP) for project accounting, reporting, and data management. Support the finance\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5528185555",
+            "salary_is_predicted": "0",
+            "title": "Project Cost Controller",
+            "longitude": 28.026104,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "display_name": "Johannesburg, Gauteng"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A recent professional profile photo is to accompany your application EMPLOYMENT TYPE : Permanent SECTOR : Administration BASIC SALARY : R 6000.00 R 8000.00 (Depending on experience)  Laptop START DATE : A.S.A.P / Immediate REQUIREMENTS: Matric (Grade 12) Basic administration experience in an office environment Proficiency in MS Office with strong skills in Excel DUTIES: Perform basic administrative tasks, including filing, data entry, and document preparation. Assist with incoming calls, emails\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "South Africa",
+                "area": [
+                    "South Africa"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "id": "5518397861",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Junior Administrative Assistant",
+            "contract_type": "permanent",
+            "created": "2025-11-28T21:38:32Z",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE4Mzk3ODYxIn0.sMJE_fIvB3c2P5FbFrkYj26vtTqE8ybvTlIYwLIykP8",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5518397861?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=41450B90B59F85EB4121E0F4894682B84C076B4B"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5531620712?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=61C1D323251BF38875CBCC436E635756A551BC47",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTYyMDcxMiIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.XFddRpwWRDDcel0fo403QUpW8VZvRs0dkul2vldlfzM",
+            "created": "2025-12-06T22:47:53Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "longitude": 28.026104,
+            "id": "5531620712",
+            "salary_max": 186000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Mechanical Draughtsman",
+            "salary_min": 186000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Requirements: Solidworks/Edgecam/CAD experience. Min 2-5 years\u00e2\u0080\u0099 experience in general draughting field. 3D scanning experience is a bonus. Sheet metal experience is a bonus. Mechanical draughting certificate/diploma - MUST Responsibilities:\u00c2 Complete all administration regarding drawing and drawing controls. Do all admin having to do with drawings. Reverse engineer a variety of components. Well-versed with measuring equipment. Be able to interpret and generate DXF files. Be able to read drawi\u2026",
+            "latitude": -26.183117
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5529827403?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=9DD035370FCB171A9288921FC6D8DEE23EC0DF5C",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTgyNzQwMyIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.XLJtvFuEvpi0DhUF40k4zRFl1y_UG4wzVoSrjI0mZUE",
+            "created": "2025-12-05T22:11:21Z",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 28.026104,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5529827403",
+            "salary_is_predicted": "0",
+            "title": "Process Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "As a Process Engineer, youll provide critical support to engineering and manufacturing teams, ensuring optimal assembly and production capabilities. Youll lead process automation initiatives, plan new product assembly lines, and implement continuous improvement projects that boost efficiency and reduce costs. This role is perfect for a self-driven professional passionate about leveraging the latest industry technologies to enhance manufacturing performance. Education: BEng / BTech in Mechanical\u2026",
+            "latitude": -26.183117
+        },
+        {
+            "created": "2025-11-19T21:30:11Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5503851387?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4D488B548BEE74DDA1811BE9FF6E66747E83DD8F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzg1MTM4NyIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.3HqLyDsGhJoOC7mCROrC0NSbe55wGvTJVMo-Mw3FJ6I",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Responsibilities: Develop and maintain Splunk dashboards (Simple-XML & Dashboard Studio) Design and implement CI/CD pipelines using GitHub Actions Collaborate in agile teams, refining user stories and delivering end-to-end solutions Mentor team members and promote knowledge sharing Provide DevOps support for existing analytics solutions What You Bring: 10 years of Splunk App Development and SPL-based ETL Experience with CI/CD and orchestration tools Bonus: Power BI, Grafana, SQL, cloud platform\u2026",
+            "latitude": -25.78417,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Menlyn, Pretoria",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Pretoria",
+                    "Menlyn"
+                ]
+            },
+            "longitude": 28.27556,
+            "title": "Front-End Developer (Expert) 0244",
+            "id": "5503851387",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -33.92889,
+            "description": "Key Responsibilities: Handle all incoming calls and manage the company switchboard Conduct telesales and follow-up calls to prospective buyers and sellers Respond to WhatsApps, SMSs, and other digital enquiries Assist with listing administration, documentation, and file management Capture and update CRM data accurately Assist agents with daily administrative tasks Coordinate property viewings and appointments Provide professional support to clients and maintain excellent customer service Prepar\u2026",
+            "longitude": 18.41722,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Green Point, Cape Town City Centre",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre",
+                    "Green Point"
+                ]
+            },
+            "salary_min": 72000,
+            "id": "5513648914",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 72000,
+            "title": "Sales Administrator",
+            "created": "2025-11-25T22:16:48Z",
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzY0ODkxNCIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.azemPxdx-g0Fx4uB5nf8ajwVn-RDRX6tMKOxXX6riVE",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5513648914?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4DEC10C57F0D66AEDD4156E534C50FC19A4A295F"
+        },
+        {
+            "location": {
+                "display_name": "Cape Town City Centre, Cape Town Region",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region",
+                    "Cape Town City Centre"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 250000,
+            "id": "5515266959",
+            "salary_max": 250000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Junior Financial Manager",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description: As the Junior Financial Manager, your duties include the following: Work alongside the Financial Director across the full finance function Assist with month-end, reporting, reconciliations and management accounts Analyst financial data, highlight trends and help drive cost efficiencies Support audits, compliance and internal financial controls Get exposure to product costing, inventory and end-to-end manufacturing finance Collaborate with operational teams to understand how fin\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTI2Njk1OSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.EsEOeRtfLyIgDNjz4rT5JdESct6RGyr-rLVC12Rmr5U",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5515266959?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=5BFA7A4F66956A79AA3289E7888B2063CE4ACD40",
+            "created": "2025-11-26T21:40:10Z",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5535396055?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C9D68EC8B7C41AD93B8D06A2C8CCF1F19E262139",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTM5NjA1NSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.nQyFYxjLU-bon25pfLc0JCaRw96i4emv4kVqkde2aKg",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "created": "2025-12-10T01:55:48Z",
+            "salary_is_predicted": "0",
+            "id": "5535396055",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Debtors Clerk",
+            "location": {
+                "display_name": "Midrand, North Johannesburg",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg",
+                    "North Johannesburg",
+                    "Midrand"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 28.15306,
+            "description": "Minimum requirements: Matric / Senior Certificate (Grade 12) essential. 35 years experience in a Debtors, Credit Control, or similar financial administration role. Proficiency in MS Excel or Google Sheets (intermediate to advanced level). Experience working with accounting systems, preferably Navision (Nav) or similar ERP software. Strong numerical and analytical skills with high accuracy in processing financial data. Ability to handle collections and follow up on outstanding accounts professio\u2026",
+            "latitude": -26.03667,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5537047500",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 180000,
+            "title": "Creditors & Debtors Clerk",
+            "salary_is_predicted": "0",
+            "salary_min": 180000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Centurion"
+                ],
+                "display_name": "Centurion, Tshwane"
+            },
+            "longitude": 28.18586,
+            "description": "Job Specification Key Responsibilities: Manage full Creditors and Debtors function, including processing invoices, reconciliations, and payment allocations. Maintain accurate customer and supplier accounts, ensuring timely follow-ups and statement distribution. Perform daily, weekly, and monthly reconciliations of accounts. Handle stock-related financial transactions and ensure accuracy in stock movement records. Capture, process, and monitor financial data on Pastel Evolution . Assist with mon\u2026",
+            "latitude": -25.8425,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5537047500?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=CF4ECF0DA337003023A8DFAF94D9C228312D4B90",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MDQ3NTAwIn0.-Rhw5H_x_eYgGBO6BXXDS25sEvoLiGfmO7nySO4vros",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "created": "2025-12-10T23:28:17Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-19T21:30:11Z",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5503851406?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=11C52B8AC7A1E793BCABF1FACE569F81DF8EBF7E",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTAzODUxNDA2In0.CcwGJpqWRmBibtmiQPcFCGvth__ade4gCBZUQijrNGc",
+            "description": "Responsibilities: Develop and maintain Splunk dashboards (Simple-XML & Dashboard Studio) Design and implement CI/CD pipelines using GitHub Actions Collaborate in agile teams, refining user stories and delivering end-to-end solutions Mentor team members and promote knowledge sharing Provide DevOps support for existing analytics solutions What You Bring: 10 years of Splunk App Development and SPL-based ETL Experience with CI/CD and orchestration tools Bonus: Power BI, Grafana, SQL, cloud platform\u2026",
+            "latitude": -25.78417,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5503851406",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Front-End Developer (Senior) 0720",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Pretoria",
+                    "Menlyn"
+                ],
+                "display_name": "Menlyn, Pretoria"
+            },
+            "longitude": 28.27556
+        },
+        {
+            "latitude": -26.183117,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5515531425",
+            "salary_is_predicted": "0",
+            "longitude": 28.026104,
+            "description": "Job Description Job Title: Head of Sales \u2013 Global Maritime & Healthcare Solutions Location: Remote (being based in South Africa is required; working hours aligned with Europe) Type: Full-time Salary: R75,000 \u2013 R100,000 per month (depending on experience and fit) About the Company This position is recruited through Project Y on behalf of a leading global organization providing specialized healthcare and wellbeing solutions to the maritime sector. Their clients include shipping companies, cruise \u2026",
+            "salary_min": 500000,
+            "salary_max": 600000,
+            "title": "Head of Sales \u2013 Global Maritime & Healthcare Solutions",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Project Y"
+            },
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs",
+                "tag": "sales-jobs"
+            },
+            "created": "2025-11-27T01:42:15Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE1NTMxNDI1In0.pplao1dnFK2m0w4mquQ12uCzu7HDHPla5ZgCblPCtV4",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5515531425?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4227FC92AE2221E6236BC2A516988ED30B28332C"
+        },
+        {
+            "longitude": 18.590372,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region"
+                ],
+                "display_name": "Cape Town Region, Western Cape"
+            },
+            "salary_min": 600000,
+            "id": "5340154873",
+            "salary_max": 750000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lifecheq"
+            },
+            "salary_is_predicted": "0",
+            "title": "People Partner (Remote)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -33.979741,
+            "description": "About us Lifecheq is a fintech company changing how South Africans manage their personal finances. Our platform combines smart tech, deep financial expertise, and a unique approach to financial advice. We're growing rapidly, backed by major investors including Futuregrowth, African Rainbow Capital, and Naspers Foundry. Lifecheq is rooted in a founder-led vision and a remote-first culture that values autonomy and cross-cultural collaboration. We need a senior people partner who works closely wit\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0MDE1NDg3MyIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.axd5HW9DARXPSZ6YNoeDQ1kyEqlXVoltjaaqbbxGO5c",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5340154873?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3B9C03CE579979622BF957297133526428B5870D",
+            "created": "2025-08-06T19:55:45Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            }
+        },
+        {
+            "description": "As the Account Director , you are the strategic and operational lead on the client account, responsible for driving the overall relationship, commercial success, and creative excellence of the business. You will lead and mentor the account management team, ensuring the agency delivers integrated, high-quality work that makes a measurable impact on our clients business. You will report directly to the Group Account Director . Key Responsibilities & Accountabilities Client & Relationship Leadersh\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 400000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ogilvy South Africa Group"
+            },
+            "id": "5481756477",
+            "salary_is_predicted": "0",
+            "salary_max": 500000,
+            "title": "Account Director",
+            "location": {
+                "area": [
+                    "South Africa"
+                ],
+                "display_name": "South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs"
+            },
+            "created": "2025-11-05T11:37:19Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDgxNzU2NDc3In0.xkY815MPC84EHTk4qtZbkLRuxYD-7mGwAK4W7pw58fQ",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5481756477?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2CC0A5F4D3ABBDE973751B2A8BEFED520639C155"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Qualifications and Experience Requirements TOGAF 9 Certification Solutions Development Life Cycles Solutions Development Architecture ITIL v4 Expert Certification AWS / Azure Cloud Certifications Certified Information Systems Security Professional (CISSP) \u2013 desirable Project Management Professional (PMP) or PRINCE2 \u2013 desirable Minimum of 10 years' experience in IT solutions architecture, service implementation and operational delivery Proven expertise managing large\u2011scale enterprise architectur\u2026",
+            "latitude": -26.081943,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gauteng, South Africa",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ]
+            },
+            "longitude": 28.17194,
+            "id": "5534466122",
+            "salary_max": 750000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Be Different Recruitment"
+            },
+            "salary_is_predicted": "0",
+            "title": "Head Of Solutions & Services Architecture & Implementations",
+            "salary_min": 600000,
+            "created": "2025-12-09T09:21:22Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5534466122?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=B4399A8F7C05BDE316ACCC81131FDEFB1B6D2AD4",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDQ2NjEyMiIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.HwgZAwBAixQ4fjkVxSiGBOPxjlouxadezQp4fspCYBY"
+        },
+        {
+            "longitude": 31.05,
+            "id": "5395741976",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -29.85417,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzk1NzQxOTc2In0.MOxY7PH9FocphJknt7Hz0wbGxtDZRrnrm-1_qDmvqMU",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5395741976?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=75DD6BA0ABEC5F24A3CB9127DBC8532C1D9132FA",
+            "created": "2025-09-12T10:57:45Z",
+            "category": {
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs"
+            },
+            "location": {
+                "area": [
+                    "South Africa",
+                    "KwaZulu-Natal",
+                    "eThekwini",
+                    "Durban"
+                ],
+                "display_name": "Durban, eThekwini",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 400000,
+            "title": "Academic : Programme Leader : BACHELOR OF EDUCATION HONOURS IN GENDER STUDIES",
+            "contract_type": "contract",
+            "salary_max": 500000,
+            "company": {
+                "display_name": "MANCOSA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Academic : Programme Leader : BACHELOR OF EDUCATION HONOURS IN GENDER STUDIES Listing reference: manco_000759 Listing status: Online Apply by: 1 October 2025 Position summary Job category: Others: Education and Training Location: Durban Contract: Fixed Term Contract EE position: No Introduction To provide efficient direction and oversight for a particular academic programme/Programmes. This position involves a range of duties focused on guaranteeing the programme's success and excellence, while\u2026"
+        },
+        {
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-10T09:22:40Z",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5535998932?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0322F4532C967120141B56183B34E82BA4DAD998",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1OTk4OTMyIn0.b1RyuONISx7llX-1DmC-uEGuGMqnbKRM3HXbsPTtgnU",
+            "description": "Who are we? Sanlam Developing Markets [SDM] (a wholly-owned subsidiary of Sanlam Life Limited) is one of the top financial services providers in the South African entry-level and emerging middle market. It aims to understand the unique requirements of clients and offers a wide range of simple and affordable financial solutions that cover needs such as funeral insurance, savings for education, life cover and personal accident plans. In terms of the Sanlam Group Governance Policy, SDM is managed \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sanlam"
+            },
+            "id": "5535998932",
+            "salary_max": 500000,
+            "salary_is_predicted": "0",
+            "title": "Branch Manager - King Williams Town",
+            "salary_min": 400000,
+            "location": {
+                "area": [
+                    "South Africa"
+                ],
+                "display_name": "South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "ENVIRONMENT: Our client, part of a prestigious group of leading South African Financial Services Providers, is seeking a strategic and visionary Head of Marketing to lead the transformation and revitalisation of their marketing department. This is an opportunity to work alongside exceptional professionals in a dynamic, growth-focused organisation that values creativity, innovation, and integrity. The ideal candidate will play a pivotal role in shaping the company\u2019s brand strategy, driving engag\u2026",
+            "latitude": -26.183117,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "display_name": "Johannesburg, Gauteng",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 28.026104,
+            "salary_is_predicted": "0",
+            "id": "5497982286",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Datafin"
+            },
+            "salary_max": 600000,
+            "title": "Head of Marketing and Rewards (Bedfordview)",
+            "salary_min": 500000,
+            "created": "2025-11-15T20:23:36Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5497982286?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=29B6913572A47E7A89AC1AA3ADF8271614F8BF87",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5Nzk4MjI4NiIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.2OmGaUrqWHYUHPbgS-NeRAVGkGIQW1ragsY3lzYLiN8"
+        },
+        {
+            "longitude": 28.17194,
+            "id": "5535998706",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -26.081943,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTk5ODcwNiIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.QoMYGP5TZ_7c_ZgzCSbsdgnazF6DOPioip72DR_sZbg",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5535998706?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8D7908FFD49EB1D1A5A2ADED62C64BC44A9BD66C",
+            "created": "2025-12-10T09:22:27Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "display_name": "Gauteng, South Africa"
+            },
+            "salary_min": 500000,
+            "title": "Head Of Sales \u2013 Global Maritime & Healthcare Solutions",
+            "salary_max": 600000,
+            "company": {
+                "display_name": "Project Y",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Title Head of Sales \u2013 Global Maritime & Healthcare Solutions Location Remote (being based in South Africa is required; working hours aligned with Europe) Type Full-time Salary R75, \u2013 R, per month (depending on experience and fit) About the Company This position is recruited through Project Y on behalf of a leading global organization providing specialized healthcare and wellbeing solutions to the maritime sector. Their clients include shipping companies, cruise operators, and offshore servi\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -26.081943,
+            "description": "Job Title: Service Delivery Manager Location: South Africa Department: Net Ops South Africa Reports To: Head of Power Deployment / Infrastructure Deployment Summary To manage a team of service delivery supervisors (SDS) in Infrastructure Deployment. To manage a multiple-site portfolio and be responsible for operational activities of the site service delivery supervisors, including performance standards and adherence to quality and HSE standards. Data controls and management, trend analysis, opt\u2026",
+            "longitude": 28.17194,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gauteng, South Africa",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ]
+            },
+            "salary_min": 400000,
+            "salary_max": 500000,
+            "id": "5535997668",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Set Consulting"
+            },
+            "salary_is_predicted": "0",
+            "title": "Service Delivery Manager",
+            "created": "2025-12-10T09:21:32Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1OTk3NjY4In0.4fUZQlcv2239utrUxH5_RT24mtb2iO7upxzI_Okgmkc",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5535997668?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D3810AF1DC7EDA072C5BB8CAAE28049AA8E4C8A7"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-08-18T09:14:02Z",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5357170098?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C20FA5765B13D029AF2F201591E52BCFFF6F30B5",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzU3MTcwMDk4In0.gdraid0HkmIzlqm9QmgGQT1wRpCKtQMuYS9kHREQ2oc",
+            "description": "Over the last decade, Webrepublic has grown from an ambitious startup into Switzerland\u2019s leading digital agency. More recently, Webrepublic has launched a subsidiary in South Africa to work hand-in-hand with our HQ in Switzerland. Our team in Cape Town has grown, and we are now looking for a Chief Information Officer to expand our local presence into a large-scale operation. As CIO , you'll lead the entire company\u2019s global IT strategy and operations, overseeing reliable infrastructure and criti\u2026",
+            "latitude": -33.979741,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5357170098",
+            "salary_max": 750000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Webrepublic"
+            },
+            "salary_is_predicted": "0",
+            "title": "Chief Information Officer (CIO) Cape Town \u2022 Hybrid \u2022 10.08.2025",
+            "salary_min": 600000,
+            "location": {
+                "display_name": "Cape Town Region, Western Cape",
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 18.590372
+        },
+        {
+            "id": "5519060628",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Set Consulting"
+            },
+            "salary_max": 500000,
+            "title": "Service Delivery Manager",
+            "salary_min": 400000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "longitude": 28.026104,
+            "description": "Job Title : Service Delivery Manager Location : South Africa Department : Net Ops South Africa Reports To : Head of Power Deployment / Infrastructure Deployment SUMMARY To manage a team of service delivery supervisors (SDS) in Infrastructure Deployment. To manage a multiple-site portfolio and be responsible for operational activities of the site service delivery supervisors, including performance standards and adherence to quality and HSE standards. Data controls and management, trend analysis,\u2026",
+            "latitude": -26.183117,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5519060628?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7C69374CA6A8B36DAC223021BE67C481FB1A0162",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTA2MDYyOCIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.cBHUYeArnsA3vmKqytKvpYEO3Db3Ktu3B4wdYZg4Z-k",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-29T13:59:03Z"
+        },
+        {
+            "created": "2025-12-01T13:51:00Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sales Jobs",
+                "tag": "sales-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTQzNjA1MiIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.hMzoHUBcyDTKu3F_oGeLIC6J9HECVMFLqlOQ4vaCyg0",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5521436052?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=46117FE6429189242A836735B9E1D96DE16B8BFB",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role Overview This role will be responsible for developing and expanding ICN\u2019s agent network , establishing partnerships with educational institutions, and driving revenue growth through strategic B2B engagements in the region. The ideal candidate will have a strong background in international education sales especially French , expertise in agent network development , and a proven ability to scale B2B sales teams to achieve ambitious enrolment targets. Key Responsibilities 1. B2B Sales Strateg\u2026",
+            "location": {
+                "area": [
+                    "South Africa"
+                ],
+                "display_name": "South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 400000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "GEDU Global Education"
+            },
+            "id": "5521436052",
+            "salary_max": 500000,
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "title": "B2B Regional Manager"
+        },
+        {
+            "latitude": -29.85417,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5483388796",
+            "salary_is_predicted": "0",
+            "longitude": 31.05,
+            "description": "Academic Programme Leader: Master of Commerce in Project Management Listing reference: manco_000777 Listing status: Online Apply by: 22 November 2025 Position summary Job category: Education and Training Location: Durban Contract: Fixed Term Contract EE position: No Introduction The role of the Academic Programme Leader within the School of Project Management is central to ensuring academic excellence, regulatory compliance, and sustainable programme growth. The position provides strategic over\u2026",
+            "salary_min": 400000,
+            "salary_max": 500000,
+            "contract_type": "contract",
+            "title": "Academic Programme Leader: Master of Commerce in Project Management",
+            "company": {
+                "display_name": "MANCOSA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Durban, eThekwini",
+                "area": [
+                    "South Africa",
+                    "KwaZulu-Natal",
+                    "eThekwini",
+                    "Durban"
+                ]
+            },
+            "category": {
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs"
+            },
+            "created": "2025-11-06T11:31:11Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MzM4ODc5NiIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.Nb29ShPJICH_veNDuEH5UC8Roq40Afxh6bwOD7G8YIA",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5483388796?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D8AE8D14BB1F9A80E20875BF043A5FC43D36BBCC"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5281170602?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=604F0E5FF29F59C221F05E6DCC4BB7C73A89468D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjgxMTcwNjAyIn0.LfMz9dEdQBCL6X6iln-jCv6kQFeiQQ6qFz_s2u1GV18",
+            "created": "2025-07-03T13:16:25Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Centurion, Tshwane",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Centurion"
+                ]
+            },
+            "longitude": 28.18586,
+            "salary_is_predicted": "0",
+            "id": "5281170602",
+            "company": {
+                "display_name": "Datafin IT Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 750000,
+            "title": "Chief Technology Officer Centurion",
+            "salary_min": 600000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Duties & Responsibilities ENVIRONMENT: PLAY a pivotal role in shaping the technological direction while driving innovation in products and services of a dynamic Centurion-based Property Specialist seeking your expertise to fill the role of its next Chief Technology Officer. Reporting directly to the CEO, you will lead and manage Software Development, Product Management, and Technical Installation teams. As the CTO, your responsibilities will include overseeing the entire product development lif\u2026",
+            "latitude": -25.8425
+        },
+        {
+            "location": {
+                "display_name": "Gauteng, South Africa",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 28.17194,
+            "id": "5451843363",
+            "salary_max": 600000,
+            "company": {
+                "display_name": "Managed People Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Head of Supply Chain and Procurement | Managed People Solutions | Midrand",
+            "salary_min": 500000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Our client is looking for an experienced Head of Supply Chain and Procurement based in Chloorkop, Midrand . The ideal candidate will drive cost efficiency, process improvements, and team performance to ensure smooth supply chain operations and high customer satisfaction. Responsibility includes: Develop and implement comprehensive procurement strategies that support overall supply chain and business objectives. Lead and manage the procurement team to ensure effective sourcing, purchasing, and c\u2026",
+            "latitude": -26.081943,
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5451843363?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D13C231A041276057354C60C3A971C017918E366",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MTg0MzM2MyIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.XTGe5ZyPqd1_3bBVfK219LZU_WLqkG01qF3HUyRu51Y",
+            "created": "2025-10-17T11:43:35Z",
+            "category": {
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistics & Warehouse Jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDI4NTQ5OSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.UwAaF6PayS1H_j6GxjwvNKcoklq0KawOVHra28wD_e0",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5490285499?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E8AD5F9A3F057F07EEE7D05E3001A604096164CC",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Legal Jobs",
+                "tag": "legal-jobs"
+            },
+            "created": "2025-11-11T11:42:28Z",
+            "salary_min": 400000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Airgas"
+            },
+            "id": "5490285499",
+            "salary_max": 500000,
+            "salary_is_predicted": "0",
+            "title": "Legal Counsel",
+            "longitude": 28.17194,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "display_name": "Gauteng, South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": -26.081943,
+            "description": "How will you CONTRIBUTE and GROW? In this position, the incumbent is accountable to provide assistance to the Head of Legal - Southern Africa, on legal matters relating to the company and its affiliated companies within Southern Africa, including but not limited to : pre-litigation and litigious claimscommercial, contractual or civil disputeslabour and employment lawinterpretation and / or negotiation of a wide range of commercial, operational and supply chain contractsprovision of legal suppor\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "latitude": -26.183117,
+            "description": "ENVIRONMENT Our client, part of a prestigious group of leading South African Financial Services Providers, is seeking a strategic and visionary Head of Marketing to lead the transformation and revitalisation of their marketing department. This is an opportunity to work alongside exceptional professionals in a dynamic, growth-focused organisation that values creativity, innovation, and integrity. The ideal candidate will play a pivotal role in shaping the company\u2019s brand strategy, driving engage\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 500000,
+            "id": "5515530226",
+            "salary_max": 600000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Datafin IT Recruitment"
+            },
+            "title": "Head of Marketing & Rewards",
+            "salary_is_predicted": "0",
+            "longitude": 28.026104,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ]
+            },
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs"
+            },
+            "created": "2025-11-27T01:41:40Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE1NTMwMjI2In0.oaXcpYeyGyrxB3IQY_fSrXu8uADV_WRc394gRVfa2p8",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5515530226?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=29C0BE0C281DC64B50E9D879850D2A984091E6BB"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1OTk4NTk5In0.cI-w91bmYc-tXQNOsWbNHK8IXu8gAgtZfIoP9Ad2HKY",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5535998599?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=453D588831700B45F3D5F29692C831145EDAACBD",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-10T09:22:26Z",
+            "salary_min": 400000,
+            "salary_max": 500000,
+            "id": "5535998599",
+            "company": {
+                "display_name": "Be Different Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Head Of Platform Operations",
+            "longitude": 28.17194,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "display_name": "Gauteng, South Africa"
+            },
+            "latitude": -26.081943,
+            "description": "In order to be considered the following is required: 12 years' IT operations experience with at least 5 years in senior leadership roles Strong expertise across infrastructure (compute, network, storage, hybrid / cloud), PaaS platforms (Azure, AWS, GCP, Kubernetes, OpenShift) and application operations Proven track record in managing multi\u2011cloud and hybrid enterprise environments Demonstrated experience in ITSM, AIOps, observability, and large\u2011scale service delivery Knowledge of South African l\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-12-11T09:34:33Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5537599962?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=09729F919914AD1BF20D501412819A492D182001",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3NTk5OTYyIn0.kT_BVPo21mLAD-rbQ--OjWkZKpzIkR1xwr2H4cmMZ6w",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "In order to be considered the following is required : 12 years\u2019 IT operations experience with at least 5 years in senior leadership roles Strong expertise across infrastructure (compute, network, storage, hybrid / cloud), PaaS platforms (Azure, AWS, GCP, Kubernetes, OpenShift) and application operations Proven track record in managing multi-cloud and hybrid enterprise environments Demonstrated experience in ITSM, AIOps, observability, and large-scale service delivery Knowledge of South African \u2026",
+            "latitude": -25.8425,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Tshwane",
+                    "Centurion"
+                ],
+                "display_name": "Centurion, Tshwane",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 28.18586,
+            "id": "5537599962",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Be Different Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 500000,
+            "title": "Head of Platform Operations",
+            "salary_min": 400000
+        },
+        {
+            "longitude": 28.026104,
+            "id": "5490284127",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -26.183117,
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 600000,
+            "salary_max": 750000,
+            "title": "Chief Financial Officer",
+            "company": {
+                "display_name": "Fnb South Africa",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Talent Specialist @ FNB SA | Driving Business Process Improvement To lead and manage the finance portfolio for the Bank, ensuring professional and ethical financial standards, practices and governance, and a cohesive finance service offering that is aligned to the Banks strategies. Determine and direct financial strategy for the Bank in partnership with the CEO and Exco. Serve as an active member of the senior-management team, prepare financial reports and budgets for the executive to support t\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDkwMjg0MTI3In0.sUjntVj0t6LNMMEmcc7uA5VjXxKEZzSEYbVhz9NelZQ",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5490284127?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C399EFF9C2F94FE9348C0ECE54F26CF48C9A035E",
+            "created": "2025-11-11T11:41:05Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -26.081943,
+            "description": "Malander is seeking an experienced Chartered Accountant for a Corporate Finance Lead position. The position is based in Cape Town or Johannesburg with travelling as a requirement. The Finance Lead will play a pivotal role in the financial evaluation, analysis, and risk assessment of new projects and opportunities for the company. Overview Malander is seeking an experienced Chartered Accountant for a Corporate Finance Lead position. The position is based in Cape Town or Johannesburg with travell\u2026",
+            "longitude": 28.17194,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gauteng, South Africa",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ]
+            },
+            "salary_min": 400000,
+            "id": "5530809631",
+            "company": {
+                "display_name": "Malander",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 500000,
+            "title": "Senior Corporate Finance Lead",
+            "salary_is_predicted": "0",
+            "created": "2025-12-06T15:17:03Z",
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDgwOTYzMSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.QerLgBzPLptITTRChV39ZYKPQ3qkCRl4_l5NBoUFhq4",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5530809631?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=622A208081DD5CF264C5B1721F0E5B6E59FEB8BB"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTA2NDczMSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.YDV32NVPG00_RHeLx23mO7TK1wXw_2lJJIX3g6rnEXI",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5519064731?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=9F024DE299A717C0B1A56A1585624E10818839EC",
+            "created": "2025-11-29T14:01:03Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 28.17194,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "display_name": "Gauteng, South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 600000,
+            "id": "5519064731",
+            "salary_max": 750000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Datafin IT Recruitment"
+            },
+            "salary_is_predicted": "0",
+            "title": "Chief Technology Officer Centurion",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -26.081943,
+            "description": "Duties & Responsibilities ENVIRONMENT : PLAY a pivotal role in shaping the technological direction while driving innovation in products and services of a dynamic Centurion-based Property Specialist seeking your expertise to fill the role of its next Chief Technology Officer. Reporting directly to the CEO, you will lead and manage Software Development, Product Management, and Technical Installation teams. As the CTO, your responsibilities will include overseeing the entire product development li\u2026"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Media24  Ltd"
+            },
+            "id": "5491702969",
+            "salary_is_predicted": "0",
+            "salary_max": 600000,
+            "title": "Head Of Software Engineering",
+            "salary_min": 500000,
+            "location": {
+                "area": [
+                    "South Africa",
+                    "Western Cape",
+                    "Cape Town Region"
+                ],
+                "display_name": "Cape Town Region, Western Cape",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 18.590372,
+            "description": "Overview We're looking for a Head of Software Engineering to lead our software development efforts and drive technical excellence across our engineering teams. Reporting to the Chief Information Officer, this role is perfect for a seasoned engineer who thrives on delivering innovative software solutions that power business growth. Responsibilities Strategic technical leadership: Define and execute a comprehensive technology roadmap aligned with business objectives and market opportunities; driv\u2026",
+            "latitude": -33.979741,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5491702969?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3F69704EBB94AA68E03F67D2B0AED2D5B98C1703",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MTcwMjk2OSIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.iTvWLMtUoJb5ACWlyG6xQyYro1iCw2mwCL_fnQsY2zg",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-12T11:49:09Z"
+        },
+        {
+            "latitude": -26.081943,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5530807863",
+            "salary_is_predicted": "0",
+            "longitude": 28.17194,
+            "description": "MAIN PURPOSE : Deliver rapid revenue growth by establishing and leading a disciplined sales cadence\u2014meet revenue targets while building future pipeline through focused strategy, relationship management, and player-coach leadership of a high-performing sales team. Strategy and Planning Define and execute short- and long-term B2B sales strategy (direct  channel) to drive substantial year-on-year revenue growth; Identify and foster strategically valuable industry relationships that will deliver de\u2026",
+            "salary_min": 500000,
+            "contract_type": "permanent",
+            "title": "Head Of Sales",
+            "company": {
+                "display_name": "Protodigy On Behalf Of Client",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 600000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "South Africa",
+                    "Gauteng"
+                ],
+                "display_name": "Gauteng, South Africa"
+            },
+            "contract_time": "full_time",
+            "category": {
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "sales-jobs"
+            },
+            "created": "2025-12-06T15:16:19Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDgwNzg2MyIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.YMW-4leqDNVbHYoqxg_aEL95mHahmyJ4NJTWsSH_FtA",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5530807863?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F978801D29AB47FB6D62A6ECE13D4E82B740BA00"
+        },
+        {
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5537600018?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C95B81EB0628B7E3F3BDEBAE6D69F5CBC8A96E84",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzYwMDAxOCIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.Yr_0ybQOyL61n52MKMTFvrPBLmP0csmm7D_F_s-qoOI",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-11T09:34:43Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TFG "
+            },
+            "id": "5537600018",
+            "salary_max": 500000,
+            "salary_is_predicted": "0",
+            "title": "Senior Software Engineer",
+            "salary_min": 400000,
+            "location": {
+                "area": [
+                    "South Africa"
+                ],
+                "display_name": "South Africa",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Job Description Customer, Platforms and Insights TFG\u2019s mission is to be the leading fashion lifestyle retailer in Africa whilst growing its international footprint by providing innovative products, creative customer experiences and by leveraging its portfolio of diverse brands to differentiate its offering. With over 20 retail brands that trade in fashion, jewellery, accessories and sporting apparel, cellular, home ware and furniture, TFG is one of the leading retail groups in Africa. Besides S\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Durban, eThekwini",
+                "area": [
+                    "South Africa",
+                    "KwaZulu-Natal",
+                    "eThekwini",
+                    "Durban"
+                ]
+            },
+            "salary_min": 53040,
+            "title": "Consultant",
+            "company": {
+                "display_name": "Desino Cash Loans",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 53040,
+            "description": "Job Description WE\u2019RE HIRING \u2013 LOAN CONSULTANT Desino Cash Loans \u2013 Durban CBD We\u2019re looking for a motivated Consultant to join our growing team! Working Hours: Mon\u2013Fri: 8am\u20135pm Sat: 8am\u201312:30pm Location: 320 Anton Lembede Street, 9th Floor, Mercury House, Durban Requirements: Matric (Grade 12) Experience in loans/finance (advantage) Strong communication & computer skills Friendly, professional attitude Duties include: Assisting clients with loan applications Affordability assessments & customer\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUmhSbWtOSFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI2NzM3NzE0In0.ZdXl_M9RrILc2U_V7-Yj6h8M6RuHvdDmkap8hkF8Kl0",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5526737714?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7F7CB645F238FF7FF538F6034DF372BD29D9ABFF",
+            "created": "2025-12-04T01:22:04Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Consultancy Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "longitude": 31.05,
+            "id": "5526737714",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -29.85417
+        },
+        {
+            "description": "Business Segment: Personal & Private Banking We are seeking a Junior Business Partner, P&C (People & Culture) to join our dynamic team in Johannesburg, South Africa. This role offers an exciting opportunity to contribute to our organisation's people strategy and support various HR initiatives. Partner with managers and employees to provide guidance on HR policies, procedures, and best practices Assist in the development and implementation of HR programmes and initiatives Conduct HR analytics an\u2026",
+            "latitude": -26.183117,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Junior Business Partner, P&C",
+            "id": "5472388454",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Standard Bank of South Africa Limited"
+            },
+            "salary_max": 500000,
+            "salary_is_predicted": "0",
+            "salary_min": 400000,
+            "location": {
+                "display_name": "Johannesburg, Gauteng",
+                "area": [
+                    "South Africa",
+                    "Gauteng",
+                    "Johannesburg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 28.026104,
+            "category": {
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hr-jobs"
+            },
+            "created": "2025-10-31T12:12:08Z",
+            "redirect_url": "https://www.adzuna.co.za/land/ad/5472388454?se=RhRmkNHW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=B4F4AA4876D375FFBF3E3BB6C91EAA7A1CC12A2B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MjM4ODQ1NCIsInMiOiJSaFJta05IVzhCRzdnY3JqVkVhaUR3In0.JuASnXQOVBKrFD_FScLNvoi6YQFdbzs_MaL57uvqWos"
+        }
+    ]
+}

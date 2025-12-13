@@ -1,0 +1,1587 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 102155,
+    "results": [
+        {
+            "category": {
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Produzione/Industrie Manifatturiere"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjEyMzcyNCIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.dpI95ebSAlOaXUo5Oct09bfHMoECLzXRhxaQS18hk0M",
+            "latitude": 45.474156,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Calcinato, Provincia di Brescia"
+            },
+            "id": "5496123724",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.39309,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-14T15:41:10Z",
+            "redirect_url": "https://www.adzuna.it/details/5496123724?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona ADDETTO AL MONTAGGIO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Addetto all'assemblaggio di componenti meccanici e pneumatici - Montaggio di cilindri, valvole e raccordi - Utilizzo di utensili manuali e strumenti da banco - Manutenzione ordinaria degli utensili Requisiti - Pregressa esperienza maturata in ambito metalmeccanico - Capacit\u00e0 di lettura di schemi pneumatici e disegni meccanici - Buona manualit\u00e0, precisione ed auto\u2026",
+            "title": "ADDETTO AL MONTAGGIO"
+        },
+        {
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-22T20:16:46Z",
+            "redirect_url": "https://www.adzuna.it/details/5459643218?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona MAGAZZINIERE DL.68/99 per realt\u00e0 operante nel settore metalmeccanico Mansioni - Attivit\u00e0 di carico/scarico merce - Ricezione merce in entrata - Preparazione ordini per le spedizioni Requisiti - Pregressa esperienza maturata nel ruolo - In possesso di attestato valido per la conduzione del carrello elevatore - Appartenenza alle categorie protette DL.68/99 Caratteristiche dell'offerta - Contratto: tempo indeterminato diretto con l'azienda cli\u2026",
+            "title": "MAGAZZINIERE DL.68/99",
+            "category": {
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistica/Imballaggio E Magazzinaggio"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1OTY0MzIxOCIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.Dh99VkXDBytPd_uL2Y48bDrre9T_RbnVRaBklZVDFAQ",
+            "latitude": 45.474156,
+            "location": {
+                "display_name": "Calcinato, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ]
+            },
+            "id": "5459643218",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.39309
+        },
+        {
+            "title": "JR LEGAL SPECIALIST",
+            "description": "In Job S.p.A. - Career Center di Mestre seleziona JR LEGAL SPECIALIST per realt\u00e0 operante nel settore della grande distribuzione organizzata Dopo un'iniziale periodo di affiancamento, la mansioni della risorsa saranno: Mansioni - Inserimento dati e aggiornamento del gestionale locazioni; - Supporto nella stipula dei rinnovi dei contratti di locazione in essere e risoluzioni telematiche; - Gestione RAEE e normative ambientali; - HACCP - gestione dei sopralluoghi e analisi prescrizioni; - Gestion\u2026",
+            "created": "2025-12-04T21:24:12Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5528234483?utm_medium=api&utm_source=58c69264",
+            "id": "5528234483",
+            "location": {
+                "display_name": "Marcon, Provincia di Venezia",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Venezia",
+                    "Marcon"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 12.318397,
+            "category": {
+                "label": "Affari Legali",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "legal-jobs"
+            },
+            "latitude": 45.555707,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI4MjM0NDgzIn0.S6fpKfcy8vXGofihAoW5XUidNaYpzrnuGYWVRmOCDL0"
+        },
+        {
+            "location": {
+                "display_name": "Nogarole Rocca, Provincia di Verona",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Nogarole Rocca"
+                ]
+            },
+            "id": "5445910023",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.980295,
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Amministrazione/Segreteria"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0NTkxMDAyMyIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.-l1QaeBqQNmZGi8ooPPIaRyE1fvuOQnjiLV38HfvuxA",
+            "latitude": 45.208838,
+            "description": "In Job S.p.A. - Career Center di Verona seleziona UFFICIO TECNICO L.68/99 per realt\u00e0 operante nel settore metalmeccanico Mansioni - Controllo dei disegni e delle disponibilit\u00e0 dei materiali - Lettura ed analisi della documentazione e dei disegni tecnici dei clienti - Inserimento ordini a gestionale e gestione data entry - Gestioni operative in supporto al Project Management - Gestione comunicazioni interne con la produzione Requisiti - Diploma tecnico (Geometra, Perito edile, Perito meccanico o\u2026",
+            "title": "UFFICIO TECNICO L.68/99",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-10-13T20:10:28Z",
+            "redirect_url": "https://www.adzuna.it/details/5445910023?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5207322929?utm_medium=api&utm_source=58c69264",
+            "created": "2025-05-20T12:06:46Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "ADDETTA/O AL CONFEZIONAMENTO DI GIOIELLI",
+            "description": "In Job S.p.A. - Career Center di BRESCIA seleziona ADDETTA/O AL CONFEZIONAMENTO - GIOELLI DI LUSSO per realt\u00e0 operante nel settore logistico Mansioni - Precisione e manualit\u00e0 fine, per maneggiare oggetti piccoli e delicati - Esperienza nel confezionamento (preferibilmente nel settore orafo o moda/lusso). - Conoscenza dei materiali da confezionamento (scatole, nastri, carta velina, sigilli, etichette ecc.). Requisiti - Affidabilit\u00e0 e puntualit\u00e0. - Precisione e ordine sul posto di lavoro. - Buone\u2026",
+            "latitude": 45.467281,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1MjA3MzIyOTI5In0.MAIs1dFiikxXHPtRVnTQqkzUvr4rtVLzaFmShq3_zO0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Altro"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.287847,
+            "id": "5207322929",
+            "location": {
+                "display_name": "Segrate, Provincia di Milano",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Segrate"
+                ]
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODI5NDAyIn0.pippxTHQoVk3rKuWWlB7WMMEBbEZlA2kGDRECjWsjtM",
+            "latitude": 45.474156,
+            "category": {
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistica/Imballaggio E Magazzinaggio"
+            },
+            "longitude": 10.39309,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Calcinato, Provincia di Brescia"
+            },
+            "id": "5497829402",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5497829402?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-15T18:54:35Z",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona MAGAZZINIERE DL.68/99 per realt\u00e0 operante nel settore metalmeccanico Mansioni - Attivit\u00e0 di carico/scarico merce - Ricezione merce in entrata - Preparazione ordini per le spedizioni Requisiti - Pregressa esperienza maturata nel ruolo - In possesso di attestato valido per la conduzione del carrello elevatore - Appartenenza alle categorie protette DL.68/99 Caratteristiche dell'offerta - Contratto: tempo indeterminato diretto con l'azienda cli\u2026",
+            "title": "MAGAZZINIERE DL.68/99"
+        },
+        {
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona IMPIEGATO CUSTOMER SERVICE per realt\u00e0 operante nel settore metalmeccanico Mansioni - Gestione richieste di clienti - Risoluzione di problematiche tecniche e amministrative - Gestione di reclami e segnalazioni - Interfaccia con reparti interni aziendali Requisiti - Preferibile pregressa esperienze nel ruolo - Buone conoscenze meccaniche/elettriche/idrauliche - Buona conoscenza della lingua inglese Caratteristiche dell'offerta - Contratto: te\u2026",
+            "title": "IMPIEGATO/A CUSTOMER SERVICE",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5515208671?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-26T20:05:46Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.39309,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Calcinato, Provincia di Brescia"
+            },
+            "id": "5515208671",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE1MjA4NjcxIn0.1R8ZSijSynnD11UpiU2YFhg_Gf7RSJbpESZKpdy3Mbc",
+            "latitude": 45.474156,
+            "category": {
+                "label": "Altro",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            }
+        },
+        {
+            "category": {
+                "label": "Altro",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Mzk0NzcxMCIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.7FAC8MaK6IkZcztp8wNRdwa9ohaCSnBBN9QdD8fRZTI",
+            "latitude": 45.208838,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Nogarole Rocca"
+                ],
+                "display_name": "Nogarole Rocca, Provincia di Verona"
+            },
+            "id": "5483947710",
+            "longitude": 10.980295,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-06T15:40:07Z",
+            "redirect_url": "https://www.adzuna.it/details/5483947710?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "description": "In Job S.p.A. - Career Center di Verona seleziona STAGE GESTIONE DATI - AMBITO LOGISTICO per realt\u00e0 operante nel settore dei servizi Mansioni - gestire tempestivamente le richieste dei clienti attraverso telefono ed email ed individuare le possibili soluzioni - collaborare con i reparti operativi per far fronte alle necessit\u00e0 dei clienti - gestire le eventuali segnalazioni post-spedizione - svolgere attivit\u00e0 generali di back office Requisiti - buona padronanza della lingua inglese - ha doti di \u2026",
+            "title": "STAGE CUSTOMER SERVICE"
+        },
+        {
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona CARPENTIERE per realt\u00e0 operante nel settore metalmeccanico Mansioni - Preparazione e montaggio delle attrezzature e stampi su presse - Attivit\u00e0 di assemblaggio e saldatura di strutture metalliche - Taglio, piegatura e foratura di componenti metallici - Esecuzione di piccole manutenzioni ordinarie - Controllo visivo e dimensionale dei pezzi Requisiti - Pregressa esperienza maturata nel ruolo - Ottima conoscenza di lettura del disegno meccani\u2026",
+            "title": "CARPENTIERE",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5459643220?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-10-22T20:16:46Z",
+            "longitude": 10.39309,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Calcinato, Provincia di Brescia",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5459643220",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDU5NjQzMjIwIn0.wnVxhZRydp_nUxtdF4-mEA52mrhTdETqE7EXodXQNtY",
+            "latitude": 45.474156,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Altro"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.39309,
+            "salary_is_predicted": "0",
+            "id": "5492373681",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ],
+                "display_name": "Calcinato, Provincia di Brescia"
+            },
+            "latitude": 45.474156,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDkyMzczNjgxIn0.sujucBkIZili0V81axNF2UbteJ-5OaroBamu5aDq0q0",
+            "category": {
+                "label": "Amministrazione/Segreteria",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs"
+            },
+            "title": "IMPIEGATO UFFICIO ACQUISTI",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona IMPIEGATO/A UFFICIO ACQUISTI per realt\u00e0 operante nel settore metalmeccanico Mansioni - Gestione delle comunicazioni con i fornitori - Monitoraggio consegne rispetto alle tempistiche previste - Preparazione ed emissione ordini su commessa - Interfaccia con i referenti della produzione - Individuazione e contatto di nuovi potenziali fornitori Requisiti - Diploma di scuola secondaria superiore - Buone conoscenza di utilizzo di gestionali azien\u2026",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5492373681?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-12T16:09:19Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "latitude": 45.370433,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MzE4NDA0NSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.TyRM2YiVnQZsSNyUEUVlFNh711_dfc3v6Rd59uydXFA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Produzione/Industrie Manifatturiere",
+                "tag": "manufacturing-jobs"
+            },
+            "longitude": 10.510414,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5473184045",
+            "location": {
+                "display_name": "Castiglione delle Stiviere, Provincia di Mantova",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova",
+                    "Castiglione delle Stiviere"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.it/details/5473184045?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-10-31T19:01:02Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "title": "ADDETTO/A PRODUZIONE DL.68/99",
+            "description": "In Job S.p.A. - Career Center di Castiglione delle Stiviere seleziona ADDETTO/A PROUDUZIONE DL.68/99 per realt\u00e0 operante nel settore alimentare Mansioni - Addetti alla produzione - Addetto a lavorazione su linee produttive - Controllo qualit\u00e0 del prodotto finito Requisiti - Pregressa esperienza in contesti produttivi - Necessaria appartenenza alle liste del collocamento mirato dl.68/99 - Preferibile disponibilit\u00e0 a lavoro su turni Caratteristiche dell'offerta - Contratto: tempo determinato dire\u2026"
+        },
+        {
+            "location": {
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Venezia",
+                    "Noventa di Piave"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noventa di Piave, Provincia di Venezia"
+            },
+            "id": "5471477046",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.554107,
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Altro"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MTQ3NzA0NiIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.cAcb5Zwq4kdI4u-DfDsTkgtmT9GD7nRrk_aCiV9IT2A",
+            "latitude": 45.676989,
+            "description": "In Job S.p.A. \u2013 Career Center di Oderzo seleziona CUSTOMER SERVICE ITALIA - STAGE per nota azienda del settore arredamento Profilo La risorsa supporter\u00e0 il reparto nell'assistenza ai clienti, nella gestione delle richieste e nel miglioramento continuo dell'esperienza utente. - Gestione delle richieste dei clienti via email e telefono; - Inserimento e aggiornamento dei dati nel CRM aziendale; - Supporto nella risoluzione di problemi relativi a ordini, spedizioni e resi; - Collaborazione con altr\u2026",
+            "title": "CUSTOMER SERVICE ITALIA - STAGE",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-30T19:00:04Z",
+            "redirect_url": "https://www.adzuna.it/details/5471477046?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "OPERAIO AZIENDA ALIMENTARE 3 TURNI",
+            "description": "In Job S.p.A. - Career Center di Bussolengo seleziona OPERAIO AZIENDA ALIMENTARE 3 TURNI per realt\u00e0 operante nel settore alimentare. L'azienda \u00e8 specializzata nella produzione e trasformazione di ingredienti di alta qualit\u00e0. Mansioni - avviare e controllare i macchinari di produzione - preparare e controllare materie prime - pulire area di lavoro - compilare schede di produzione e segnalare anomalie Requisiti - esperienza minima in azienda alimentare o in produzione - patente B - disponibilit\u00e0 \u2026",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5518338084?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-28T20:07:04Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.846411,
+            "id": "5518338084",
+            "location": {
+                "display_name": "Bussolengo, Provincia di Verona",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Bussolengo"
+                ]
+            },
+            "latitude": 45.474558,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODMzODA4NCIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.saR46vVGTrYV_3FBrmpw11zb1jOiAWEXShzRF6uC0eQ",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Produzione/Industrie Manifatturiere",
+                "tag": "manufacturing-jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTU2MDg2NiIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.LqpSlNEIBID40helRk2QztGVhoLsfgjHPhGv_n_LxIY",
+            "latitude": 45.41182,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs",
+                "label": "Amministrazione/Segreteria"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.392829,
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Montichiari"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Montichiari, Provincia di Brescia"
+            },
+            "id": "5485560866",
+            "redirect_url": "https://www.adzuna.it/details/5485560866?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-07T15:47:04Z",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona IMPIEGATO/A ADDETTO PAGHE per realt\u00e0 operante nel settore studi professionali Mansioni - Elaborazione di buste paga mensili e relativi F24 - Gestione di presenze, ferie, permessi, malattie, infortuni ecc - Predisposizione ed invio telematico di modelli fiscali e contributivi - Eseguire adempimenti annuali correlati (CUD, 770, autoliquidazioni Inail) Requisiti - Diploma di Ragioneria o Laurea indirizzo Amministrativo - Minima esperienza matu\u2026",
+            "title": "IMPIEGATO/A ADDETTO PAGHE"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-14T15:41:10Z",
+            "redirect_url": "https://www.adzuna.it/details/5496123734?utm_medium=api&utm_source=58c69264",
+            "description": "In Job S.p.A. - Career Center di Brescia seleziona IMPIEGATO UFFICIO TECNICO per realt\u00e0 operante nel settore del vetro Mansioni - Realizzazione di disegni e programmi da caricare nella macchina del taglio vetro - Gestione della documentazione per la certificazione UNI e controllo del rispetto delle normative - Controllo qualit\u00e0 del prodotto tramite strumenti di misura - Preparazione dei disegni esecutivi di produzione, schede di produzione e distinte materiali - Archiviazione dei dati tecnici e\u2026",
+            "title": "IMPIEGATO UFFICIO TECNICO",
+            "category": {
+                "label": "Ingegneria",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjEyMzczNCIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.yl5v6tEeebieJOclr0-YtqWnYpErD1rLxzVQySHuP5o",
+            "latitude": 45.523356,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Travagliato"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Travagliato, Provincia di Brescia"
+            },
+            "id": "5496123734",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.079
+        },
+        {
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona ELETTRICISTA INDUSTRIALE per realt\u00e0 operante nel settore elettrico Mansioni - Installazione di impianti elettrici industriali - Manutenzione ordinaria e straordinaria di impianti elettrici - Diagnosi e riparazione guasti elettrici - Lettura di schemi elettrici Requisiti - Diploma tecnico preferibilmente ambito elettrico - Esperienza pregressa nel ruolo - Conoscenza di impianti elettrici industriali - Capacit\u00e0 di lettura schemi elettrici Car\u2026",
+            "title": "ELETTRICISTA INDUSTRIALE",
+            "redirect_url": "https://www.adzuna.it/details/5450661308?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-16T20:29:50Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.392829,
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Montichiari"
+                ],
+                "display_name": "Montichiari, Provincia di Brescia"
+            },
+            "id": "5450661308",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDUwNjYxMzA4In0.5Ssfjmn47q2ww2HF5QUJFSQF92sVYirIPFSHu8GhmYU",
+            "latitude": 45.41182,
+            "category": {
+                "label": "Produzione/Industrie Manifatturiere",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "manufacturing-jobs"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM2NjQ5MCIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.h9UfdV6kbFtLUx3ANJ1omX5e7Vzp5tI11YCJD2pCBsI",
+            "latitude": 45.412497,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Logistica/Imballaggio E Magazzinaggio"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 11.050803,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Provincia di Verona, Veneto"
+            },
+            "id": "5538366490",
+            "redirect_url": "https://www.adzuna.it/details/5538366490?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T20:40:55Z",
+            "description": "In Job S.p.A. - Career Center di Verona seleziona MAGAZZINIERE per azienda cliente nel settore delle lavanderie industriali Mansioni - Gestione e organizzazione del magazzino ricambi - Ricezione, controllo e stoccaggio della merce - Preparazione e consegna dei ricambi ai tecnici - Verifica giacenze e inserimento dati a gestionale - Uso del carrello elevatore Requisiti - Esperienza pregressa, all'interno di un magazzino o di un contesto logistico - Precisione e buona capacit\u00e0 di concentrazione -\u2026",
+            "title": "MAGAZZINIERE"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDgzOTQ3NjY1In0.B5L2ula0vW6WdAhwbC7E5Wnk8cCwiFKZl2J8tu_Btng",
+            "latitude": 45.208838,
+            "category": {
+                "label": "Altro",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.980295,
+            "location": {
+                "display_name": "Nogarole Rocca, Provincia di Verona",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Nogarole Rocca"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5483947665",
+            "redirect_url": "https://www.adzuna.it/details/5483947665?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-06T15:40:00Z",
+            "description": "In Job S.p.A. - Career Center di Verona seleziona STAGE GESTIONE DATI - AMBITO LOGISTICO per realt\u00e0 operante nel settore dei servizi Mansioni - supportare e collaborare con il reparto Sales nella gestione dei tender in ottica di sviluppo del Tender Management; - preparazione delle tariffe e delle offerte economiche ai potenziali clienti; - analizzare la marginalit\u00e0 dei clienti esistenti identificando eventuali azioni, contribuendo alla crescita del margine dell'azienda - predisporre analisi e r\u2026",
+            "title": "STAGE SALES CONTROLLING"
+        },
+        {
+            "title": "IMPIEGATO/A AMMINISTRATIVO",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona IMPIEGATO AMMINISTRATIVO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Gestione documentazione amministrativa - Emissione e registrazione di fatture attive e passive - Gestione pagamenti - Supporto nella preparazione di Bilanci Requisiti - Diploma di Ragioneria o titolo di studio equipollente - Pregressa esperienza maturata nel ruolo - Preferibile provenienza da un contesto aziendale - Buona conoscenza di software di contabilit\u00e0\u2026",
+            "created": "2025-11-28T20:07:04Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5518338080?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "id": "5518338080",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Pontevico"
+                ],
+                "display_name": "Pontevico, Provincia di Brescia"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.109868,
+            "category": {
+                "label": "Amministrazione/Segreteria",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs"
+            },
+            "latitude": 45.284634,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4MzM4MDgwIn0.hNmXZQIlBsZ7TKadRKy0a0eKruK3MzwOVNZMr6mZgCc"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.392829,
+            "id": "5518338068",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Montichiari"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Montichiari, Provincia di Brescia"
+            },
+            "latitude": 45.41182,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4MzM4MDY4In0.ze64-t8hp9yPHkkRW06NVQuMZc96zmRyAMFJdyh23wU",
+            "category": {
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Produzione/Industrie Manifatturiere"
+            },
+            "title": "MANUTENTORE ELETTRICO",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona MANUTENTORE ELETTRICO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Manutenzione ordinaria e straordinaria su impianti elettrici industriali - Diagnosi e risoluzione di guasti elettrici - Controllo e verifica del corretto funzionamento di quadri elettrici - Conoscenza del PLC Requisiti - Titolo di studio ad indirizzo tecnico - Pregressa esperienza nella manutenzione elettrica industriale ed in ambito industriale - Ottima conosce\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5518338068?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-11-28T20:07:03Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            }
+        },
+        {
+            "created": "2025-11-22T22:14:39Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5509754289?utm_medium=api&utm_source=58c69264",
+            "title": "TECNICO ELETTRICO",
+            "description": "In Job S.p.A. - Career Center di Montichiari seleziona TECNICO ELETTRICO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Attivit\u00e0 di assemblaggio elettrico - Collaudo e controllo del corretto funzionamento dei macchinari - Montaggio macchinari presso clienti - Trasferte presso clienti Requisiti - Diploma ad indirizzo elettrico/elettronico - Buona conoscenza del Disegno tecnico - Buona conoscenza della lingua inglese - Disponibilit\u00e0 a trasferte sia Italia sia Estero Caratteristiche del\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Ingegneria",
+                "tag": "engineering-jobs"
+            },
+            "latitude": 45.252454,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA5NzU0Mjg5In0.8QFEDGAS3iwZRDQShU2byo8ZOcDMeZQnNx-bJPe1oxw",
+            "id": "5509754289",
+            "location": {
+                "display_name": "Goito, Provincia di Mantova",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova",
+                    "Goito"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.658746
+        },
+        {
+            "latitude": 45.430635,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjEyMzcyNSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.3ZCoShT0neB3n-McHEeCQP3U-KgPzzcsgPFQpGMcXkY",
+            "category": {
+                "label": "Contabilit\u00e0/Finanza",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.748248,
+            "id": "5496123725",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Castelnuovo del Garda"
+                ],
+                "display_name": "Castelnuovo del Garda, Provincia di Verona"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5496123725?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-11-14T15:41:10Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "title": "CONTABILE LINGUA INGLESE",
+            "description": "In Job S.p.A. - Career Center di Verona seleziona IMPIEGATO/A CONTABILE LINGUA INGLESE per realt\u00e0 operante nel settore abbigliamento Mansioni - Attivit\u00e0 amministrative e di prima contabilit\u00e0 - Gestione dei clienti esteri (B to B) - Gestione ordini Requisiti - conoscenza della lingua inglese a livello C1 o superiore - ottime capacit\u00e0 organizzative e gestionali - precisione Caratteristiche dell'offerta - Inserimento diretto in azienda - Luogo di lavoro: Castelnuovo del Garda - Orario indicativo 9\u2026"
+        },
+        {
+            "id": "5505964106",
+            "location": {
+                "display_name": "Lonato del Garda, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Lonato del Garda"
+                ]
+            },
+            "longitude": 10.494415,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "manufacturing-jobs",
+                "label": "Produzione/Industrie Manifatturiere"
+            },
+            "latitude": 45.44905,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA1OTY0MTA2In0.oCwTk0e_mIZFKBKshv_itefQ4jw1Z59_a8X8KFlgCTA",
+            "title": "CONTROLLO QUALITA'",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona CONTROLLO QUALITA' per realt\u00e0 operante nel settore gomma plastica Mansioni - Controllo materie prime e prodotti in entrata - Controllo prodotti nelle diverse fasi di lavorazione - Compilazione bollettini di controllo qualit\u00e0 - Gestione di Non conformit\u00e0 - Gestione documentazione e carichi di magazzino Requisiti - Diploma tecnico ad indirizzo meccanico - Preferibile pregressa esperienza maturata nel ruolo - Conoscenza ed utiliz\u2026",
+            "created": "2025-11-20T21:07:32Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "redirect_url": "https://www.adzuna.it/details/5505964106?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "id": "5516704449",
+            "location": {
+                "display_name": "Calcinato, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.39309,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Altro",
+                "tag": "other-general-jobs"
+            },
+            "latitude": 45.474156,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE2NzA0NDQ5In0.Qv7wEaKQI1l3WbbPogCNIbsN2N-_4ipTYjzSDj9zX-c",
+            "title": "IMPIEGATO/A CUSTOMER SERVICE",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona IMPIEGATO CUSTOMER SERVICE per realt\u00e0 operante nel settore metalmeccanico Mansioni - Gestione richieste di clienti - Risoluzione di problematiche tecniche e amministrative - Gestione di reclami e segnalazioni - Interfaccia con reparti interni aziendali Requisiti - Preferibile pregressa esperienze nel ruolo - Buone conoscenze meccaniche/elettriche/idrauliche - Buona conoscenza della lingua inglese Caratteristiche dell'offerta -\u2026",
+            "created": "2025-11-27T20:10:02Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5516704449?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "TECNICO ELETTRICO",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona TECNICO ELETTRICO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Attivit\u00e0 di assemblaggio elettrico - Collaudo e controllo del corretto funzionamento dei macchinari - Montaggio macchinari presso clienti - Trasferte presso clienti Requisiti - Diploma ad indirizzo elettrico/elettronico - Buona conoscenza del Disegno tecnico - Buona conoscenza della lingua inglese - Disponibilit\u00e0 a trasferte sia Italia sia Estero Carat\u2026",
+            "created": "2025-11-22T22:30:36Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5509832753?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "id": "5509832753",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova",
+                    "Goito"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Goito, Provincia di Mantova"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.658746,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Ingegneria"
+            },
+            "latitude": 45.252454,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA5ODMyNzUzIn0.rnryFEreMLXPtqn1qNzoHAkDsHif4LGKKSRmYHnTfkQ"
+        },
+        {
+            "category": {
+                "label": "Produzione/Industrie Manifatturiere",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "manufacturing-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODM1NzMxIn0.smQMZPduK5PJKA60V6I2ClGYUIdSn1PWRbcKvYdgQBE",
+            "latitude": 45.474156,
+            "location": {
+                "display_name": "Calcinato, Provincia di Brescia",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5497835731",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.39309,
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-15T18:56:15Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5497835731?utm_medium=api&utm_source=58c69264",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona ADDETTO AL MONTAGGIO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Addetto all'assemblaggio di componenti meccanici e pneumatici - Montaggio di cilindri, valvole e raccordi - Utilizzo di utensili manuali e strumenti da banco - Manutenzione ordinaria degli utensili Requisiti - Pregressa esperienza maturata in ambito metalmeccanico - Capacit\u00e0 di lettura di schemi pneumatici e disegni meccanici - Buona manualit\u00e0, prec\u2026",
+            "title": "ADDETTO AL MONTAGGIO"
+        },
+        {
+            "longitude": 10.778259,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5508364331",
+            "location": {
+                "display_name": "Provincia di Mantova, Lombardia",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.13048,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM2NDMzMSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.juuTvEhmn81AHYvAyLDwUdPAS-AuxnI32X0Z31po8LM",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs",
+                "label": "Amministrazione/Segreteria"
+            },
+            "title": "Impiegato/a amministrativo/a",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Suzzara seleziona IMPIEGATO/A AMMINISTRATIVO/A per realt\u00e0 operante nel settore metalmeccanica industria Mansioni - Supporto nella gestione della documentazione amministrativa; - Archiviazione digitale e cartacea di documenti contabili e amministrativi; - Attivit\u00e0 generali di segreteria e back office; - Supporto nella redazione di documenti (fatture, bolle, DDT); - Inserimento e aggiornamento dei dati a gestionale. Requisiti - Diploma di scuola supe\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5508364331?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-21T21:25:09Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjEzOTkxNyIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.npIZuyYk0MK62mfHopYrXUr69Aix3RSp_rZ3M5uH8lU",
+            "latitude": 45.523356,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Ingegneria"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.079,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Travagliato, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Travagliato"
+                ]
+            },
+            "id": "5496139917",
+            "redirect_url": "https://www.adzuna.it/details/5496139917?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-14T15:50:24Z",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Brescia seleziona IMPIEGATO UFFICIO TECNICO per realt\u00e0 operante nel settore del vetro Mansioni - Realizzazione di disegni e programmi da caricare nella macchina del taglio vetro - Gestione della documentazione per la certificazione UNI e controllo del rispetto delle normative - Controllo qualit\u00e0 del prodotto tramite strumenti di misura - Preparazione dei disegni esecutivi di produzione, schede di produzione e distinte materiali - Archiviazione dei \u2026",
+            "title": "IMPIEGATO UFFICIO TECNICO"
+        },
+        {
+            "latitude": 45.284634,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE5NjM3MjY3In0.3Raw2h44-DamMuS-hiW2IFOmKrTK1eJvwuVchdlgthk",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Amministrazione/Segreteria",
+                "tag": "admin-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.109868,
+            "salary_is_predicted": "0",
+            "id": "5519637267",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Pontevico"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pontevico, Provincia di Brescia"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5519637267?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-11-29T20:09:16Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "title": "IMPIEGATO/A AMMINISTRATIVO",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona IMPIEGATO AMMINISTRATIVO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Gestione documentazione amministrativa - Emissione e registrazione di fatture attive e passive - Gestione pagamenti - Supporto nella preparazione di Bilanci Requisiti - Diploma di Ragioneria o titolo di studio equipollente - Pregressa esperienza maturata nel ruolo - Preferibile provenienza da un contesto aziendale - Buona conoscenza di software \u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5529963331?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-12-05T21:53:20Z",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Mestre seleziona JR LEGAL SPECIALIST per realt\u00e0 operante nel settore della grande distribuzione organizzata Dopo un'iniziale periodo di affiancamento, la mansioni della risorsa saranno: Mansioni - Inserimento dati e aggiornamento del gestionale locazioni; - Supporto nella stipula dei rinnovi dei contratti di locazione in essere e risoluzioni telematiche; - Gestione RAEE e normative ambientali; - HACCP - gestione dei sopralluoghi e analisi prescrizi\u2026",
+            "title": "JR LEGAL SPECIALIST",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTk2MzMzMSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.03baDlVOkNDnzh0wJSixHwL3JNR58LfQkVKw3UlAr7g",
+            "latitude": 45.555707,
+            "category": {
+                "tag": "legal-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Affari Legali"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.318397,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Venezia",
+                    "Marcon"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Marcon, Provincia di Venezia"
+            },
+            "id": "5529963331"
+        },
+        {
+            "category": {
+                "label": "Produzione/Industrie Manifatturiere",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "manufacturing-jobs"
+            },
+            "latitude": 45.41182,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTYzNzI4MSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.cM-6upUdFUO44ZN6SzyOsfkrdOGFpzl3T0DBKG5vzIo",
+            "id": "5519637281",
+            "location": {
+                "display_name": "Montichiari, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Montichiari"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.392829,
+            "salary_is_predicted": "0",
+            "created": "2025-11-29T20:09:16Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5519637281?utm_medium=api&utm_source=58c69264",
+            "title": "MANUTENTORE ELETTRICO",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona MANUTENTORE ELETTRICO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Manutenzione ordinaria e straordinaria su impianti elettrici industriali - Diagnosi e risoluzione di guasti elettrici - Controllo e verifica del corretto funzionamento di quadri elettrici - Conoscenza del PLC Requisiti - Titolo di studio ad indirizzo tecnico - Pregressa esperienza nella manutenzione elettrica industriale ed in ambito industriale - \u2026"
+        },
+        {
+            "title": "COMMERCIALE JUNIOR",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Padova seleziona COMMERCIALE JUNIOR per realt\u00e0 operante nel settore commercio. Mansioni - Promozione e vendita dei prodotti aziendali presso i clienti del Triveneto - Attivit\u00e0 di back office commerciale (inserimento ordini e supporto alla rete vendita) - Pianificazione delle visite commerciali e gestione del pacchetto clienti attivo Requisiti - Motivazione al ruolo commerciale - Disponibilit\u00e0 agli spostamenti sul territorio del Triveneto (4 giorni \u2026",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5529963352?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-05T21:53:20Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.793731,
+            "id": "5529963352",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Padova"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Provincia di Padova, Veneto"
+            },
+            "latitude": 45.359711,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTk2MzM1MiIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.5590CTvFwRHsM-4326raP_F0iyBL3n9FQM_4JJsLmdk",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Altro"
+            }
+        },
+        {
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-22T22:30:36Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5509832738?utm_medium=api&utm_source=58c69264",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona PROGETTISTA MECCANICO per realt\u00e0 operante nel settore metalmeccanico Mansioni - Attivit\u00e0 di progettazione meccanica in 2D e 3D - Sviluppo di modelli e tavole tecniche - Analisi di fattibilit\u00e0 tecnica del prodotto - Preparazione di documentazione tecnica e supporto in fase di industrializzazione del prodotto - Interfaccia con clienti ed enti certificatori Requisiti - Laurea in Ingegneria Meccanica - Pregressa esperienza profess\u2026",
+            "title": "PROGETTISTA MECCANICO",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Ingegneria",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwOTgzMjczOCIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.yqx_kt0jrJyohDyhMa4qa-VTFJhcODGo5oUa0cH4xrE",
+            "latitude": 45.191605,
+            "location": {
+                "display_name": "Porto Mantovano, Provincia di Mantova",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova",
+                    "Porto Mantovano"
+                ]
+            },
+            "id": "5509832738",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.752507,
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Nogarole Rocca"
+                ],
+                "display_name": "Nogarole Rocca, Provincia di Verona"
+            },
+            "id": "5497841468",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.980295,
+            "category": {
+                "label": "Altro",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODQxNDY4In0.AtY9MHY3uolXfKNrpbGFjWEsFw1iy6mBoWu_Emdbohc",
+            "latitude": 45.208838,
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Verona seleziona STAGE GESTIONE DATI - AMBITO LOGISTICO per realt\u00e0 operante nel settore dei servizi Mansioni - gestire tempestivamente le richieste dei clienti attraverso telefono ed email ed individuare le possibili soluzioni - collaborare con i reparti operativi per far fronte alle necessit\u00e0 dei clienti - gestire le eventuali segnalazioni post-spedizione - svolgere attivit\u00e0 generali di back office Requisiti - buona padronanza della lingua inglese\u2026",
+            "title": "STAGE CUSTOMER SERVICE",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-15T18:57:05Z",
+            "redirect_url": "https://www.adzuna.it/details/5497841468?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "created": "2025-11-15T18:56:16Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "redirect_url": "https://www.adzuna.it/details/5497835812?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "title": "CONTABILE LINGUA INGLESE",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Verona seleziona IMPIEGATO/A CONTABILE LINGUA INGLESE per realt\u00e0 operante nel settore abbigliamento Mansioni - Attivit\u00e0 amministrative e di prima contabilit\u00e0 - Gestione dei clienti esteri (B to B) - Gestione ordini Requisiti - conoscenza della lingua inglese a livello C1 o superiore - ottime capacit\u00e0 organizzative e gestionali - precisione Caratteristiche dell'offerta - Inserimento diretto in azienda - Luogo di lavoro: Castelnuovo del Garda - Orari\u2026",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Contabilit\u00e0/Finanza"
+            },
+            "latitude": 45.430635,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODM1ODEyIn0.RR3TNVttoqsjsbPWPjENolIsKGtL4z-u2SHPNhzA_GU",
+            "id": "5497835812",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Castelnuovo del Garda"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Castelnuovo del Garda, Provincia di Verona"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.748248,
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di BRESCIA seleziona ADDETTA/O AL CONFEZIONAMENTO - GIOELLI DI LUSSO per realt\u00e0 operante nel settore logistico Mansioni - Precisione e manualit\u00e0 fine, per maneggiare oggetti piccoli e delicati - Esperienza nel confezionamento (preferibilmente nel settore orafo o moda/lusso). - Conoscenza dei materiali da confezionamento (scatole, nastri, carta velina, sigilli, etichette ecc.). Requisiti - Affidabilit\u00e0 e puntualit\u00e0. - Precisione e ordine sul posto di l\u2026",
+            "title": "ADDETTA/O AL CONFEZIONAMENTO DI GIOIELLI",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-25T20:20:18Z",
+            "redirect_url": "https://www.adzuna.it/details/5513575749?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Segrate"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Segrate, Provincia di Milano"
+            },
+            "id": "5513575749",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.287847,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Altro"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzU3NTc0OSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.o3a9g-sGokYjLkaxNSRYzI3sIahRaGxUdP6Kg_Ai9vQ",
+            "latitude": 45.467281
+        },
+        {
+            "title": "OPERATORE LOGISTICO",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di San Bonifacio seleziona OPERATORE LOGISTICO per realt\u00e0 operante nel settore dell'industria tessile Mansioni - Movimentazione merci e utilizzo di palmare/lettore RF; - Inserimento dati e gestione documentale tramite gestionali di magazzino; - Supporto al controllo qualit\u00e0; - Relazione costante con clienti interni ed esterni. Requisiti - Esperienza nel settore logistico (almeno 1 anno); - Buona dimestichezza con PC, Excel base e sistemi informativi; \u2026",
+            "created": "2025-11-27T20:10:03Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5516704478?utm_medium=api&utm_source=58c69264",
+            "id": "5516704478",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Verona",
+                    "Belfiore"
+                ],
+                "display_name": "Belfiore, Provincia di Verona"
+            },
+            "longitude": 11.20955,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs",
+                "label": "Logistica/Imballaggio E Magazzinaggio"
+            },
+            "latitude": 45.382198,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE2NzA0NDc4In0.j73F6pzMENJae2ek6Hxw2ILFN7inNZ_8Nwn8joEdhi8"
+        },
+        {
+            "category": {
+                "label": "Amministrazione/Segreteria",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs"
+            },
+            "latitude": 45.474156,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODQxNjg2In0.sPyNjAH-P2XwUJTEu9Kqh3oUfihhMv4AeYyj09bqhBs",
+            "id": "5497841686",
+            "location": {
+                "display_name": "Calcinato, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.39309,
+            "created": "2025-11-15T18:57:06Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5497841686?utm_medium=api&utm_source=58c69264",
+            "title": "IMPIEGATO UFFICIO ACQUISTI",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona IMPIEGATO/A UFFICIO ACQUISTI per realt\u00e0 operante nel settore metalmeccanico Mansioni - Gestione delle comunicazioni con i fornitori - Monitoraggio consegne rispetto alle tempistiche previste - Preparazione ed emissione ordini su commessa - Interfaccia con i referenti della produzione - Individuazione e contatto di nuovi potenziali fornitori Requisiti - Diploma di scuola secondaria superiore - Buone conoscenza di utilizzo di ge\u2026"
+        },
+        {
+            "title": "TECNICO AUTOMAZIONE INDUSTRIALE",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona TECNICO AUTOMAZIONE INDUSTRIALE per realt\u00e0 operante nel settore metalmeccanico Mansioni - Attivit\u00e0 di avvio macchine e collaudo - Installazione, configurazione e messa in servizio di impianti - Programmazione PLC - Diagnostica e ricerca guasti elettrici e software - Redazione di report tecnico Requisiti - Diploma ad indirizzo tecnico (elettronico, informatico o telecomunicazioni) - Competenze base nella programmazione software\u2026",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5509832735?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-22T22:30:36Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "longitude": 10.658746,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5509832735",
+            "location": {
+                "display_name": "Goito, Provincia di Mantova",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Mantova",
+                    "Goito"
+                ]
+            },
+            "latitude": 45.252454,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwOTgzMjczNSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.5L4StV_cNtyc3vM75tdBrJIHWcJ54WBKu42tvCF6zb8",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Ingegneria",
+                "tag": "engineering-jobs"
+            }
+        },
+        {
+            "created": "2025-11-15T18:56:16Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5497835793?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "title": "MAGAZZINIERE DL.68/99",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Montichiari seleziona MAGAZZINIERE DL.68/99 per realt\u00e0 operante nel settore metalmeccanico Mansioni - Attivit\u00e0 di carico/scarico merce - Ricezione merce in entrata - Preparazione ordini per le spedizioni Requisiti - Pregressa esperienza maturata nel ruolo - In possesso di attestato valido per la conduzione del carrello elevatore - Appartenenza alle categorie protette DL.68/99 Caratteristiche dell'offerta - Contratto: tempo indeterminato diretto con\u2026",
+            "category": {
+                "tag": "logistics-warehouse-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistica/Imballaggio E Magazzinaggio"
+            },
+            "latitude": 45.474156,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NzgzNTc5MyIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.LQ10r59qurNwAZQhQUgxHVIHIT_WO1ASIh9IHAy-wsI",
+            "id": "5497835793",
+            "location": {
+                "display_name": "Calcinato, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Calcinato"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.39309,
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Produzione/Industrie Manifatturiere",
+                "tag": "manufacturing-jobs"
+            },
+            "latitude": 45.416397,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODQxNjY1In0.eHW_ZR3enCQrD_TQNeH5qWJsm7ZAYnnv-6zeruuBztw",
+            "id": "5497841665",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Cremona",
+                    "Ricengo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Ricengo, Provincia di Cremona"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.740717,
+            "created": "2025-11-15T18:57:06Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5497841665?utm_medium=api&utm_source=58c69264",
+            "title": "ADDETTO/A AL CONFEZIONAMENTO",
+            "description": "In Job S.p.A. In Job S.p.A. - Career Center di Treviglio seleziona ADDETTO/A AL CONFEZIONAMENTO per realt\u00e0 operante nel settore cosmetico Mansioni - confezionamento del prodotto finito - etichettatura - controllo qualit\u00e0 visivo Requisiti - disponibilit\u00e0 immediata - buona manualit\u00e0 - precisione e affidabilit\u00e0 Caratteristiche dell'offerta - Contratto: tempo determinato in somministrazione - Luogo di lavoro: Ricengo (CR) - Disponibilit\u00e0 oraria: 2 turni (06:00-14:00-14:00-22:00) da luned\u00ec a venerd\u00ec\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.460371,
+            "salary_is_predicted": "0",
+            "id": "5482272821",
+            "location": {
+                "display_name": "Altavilla Vicentina, Provincia di Vicenza",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Vicenza",
+                    "Altavilla Vicentina"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.511935,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjI3MjgyMSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.7_Rh6YVXf9Mw1jGQokQmNrYXuKXb2Tetz93qBvmZAaI",
+            "category": {
+                "label": "Logistica/Imballaggio E Magazzinaggio",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "title": "ADDETTO/A AL MAGAZZINO",
+            "description": "In Job S.p.A. - Career Center di Vicenza seleziona ADDETTO/A AL MAGAZZINO Per azienda operante nel settore del commercio Mansioni - Preparazione merce - Carico e scarico della merce - Eventuale consegne presso clienti nei limitrofi - Preparazione bolle e ddt Requisiti: - Si valutano profili anche junior - Patentino del muletto in corsi di validit\u00e0 - conoscenza gestionale Zucchetti - In possesso di patente B Caratteristica dell'offerta \u00b7 Orario di lavoro: in giornata con orario dalle 8.00/12.00 \u2026",
+            "redirect_url": "https://www.adzuna.it/details/5482272821?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-05T15:43:31Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            }
+        },
+        {
+            "category": {
+                "label": "Produzione/Industrie Manifatturiere",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "manufacturing-jobs"
+            },
+            "latitude": 44.900995,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAzNzc1NTUyIn0.OAL0TzKGaU0drluJonsIVge5txpXfzjmgYLpsO-Cx_Q",
+            "id": "5503775552",
+            "salary_max": 19200,
+            "location": {
+                "display_name": "Brescello, Provincia di Reggio Emilia",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Reggio Emilia",
+                    "Brescello"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 10.515782,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "created": "2025-11-19T20:04:36Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5503775552?utm_medium=api&utm_source=58c69264",
+            "title": "ADDETTO/ADDETTA TAGLIO LASER",
+            "description": "In Job S.p.A. - Career Center di Suzzara seleziona ADDETTO/A AL TAGLIO LASER per realt\u00e0 operante nel settore metalmeccanico Mansioni - carico/scarico lamiere - avviare la produzione - effettuare controlli dimensionali previsti - risolvere eventuali anomalie Requisiti - formazione meccanica - precedente esperienza nella mansione \u00e8 un requisito preferenziale - precedente esperienza su macchine CNC Caratteristiche dell'offerta - Contratto: Somministrazione scopo assunzione - Luogo di lavoro: Bresc\u2026",
+            "salary_min": 14400
+        },
+        {
+            "description": "In Job S.p.A. - Career Center di Brescia seleziona MAGAZZINIERE per realt\u00e0 operante nel settore stampaggio di materie plastiche Mansioni - Movimentazione merce in entrata e in uscita dal magazzino - Supporto alle attivit\u00e0 di carico/scarico - Rifornimento linee produttive - Sistemazione e riordino del magazzino - Inserimento degli ordini nel gestionale Requisiti - Gradita anche breve esperienza nel ruolo - In possesso del patentino per l'utilizzo del muletto - Buone capacit\u00e0 nell'organizzazione \u2026",
+            "title": "MAGAZZINIERE",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-13T16:07:33Z",
+            "redirect_url": "https://www.adzuna.it/details/5494038552?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Chiari, Provincia di Brescia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Brescia",
+                    "Chiari"
+                ]
+            },
+            "id": "5494038552",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.930163,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Produzione/Industrie Manifatturiere",
+                "tag": "manufacturing-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NDAzODU1MiIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.T_UoiILN0quQDm2Nbd_c5YkmVeIh3mDU0ETrQ0fo7ho",
+            "latitude": 45.538233
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.5125,
+            "salary_is_predicted": "0",
+            "id": "5502312366",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Cremona",
+                    "Rivolta d'Adda"
+                ],
+                "display_name": "Rivolta d'Adda, Provincia di Cremona"
+            },
+            "latitude": 45.471278,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAyMzEyMzY2In0.6Uy1_IwR0msKwsMpZ9HKjyNxmodwYVdw0KMH2R6pIMM",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Altro",
+                "tag": "other-general-jobs"
+            },
+            "title": "ADDETTI/E VENDITE (ANCHE SENZA ESPERIENZA)",
+            "description": "In Job S.p.A. - Career Center di Verona seleziona ADDETTI/E VENDITA - reparto ORTOFRUTTA per nota realt\u00e0 del settore della grande distribuzione oganizzata Mansioni - Attivit\u00e0 di cassa - Rifornimento scaffali e attivit\u00e0 di magazzino - Servizio alla clientela Requisiti - Preferibile esperienza pregressa in contesti di vendita e reparto ortofrutta - Autonomia negli spostamenti - Flessibilit\u00e0 oraria e disponibilit\u00e0 a svolgere turni spezzati Caratteristiche dell'offerta - Contratto: a tempo determin\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5502312366?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-18T20:03:23Z",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "longitude": 12.946722,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Marche",
+                    "Provincia di Pesaro e Urbino",
+                    "San Lorenzo in Campo"
+                ],
+                "display_name": "San Lorenzo in Campo, Provincia di Pesaro e Urbino"
+            },
+            "id": "5524654671",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDY1NDY3MSIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.fIQKLFFb89Hh-hKzlCI66wxJ_ueio9bUy-TjYOeb-rs",
+            "latitude": 43.604852,
+            "category": {
+                "label": "Altro",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "description": "In Job S.p.A. - Career Center di Verona seleziona RESPONSABILE DI FILIALE GDO per realt\u00e0 operante nella grande distribuzione organizzata Mansioni - Gestione del personale e turnazione - Gestione ordini della sala - Operazioni di back office - Supervisione generale del punto vendita Requisiti - Pregressa esperienza nella grande distribuzione organizzata - Disponibilit\u00e0 a spostamenti sui diversi punti vendita - Buone doti comunicative e relazionali Caratteristiche dell'offerta - Contratto: inizia\u2026",
+            "title": "RESPONSABILE DI GDO",
+            "redirect_url": "https://www.adzuna.it/details/5524654671?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-02T20:10:37Z"
+        },
+        {
+            "title": "RESPONSABILE DI GDO",
+            "description": "In Job S.p.A. - Career Center di Verona seleziona RESPONSABILE DI FILIALE GDO per realt\u00e0 operante nella grande distribuzione organizzata Mansioni - Gestione del personale e turnazione - Gestione ordini della sala - Operazioni di back office - Supervisione generale del punto vendita Requisiti - Pregressa esperienza nella grande distribuzione organizzata - Disponibilit\u00e0 a spostamenti sui diversi punti vendita - Buone doti comunicative e relazionali Caratteristiche dell'offerta - Contratto: inizia\u2026",
+            "created": "2025-12-02T20:10:37Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "redirect_url": "https://www.adzuna.it/details/5524654667?utm_medium=api&utm_source=58c69264",
+            "id": "5524654667",
+            "location": {
+                "display_name": "Provincia di Vicenza, Veneto",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Vicenza"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.506277,
+            "category": {
+                "label": "Altro",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "latitude": 45.63599,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDY1NDY2NyIsInMiOiJ3dDZKRzlmVzhCR2UzS3BfM2VvSDNRIn0.lVlu2jKdWssRPyTb9DgSEJkoww19RIiixhFY0w9La7g"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDkwODQwNzEzIn0.yk6iKnleRdb4qiS-0umRtE5_3T1pmyytXt4Ik8eLsIg",
+            "latitude": 44.919975,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Altro"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 10.808748,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Reggiolo, Provincia di Reggio Emilia",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Reggio Emilia",
+                    "Reggiolo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5490840713",
+            "redirect_url": "https://www.adzuna.it/details/5490840713?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "created": "2025-11-11T15:59:54Z",
+            "description": "In Job S.p.A. - Career Center di Suzzara seleziona ELETTRICISTA per realt\u00e0 operante nel settore degli impianti elettrici Mansioni - Installazione, riparazione e manutenzione degli impianti elettrici civili e industriali - Sistemi di automazione, impianti fotovoltaici - Trasferte presso cantieri Requisiti - Preferibile pregressa esperienza nella mansione - Diploma o qualifica in ambito elettrico - Disponibilit\u00e0 a trasferte - Residenza in zona limitrofa - Automunito Caratteristiche dell'offerta -\u2026",
+            "title": "ELETTRICISTA"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistica/Imballaggio E Magazzinaggio",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1MzE5NzQyMTU4In0.mbsp1GCzAfK3CmOByuVlQi6lBGDgSfVdQeIFzdysd3E",
+            "latitude": 44.902629,
+            "location": {
+                "display_name": "Provincia di Piacenza, Emilia-Romagna",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Piacenza"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5319742158",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.636152,
+            "company": {
+                "display_name": "In Job S.p.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-07-24T13:16:14Z",
+            "redirect_url": "https://www.adzuna.it/details/5319742158?utm_medium=api&utm_source=58c69264",
+            "description": "In Job S.p.A. - Career Center di Brescia seleziona ADDETTO ALL'ETICHETTATURA DI CAPI DI ABBIGLIAMENTO per realt\u00e0 operante nel settore logistico Mansioni - Ricezione e controllo dei capi; - Preparazione delle etichette; - Taccheggio dei capi; Requisiti - Disponibilit\u00e0 immediata; - Considerato un plus esperienza in mansioni analoghe; - Seriet\u00e0, affidabilit\u00e0 e precisione; Caratteristiche dell'offerta - Contratto: inizialmente in somministrazione scopo assunzione; - Luogo di lavoro: Piacenza (PC) z\u2026",
+            "title": "ADDETTA/O ALL'ETICHETTATURA DI ABBIGLIAMENTO"
+        },
+        {
+            "category": {
+                "label": "Customer Service/Call Center",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "customer-services-jobs"
+            },
+            "latitude": 45.531491,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoid3Q2Skc5Zlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAyMzEyMzg0In0.QFEy_f321OVuSbaAX2hpB1mzxry6vyvYBpzeAK5v4qQ",
+            "id": "5502312384",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Vicenza",
+                    "Creazzo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Creazzo, Provincia di Vicenza"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 11.481414,
+            "created": "2025-11-18T20:03:23Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "In Job S.p.A."
+            },
+            "redirect_url": "https://www.adzuna.it/details/5502312384?utm_medium=api&utm_source=58c69264",
+            "title": "IMPIEGATO/A FRONT OFFICE",
+            "description": "In Job S.p.A. - Career Center di Vicenza seleziona IMPIEGATO/A FRONT OFFICE Per realt\u00e0 operante nel settore di condizionatori e caldaie Mansioni - Accoglienza clienti - Contatto con i tecnici - Raccolta esigenze ed organizzazione agenda dei tecnici per gli interventi di manutenzione Requisiti - Preferibile esperienza in ambito impiegatizio - Buona dote commerciale - Disponibilit\u00e0 immediata Caratteristiche dell'offerta - Luogo di lavoro: Creazzo (VI) - Disponibilit\u00e0 oraria: Full-time, Dal Lunedi\u2026"
+        }
+    ],
+    "mean": 26847.31
+}

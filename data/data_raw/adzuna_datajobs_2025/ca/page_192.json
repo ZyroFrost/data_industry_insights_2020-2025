@@ -1,0 +1,1531 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kitchener, Waterloo region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Waterloo region",
+                    "Kitchener"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "title": "Flexible Copy Editor",
+            "contract_type": "contract",
+            "id": "5519765667",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NTY2NyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.muN5FmeC-7N7-p6q8L-uXWW6xOiZhCkSVURidt5gXmU",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765667?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C783149DEDD823D1D6D0AEB1C94EDEEAB41548AA",
+            "created": "2025-11-29T16:06:05Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "contract_time": "part_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs",
+                "tag": "part-time-jobs"
+            },
+            "created": "2025-12-02T16:14:04Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDkyNTQzNCIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.nUFcle2AIhY9D1zLI27RZKDoCmpTGGQQDmkSX8d3m8w",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5524925434?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F9FCEAE1ECB4857EF49DC83F4A64163AA9375294",
+            "latitude": 46.804026,
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "contract",
+            "title": "Part-Time Remote Writing Editor",
+            "id": "5524925434",
+            "longitude": -71.172791,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Chaudi\u00e8re - Appalaches",
+                    "Desjardins",
+                    "L\u00e9vis"
+                ],
+                "display_name": "L\u00e9vis, Desjardins"
+            }
+        },
+        {
+            "created": "2025-12-02T16:14:03Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.ca/land/ad/5524925396?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=02A68E57C0EC3894BEECD59E0E7935DAB99DAD34",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI0OTI1Mzk2In0.Y1PZJUyF_su538ggVEKPTdT2Cz19twx8h-YUX4gcNcg",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "latitude": 46.804026,
+            "location": {
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Chaudi\u00e8re - Appalaches",
+                    "Desjardins",
+                    "L\u00e9vis"
+                ],
+                "display_name": "L\u00e9vis, Desjardins",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -71.172791,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "contract",
+            "title": "Remote AI Writing Trainer",
+            "id": "5524925396"
+        },
+        {
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "title": "English Writing and Content Reviewing Expertise Sought for AI Training",
+            "id": "5519766367",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Edmonton, Edmonton region",
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Edmonton region",
+                    "Edmonton"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY2MzY3In0.2WlBGQbRn0Y7POiIkefA0S6AQ600J0L4EIm7Hhz0css",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766367?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D6093354B66C15D8ABA66E2717AEAE583B0D2E8E",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-29T16:06:14Z"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Montr\u00e9al, Qu\u00e9bec",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Montr\u00e9al"
+                ]
+            },
+            "longitude": -73.588138,
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "id": "5519767033",
+            "title": "Remote Writing Consultant",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "latitude": 45.544959,
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519767033?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1A3507C70E84C0B23408B89123E728601C016C47",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NzAzMyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.MK2SRHrFOcyapeGPuDmNzG5yD1wVEQzb1SrRjIP2bv4",
+            "created": "2025-11-29T16:06:23Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "AI Content Writer - Part Time Work From Home",
+            "contract_type": "contract",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5519766518",
+            "location": {
+                "display_name": "Calgary, Calgary region",
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Calgary region",
+                    "Calgary"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs",
+                "tag": "part-time-jobs"
+            },
+            "contract_time": "part_time",
+            "created": "2025-11-29T16:06:16Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766518?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=BA8A5D67465E4F0F63A102C1E9CD1E9BA16995B7",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY2NTE4In0.I5RLo801gNA7xtyvMSEnB_gp1AwU1dWLnwo1Ry6UUfE"
+        },
+        {
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "English Writing Editor - Part Time Work From Home",
+            "id": "5519766458",
+            "location": {
+                "display_name": "Brampton, Peel region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Peel region",
+                    "Brampton"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "Part time Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "part-time-jobs"
+            },
+            "contract_time": "part_time",
+            "created": "2025-11-29T16:06:15Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766458?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4D0F63F4A2720C2A2FB24AE28521BB04CA26595F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY2NDU4In0.QrHusalfRkb_tVsNygpiSAGXzU_v38aOcvZM3hboshk"
+        },
+        {
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "latitude": 44.681555,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "id": "5519767037",
+            "title": "Remote Writing Consultant",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Nova Scotia",
+                    "Halifax region"
+                ],
+                "display_name": "Halifax region, Nova Scotia"
+            },
+            "longitude": -63.556363,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-29T16:06:23Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519767037?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1EA4EA764A13447EF5912F1F762CF73B922C5B51",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NzAzNyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.ra_VC1bqidLIIOnO4PAMwHQSRdJoJK6i16otYufYyHU"
+        },
+        {
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766201?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C8CF159601A0EC0C3F5E547B4B8DD0A042A80E44",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NjIwMSIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.pWWOl7dqq1dUP5JDQF0g-cNj2P70teNZv5Hp7mtFoUs",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-29T16:06:12Z",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Remote Text Quality Evaluator",
+            "id": "5519766201",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Halton",
+                    "Burlington"
+                ],
+                "display_name": "Burlington, Halton"
+            },
+            "longitude": -79.802061,
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "latitude": 43.353119,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Remote English Copy Editor",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5519765876",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vaughan, York region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "York region",
+                    "Vaughan"
+                ]
+            },
+            "longitude": -79.485339,
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "latitude": 43.854498,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765876?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F3044EF675DA18067668C674A24B4758B342ED3C",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY1ODc2In0.8D242wpxVnNsacOtjnG9vP17Ygu-VZQZo_e-qydt_0w",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-29T16:06:08Z"
+        },
+        {
+            "id": "5519765698",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "title": "Remote Writing Coach",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -79.996792,
+            "location": {
+                "display_name": "Hamilton region, Ontario",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Hamilton region"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 43.250887,
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY1Njk4In0.uAQUTfHL0TSS60G-T3L4AAfZrAg2LKvI49LWaBsWURg",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765698?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C064A560CF118A9A26242E1506F91F2AC6E1FCA5",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-29T16:06:06Z"
+        },
+        {
+            "location": {
+                "display_name": "Chilliwack, Fraser Valley",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Fraser Valley",
+                    "Chilliwack"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -121.952234,
+            "title": "Remote English Writer",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "id": "5519765793",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "latitude": 49.149357,
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765793?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E8D4FE57AAE3BB6937DF49E7CB1A0F16E648830B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NTc5MyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.oIcNcdtmg7iMYzY8aBVvLjMlWvPlHFuYi43AjAzyWYw",
+            "created": "2025-11-29T16:06:07Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "latitude": 43.706102,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "title": "Remote AI Writing Trainer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "id": "5519765899",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Toronto, Ontario",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ]
+            },
+            "longitude": -79.402726,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-29T16:06:08Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765899?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=240007A2E0E2504262B023121F7C19F79169AB62",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY1ODk5In0.W5XLFVw0zc1G1JBeetLtnAjaAfU1lSCBoXtRlb7OIeM"
+        },
+        {
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765786?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=9AA14D45D8CD9D436269BE67A8E37CA62A0FF48F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NTc4NiIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.civq7Iiz2o9foBrO2GubRt2AesCbB5rx5V3LWdBIaJ8",
+            "created": "2025-11-29T16:06:07Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Halton",
+                    "Oakville"
+                ],
+                "display_name": "Oakville, Halton"
+            },
+            "title": "Remote Creative Writer",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "id": "5519765786",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026"
+        },
+        {
+            "created": "2025-11-29T16:06:08Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765840?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E430C492561EF593208F5C59EECB90A0CF57B11A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NTg0MCIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.As9ajYwg2Wra0lVH-JF9udJiTfUASOIBk_RV2C29gXk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Laval, Laval region",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Laval region",
+                    "Laval"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "title": "Remote English Content Editor",
+            "id": "5519765840",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-29T16:06:06Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765706?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DFC9B1C881BB078BD09D1831418F0FD57390A590",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NTcwNiIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.mMTANwN7IHdsoQpotqBodUrmCZgMHR1sKOoD_Si0G5o",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "title": "Remote Writing Coach",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "id": "5519765706",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Peel region",
+                    "Mississauga"
+                ],
+                "display_name": "Mississauga, Peel region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2025-12-07T11:01:27Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjM2OTQ1OSIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.XahCdwdep92DQjiYG6aF1Ls2uq0OgF1gUo3Qp46gWVs",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5532369459?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F9BC37AB9443D39606ED5ADF1A129BF2C5A738A1",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.706102,
+            "description": "About the Opportunity Step into a pivotal role where your expertise will directly influence a major HR transformation for a large and complex public sector environment. In this high-impact project, you will lead the modernization of an established SAP Human Capital Management ecosystem as it transitions to SAP SuccessFactors Employee Central and Onboarding. You will guide multiple interconnected workstreams, ensuring alignment across data migration, integration, testing, and overall program del\u2026",
+            "longitude": -79.402726,
+            "location": {
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5532369459",
+            "title": "Project Manager (SAP Sucessfactors)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Altis Technology"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwOTcwMTc3In0.MYC4H6C_9JERmH7mk8sG8CbKlRlxejEjkUg1K2IAewc",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5520970177?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=60859517AE4D5B90C465208DF45AEE53E6187953",
+            "created": "2025-12-01T04:57:47Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "longitude": -79.402726,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario"
+            },
+            "title": "Sr. Software Engineer - AI",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Blue Signal Search"
+            },
+            "id": "5520970177",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.706102,
+            "description": "Sr. Software Engineer - AI Location: Remote \u2013 Toronto, ON A stealth-mode innovator in the AI-driven manufacturing sector is seeking a highly skilled Sr. AI Software Engineer to build and deploy reliable, real-time solutions on edge devices within industrial environments. This is a remote position based in the Greater Toronto Area, offering the opportunity to work on groundbreaking tech shaping the future of factory automation. This role is for a hands-on developer with a passion for optimizing \u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwOTcwNDkyIn0.e_Ri3X2rCLKS9d3BJ7qQ_R10R9dTcWrUoGOOWgNEI00",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5520970492?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C17844AD644075C577E2A71D065581AABB5E8126",
+            "created": "2025-12-01T04:57:49Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Peel region",
+                    "Mississauga"
+                ],
+                "display_name": "Mississauga, Peel region"
+            },
+            "title": "Lead Dynamic Modeling Systems Engineer",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Honeywell",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5520970492",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Join a team that designs, develops and integrates highly complex systems within Honeywell. You will be integral in creating system solutions that meet the evolving needs of our customers. You will be involved in every aspect of the systems life cycle; from the front end of business development through product end of life. The Control Systems (CS) Environmental Control Systems (ECS) organization is seeking a Lead Simulation and Dynamic Analysis Engineer to join their team. This position will inv\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "POSITION INFORMATION : Description Our client is looking for a Drilling, Completions and Interventions Engineering Technologist to support their well work scopes on the their subsea field. They will support the design and safe execution of well Drilling, Completion, and Intervention activities, in a manner consistent with the their Well Delivery processes to meet the business objectives They will assist in writing technically rigorous, safe, regulatory compliant and efficient detailed operating\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Newfoundland & Labrador",
+                    "Conception Bay - St. Johns",
+                    "St. John's"
+                ],
+                "display_name": "St. John's, Conception Bay - St. Johns"
+            },
+            "salary_is_predicted": "0",
+            "id": "5520970238",
+            "title": "Drilling, Completions & Interventions Technologist",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Petroplan"
+            },
+            "created": "2025-12-01T04:57:48Z",
+            "category": {
+                "tag": "energy-oil-gas-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Energy, Oil & Gas Jobs"
+            },
+            "redirect_url": "https://www.adzuna.ca/land/ad/5520970238?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C940CCD9D8D18C9CFFE69D80780BAB6A6227909D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwOTcwMjM4In0.ha4ZA18z0TQT7-c3v9plTyRtCsj3lF_7yf-IqqPfrdA"
+        },
+        {
+            "location": {
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto",
+                    "City of Toronto",
+                    "Moore Park"
+                ],
+                "display_name": "Moore Park, City of Toronto",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -79.368134,
+            "salary_is_predicted": "0",
+            "title": "Civil Engineering Technologist",
+            "id": "5520970204",
+            "company": {
+                "display_name": "Balan Engineering Corp.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Balan Engineering is a civil and structural engineering company providing design solutions for residential, commercial, and industrial projects. We are currently recruiting for a Civil Engineering Technologist at our Tillsonburg Office with the following responsibilities and qualifications. Responsibilities Supports the planning, design, and construction of civil projects such as buildings and infrastructure by preparing and reviewing technical drawings and specifications, conducting site surve\u2026",
+            "latitude": 43.70751,
+            "redirect_url": "https://www.adzuna.ca/land/ad/5520970204?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=08C55770B361D360567507284A3B8C4B77498F25",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwOTcwMjA0In0.XdxQOkeVKYqAr4irSTtTknRpCL5QqdkdiVgYO6n0mlI",
+            "created": "2025-12-01T04:57:47Z",
+            "category": {
+                "tag": "trade-construction-jobs",
+                "label": "Trade & Construction Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5ODI5NzA2MCIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.OfJzhEYezlRlVm6nQgHn-_rnx-kH3DC3c9dDw840CJ8",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5498297060?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=6D2BC28232180018FC36D882B1856EA417DCD0B5",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-15T15:34:35Z",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Akkodis"
+            },
+            "title": "Configuration Management Specialist (CMS)",
+            "id": "5498297060",
+            "location": {
+                "area": [
+                    "Canada"
+                ],
+                "display_name": "Canada",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Configuration Management Specialist - SECRET CLEARANCE MANDATORY Akkodis Canada is currently searching for a Configuration Management Specialist to provide configuration management (CM) support to C4ISR engineering activities in support of in-service and emerging systems. Tasks will include: a. Assist in the conduct of physical configuration audit (PCA) activities; b. Manage Engineering Change Requests (ECR); c. Advise and provide subject matter expertise on the implementation of CM within orga\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 53.702522,
+            "description": "New Value Solutions, an IT consulting firm, is seeking an experienced ERP Project Manager to lead the full lifecycle implementation of a new Enterprise Resource Planning (ERP) system. The Project Manager will be responsible for end-to-end project oversight, governance, planning, coordination, change management, and successful delivery through all stages, from procurement through post-go-live stabilization. Responsibilities: Oversee all phases of ERP implementation: procurement, initiation, desi\u2026",
+            "longitude": -113.212886,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Edmonton region",
+                    "Fort Saskatchewan"
+                ],
+                "display_name": "Fort Saskatchewan, Edmonton region"
+            },
+            "salary_is_predicted": "0",
+            "title": "Enterprise Resources Planning Project Manager (5210)",
+            "company": {
+                "display_name": "New Value Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5507500479",
+            "created": "2025-11-21T08:16:50Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNzUwMDQ3OSIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0._fzthGTjx9sWJqWw8K7LH6gZyVori7rL6u6AoL4vH64",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5507500479?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D340F5FD45796DE897976EAD86F8AC0D6D4E572B"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-04T07:58:02Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5527291955?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=669AE228E7F58DBE0229841A39375DDEE055CDAE",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI3MjkxOTU1In0.Q95hzQTB8BXJ4aQWPaduNRm0TQGjb1gjLwWEIkRLvQA",
+            "description": "Specialty Developer - IT Client: Big 5 Bank Location: Hybrid Downtown Toronto, Ontario Terms: 6 Month Contract w/ potential for extension. Job Overview: We are looking for a highly skilled Specialty Developer. The main function of a Developer (Other Specialty) is to design, develop, and implement applications using in-demand languages and technologies (e.g. \u2013 WebSphere, Informatica etc.) to support business requirements. This role is for a Data Governance project and will require ~2000 rules to\u2026",
+            "latitude": 43.706102,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "title": "Specialty Developer - Informatica - IT",
+            "company": {
+                "display_name": "Apex Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5527291955",
+            "location": {
+                "display_name": "Toronto, Ontario",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -79.402726
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Apply here NOW!: https://www.occuponsquebec.org/market-research/ URGENT! 2 People Only From Brampton Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job The Market Research Assistants are responsible for giving online feedback on a variety of Brampton topics including their political views, buying habits and opinions on consumer satisfaction, app reviews, software usability, and other issues. This is not a sales job, it is strictly market research, We are hiring for t\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Peel region",
+                    "Brampton"
+                ],
+                "display_name": "Brampton, Peel region"
+            },
+            "salary_is_predicted": "0",
+            "title": "URGENT! 2 People Only From Brampton Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job",
+            "company": {
+                "display_name": "Occupons Quebec",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5531589775",
+            "created": "2025-12-06T14:10:25Z",
+            "category": {
+                "label": "Part time Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "part-time-jobs"
+            },
+            "redirect_url": "https://www.adzuna.ca/details/5531589775?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxNTg5Nzc1In0.1UT6ue9Np01GqBWi-LFCacFjmhpbpwaz21zCYchQLg8"
+        },
+        {
+            "latitude": 43.706102,
+            "description": "Apply here NOW!: https://www.occuponsquebec.org/market-research/ URGENT! 2 People Only From Toronto Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job The Market Research Assistants are responsible for giving online feedback on a variety of Toronto topics including their political views, buying habits and opinions on consumer satisfaction, app reviews, software usability and other issues. This is not a sales job, it is strictly market research, We are hiring for this\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5531589752",
+            "title": "URGENT! 2 People Only From Toronto Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job",
+            "company": {
+                "display_name": "Occupons Quebec",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -79.402726,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario"
+            },
+            "category": {
+                "tag": "part-time-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs"
+            },
+            "created": "2025-12-06T14:10:25Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxNTg5NzUyIn0.dmQKPOhc0RB7AohraRPinPpZC5Fp0AKGykwAeqdZg-I",
+            "redirect_url": "https://www.adzuna.ca/details/5531589752?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.ca/details/5531589769?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxNTg5NzY5In0.fzmZEXyKknPsCMrCH3pg_ejCNbyn0oNUvjQm3B0C0R0",
+            "created": "2025-12-06T14:10:25Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs",
+                "tag": "part-time-jobs"
+            },
+            "location": {
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "West Vancouver"
+                ],
+                "display_name": "West Vancouver, Greater Vancouver",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -123.18714,
+            "title": "URGENT! 2 People Only From Vancouver Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job",
+            "salary_is_predicted": "0",
+            "id": "5531589769",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Occupons Quebec"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Apply here NOW!: https://www.occuponsquebec.org/market-research/ URGENT! 2 People Only From Vancouver Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job The Market Research Assistants are responsible for giving online feedback on a variety of Vancouver topics including their political views, buying habits and opinions on consumer satisfaction, app reviews, software usability and other issues. This is not a sales job, it is strictly market research, We are hiring for \u2026",
+            "latitude": 49.343912
+        },
+        {
+            "category": {
+                "label": "Part time Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "part-time-jobs"
+            },
+            "created": "2025-12-06T14:10:25Z",
+            "redirect_url": "https://www.adzuna.ca/details/5531589751?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTU4OTc1MSIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.STbRc8V1DesZU8PdCc0_J8F25_nG43RX1u10QBWGJrY",
+            "description": "Apply here NOW!: https://www.occuponsquebec.org/market-research/ URGENT! 2 People Only From Mississauga Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job The Market Research Assistants are responsible for giving online feedback on a variety of Mississauga topics including their political views, buying habits and opinions on consumer satisfaction, app reviews, software usability and other issues. This is not a sales job, it is strictly market research, We are hiring \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "URGENT! 2 People Only From Mississauga Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Occupons Quebec"
+            },
+            "id": "5531589751",
+            "location": {
+                "display_name": "Mississauga, Peel region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Peel region",
+                    "Mississauga"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "Apply here NOW!: https://www.occuponsquebec.org/market-research URGENT! 2 People Only From Edmonton Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job The Market Research Assistants are responsible for giving online feedback on a variety of Edmonton topics including their political views, buying habits and opinions on consumer satisfaction, app reviews, software usability and other issues. This is not a sales job, it is strictly market research, We are hiring for thi\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "URGENT! 2 People Only From Edmonton Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job",
+            "company": {
+                "display_name": "Occupons Quebec",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5531589764",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Edmonton region",
+                    "Edmonton"
+                ],
+                "display_name": "Edmonton, Edmonton region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "part-time-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs"
+            },
+            "created": "2025-12-06T14:10:25Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTU4OTc2NCIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.EJg4w4NSLbsgjJy-kzuxhV6tlatgv4INfnxmxL_NPWs",
+            "redirect_url": "https://www.adzuna.ca/details/5531589764?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Occupons Quebec"
+            },
+            "title": "URGENT! 2 People Only From Calgary Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job",
+            "id": "5531589763",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Calgary region",
+                    "Calgary"
+                ],
+                "display_name": "Calgary, Calgary region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Apply here NOW!: https://www.occuponsquebec.org/market-research/ URGENT! 2 People Only From Calgary Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job The Market Research Assistants are responsible for giving online feedback on a variety of Calgary topics including their political views, buying habits and opinions on consumer satisfaction, app reviews, software usability and other issues. This is not a sales job, it is strictly market research, We are hiring for this\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.ca/details/5531589763?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTU4OTc2MyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.c-t231C4osjoCdtT5IlKyj74q8-GtgNfGaKP_BTj8-A",
+            "category": {
+                "tag": "part-time-jobs",
+                "label": "Part time Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-06T14:10:25Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxNTg5NzY1In0.ceVsKt4ByTDKDWxR04JTTRNu-Ud9qw5uXUGZdfln0Yk",
+            "redirect_url": "https://www.adzuna.ca/details/5531589765?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-06T14:10:25Z",
+            "category": {
+                "label": "Part time Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "part-time-jobs"
+            },
+            "location": {
+                "display_name": "Ottawa, Ottawa region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Ottawa region",
+                    "Ottawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "URGENT! 2 People Only From Ottawa Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Occupons Quebec",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5531589765",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Apply here NOW!: https://www.occuponsquebec.org/market-research/ URGENT! 2 People Only From Ottawa Who Want To Work From Home! - Data Entry - Work From Home Jobs - Part-Time Job The Market Research Assistants are responsible for giving online feedback on a variety of Ottawa topics including their political views, buying habits and opinions on consumer satisfaction, app reviews, software usability and other issues. This is not a sales job, it is strictly market research, We are hiring for this p\u2026"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada"
+                ],
+                "display_name": "Canada"
+            },
+            "salary_is_predicted": "0",
+            "title": "Staff Software Engineer",
+            "company": {
+                "display_name": "Teladoc Health Canada",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5534609645",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Teladoc Health: Redefining Virtual Care Teladoc Health is the global leader in virtual care, transforming how better health happens by seamlessly connecting members, patients, providers, and partners using advanced technology. Through strategic collaborations with employers, insurers, brokers, hospitals, and health systems, we\u2019re expanding access to care, improving health outcomes, enhancing provider capacity, and reducing costs. As part of the Teladoc Health Group, Teladoc Health Canada brings\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0NjA5NjQ1In0.7Y4J1vKVuVUAtWGXyrHXFEUzTbX3PTrcPScU-vWP9aw",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5534609645?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=BF8C4C19DE90A30EB1F720A23D3C464EF417FB83",
+            "created": "2025-12-09T09:38:58Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-09T09:39:20Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDYwOTc1MyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.JtzYPV9M_Ea974FzJB6s3vPTbh0H1rq83Ar39mmLLnI",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5534609753?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=9FF397001482A4504245CB752BAE55E3BF59A736",
+            "latitude": 43.706102,
+            "description": "Teladoc Health: Redefining Virtual Care Teladoc Health is the global leader in virtual care, transforming how better health happens by seamlessly connecting members, patients, providers, and partners using advanced technology. Through strategic collaborations with employers, insurers, brokers, hospitals, and health systems, we\u2019re expanding access to care, improving health outcomes, enhancing provider capacity, and reducing costs. As part of the Teladoc Health Group, Teladoc Health Canada brings\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5534609753",
+            "salary_is_predicted": "0",
+            "title": "Staff Software Engineer",
+            "company": {
+                "display_name": "Teladoc Health Canada",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -79.402726,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Location: Toronto, Ontario In-Office: Hybrid Seniority Level: 5 Years Experience Salary: $120 - 150k Job Type: Full-Time Permanent Vacancies: 3 Our electric power generation clients, both in Canada and US, are updating and replacing the power plant control systems with new digital control systems. This is expanding work in the Instrumentation and Controls Engineering group. This is a senior level design engineering position that offers a variety of interesting and challenging opportunities in n\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "title": "Senior Instrumentation & Controls Engineer",
+            "company": {
+                "display_name": "Morson Edge ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5520969755",
+            "created": "2025-12-01T04:57:44Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIwOTY5NzU1In0.Yn-aKQo3qp4UpR4-t3NP080Sct6E7Nby5FrVgVr7zPc",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5520969755?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1E5AC0F42A3987A6BBA0DF275FCDD9727B7FB72F"
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5521565827",
+            "longitude": -122.66438,
+            "latitude": 49.21324,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_max": 80000,
+            "company": {
+                "display_name": "Orica",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Field Instrumentation Technician (Maple Ridge, BC)",
+            "salary_min": 60000,
+            "location": {
+                "display_name": "Pitt Meadows, Greater Vancouver",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "Pitt Meadows"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About Orica At Orica, it\u2019s the power of our people that leads change and shapes our futures. Every day, all around the world, our people help mobilize vital resources essential to progress. Established in 1874, we have grown to become the world leader in mining and civil blasting with a diverse of team of more than 13,000 across the world. From the production and supply of explosives, blasting systems, mining chemicals and geotechnical monitoring to our cutting-edge digital solutions and compre\u2026",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5521565827?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=02C9CAC7E2B0174054F77298445FC2BF2E1D650B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTU2NTgyNyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.brv-nGUJEzR0WbMPfWXQXHerrLiGR9ccXSqaC1W5tsg",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-01T08:22:39Z"
+        },
+        {
+            "created": "2025-12-07T11:01:40Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.ca/land/ad/5532369490?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2645955DF0A5F95B52AB0C8748F58E5EA7D06587",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMyMzY5NDkwIn0.CAviQwIGKM5JNIu47o5mXc-2EnEU6TPNaPLRWY-nOeg",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Acumatica ERP Support Specialist Who We Are Britec is a leading Acumatica partner and a fast-growing IT solutions provider specializing in ERP software, infrastructure, e-commerce, and cloud solutions. For over 35 years, we\u2019ve helped clients stay on the cutting edge of technology by delivering custom, end-to-end solutions that drive business success. At Britec, our team of fully accredited business professionals is passionate about combining technology with exceptional client service. We tackle\u2026",
+            "location": {
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "ERP Support Specialist",
+            "salary_is_predicted": "0",
+            "id": "5532369490",
+            "company": {
+                "display_name": "Britec Computer Systems",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY2OTU1In0.WYhloMgn7aU7DosmpuKRx6YJR0vTQeA9Dl4HrsGJnR8",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766955?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8142BCC20F606698D4904EEFA9AD86EEA6C0A651",
+            "created": "2025-11-29T16:06:22Z",
+            "contract_time": "part_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs",
+                "tag": "part-time-jobs"
+            },
+            "longitude": -123.136733,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Richmond, Greater Vancouver",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "Richmond"
+                ]
+            },
+            "title": "Remote Part-Time Writer",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "id": "5519766955",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 49.156021,
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026"
+        },
+        {
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "title": "English Writing and Content Reviewing Expertise Sought for AI Training",
+            "id": "5519766369",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "location": {
+                "display_name": "Ottawa, Ottawa region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Ottawa region",
+                    "Ottawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-29T16:06:14Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766369?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C01DF8E3B4A3087DBE6DFF627D2C40457ABA54EB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY2MzY5In0.QNALA_b1dF313vxjlKAwCat3JhmroMjfEuKOE8646Jw"
+        },
+        {
+            "created": "2025-11-29T16:06:14Z",
+            "contract_time": "part_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs",
+                "tag": "part-time-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NjM0OCIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.SyN7Aa4Da0h5Xn29OBjuuZL3eUHihl_1DIaw-yEw9Bs",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766348?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=804E124D6EB1A8A38AAC3376D35332BB251D1B82",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "location": {
+                "display_name": "Kitchener, Waterloo region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Waterloo region",
+                    "Kitchener"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Content Editor - Part Time",
+            "contract_type": "contract",
+            "id": "5519766348",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            }
+        },
+        {
+            "contract_time": "part_time",
+            "category": {
+                "tag": "part-time-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Part time Jobs"
+            },
+            "created": "2025-11-29T16:05:58Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY1NDMzIn0.y6p3xngu8PoXRF0OczZX_x5FGbmpkVJVrpTzOsgwOq0",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765433?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0CBC69C1F27A4180DB67BF0017DAAD69D6700C08",
+            "latitude": 45.466091,
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "AI Copy Editor - Part Time",
+            "id": "5519765433",
+            "longitude": -75.704464,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gatineau, Outaouais",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Outaouais",
+                    "Gatineau"
+                ]
+            }
+        },
+        {
+            "created": "2025-11-29T16:06:06Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTc2NTcyOCIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.MtvqfrniAJkjDnUYDnBRUIckwUIdPopCLJRctv8sUsc",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519765728?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=CC6299BFDFAF683C42E32D1F7E8DD50B163CE5B5",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Calgary region",
+                    "Calgary"
+                ],
+                "display_name": "Calgary, Calgary region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Outlier"
+            },
+            "title": "Remote Editorial Specialist",
+            "id": "5519765728"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Oakville, Halton",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Halton",
+                    "Oakville"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "id": "5519766137",
+            "title": "Remote Editorial Assistant",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5519766137?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D6AE4A0EE48AA7549A77FC9DAB469C55A0A5BA1D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5NzY2MTM3In0.mA0o7A65JGDvGgaO74M6Tmu9gTtN6nbOfAUKp4-c-5I",
+            "created": "2025-11-29T16:06:11Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "description": "*Earn up to $16 USD/hourly and work remotely and flexibly.* Outlier, a platform owned and operated by Scale AI, is looking for* English speakers* to contribute their expertise toward training and refining cutting-edge AI systems. If you're passionate about improving models and excited by the future of AI, this is your opportunity to make a real impact. What You\u2019ll Do * *Adopt a \u201cuser mindset\u201d *to produce natural* *data to meet the realistic needs* *you have or would use AI for. * *Evaluate AI o\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Remote AI Content Proofreader",
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "company": {
+                "display_name": "Outlier",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5524925318",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Fraser Valley",
+                    "Abbotsford"
+                ],
+                "display_name": "Abbotsford, Fraser Valley"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-12-02T16:14:02Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5524925318?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=206CFA2C5831214C633B12AF660781E44917F766",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI0OTI1MzE4In0.gtTeFVnqFbg9uFiyQJpsK4AVJXqyeLEMgrW572CZE_Q"
+        },
+        {
+            "description": "New Value Solutions, an IT consulting firm, is seeking is seeking an experienced Project Manager to lead the implementation of a new Student Information System (Thesis Elements) across multiple institutions. This is a strategic role requiring strong leadership, technical understanding, and stakeholder management. Responsibilities: Represent the client in key meetings (Project Manager, Steering Committee, SaaS, Vendor Workshops, etc.). Ensure accountability to the Statement of Work (SoW). Mainta\u2026",
+            "latitude": 51.522119,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "New Value Solutions"
+            },
+            "title": "Project Manager (5208)",
+            "id": "5503128463",
+            "location": {
+                "display_name": "Saskatchewan, Canada",
+                "area": [
+                    "Canada",
+                    "Saskatchewan"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -105.738815,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-19T06:48:12Z",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5503128463?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=74938B1C71B6C1DDB28A38222638ACF8EC089669",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzEyODQ2MyIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.tNCHDQzRnivKG4-DILuPa_KmBSzpPYOkVSGfXU9_Ffo"
+        },
+        {
+            "longitude": -122.919813,
+            "salary_is_predicted": "0",
+            "id": "5523649596",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 49.210945,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "New Westminster, Greater Vancouver",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "New Westminster"
+                ]
+            },
+            "title": "Field Instrumentation Technician (Maple Ridge, BC)",
+            "salary_max": 80000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Orica"
+            },
+            "salary_min": 60000,
+            "description": "About Orica At Orica, it\u2019s the power of our people that leads change and shapes our futures. Every day, all around the world, our people help mobilize vital resources essential to progress. Established in 1874, we have grown to become the world leader in mining and civil blasting with a diverse of team of more than 13,000 across the world. From the production and supply of explosives, blasting systems, mining chemicals and geotechnical monitoring to our cutting-edge digital solutions and compre\u2026",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5523649596?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4A25105AF532F1EE136ECD2ADD427C44E6ED5109",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzY0OTU5NiIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.s5RUQ6c6ECzMLuVfbXKQQw57ckJORZDtfz-OD8r2Lxs",
+            "created": "2025-12-02T02:26:21Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5523649562",
+            "longitude": -121.986494,
+            "latitude": 49.325925,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Orica",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Field Instrumentation Technician (Maple Ridge, BC)",
+            "salary_max": 80000,
+            "salary_min": 60000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Harrison Mills, Fraser Valley",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Fraser Valley",
+                    "Harrison Mills"
+                ]
+            },
+            "description": "About Orica At Orica, it\u2019s the power of our people that leads change and shapes our futures. Every day, all around the world, our people help mobilize vital resources essential to progress. Established in 1874, we have grown to become the world leader in mining and civil blasting with a diverse of team of more than 13,000 across the world. From the production and supply of explosives, blasting systems, mining chemicals and geotechnical monitoring to our cutting-edge digital solutions and compre\u2026",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5523649562?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2286400677F71C1DB4843B3D0D397A03861E074B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzY0OTU2MiIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.Ps9e6rKWDVwzSWrLBlzKz2nZup58HQji-gAhYWfCxwA",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-02T02:26:16Z"
+        },
+        {
+            "id": "5523649548",
+            "salary_is_predicted": "0",
+            "longitude": -63.610578,
+            "latitude": 44.600235,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 60000,
+            "salary_max": 80000,
+            "company": {
+                "display_name": "Orica",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Field Instrumentation Technician (Maple Ridge, BC)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Nova Scotia",
+                    "Halifax region",
+                    "Harrietsfield"
+                ],
+                "display_name": "Harrietsfield, Halifax region"
+            },
+            "description": "About Orica At Orica, it\u2019s the power of our people that leads change and shapes our futures. Every day, all around the world, our people help mobilize vital resources essential to progress. Established in 1874, we have grown to become the world leader in mining and civil blasting with a diverse of team of more than 13,000 across the world. From the production and supply of explosives, blasting systems, mining chemicals and geotechnical monitoring to our cutting-edge digital solutions and compre\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIzNjQ5NTQ4In0.fw5Ig1eb6h6odUEKcQvHoOOfjBotK5vv3FD6zKxvDF4",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5523649548?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D4AEBC7B33DE75A77F123206DB0EF2D2B0D66AFC",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "created": "2025-12-02T02:26:15Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzY0OTU5MSIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.qS7KYyzyzyWyJ9SRDdsdcP22ZZX17T9H1_v0qoSRH20",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5523649591?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=200932B41BF5FC6B58B70FD20390E8BBC90A2088",
+            "created": "2025-12-02T02:26:21Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada"
+                ],
+                "display_name": "Canada"
+            },
+            "salary_min": 60000,
+            "salary_is_predicted": "0",
+            "title": "Field Instrumentation Technician (Maple Ridge, BC)",
+            "salary_max": 80000,
+            "id": "5523649591",
+            "company": {
+                "display_name": "Orica",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Orica At Orica, it\u2019s the power of our people that leads change and shapes our futures. Every day, all around the world, our people help mobilize vital resources essential to progress. Established in 1874, we have grown to become the world leader in mining and civil blasting with a diverse of team of more than 13,000 across the world. From the production and supply of explosives, blasting systems, mining chemicals and geotechnical monitoring to our cutting-edge digital solutions and compre\u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzY0OTU0OSIsInMiOiJnSmhSTU03VzhCRzdnY3JqVkVhaUR3In0.W2h4Nz6FpS12hmR1QdG7aWiLvphHFDE9h1UdYIjb1NI",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5523649549?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1C1C161262B12A904BB1E220D4A0A49881670373",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "created": "2025-12-02T02:26:15Z",
+            "salary_min": 60000,
+            "salary_max": 80000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Orica"
+            },
+            "title": "Field Instrumentation Technician (Maple Ridge, BC)",
+            "location": {
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "Port Coquitlam"
+                ],
+                "display_name": "Port Coquitlam, Greater Vancouver",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About Orica At Orica, it\u2019s the power of our people that leads change and shapes our futures. Every day, all around the world, our people help mobilize vital resources essential to progress. Established in 1874, we have grown to become the world leader in mining and civil blasting with a diverse of team of more than 13,000 across the world. From the production and supply of explosives, blasting systems, mining chemicals and geotechnical monitoring to our cutting-edge digital solutions and compre\u2026",
+            "salary_is_predicted": "0",
+            "id": "5523649549",
+            "longitude": -122.766435,
+            "latitude": 49.276951,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role : Integration SME Location: Calgary,AB(Onsite) \u2022 Assess integration patterns, interfaces, APIs, middleware components, and data flows. \u2022 Identify integration pain points, bottlenecks, and modernization opportunities. \u2022 Recommend target-state integration architecture aligned with enterprise and cloud strategy. \u2022 Provide guidance on integration best practices, security, and scalability consideration. Must be local Thanks & Regards Swapnanjali Vunnamatla Phone : 810 325 3282 Resource Speciali\u2026",
+            "location": {
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Integration Specialist",
+            "salary_is_predicted": "0",
+            "id": "5537736749",
+            "company": {
+                "display_name": "Yochana",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T07:41:18Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0poUk1NN1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3NzM2NzQ5In0.9cqwaR2VKPW_6QipCLCiDoTlf_hMmR09Bo3wn14f72Q",
+            "redirect_url": "https://www.adzuna.ca/land/ad/5537736749?se=gJhRMM7W8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=30BE67BC62699D42A596100BEB23A94F8666A201"
+        }
+    ],
+    "mean": 94797.43,
+    "count": 52650
+}

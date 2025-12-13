@@ -1,0 +1,1594 @@
+{
+    "results": [
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 47.21684,
+            "longitude": -1.55674,
+            "id": "5537491997",
+            "salary_is_predicted": "0",
+            "created": "2025-12-11T06:55:15Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5537491997?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzQ5MTk5NyIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.7l4eliA4X0azuIZyn6gsfgn5w7PBbKRlTWSKR45wm24",
+            "description": "Au sein de notre agence Nantaise, vous intervenez sur les missions suivantes : Contribuer ou piloter des missions de conseil sur des probl\u00e9matiques Data (Data Intelligence, Cloud, Data Science / IA, Data Gouvernance, ) \u00e0 travers la r\u00e9alisation de sch\u00e9mas directeurs, de choix d'outils, d'audits de maturit\u00e9 data, d'acculturation Data etc D\u00e9finir et s\u00e9curiser la mise en place des architectures Data chez nos clients, Intervenir en expertise, animer des ateliers chez nos clients, Dispenser des forma\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nantes, Loire-Atlantique",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes"
+                ]
+            },
+            "salary_max": 45000,
+            "contract_type": "permanent",
+            "title": "Expert Data F/H",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ORANGE BUSINESS"
+            },
+            "salary_min": 45000
+        },
+        {
+            "salary_min": 38000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Expleo"
+            },
+            "id": "5508783828",
+            "salary_max": 38000,
+            "salary_is_predicted": "0",
+            "title": "Data Engineer H/F",
+            "longitude": 2.37682,
+            "location": {
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Dunkerque",
+                    "Coudekerque-Branche"
+                ],
+                "display_name": "Coudekerque-Branche, Dunkerque",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 51.03429,
+            "description": "Description du poste: Au sein de l'\u00e9quipe Digital & Technology rattach\u00e9 \u00e0 l'agence de Dunkerque vous occuperez le r\u00f4le de Data Engineer H/F Vous travaillerez en mode agile et en \u00e9quipe (compos\u00e9e de Data Scientists, Data Engineers, Data Analysts, Chefs de Projets Data ). Vous contribuerez aux enjeux li\u00e9s \u00e0 la Data et \u00e0 la mise en production de solutions innovantes Missions : - Architecturer, impl\u00e9menter et perfectionner des pipelines de donn\u00e9es, aussi bien on-premise que dans le cloud - Auditer \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODc4MzgyOCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.ZFUovqgt32W6cp0-OLa75zBTpWUUitOlFStlJIr7omY",
+            "redirect_url": "https://www.adzuna.fr/details/5508783828?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-11-22T05:43:05Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5511898980?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTExODk4OTgwIn0.r_BAEoO_ma3t3kyOQkLbSxjeI8sfusGIewki8Eoiaxo",
+            "category": {
+                "label": "Emplois Soins de sant\u00e9 et infirmiers",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "healthcare-nursing-jobs"
+            },
+            "created": "2025-11-25T00:32:49Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EXPLEO FRANCE ST QUENTIN"
+            },
+            "id": "5511898980",
+            "title": "Data Engineer F/H",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "location": {
+                "display_name": "Dunkerque, Nord",
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Dunkerque"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.24886,
+            "description": "Missions : Architecturer, impl\u00e9menter et perfectionner des pipelines de donn\u00e9es, aussi bien on-premise que dans le cloud Auditer les architectures data existantes et formuler des recommandations d'\u00e9volution D\u00e9velopper des composants techniques et contribuer activement \u00e0 leur int\u00e9gration Piloter des projets autour de la donn\u00e9e : cr\u00e9ation/migration de datalakes, Move-to-cloud, industrialisation de produits de data science, etc. Communiquer les avanc\u00e9es techniques du projet et assurer un suivi rig\u2026",
+            "latitude": 51.02099,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Vous interviendrez au sein d \u2019une \u00e9quipe de consultants exp\u00e9riment\u00e9s et pluridisciplinaires, rassemblant aussi bien des sp\u00e9cialistes m\u00e9tiers que des experts Data, Analytics et IA. Vous collaborerez \u00e9troitement avec des data engineers, data scientists et consultants digitaux, ainsi qu\u2019avec nos partenaires technologiques. Vous serez accompagn\u00e9(e) par un manager qui assurera la coh\u00e9rence de votre parcours professionnel, le d\u00e9veloppement de vos comp\u00e9tences data (mod\u00e9lisation, visualisation, gouvern\u2026",
+            "contract_type": "permanent",
+            "salary_max": 40000,
+            "title": "Consultant data F/H",
+            "company": {
+                "display_name": "AMITA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 40000,
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Consultants",
+                "tag": "consultancy-jobs"
+            },
+            "created": "2025-12-03T00:35:14Z",
+            "redirect_url": "https://www.adzuna.fr/details/5525057673?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI1MDU3NjczIn0.BE0SJZ5NADzein6a2Nd__ahZlxzXPlISfMoCLz9yS4U",
+            "latitude": 48.863839,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5525057673",
+            "salary_is_predicted": "0",
+            "longitude": 2.344631
+        },
+        {
+            "id": "5537290962",
+            "title": "Data Engineer H/F",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Onepoint"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Talence, Bordeaux",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde",
+                    "Bordeaux",
+                    "Talence"
+                ]
+            },
+            "longitude": -0.57614,
+            "description": "Au-del\u00e0 de la RSE, nous avons d\u00e9velopp\u00e9 notre propre approche, RESET, qui englobe l'ensemble de nos engagements en mati\u00e8re de responsabilit\u00e9 \u00e9conomique, sociale, environnementale et technologique, tant au sein de notre collectif que chez nos clients. Onepoint, est une entreprise inclusive, handi accueillante, avec une politique de diversit\u00e9 affirm\u00e9e et certifi\u00e9e B Corp. Votre futur collectif : - Communaut\u00e9 Sud-Ouest regroupant Bordeaux et Toulouse ! - 430 coll\u00e8gues dont une championne de France\u2026",
+            "latitude": 44.83737,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.fr/land/ad/5537290962?se=4lawGdTW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3BCF20F554005389946AF6D6614D971CBA2ECC5D",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzI5MDk2MiIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.3mlutaWTc5N3jEWUBEW3tGrnOQIwZ_x537oRzNP57fg",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-12-11T03:25:23Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.78101,
+            "description": "Au sein de la Direction Engineering, vous int&eacute;grerez le d&eacute;partement Data Office des Ing&eacute;nieries France et jouerez un r&ocirc;le cl&eacute; dans l'&eacute;tude, le d&eacute;veloppement et l'&eacute;valuation de solutions technologiques r&eacute;pondant aux enjeux Data des &eacute;quipes m&eacute;tier. Vous interviendrez sur des sujets vari&eacute;s autour de la gestion, l'extraction, la visualisation et l'analyse des donn&eacute;es, dans un environnement stimulant et en plei\u2026",
+            "longitude": 2.26326,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Le Plessis-Robinson, Antony",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Antony",
+                    "Le Plessis-Robinson"
+                ]
+            },
+            "id": "5530723174",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer F/H",
+            "salary_is_predicted": "0",
+            "created": "2025-12-06T10:49:01Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDcyMzE3NCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.kRfHDuNY68UM-NrmpayOKnhKxKe8A7OU2DsHl4BOIC8",
+            "redirect_url": "https://www.adzuna.fr/details/5530723174?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5494734547?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NDczNDU0NyIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.DE--tha0Prxfugslx5sZG91QTdFSijHn0PGzfR6854c",
+            "created": "2025-11-13T23:13:15Z",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Emplois Comptabilit\u00e9 et Finance",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Valenciennes",
+                    "Cond\u00e9-sur-l'Escaut"
+                ],
+                "display_name": "Cond\u00e9-sur-l'Escaut, Valenciennes",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 3.59347,
+            "title": "Data Steward F/H",
+            "id": "5494734547",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ONEY BANK"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Poste et missions \u00catre Data Steward F/H chez Oney, pourquoi c'est mieux ? Plus qu'un poste\u2026une mission pour vous ! Et quelle mission ! Nous recherchons un Data Steward pour rejoindre notre \u00e9quipe dynamique au sein de la direction Data Groupe. Vous serez rattach\u00e9 au Responsable du D\u00e9partement Data Business Support ; vous travaillerez en \u00e9troite collaboration avec l'\u00e9quipe Data Gouvernance et Data Business Analyst de la direction Data, ainsi qu'avec diff\u00e9rents d\u00e9partements de l'entreprise (Market\u2026",
+            "latitude": 50.44826
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Informations g\u00e9n\u00e9rales Entit\u00e9 de rattachement GEODIS est un leader mondial du transport et de la logistique, reconnu pour son expertise sur l'ensemble de la supply chain. Partenaire de croissance de ses clients, GEODIS intervient sur cinq m\u00e9tiers : l'optimisation de la cha\u00eene d'approvisionnement, le Freight Forwarding, la logistique contractuelle, la distribution & l'express et le transport routier. Avec un r\u00e9seau mondial couvrant pr\u00e8s de 166 pays et plus de 49 720 collaborateurs, GEODIS se cla\u2026",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "display_name": "France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5485042313",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Geodis"
+            },
+            "title": "Data scientist H/F",
+            "created": "2025-11-07T11:26:48Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.fr/details/5485042313?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg1MDQyMzEzIn0.0gwS8CmBoze4XEWhuwcu8OKi7USQ3hlZERnzvosARcM"
+        },
+        {
+            "longitude": 2.34107,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ],
+                "display_name": "1er Arrondissement, Paris"
+            },
+            "id": "5455059939",
+            "company": {
+                "display_name": "BlaBlaCar",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Confirmed Data Analyst - Daily",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.86023,
+            "description": "About BlaBlaCar BlaBlaCar is the world\u2019s leading community-based travel app enabling 27 million members a year to carpool or travel by bus in 21 countries. Our team of 800 employees counts over 50 nationalities and is spread across our 5 global offices, 30% working fully remotely. About BlaBlaCar Daily BlaBlaCar Daily is part of BlaBlaCar\u2019s Western Europe business dedicated to short distance (less than 80 km distance) carpooling and in particular work to home commute. It is operated with a dedi\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDU1MDU5OTM5In0.bcV89b0tXwhHXrEObo4DeMW8m9LRtZKsEm44CivNYwU",
+            "redirect_url": "https://www.adzuna.fr/details/5455059939?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-19T11:39:12Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Dipl\u00f4m\u00e9s",
+                "tag": "graduate-jobs"
+            },
+            "created": "2025-11-10T20:01:42Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4OTcwMjk1MSIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.GZjGcZ5feXQGl5QBJtEmT6-ETVXNgaQoj24L7w15sgM",
+            "redirect_url": "https://www.adzuna.fr/details/5489702951?utm_medium=api&utm_source=58c69264",
+            "latitude": 48.86023,
+            "description": "En tant que Data Analyst en alternance, vous serez impliqu\u00e9 dans le renforcement des capacit\u00e9s analytiques de la branche Grands Risques. Votre mission consistera \u00e0 d\u00e9velopper des services innovants d'analyse de donn\u00e9es sous Python, \u00e0 cr\u00e9er des requ\u00eates SQL pour l'extraction de donn\u00e9es (analyses g\u00e9ographiques, calculs d'exposition, extraction de documents), \u00e0 participer \u00e0 la mise en place d'un outil de data science, \u00e0 la migration de services calculatoires pour la souscription grands risques, et\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5489702951",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Scor"
+            },
+            "title": "Alternance : Data Analyst Alternance",
+            "longitude": 2.34107,
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ],
+                "display_name": "1er Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-11-28T07:48:24Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE3NDIzNzg4In0.qfuaxBQ87MiP0DjvsbhCUUw4GEGcg49gz2c4Sfqpu7Q",
+            "redirect_url": "https://www.adzuna.fr/details/5517423788?utm_medium=api&utm_source=58c69264",
+            "description": "L'environnement du poste Vous \u00eates Data Engineer et Analyste et cherchez de nouveaux d\u00e9fis ? L' IT Department Daher recherche un/e nouvel.le specialiste en ing\u00e9nierie de la donn\u00e9e pour renforcer son \u00e9quipe Data. Rejoignez une \u00e9quipe sp\u00e9cialis\u00e9e dans la conception et l'administration de syst\u00e8mes de donn\u00e9es cloud et on premise (Technologies Snowflake et SQL Server), gestion de syst\u00e8mes ELT, et bien \u00e9videment des moyens analytiques (PowerBI, Streamlit,) L'\u00e9quipe Data vient au soutient des Data Ana\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5517423788",
+            "company": {
+                "display_name": "Daher",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer H/F",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France",
+                "area": [
+                    "France"
+                ]
+            }
+        },
+        {
+            "description": "Rejoignez un acteur international en pleine acc\u00e9l\u00e9ration sur la modernisation de ses syst\u00e8mes data. Votre mission : garantir l'excellence technique de la data platform, encadrer les pratiques d'ing\u00e9nierie et poser les fondations d'une architecture scalable, s\u00e9curis\u00e9e et orient\u00e9e produit. Vos responsabilit\u00e9s Architecture & Vision Technique \u2022 Concevoir, faire \u00e9voluer et documenter l'architecture de la plateforme data (Snowflake, dbt, orchestration, CI/CD). \u2022 D\u00e9finir et maintenir les standards de \u2026",
+            "salary_min": 75000,
+            "title": "Tech Lead Data Snowflake",
+            "salary_max": 85000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Washington Franck"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France"
+                ],
+                "display_name": "Ile-de-France, France"
+            },
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "created": "2025-11-26T13:43:03Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDQ5MjQxNSIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.njdX1zie2FN_HSz9YVVp0z-rNANfZi0mIk8D5vvvomQ",
+            "redirect_url": "https://www.adzuna.fr/details/5514492415?utm_medium=api&utm_source=58c69264",
+            "latitude": 48.811332,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5514492415",
+            "salary_is_predicted": "0",
+            "longitude": 2.351634
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5392295599",
+            "company": {
+                "display_name": "Toyota",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer \u2013 F/H",
+            "longitude": 3.59939,
+            "location": {
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Valenciennes",
+                    "Anzin",
+                    "Onnaing"
+                ],
+                "display_name": "Onnaing, Anzin",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 50.3863,
+            "description": "Vue d'ensemble \u00c0 propos de nous Toyota Motor Manufacturing France (Toyota Valenciennes) est le seul site de production Toyota en France. Chaque jour, les 5000 collaborateurs y fabriquent plus de 1200 Toyota Yaris et Yaris Cross pour le march\u00e9 europ\u00e9en. Premier employeur priv\u00e9 du Valenciennois, Toyota Valenciennes a \u00e0 c\u0153ur de d\u00e9velopper chacun de ses collaborateurs et d\u2019offrir de nombreuses opportunit\u00e9s de carri\u00e8re. Rejoindre Toyota Valenciennes, c\u2019est int\u00e9grer une \u00e9quipe multiculturelle et pass\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzkyMjk1NTk5In0.REgMYObN-EtWIfDIowLhrXIyOQ3u6kk3jTFKlci6TLE",
+            "redirect_url": "https://www.adzuna.fr/details/5392295599?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-09-10T13:44:59Z"
+        },
+        {
+            "created": "2025-10-01T08:28:48Z",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "sales-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Vente"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyMzI0MTY1OCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.1lQzBEa_N-xBz5HJC2rP10gJFMfzisqWjO6btgYirjg",
+            "redirect_url": "https://www.adzuna.fr/details/5423241658?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "L'offre Secteurs Banque & Assurance Missions \u00e0 r\u00e9aliser D\u00e9ploiement de l'offre de service Data Fabric : Mettre en \u0153uvre l'offre de service, incluant les processus et outils li\u00e9s \u00e0 la gestion des donn\u00e9es. Support des m\u00e9tiers : Assurer un r\u00f4le de support de niveau expert aupr\u00e8s des utilisateurs dans la prise en main des outils BI (Qlik, Power BI, SAS). R\u00e9pondre aux demandes d'acc\u00e8s et d'utilisation des donn\u00e9es en collaboration avec les \u00e9quipes m\u00e9tiers. Jouer le r\u00f4le de r\u00e9f\u00e9rent technique sur la p\u2026",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "display_name": "France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 70000,
+            "id": "5423241658",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 85000,
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "title": "Responsable data H/F"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDI0MzU1OSIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.Z0QQfBGw8zXKt_Jz5diLzVngsO_EonoaNiF4RZ6aQsA",
+            "redirect_url": "https://www.adzuna.fr/details/5504243559?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-20T00:11:03Z",
+            "salary_min": 45000,
+            "title": "Data Engineer F/H",
+            "salary_max": 55000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JEMS"
+            },
+            "contract_type": "permanent",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon"
+                ],
+                "display_name": "Lyon, Rh\u00f4ne"
+            },
+            "description": "Nous recherchons un(e) data engineer capable de trouver des solutions innovantes et robustes \u00e0 l'ensemble des probl\u00e9matiques Data . Vous aurez la charge de : Participer \u00e0 la conception et r\u00e9alisation d'une solution Data depuis l'acquisition jusqu'\u00e0 l'exploitation de la donn\u00e9e en accompagnant la r\u00e9flexion des directions m\u00e9tiers Identifier, collecter et int\u00e9grer les donn\u00e9es n\u00e9cessaires \u00e0 la r\u00e9solution de probl\u00e9matiques m\u00e9tier et op\u00e9rationnelles Garantir la qualit\u00e9 des donn\u00e9es en mettant en place \u2026",
+            "id": "5504243559",
+            "salary_is_predicted": "0",
+            "longitude": 5.08666,
+            "latitude": 45.72035,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-21T18:13:40Z",
+            "redirect_url": "https://www.adzuna.fr/details/5507873811?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA3ODczODExIn0.DyBkOnhUd_paaj1VyTHS_Jkj8V1pnfEU_57nnS43h4M",
+            "description": "Groupe international d\u2019ing\u00e9nierie et d'expertise en technologies, fortil repose sur un mod\u00e8le ind\u00e9pendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences r\u00e9parties dans 14 pays, fortil cultive la libert\u00e9 d'entreprendre et la lib\u00e9ration des potentiels. DESCRIPTION DE POSTE Dans le cadre du d\u00e9veloppement de nos activit\u00e9s IT \u00e0 Lyon, nous recherchons un\u00b7e Ing\u00e9nieur\u00b7e Data Analyst (H/F) . Vos missions seront les suivantes : Participer \u00e0 la d\u00e9finition des architectures et pipelines Data (S\u2026",
+            "latitude": 45.7363,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5507873811",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "fortil",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Analyst (H/F)",
+            "location": {
+                "display_name": "Sainte-Foy-l\u00e8s-Lyon, Lyon",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "Sainte-Foy-l\u00e8s-Lyon"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 4.80509
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5449934847?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0OTkzNDg0NyIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.iN-h4Km2XvFVnYVB5gQGly-Bg-WCPHvVfylyDfN7Epc",
+            "created": "2025-10-16T11:22:48Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "3\u00e8me Arrondissement, Paris",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "3\u00e8me Arrondissement"
+                ]
+            },
+            "longitude": 2.36109,
+            "salary_is_predicted": "0",
+            "id": "5449934847",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FoodFlow"
+            },
+            "title": "Stage/Alternance - Data Analyst",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Rejoindre FoodFlow en stage data , c\u2019est avoir l\u2019opportunit\u00e9 unique de construire et structurer l\u2019utilisation de la data au sein d\u2019une startup en hyper croissance. Ton r\u00f4le sera d\u2019aider les \u00e9quipes \u00e0 utiliser la data pour am\u00e9liorer les KPIs business et le suivi des op\u00e9rations. Tu seras le r\u00e9f\u00e9rent de notre stack data - dbt / bigquery / metabase - et travailleras en \u00e9troite collaboration avec les diff\u00e9rentes \u00e9quipes op\u00e9rationnelles chez foodflow, ainsi que le CTO. Tes missions incluront notammen\u2026",
+            "latitude": 48.86371
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BlaBlaCar"
+            },
+            "id": "5455060063",
+            "salary_is_predicted": "0",
+            "title": "Confirmed Data Analyst - Daily",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France",
+                "area": [
+                    "France"
+                ]
+            },
+            "description": "About BlaBlaCar BlaBlaCar is the world\u2019s leading community-based travel app enabling 27 million members a year to carpool or travel by bus in 21 countries. Our team of 800 employees counts over 50 nationalities and is spread across our 5 global offices, 30% working fully remotely. About BlaBlaCar Daily BlaBlaCar Daily is part of BlaBlaCar\u2019s Western Europe business dedicated to short distance (less than 80 km distance) carpooling and in particular work to home commute. It is operated with a dedi\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.fr/details/5455060063?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NTA2MDA2MyIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.K5_y12B6PPEZsgPQGhgmpL7gq9Al6rBcYZbrZ20ZJy4",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-19T11:39:22Z"
+        },
+        {
+            "longitude": 3.171878,
+            "location": {
+                "display_name": "Nord, Hauts-De-France",
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5525331479",
+            "company": {
+                "display_name": "Pixie Services France",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Analyst H/F",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.447027,
+            "description": "Missions pour le Data Analyst : - Analyse de donn\u00e9es : Interpr\u00e9ter les donn\u00e9es en utilisant des outils avanc\u00e9s tels que Tableau, Power BI, Looker, QlikView, et plus encore. - Mod\u00e9lisation et pr\u00e9vision : Utiliser Python, SQL et d'autres langages de programmation pour cr\u00e9er des mod\u00e8les pr\u00e9dictifs et des analyses de tendances. - Gestion des donn\u00e9es : Travailler avec des plateformes de donn\u00e9es cloud telles que GCP (BigQuery), Azure, AWS, pour organiser et optimiser les ensembles de donn\u00e9es. - Colla\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTMzMTQ3OSIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.yDaZiFdxg8ZnXN12ueCoI0OPsHnZwhbQJv4sPLDwLxw",
+            "redirect_url": "https://www.adzuna.fr/land/ad/5525331479?se=4lawGdTW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=299307E8134152885BC300EEC0246936909A2CDB",
+            "created": "2025-12-03T06:37:02Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Autres/G\u00e9n\u00e9ral",
+                "tag": "other-general-jobs"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "NEXTONrecrute unData Analyst H/F, enCDI, \u00e0 Paris ! Ton futur environnement de travail : Tu int\u00e8gres l'\u00e9quipe en tant que Data Analyst pour l'un de nos grands comptes clients. Tes missions : - Collecte de donn\u00e9es : Identifier, extraire et collecter des donn\u00e9es provenant de diff\u00e9rentes sources (bases de donn\u00e9es, syst\u00e8mes internes, API externes, etc.). - Analyse des donn\u00e9es : Effectuer des analyses statistiques et quantitatives pour comprendre les tendances et identifier les opportunit\u00e9s d'optimis\u2026",
+            "latitude": 48.863839,
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.344631,
+            "company": {
+                "display_name": "NEXTON",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5497206120",
+            "salary_is_predicted": "0",
+            "title": "Data Analyst H/F",
+            "created": "2025-11-15T07:27:21Z",
+            "category": {
+                "label": "Emplois Autres/G\u00e9n\u00e9ral",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5497206120?se=4lawGdTW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3A30697B6C1D8509E7170C5E74B25A91A8DE0D62",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk3MjA2MTIwIn0.uTk9qhwzhPGRfOFMGV4rBKvfKuzVuihrQrnDl0Rpf9w"
+        },
+        {
+            "category": {
+                "label": "Emplois Consultants",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "created": "2024-12-13T13:53:09Z",
+            "redirect_url": "https://www.adzuna.fr/details/4976803803?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk3NjgwMzgwMyIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.oxspCvYjtJD2YvOqVMo9ReTX3xQsZkgk3LRplwkCu_I",
+            "description": "Qui sommes-nous? Artefact est une nouvelle g\u00e9n\u00e9ration de cabinet de conseil sp\u00e9cialis\u00e9e en Data dont plus de 1700 employ\u00e9s r\u00e9partis sur 23 pays ont pour mission d\u2019accompagner la transformation chez nos clients. Nous offrons une large gamme de solutions data-driven, que nous adaptions aux besoins sp\u00e9cifiques de nos clients, que ce soit des projets IA pour l'automatisation des process internes \u00e0 chaque \u00e9tape de leur cha\u00eene de valeur, la cr\u00e9ation d'exp\u00e9riences consommateurs innovantes et personnal\u2026",
+            "latitude": 48.87284,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "4976803803",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Paris chez"
+            },
+            "title": "Senior Data Consultant - Paris",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "9\u00e8me Arrondissement"
+                ],
+                "display_name": "9\u00e8me Arrondissement, Paris"
+            },
+            "longitude": 2.34043
+        },
+        {
+            "category": {
+                "tag": "graduate-jobs",
+                "label": "Emplois Dipl\u00f4m\u00e9s",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-05T19:42:43Z",
+            "redirect_url": "https://www.adzuna.fr/details/5482570380?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjU3MDM4MCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.nHlFNXjlzdN3dHD3opRqffhA00MY5Yu1rQm8-SGOo88",
+            "description": "Publi\u00e9e le 06/11/2025 Description de l'employeur Rejoignez un environnement stimulant et des \u00e9quipes passionn\u00e9es qui mettent leur talent et leur savoir faire au service des gares de demain. Plus de 3 700 collaborateurs, pr\u00e9sents sur l'ensemble du territoire, contribuent en effet \u00e0 repenser l'avenir des gares et \u00e0 les int\u00e9grer au coeur des projets urbains. La force de SNCF Gares & Connexions, c'est d'int\u00e9grer une grande vari\u00e9t\u00e9 de profils et de faire travailler ensemble des m\u00e9tiers tr\u00e8s diff\u00e9ren\u2026",
+            "latitude": 47.409153,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5482570380",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SNCF"
+            },
+            "title": "Stage : Stage - Data Scientist",
+            "contract_type": "contract",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Loire-Atlantique, Pays de la Loire",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique"
+                ]
+            },
+            "longitude": -1.542898
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Aujourd\u2019hui nous souhaitons recruter notre Architecte Data pour renforcer la practice Data compos\u00e9e de 70 consultant.es au national. La practice Data chez IPPON ? Notre practice est organis\u00e9e en core team avec des local leaders et des leaders par vertical (commerce, recrutement, offres, communaut\u00e9\u2026). Cette core team est porteuse de la strat\u00e9gie Data d\u00e9finie ensemble. Elle est le point d\u2019entr\u00e9e de tous besoins li\u00e9s \u00e0 la Data. La practice est donc en charge : - D\u2019animer des communaut\u00e9s de consult\u2026",
+            "latitude": 50.6389,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Lille, Nord",
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Lille"
+                ]
+            },
+            "longitude": 3.01224,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ippon Technologies"
+            },
+            "id": "4801723919",
+            "title": "Architecte Data (F/H)",
+            "salary_is_predicted": "0",
+            "created": "2024-07-30T23:55:35Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/4801723919?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI0ODAxNzIzOTE5In0._Fl00xGe9U_xP4mRdpm89EzBEX9ZXDzcr8k3i8GSl3c"
+        },
+        {
+            "id": "5462311520",
+            "company": {
+                "display_name": "Yomoni",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer - CDI - Paris",
+            "salary_is_predicted": "0",
+            "longitude": 2.34043,
+            "location": {
+                "display_name": "9\u00e8me Arrondissement, Paris",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "9\u00e8me Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 48.87284,
+            "description": " Rejoins une fintech qui construit la Data de demain  Pourquoi ce poste ? Chez Yomoni , on veut rendre l\u2019\u00e9pargne simple, transparente et accessible \u00e0 tous. Notre mission : permettre \u00e0 chaque \u00e9pargnant de faire grandir son argent avec confiance. Pour y parvenir, la donn\u00e9e est au c\u0153ur de tout : elle \u00e9claire nos d\u00e9cisions strat\u00e9giques, alimente nos produits et soutient nos projets IA. Nous venons de poser les bases d\u2019une modern data stack (Snowflake, DBT, Fivetran, Hightouch) et cherchons aujourd\u2019\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYyMzExNTIwIn0.1-58OmqJ5TeSSkyTN98i-UCSyB2zpGJIS_MK6YlOwHc",
+            "redirect_url": "https://www.adzuna.fr/details/5462311520?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-10-24T11:26:04Z"
+        },
+        {
+            "latitude": 43.27002,
+            "description": "STEP UP est une soci\u00e9t\u00e9 d'ing\u00e9nierie experte en pilotage de projets industriels et informatiques ( 250 collaborateurs sur 11 agences en France), pla\u00e7ant le potentiel humain comme 1er vecteur d'excellence et de performance en entreprise. Oubliez les soci\u00e9t\u00e9s d'ing\u00e9nierie qui ne valorisent que vos seules comp\u00e9tences, chez STEP UP, nous visons \u00e9galement l'ad\u00e9quation entre votre personnalit\u00e9 et la culture d'entreprise de nos clients. Cela se traduit pour vous par une diff\u00e9rence fondamentale en term\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "STEP UP"
+            },
+            "id": "5454640015",
+            "salary_is_predicted": "0",
+            "title": "Data Architect H/F",
+            "contract_type": "contract",
+            "longitude": 5.38169,
+            "location": {
+                "display_name": "Allauch, Marseille",
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne",
+                    "Marseille",
+                    "Allauch"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "manufacturing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Fabrication"
+            },
+            "created": "2025-10-19T01:50:45Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NDY0MDAxNSIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.gpxdAenJufiJdJZvHcF1TNWhJeGs0UwW0B4J4EtlIXg",
+            "redirect_url": "https://www.adzuna.fr/details/5454640015?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 49.11415,
+            "description": "Au sein de notre practice Data & AI, tu travailles conjointement avec les Data Scientists, Data Engineers, MLE/MLOps engineer d\u00e9j\u00e0 en poste et tu es impliqu\u00e9.e dans la prise de d\u00e9cisions li\u00e9e aux solutions Data et \u00e0 son \u00e9volution. A cet effet, tu es en charge de : Contribuer au d\u00e9veloppement de notre offre Data et \u00e0 l\u2019industrialisation de plateformes data pour nos clients Comprendre, analyser et proposer des solutions techniques r\u00e9pondant aux besoins des Plateformes digitales et des projets int\u2026",
+            "longitude": -0.439388,
+            "location": {
+                "area": [
+                    "France",
+                    "Normandie",
+                    "Calvados"
+                ],
+                "display_name": "Calvados, Normandie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5509489514",
+            "company": {
+                "display_name": "Jakala",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data Engineer - Confirm\u00e9.e",
+            "created": "2025-11-22T18:26:12Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA5NDg5NTE0In0.g_Sfdic7e5XxazSsYSa2HEsNHCUdXMQVShDgb1D0WP0",
+            "redirect_url": "https://www.adzuna.fr/details/5509489514?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-03-11T17:25:21Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MDg3MzkyNDc0In0.QYX1XVUrf8ldfNQ8WqmDmCELzxnf0Ah4lp7ayvJsWe4",
+            "redirect_url": "https://www.adzuna.fr/details/5087392474?utm_medium=api&utm_source=58c69264",
+            "latitude": 48.85872,
+            "description": "Au sein de notre practice Data & AI, tu travailles conjointement avec les Data Scientists, Data Engineers, MLE/MLOps engineer d\u00e9j\u00e0 en poste et tu es impliqu\u00e9.e dans la prise de d\u00e9cisions li\u00e9e aux solutions Data et \u00e0 son \u00e9volution. A cet effet, tu es en charge de : Contribuer au d\u00e9veloppement de notre offre Data et \u00e0 l\u2019industrialisation de plateformes data pour nos clients Comprendre, analyser et proposer des solutions techniques r\u00e9pondant aux besoins des Plateformes digitales et des projets int\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5087392474",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Jakala",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer - Confirm\u00e9.e",
+            "longitude": 2.37859,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "11\u00e8me Arrondissement, Paris",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "11\u00e8me Arrondissement"
+                ]
+            }
+        },
+        {
+            "description": "En tant que Senior Consultant Data & AI, tu joues un r\u00f4le central dans le d\u00e9veloppement de la practice Data & AI et dans la croissance du portefeuille clients. Gr\u00e2ce \u00e0 ta ma\u00eetrise du cycle de valorisation de la donn\u00e9e, tu accompagnes nos clients dans leurs projets de transformation data en apportant une expertise \u00e0 la fois technique, analytique et business. Tu encadres et coordonnes les \u00e9quipes projet et/ou internes, tout en contribuant activement \u00e0 l\u2019identification et au d\u00e9veloppement de nouve\u2026",
+            "latitude": 48.85872,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5532437455",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jakala"
+            },
+            "title": "Senior Consultant Data & AI",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "11\u00e8me Arrondissement"
+                ],
+                "display_name": "11\u00e8me Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.37859,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-07T18:14:25Z",
+            "redirect_url": "https://www.adzuna.fr/details/5532437455?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjQzNzQ1NSIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.9dhenFAZniXJj2opD02enz8TKiWhEf1q26efavVR6Yc"
+        },
+        {
+            "location": {
+                "display_name": "17\u00e8me Arrondissement, Paris",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "17\u00e8me Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.31924,
+            "id": "5538194109",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Havas France",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Agence79 - Cdi - Data Engineer",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A PROPOS DE L\u2019AGENCE : 79, Conseil media, data marketing & adtech L\u2019agence accompagne les marques sur l\u2019ensemble des enjeux de transformation de leur communication. N\u00e9s du digital, nous \u00e9largissons l'exploitation des donn\u00e9es \u00e0 l'ensemble des m\u00e9dias. Nous accompagnons certaines des plus belles marques : Carrefour , PMU , Transavia, Orange, Docteur Pierre Ricaud \u2026 ainsi que les marque du groupe Dubreuil sur 100% de leurs probl\u00e9matiques Data : French Bee, Air Cara\u00efbes\u2026 L\u2019agence compte pr\u00e8s de 70 c\u2026",
+            "latitude": 48.88329,
+            "redirect_url": "https://www.adzuna.fr/details/5538194109?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4MTk0MTA5In0.wq12TK6iRsRQY-onMbf7x3ONqdhtToDdRKkDeZSL1Ic",
+            "created": "2025-12-11T20:13:46Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "created": "2025-11-18T21:11:31Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5502456098?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjQ1NjA5OCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.fm-4_RUtx1LLsrX_w_LeER9ZHuQt_KBfFRj9fY9zC8g",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Package : 120k Notre client est une fintech internationale de r\u00e9f\u00e9rence. Le poste reporte directement \u00e0 la CMO, bas\u00e9e \u00e0 Londres. R\u00e9sum\u00e9 du poste : Nous recherchons un(e) Responsable Data pour d\u00e9finir et piloter la strat\u00e9gie data de l\u2019entreprise. Vous superviserez une \u00e9quipe d\u2019analystes data, g\u00e9rerez la gouvernance, l\u2019analytics et l\u2019ing\u00e9nierie des donn\u00e9es, et travaillerez de mani\u00e8re transverse pour favoriser la prise de d\u00e9cision bas\u00e9e sur les donn\u00e9es. Vous jouerez un r\u00f4le cl\u00e9 pour assurer que le\u2026",
+            "latitude": 48.863839,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France"
+            },
+            "longitude": 2.344631,
+            "id": "5502456098",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Equipaj",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Head of Data - Marketing"
+        },
+        {
+            "created": "2025-05-14T10:52:13Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5197785032?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE5Nzc4NTAzMiIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.z_i1Li0w-QYvjhCT2wDq6V70h7SrkMmziHyyqOG6bh0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Soci\u00e9t\u00e9 : Kelly ServicesLieu : Marcy l'Etoile (69)Type de contrat : Int\u00e9rimDur\u00e9e : 12 moisD\u00e9but : D\u00e8s que possibleProfil : BAC 5 scientifique avec double comp\u00e9tence en data scienceA la recherche d'une exp\u00e9rience tremplin dans un grand groupe pharmaceutique ?! Ne cherchez pas plus loin ! SANOFI PASTEUR, industrie pharmaceutique incontournable de Lyon, fait appel \u00e0 KELLY SCIENTIFIQUE pour recruter un DATA ANALYSTE (F/H) pour son site de production de vaccins sur Marcy l'Etoile.Vos principales mis\u2026",
+            "latitude": 45.781657,
+            "location": {
+                "display_name": "Marcy-l'\u00c9toile, Lyon",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "Marcy-l'\u00c9toile"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 4.707134,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Capijob"
+            },
+            "id": "5197785032",
+            "salary_is_predicted": "0",
+            "title": "DATA ANALYSTE (F/H)"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-12-08T19:50:10Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMzODI1MDk0In0.FLVra5MRILQY79F6kbwar70R3JFKOjejZpnE5CqINgM",
+            "redirect_url": "https://www.adzuna.fr/details/5533825094?utm_medium=api&utm_source=58c69264",
+            "latitude": 43.29834,
+            "description": "Description Vous serez int\u00e9gr\u00e9 au sein de notre Service Line Data Value et vous interviendrez sur les diff\u00e9rentes phases de mise en place d\u2019une gouvernance des donn\u00e9es : \u2022 Accompagner nos clients dans la d\u00e9finition, de la construction, et du d\u00e9ploiement des initiatives Data Gouvernance et Data Management afin d\u2019en assurer la conformit\u00e9 avec les bonnes pratiques d\u00e9finies, \u2022 Participer \u00e0 l\u2019identification et l\u2019impl\u00e9mentation des solutions techniques r\u00e9pondant aux besoins client en animant des atel\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5533825094",
+            "company": {
+                "display_name": "Forums Talents Handicap",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "CONSULTANT / CONSULTANTE DATA GOUVERNANCE",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "longitude": 5.38322,
+            "location": {
+                "display_name": "Allauch, Marseille",
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne",
+                    "Marseille",
+                    "Allauch"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "CONTEXTE Au sein de l?\u00e9quipe Silver, la prestation se d\u00e9roulera en collaboration avec les autres \u00e9quipes de la Data, au c?ur de la plateforme Data. Cette \u00e9quipe est compos\u00e9e d?un product owner, d?un data steward et d?un data ing\u00e9nieur. Notre stack technique est principalement constitu\u00e9 de Python, Spark, SQL, dbt, BigQuery, Airflow pour l?orchestration des traitements et Terraform ainsi que Terragrunt pour l?industrialisation. La stack inclut aussi d?autres services de la Google Cloud Platform. \u2026",
+            "salary_max": 450,
+            "contract_type": "contract",
+            "title": "Data engineering GCP (IT)",
+            "company": {
+                "display_name": "KEONI CONSULTING",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 100,
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-21T03:19:29Z",
+            "redirect_url": "https://www.adzuna.fr/details/5456800955?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDU2ODAwOTU1In0.gaHtcuieTEY2FkB_Z_UqrpIN6dlKTInwe1BMxYTz2r0",
+            "latitude": 48.863839,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5456800955",
+            "salary_is_predicted": "0",
+            "longitude": 2.344631
+        },
+        {
+            "latitude": 48.811332,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5492782395",
+            "salary_is_predicted": "0",
+            "longitude": 2.351634,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-12T22:41:40Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDkyNzgyMzk1In0.SskePxSP8FOzLW1tuwm8rJOkwEzd6KSnfjecswWzpVk",
+            "redirect_url": "https://www.adzuna.fr/details/5492782395?utm_medium=api&utm_source=58c69264",
+            "description": "Contexte de la MissionAu sein de la Direction Data (Direction du Num\u00e9rique), l'\u00e9quipe Data Science (4 DS, 2 DA) recherche un Data Scientist pour renforcer l'analyse d'usages et le pilotage. La Direction Data poursuit trois missions principales : maximiser la collecte conforme, d\u00e9velopper la connaissance et l'exp\u00e9rience utilisateurs, et fournir des outils de pilotage et d'aide \u00e0 la d\u00e9cision. Activit\u00e9s AttenduesAudit et enrichissement du socle de donn\u00e9es (nouvelles donn\u00e9es du datalake) Exploratio\u2026",
+            "salary_min": 40000,
+            "contract_type": "permanent",
+            "salary_max": 45000,
+            "title": "Data Scientist Senior (IT)",
+            "company": {
+                "display_name": "Visian",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France"
+                ],
+                "display_name": "Ile-de-France, France"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.344631,
+            "company": {
+                "display_name": "Forums Talents Handicap",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5487298044",
+            "salary_is_predicted": "0",
+            "title": "Data Scientist (M/W)",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ipsen is a dynamic and growing global specialty-driven biopharmaceutical company focused on innovation and specialty care. We aim to make a sustainable difference by significantly improving patients\u2019 health and quality of life and providing them with effective therapeutic solutions for unmet medical needs through differentiated and innovative medicines in Oncology, Neurosciences and Rare Diseases. The patient is at the heart of everything we do, and we also care for our employees because they a\u2026",
+            "latitude": 48.863839,
+            "redirect_url": "https://www.adzuna.fr/details/5487298044?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NzI5ODA0NCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.LYmyc_knWTcN2S8ZKZ47yvMyXtYTsFlxRsRD8mf2jA8",
+            "created": "2025-11-08T16:03:12Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2025-12-04T00:30:21Z",
+            "category": {
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.fr/details/5526770642?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjc3MDY0MiIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.cEKGbOvajUrjMDJW2jlihYa0M84UzrP3Ttq-wC_n-FI",
+            "description": "Synergie anglet recherche un support aux produits digitaux D2S & Data analyste pour un de nos clients sp\u00e9cialis\u00e9 dans l'industrie a\u00e9ronautique sur Tarnos.Au sein de la direction Support & Services (D2S), et au coeur de la Transformation Digitale de l'entreprise, vous interviendrez dans une organisation orient\u00e9e \u00abProduits\u00bb : 1/ En support aux diff\u00e9rents Digital Product Managers qui sont en charge du pilotage, du d\u00e9veloppement et de l'am\u00e9lioration de leur Produit 2/ En tant que Data Analyst aupr\u00e8\u2026",
+            "location": {
+                "display_name": "Saint-Martin-de-Seignanx, Dax",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Landes",
+                    "Dax",
+                    "Saint-Martin-de-Seignanx"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Data Engineer F/H",
+            "contract_type": "contract",
+            "company": {
+                "display_name": "Synergie Anglet",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 35000,
+            "salary_min": 30000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.5415,
+            "longitude": -1.46263,
+            "id": "5526770642",
+            "salary_is_predicted": "0"
+        },
+        {
+            "latitude": 48.87014,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "4902484736",
+            "salary_is_predicted": "0",
+            "longitude": 2.2221,
+            "contract_time": "full_time",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2024-10-15T14:32:01Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwMjQ4NDczNiIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.m_qPKSUhPBYL1LUAjWaGiCiNCpQCRQNUWqYRGvj55Tw",
+            "redirect_url": "https://www.adzuna.fr/details/4902484736?utm_medium=api&utm_source=58c69264",
+            "description": "Tu fais partie de ceux qui voient dans la donn\u00e9e un tr\u00e9sor \u00e0 exploiter ? Les projets de transformation num\u00e9rique autour des donn\u00e9es te passionnent, et tu es pr\u00eat(e) \u00e0 structurer des \u00e9cosyst\u00e8mes de donn\u00e9es performants et s\u00e9curis\u00e9s ? Viens rejoindre la communaut\u00e9 Data Strategii et sois \u00e0 l\u2019avant-garde de l\u2019innovation technologique autour de l\u2019 Architecture Data ! Mais qu\u2019est-ce que l\u2019\u00e9quipe Data Strategii adresse ? En tant qu\u2019 Architecte Data H/F , tes missions seront de : Pr\u00e9coniser des solution\u2026",
+            "salary_min": 57000,
+            "title": "Architecte Data (H/F)",
+            "salary_max": 75000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "skiils"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Suresnes"
+                ],
+                "display_name": "Suresnes, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Permanent Regular Job Description: Organization Pluxee is the leading global partner in employee benefits & engagement, dedicated to making life better for millions of people, across more than 30 countries. The group\u2019s mission is to open a world of opportunities in creating sustainable and personalized employee experiences to bring more freedom and enrichment to work and beyond. Position Overview Pluxee is a Global Leader in Employee Benefits and Rewards services present in 31 countries. Our Vi\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France"
+                ],
+                "display_name": "France"
+            },
+            "id": "5501986044",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Pluxee",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Global Data Program Manager",
+            "created": "2025-11-18T18:07:35Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.fr/details/5501986044?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTk4NjA0NCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.SA5ygQGBO6ubtdjnA0f1dXvNqSsYp7yioWj1OUopwxI"
+        },
+        {
+            "category": {
+                "label": "Emplois Administration",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs"
+            },
+            "created": "2025-10-14T04:23:07Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQ2MzQxMjcxIn0.F2-lUfp9Z4IY0fK0XkZD83uV5TzwsmoHmFSFoEfq1jY",
+            "redirect_url": "https://www.adzuna.fr/details/5446341271?utm_medium=api&utm_source=58c69264",
+            "description": "Aujourd'hui, nous sommes \u00e0 la recherche d\u2019un D\u00e9veloppeur Data Engineer (H/F) pour int\u00e9grer notre \u00e9quipe nantaise. Vos missions seront de : Concevoir et proposer les solutions de d\u00e9veloppement r\u00e9pondant aux besoins fonctionnels et techniques des projets big data Participez \u00e0 la conception de solutions permettant le traitement de volumes importants de pipelines donn\u00e9es R\u00e9aliser ces solutions par l\u2019\u00e9criture de code, en respectant les m\u00e9thodes et proc\u00e9dures qualit\u00e9s d\u00e9finies au sein du d\u00e9partement \u2026",
+            "salary_min": 32000,
+            "contract_type": "permanent",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HOLIMEET - TIMTEK"
+            },
+            "title": "Data Engineer F/H",
+            "salary_max": 32000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique",
+                    "Nantes"
+                ],
+                "display_name": "Nantes, Loire-Atlantique"
+            },
+            "latitude": 47.21684,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5446341271",
+            "salary_is_predicted": "0",
+            "longitude": -1.55674
+        },
+        {
+            "longitude": 2.3365,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "8\u00e8me Arrondissement"
+                ],
+                "display_name": "8\u00e8me Arrondissement, Paris"
+            },
+            "id": "5528617393",
+            "company": {
+                "display_name": "Propulse It",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Lead Data Engineer Senior",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.8814,
+            "description": "PROPULSE IT recherche un Lead Data Ing\u00e9nieur ayant pr\u00e8s de 10 ans d'exp\u00e9rience pour un de ses clients En tant que Lead Data Engineer, vous travaillerez au sein de l'\u00e9quipe digitale \u00ab data et performance \u00bb, en charge principalement de l'infrastructure data, et du traitement, de l'int\u00e9gration et de la transformation de la donn\u00e9e digitale d'Herm\u00e8s (hermes.com). Vous serez aussi garant\u00b7e de sa qualit\u00e9 et sa s\u00e9curit\u00e9 et le respect de la vie priv\u00e9e li\u00e9e \u00e0 cette donn\u00e9e. Vous serez rattach\u00e9\u00b7e au Data M\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODYxNzM5MyIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.CTaI-eYes4tiUj02eRkXf4eykp5-6wUH96zncpeWMBM",
+            "redirect_url": "https://www.adzuna.fr/details/5528617393?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-05T01:06:16Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "id": "5515527714",
+            "salary_is_predicted": "0",
+            "longitude": 2.24344,
+            "latitude": 48.83381,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "DATA ENGINEER Python (IT)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "L\u00f9kla"
+            },
+            "salary_max": 45000,
+            "contract_type": "permanent",
+            "salary_min": 40000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Saint-Cloud, Boulogne-Billancourt",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Boulogne-Billancourt",
+                    "Saint-Cloud"
+                ]
+            },
+            "description": "Nous sommes \u00e0 la recherche deux consultants de haut niveau sp\u00e9cialis\u00e9s en Data Engineering, disposant d?une expertise approfondie dans les technologies Python, Data, GenAI, AWS (Kinesis, S3, EMR, etc.), Airflow, Terraform, GitLab CI/CD, Python ainsi qu?une solide ma\u00eetrise de SQL, Snowflake et les architectures Data Streaming. Une expertise en Scala et Spark serait fortement appr\u00e9ci\u00e9e. Il sera charg\u00e9 de concevoir et d\u00e9velopper des pipelines de donn\u00e9es, d\u00e9velopper sur des chatbots AI dans un envi\u2026",
+            "redirect_url": "https://www.adzuna.fr/details/5515527714?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTUyNzcxNCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.EdukNXtowdfgcJZ9JZ1beM5rnWfKVEuyAh6CBJYn0Xg",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique"
+            },
+            "created": "2025-11-27T00:39:16Z"
+        },
+        {
+            "title": "Expert(e) conseil Data",
+            "id": "4752237313",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Business et Decision"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "longitude": -1.542898,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Pays de la Loire",
+                    "Loire-Atlantique"
+                ],
+                "display_name": "Loire-Atlantique, Pays de la Loire"
+            },
+            "latitude": 47.409153,
+            "description": "Description de l'entreprise Et si Business & Decision et Orange Business conjuguaient leurs forces pour devenir l\u2019un des leaders europ\u00e9ens de la Data transformation ? Nous l\u2019avons fait  Notre alchimie nous positionne comme un acteur unique intervenant sur toutes les \u00e9tapes du voyage de la donn\u00e9e. Depuis 30 ans, Business & Decision, entit\u00e9 de Digital Services s'est impos\u00e9e comme un partenaire strat\u00e9gique pour la transformation Data de nombreux clients, dans des secteurs tr\u00e8s vari\u00e9s. Digital Serv\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI0NzUyMjM3MzEzIn0.lZjTKP4NZdmW2zBgtSw-crSaVnCAVHEXfLOOed0Yn4g",
+            "redirect_url": "https://www.adzuna.fr/details/4752237313?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "graduate-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Dipl\u00f4m\u00e9s"
+            },
+            "created": "2024-06-25T22:50:46Z"
+        },
+        {
+            "created": "2025-07-31T13:01:16Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.fr/details/5329642583?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMyOTY0MjU4MyIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.czNgoWVThtNvn0VxYWiDtSdfoQ_amUz_aryFO3uq-zM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Vos missions ? Int\u00e9gr\u00e9 \u00e0 nos \u00e9quipes sur nos projets en Factory ou chez nos clients vous interviendrez en tant que data Engineer. En tant que data Engineer (H/F ), vous assurez les missions suivantes : Conception de solutions permettant le traitement de volumes importants de pipelines donn\u00e9es. Ceux-ci doivent \u00eatre suffisamment s\u00e9curis\u00e9s et lisibles pour les Data Analysts et Data Scientists. Animation d\u2019une \u00e9quipe de professionnels de la Data sur toutes les \u00e9tapes du traitement de la donn\u00e9e. Mis\u2026",
+            "latitude": 50.6389,
+            "location": {
+                "area": [
+                    "France",
+                    "Hauts-De-France",
+                    "Nord",
+                    "Lille"
+                ],
+                "display_name": "Lille, Nord",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 3.01224,
+            "salary_is_predicted": "0",
+            "id": "5329642583",
+            "company": {
+                "display_name": "Amiltone",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer (H/F)"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2024-07-30T23:46:53Z",
+            "redirect_url": "https://www.adzuna.fr/details/4801583122?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTU4MzEyMiIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.CPuasVKmCxBTFAqaiUe08I8CuF8wBd2NugsnydFoj5s",
+            "description": "Ippon : cabinet de conseil et d\u2019expertises en technologie, international et ind\u00e9pendant En quelques mots : 700 passionn\u00e9s de tech, 12 agences dans le monde, 11 communaut\u00e9s d\u2019expertise d\u2019excellence, contributeur actif et sponsor de l'\u00e9cosyst\u00e8me num\u00e9rique, des publications soutenues et reconnues sur nos r\u00e9seaux. Envie de rejoindre la communaut\u00e9 data la plus dynamique de France ? :) Notre sp\u00e9cialit\u00e9 est de construire des data platforms dans le Cloud public avec les meilleures technos du moment. To\u2026",
+            "latitude": 48.863839,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "4801583122",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Ippon Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer (H/F)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "longitude": 2.344631
+        },
+        {
+            "category": {
+                "label": "Emplois Comptabilit\u00e9 et Finance",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "created": "2025-11-21T20:49:20Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODI2MTAwMiIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.ufSDhgFys8reudAMhFnbHn1UGTd_6t5PdCwym4yrTdM",
+            "redirect_url": "https://www.adzuna.fr/details/5508261002?utm_medium=api&utm_source=58c69264",
+            "latitude": 48.81846,
+            "description": "NOUS CONNAITRE ! La Direction IT and Op\u00e9ration Services (IOS) a pour objectif de doter CACIB de la meilleure Plateforme IT et Op\u00e9rations pour r\u00e9pondre aux besoins de maintenir et renforcer la qualit\u00e9 des services rendus \u00e0 CACIB et de se pr\u00e9parer aux enjeux de croissance et de transformation digitale de CACIB dans les ann\u00e9es futures. Rejoignez la Direction IOS / Global IT (GIT) de CA-CIB, responsable de la conception, du d\u00e9veloppement, de la maintenance des applications et des syst\u00e8mes de la Ban\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5508261002",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Cr\u00e9dit Agricole CIB",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Modeler H/F",
+            "contract_type": "permanent",
+            "longitude": 2.31993,
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Antony",
+                    "Montrouge"
+                ],
+                "display_name": "Montrouge, Antony",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/details/5444008728?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQ0MDA4NzI4In0.zRxF6RVzCoGSGwe_mYa3f7C0vMugHhctBxqnfLa-K2A",
+            "created": "2025-10-12T11:30:02Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Toulouse, Haute-Garonne",
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "Haute-Garonne",
+                    "Toulouse"
+                ]
+            },
+            "longitude": 1.44295,
+            "company": {
+                "display_name": "Evotec",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5444008728",
+            "salary_is_predicted": "0",
+            "title": "Data Engineer (all genders)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Titre du poste : Data Engineer Lieu : Toulouse D\u00e9partement : IT / Digital Systems Rel\u00e8ve de : Head of IT & Digital Systems \u00c0 propos de nous : qui nous sommes Chez Just Evotec Biologics, nous croyons que la curiosit\u00e9 est l\u2019\u00e9tincelle qui stimule l\u2019innovation et le succ\u00e8s. En tant qu\u2019\u00e9quipe avant-gardiste, nous nous effor\u00e7ons de remettre en question le statu quo, d\u2019apprendre les uns des autres et de repousser les limites du possible. Nous avons pour mission de cr\u00e9er un endroit o\u00f9 la curiosit\u00e9 n\u2019es\u2026",
+            "latitude": 43.60436
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 47.41812,
+            "description": "Vous avez envie de faire d\u00e9coller votre carri\u00e8re ? Nous recherchons notre futur(e) Data Engineer - F/H Type de contrat CDI Qui sommes-nous ? Avionneur, industriel, prestataire de services industriels et logisticien, Daher compte aujourd'hui environ 14 000 collaborateurs pour un chiffre d'affaires de 1,8 milliard d'euros en 2024. Fort de son actionnariat familial, Daher est tourn\u00e9 vers l'innovation depuis sa cr\u00e9ation en 1863. Avec des implantations dans une quinzaine de pays, en Europe, en Am\u00e9ri\u2026",
+            "longitude": 0.69944,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Saint-Pierre-des-Corps, Tours",
+                "area": [
+                    "France",
+                    "Centre",
+                    "Indre-et-Loire",
+                    "Tours",
+                    "Saint-Pierre-des-Corps"
+                ]
+            },
+            "id": "5517423971",
+            "title": "Data Engineer H/F",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Daher"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-28T07:48:25Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE3NDIzOTcxIn0.NdxB_YPv6Jm9ikHw0ykW-L9SpJqjS_ziAJGr5F-H8Jw",
+            "redirect_url": "https://www.adzuna.fr/details/5517423971?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5517965745",
+            "company": {
+                "display_name": "Daher Aerospace",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer - F/H",
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "display_name": "France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Vous avez envie de faire d\u00e9coller votre carri\u00e8re ? Nous recherchons notre futur(e) Data Engineer - F/H Type de contrat Permanent Qui sommes-nous ? Avionneur, industriel, prestataire de services industriels et logisticien, Daher compte aujourd\u2019hui environ 14 000 collaborateurs pour un chiffre d\u2019affaires de 1,8 milliard d\u2019euros en 2024. Fort de son actionnariat familial, Daher est tourn\u00e9 vers l\u2019innovation depuis sa cr\u00e9ation en 1863. Avec des implantations dans une quinzaine de pays, en Europe, en\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.fr/details/5517965745?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE3OTY1NzQ1In0.Ctu3NOGLoKM-jc5WvLwG4W8mHt6M3vSZ5HUbTiCJhqg",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "contract_time": "full_time",
+            "created": "2025-11-28T18:15:44Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNGxhd0dkVFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI3MjY0OTI0In0.Wq5qiTHqApUhPKh0YkdLkMLR56CVYfTyubTTI5IjbXY",
+            "redirect_url": "https://www.adzuna.fr/details/5527264924?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-12-04T13:21:46Z",
+            "salary_min": 500,
+            "id": "5527264924",
+            "company": {
+                "display_name": "Collective",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 500,
+            "salary_is_predicted": "0",
+            "title": "Dev AWS, Data & Spark",
+            "longitude": 2.44081,
+            "location": {
+                "display_name": "Maisons-Alfort, Cr\u00e9teil",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Val-de-Marne",
+                    "Cr\u00e9teil",
+                    "Maisons-Alfort"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 48.80575,
+            "description": "Dev AWS, Data & Spark Contexte Le socle Pilotage, Pr\u00e9visions & Analyses Financiers met \u00e0 disposition les outils m\u00e9tiers n\u00e9cessaire \u00e0 la construction des trajectoires de planifications et analyses financiers du groupe. Le socle est en \u00e9volution / am\u00e9lioration permanente de part les exigences en \u00e9volution de nos m\u00e9tiers et des exigences r\u00e8glementaires, s\u00e9curitaire et de d\u00e9veloppement durable ainsi que les d\u00e9marche Devops, Dora et d'optimisation de nos co\u00fbts. Dans ce cadre, le socle recherche un i\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.fr/land/ad/5448076514?se=4lawGdTW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=FBFA2914E8AC7995149E3937352FF5C1A80A826F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0ODA3NjUxNCIsInMiOiI0bGF3R2RUVzhCRzdnY3JqVkVhaUR3In0.jP9vJtQRaq9TVUr_68r8nY3sR0db3DjVT7CwKuGPxFk",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-15T10:10:58Z",
+            "id": "5448076514",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "ALTEN",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Architecte Data H/F",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bezons, Argenteuil",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Val-d'Oise",
+                    "Argenteuil",
+                    "Bezons"
+                ]
+            },
+            "longitude": 2.21562,
+            "description": "Ce que vous accomplirez Le DataLab de Natran, compos\u00e9 d'\u00e9quipes agiles, accompagne la transformation data-driven de l'entreprise. Il d\u00e9veloppe et maintient la Plateforme Data Analytics, soutient les projets m\u00e9tiers, explore des solutions innovantes et assure un support technique, le tout dans le respect des normes de cybers\u00e9curit\u00e9. - Architecture technique et Solution : - Veille solution des principaux providers : Microsoft (Azure et Windows), AWS, Snowflake - Conception & r\u00e9alisation architect\u2026",
+            "latitude": 48.92732,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 31779,
+    "mean": 49185.38
+}

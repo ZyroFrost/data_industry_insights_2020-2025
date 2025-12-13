@@ -1,0 +1,1522 @@
+{
+    "count": 102155,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 26847.31,
+    "results": [
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "id": "4670555951",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI0NjcwNTU1OTUxIn0.q89h6yTD4VBE6oUo-bwZb8ByjymdyJkrq1SVaw4HGtM",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "\u2705 Cuffie su! Ascolta il podcast ed entra nel mondo della LightHouse! \u2705 Lascia il tuo feedback al termine dell'ascolto rispondendo alla domanda. La tua opinione per noi \u00e8 fondamentale! \u2705 Scopri le posizioni aperte, finalizza la tua candidatura o se sei ancora all'inizio del tuo percorso di studi condividi con noi il tuo profilo.",
+            "title": "Team Data & Analytics",
+            "redirect_url": "https://www.adzuna.it/details/4670555951?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Kpmg",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-04-30T11:54:24Z"
+        },
+        {
+            "location": {
+                "display_name": "Montevarchi, Provincia di Arezzo",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Arezzo",
+                    "Montevarchi"
+                ]
+            },
+            "id": "5533664310",
+            "longitude": 11.555156,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzY2NDMxMCIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.NqHSoilxzzcoWxo51y2t2SGubLw8Pl-siJ0AQlAB4hU",
+            "latitude": 43.495685,
+            "description": "Azienda produttrice di generi alimentari secchi ricerca una figura che si occupi dell'inserimento e gestione ordini. La posizione richiede la raccolta e l'inserimento degli ordini provenienti dalle varie catene GDO territoriali, il tutto avviene seguendo e rispettando le policy aziendali tramite l'organizzazione di moduli d'ordine, la scansione e il monitoraggio dei carichi di lavoro giornalieri. Requisiti: - diploma di maturit\u00e0, - capacit\u00e0 organizzative e capacit\u00e0 di multitasking, - capacit\u00e0 c\u2026",
+            "title": "Impiegato/a Data Entry",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EDERA"
+            },
+            "created": "2025-12-08T19:18:48Z",
+            "redirect_url": "https://www.adzuna.it/details/5533664310?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "id": "5535003231",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 7.673018,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTAwMzIzMSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.Y0oKmk4k3J1xdHHeQWjrZREezv5Po_RgzpJoOn_7AqY",
+            "latitude": 45.068057,
+            "description": "M.C. Engineering \u00e8 una societ\u00e0 di consulenza specializzata in Information Technology nata agli inizi degli anni Duemila. Con 3 sedi sul territorio nazionale -Torino, Milano, Roma, siamo un partner strategico ad alto contenuto tecnico. Approccio umanocentrico, competenza e innovazione tecnologica sono gli elementi grazie ai quali guardiamo ad obiettivi ambiziosi, consapevoli di poterli raggiungere. Desideri sperimentarti in una realt\u00e0 dinamica e in crescita? Unisciti a noi!",
+            "title": "Data Visualization Analyst",
+            "company": {
+                "display_name": "MC Engineering",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T19:35:03Z",
+            "redirect_url": "https://www.adzuna.it/details/5535003231?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "description": "M.C. Engineering \u00e8 una societ\u00e0 di consulenza specializzata in Information Technology nata agli inizi degli anni Duemila. Con 3 sedi sul territorio nazionale -Torino, Milano, Roma, siamo un partner strategico ad alto contenuto tecnico. Approccio umanocentrico, competenza e innovazione tecnologica sono gli elementi grazie ai quali guardiamo ad obiettivi ambiziosi, consapevoli di poterli raggiungere. Desideri sperimentarti in una realt\u00e0 dinamica e in crescita? Unisciti a noi!",
+            "title": "Business Data Analyst",
+            "redirect_url": "https://www.adzuna.it/details/5535003236?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "MC Engineering",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T19:35:03Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.673018,
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "id": "5535003236",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTAwMzIzNiIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.YomC69aP1SxzkNVzJlJPIXWzu0Z_0iflyvoPT8UUt8M",
+            "latitude": 45.068057,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Kpmg"
+            },
+            "created": "2024-04-30T11:54:25Z",
+            "redirect_url": "https://www.adzuna.it/details/4670555998?utm_medium=api&utm_source=58c69264",
+            "description": "\u2705 Cuffie su! Ascolta il podcast ed entra nel mondo del DS! \u2705 Lascia il tuo feedback al termine dell'ascolto rispondendo alla domanda. La tua opinione per noi \u00e8 fondamentale! \u2705 Scopri le posizioni aperte, finalizza la tua candidatura o se sei ancora all'inizio del tuo percorso di studi condividi con noi il tuo profilo.",
+            "title": "Team Data Solution",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI0NjcwNTU1OTk4In0.Vi1ppQ2PqJmA59lGil9O7KqLMFLj514Nhh0DawQ5ELk",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "id": "4670555998",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5536384097?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T19:29:38Z",
+            "company": {
+                "display_name": "EUROSARDA SPA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Operatore Data Entry",
+            "description": "AZIENDA DI TRASPORTO MERCI C/TERZI CERCA DINAMICA/O IMPIEGATA/O CON BUONA CONSCENZA OFFICE, AS400 PER GESTIONE SPEDIZIONI, SERVIZIO CLIENTI, GESTIONE DOCUMENTI DI TRASPORTO ANCHE PRIMA ESPERIENZA. Contratto di lavoro: Tempo pieno, Tempo indeterminato Benefit: - Assistenza sanitaria integrativa - Fondo pensione - Parcheggio libero Disponibilit\u00e0: - Dal luned\u00ec al venerd\u00ec Retribuzione supplementare: - Quattordicesima - Straordinario - Tredicesima",
+            "latitude": 45.389945,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM2Mzg0MDk3In0.KYaPbtAJaXDSioiH8xm32qn2RpdQTMrrG4ZxkAfcREc",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.269203,
+            "id": "5536384097",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "San Giuliano Milanese"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "San Giuliano Milanese, Provincia di Milano"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 12.595804,
+            "location": {
+                "display_name": "Monterotondo, Provincia di Roma",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Monterotondo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5537948208",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3OTQ4MjA4In0.kgq3VWAbRm6ylg-LtA7Zq3p9yJotL04c9M11O5ruXS4",
+            "latitude": 42.06408,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "Azienda operante nel settore di minuterie metalliche preziose ricerca una risorsa da inserire nel proprio organico come supporto addetto/a all\u2019inserimento di ordini nel reparto di log\u00edstica di magazzino. La risorsa supporter\u00e0 il personale aziendale nella gestione del magazzino, della log\u00edstica, delle spedizioni e dell'inserimento ordini di acquisto su gestionale aziendale. Si richiede: - Diploma di maturit\u00e0 - Precisione - Capacit\u00e0 di lavorare sia in autonomia che in gruppo - Buone capacit\u00e0 rela\u2026",
+            "title": "Impiegato/a Inserimento Dati",
+            "redirect_url": "https://www.adzuna.it/details/5537948208?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mood Media"
+            },
+            "created": "2025-12-11T19:45:30Z"
+        },
+        {
+            "latitude": 43.750704,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM0MDMyNiIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.uwt_oxFSa69A0IxAibvTnLd4ZWyH1aza3OWBeQLE6LA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.151943,
+            "salary_is_predicted": "0",
+            "id": "5537340326",
+            "location": {
+                "display_name": "Scandicci, Provincia di Firenze",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Firenze",
+                    "Scandicci"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.it/details/5537340326?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T04:05:13Z",
+            "company": {
+                "display_name": "DURING",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "DATA ENTRY LOGISTICA",
+            "description": "SI ricerca ADDETTA/ADDETTO AL BACK OFFICE per importante azienda che lavora nel settore dei multiservizi. L'ADDETTA/ADDETTO AL BACK OFFICE dovr\u00e0 occuparsi delle seguenti mansioni: gestione mail, chiamate e attivit\u00e0 di back office; gestione fornitori; gestione dei mezzi aziendali; gestione operatori (facchini, autisti). Per svolgere l'attivit\u00e0 di ADDETTA/ADDETTO AL BACK OFFICE \u00e8 richiesto: breve esperienza nella mansione di impiegato/impiegata di magazzino; essere in possesso della patente B e a\u2026"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDI1MDk3In0.kurZ-_NYQp94gz5wJ_OHxVQdronvZUWDctzBiL7gU1Q",
+            "id": "5538025097",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.187087,
+            "created": "2025-12-11T19:54:42Z",
+            "company": {
+                "display_name": "UNITED PARCEL SERVICE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5538025097?utm_medium=api&utm_source=58c69264",
+            "title": "Addetto Inserimento Dati",
+            "description": "Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow\u2014people with a unique combination of skill  passion. If you have the qualities and drive to lead yourself or teams, there are roles ready to cultivate your skills and take you to the next level. Job Summary La figura si occupera' del controllo e i\u2026"
+        },
+        {
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Roma, Provincia di Roma"
+            },
+            "id": "5533575487",
+            "salary_max": 200,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTc1NDg3In0.eNB1bCAXdjobNC5yh3yZK1T-exQ0oBi7OVhb15uTsB4",
+            "latitude": 41.877339,
+            "salary_min": 200,
+            "description": "I am Jane, I am here looking to hire a freelancer that is ready to work and a hardworking person, I want a serious, honest, understanding, person. If you are a sincere and a trustworthy persona nd ready to work, You can email me. .",
+            "title": "Data Analysis Assistant",
+            "company": {
+                "display_name": "Uni",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-08T17:13:14Z",
+            "redirect_url": "https://www.adzuna.it/details/5533575487?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Data Analyst - It",
+            "description": "Classgap, il portale numero 1 di lezioni online in Italia, cerca insegnanti privati di fisica. Non \u00e8 richiesta alcuna esperienza precedente per la posizione. Potrai stabilire autonomamente il prezzo delle lezioni e gli orari per insegnare online comodamente da casa. VANTAGGI: - Lavoro da remoto / online - Orari flessibili - Potrai stabilire il prezzo delle tue lezioni Retribuzione: fino a 30\u20ac/h in base al profilo.",
+            "redirect_url": "https://www.adzuna.it/details/5538035295?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T19:56:04Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Classgap"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "id": "5538035295",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "display_name": "Roma, Provincia di Roma"
+            },
+            "latitude": 41.877339,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDM1Mjk1In0.EGz6SXo26XDwiTs_iD30M3dQoAoiktu3n71r7R-ngLA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "latitude": 46.177562,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODA0NzYxMyIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.7qj_hpjXtDXCKp6GR41aHJUMSWaH7cV3lPLZ9rHRO-c",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.856235,
+            "id": "5538047613",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Sondrio",
+                    "Sondrio"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sondrio, Provincia di Sondrio"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5538047613?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T19:57:10Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Valtellinalavoro"
+            },
+            "title": "Loyalty Data Analyst",
+            "description": "Nel dettaglio si occuper\u00e0 di analizzare e monitorare movimenti e scostamenti della customer base, implementare azioni di loyalty, svolgere analisi di mercato (bisogni, numeriche) e seguirne l\u2019evoluzione (customer base, product development, retention) monitorando costantemente i trend del mercato. Ci si rivolge ad una figura laureata preferibilmente materie STEM, in possesso di elevate capacit\u00e0 di analisi ed esperienza come PM o Analista nella gestione di progetti, preferibilmente in ambito serv\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.187087,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5538050768",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDUwNzY4In0.rgUFVTSVu5clNJE48X63QBg_QxZo5W51ctAhTLcOFwg",
+            "latitude": 45.471322,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "description": "What you\u2019ll do: What you\u2019ll bring: Team Overview: XXX We bring the best from the global market into Sky - we buy technology, marketing, corporate, operational services and editorial production solutions. We are an international team working with our stakeholders our partners to curate the most effective and efficient customer-led operating model. High ethical standards are embeded in our team, and we engage our supply chains in creating a sustainable future! The Rewards: There\u2019s a reason people\u2026",
+            "title": "Expert - Data Engineering",
+            "redirect_url": "https://www.adzuna.it/details/5538050768?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sky"
+            },
+            "created": "2025-12-11T19:57:24Z"
+        },
+        {
+            "description": "All\u2019interno dell\u2019Anti Fraud First Line Department il Senior Fraud Analyst \u00e8 la figura che ha la responsabilit\u00e0 di intercettare, sia per il business Retail che Wholesale, comportamenti potenzialmente fraudolenti legati alle transazioni, all'utilizzo degli strumenti/linee di credito concessi dalla Banca ed all\u2019apertura di nuovi prodotti della clientela, nonch\u00e9 quella di analisi ed investigazione finalizzata alla gestione delle casistiche individuate in conformit\u00e0 alle Policy di Gruppo ed alle pro\u2026",
+            "title": "Antifraud Data Analyst",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ING Bank N.V."
+            },
+            "created": "2025-12-11T19:41:19Z",
+            "redirect_url": "https://www.adzuna.it/details/5537910936?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "id": "5537910936",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3OTEwOTM2In0.ZUUeIva2NgsAYI4CyQ6X-SPjWZDq8inaKOq6soYh944"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjEyNzEzNiIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.ak7E43OzdrOKXefxERvpnPJSQ42zKccXZxwPD4PCArQ",
+            "latitude": 41.471253,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.882516,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Latina",
+                    "Latina"
+                ],
+                "display_name": "Latina, Provincia di Latina"
+            },
+            "id": "5536127136",
+            "redirect_url": "https://www.adzuna.it/details/5536127136?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Global CSS Lavori"
+            },
+            "created": "2025-12-10T14:09:09Z",
+            "description": "Per conto di azienda commerciale di beni a largo consumo, si ricerca un/a addetto/addetta all\u2019archiviazione in modalit digitale. La risorsa si occupa di:gestione pratiche e archivio digitaledovr avere cura di controllare la corretta presenza dei moduli relativi a ciascuna praticapredisporre un corretto archivio digitale e cartaceo. Requisiti:gradita esperienza pregressa in mansioni analoghediploma di maturit precisione e responsabilit buona conoscenza dei sistemi informatici e ottima predisposi\u2026",
+            "title": "Impiegato/a Data Entry"
+        },
+        {
+            "description": "Ciao da Logical Job, Stai cercando lavoro nel settore logistico? Il team Logical Job specializzato in supply chain \u00e8 qui per te! Posizione: Di cosa ti occuperai? Tipicamente l\u2019attivit\u00e0 si svolge in sito e le tue mansioni saranno: - Gestione degli ordini in entrata e in uscita; - Controllo e aggiornamento delle scorte; - Pianificazione delle spedizioni; - Preparazione e controllo della documentazione (fatture, bolle di accompagnamento, documenti doganali); - Coordinamento con il personale operat\u2026",
+            "title": "Impiegato/a Data Entry",
+            "redirect_url": "https://www.adzuna.it/details/5537898767?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Logical Job S.r.l.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T19:39:54Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 10.047316,
+            "location": {
+                "display_name": "Fidenza, Provincia di Parma",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Parma",
+                    "Fidenza"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5537898767",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3ODk4NzY3In0.Z8rtOyxoc9BGQnAtLxrCpjcbI1pAzD3lVgYJzRUjnZs",
+            "latitude": 44.855893,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzg4NjA2MiIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.xl8BvQOHY4ub6Z_ZTfAJryN_TB72YE78UubfXpqU9gQ",
+            "latitude": 45.625842,
+            "location": {
+                "display_name": "Vimercate, Provincia di Monza e Brianza",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Monza e Brianza",
+                    "Vimercate"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5537886062",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.35213,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Studio Dott Berti",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T19:37:59Z",
+            "redirect_url": "https://www.adzuna.it/details/5537886062?utm_medium=api&utm_source=58c69264",
+            "description": "Addetta elaborazione paghe formata o da formare con almeno basi in ambito studio professionale Contratto di lavoro: Part-time, Tempo indeterminato Retribuzione: \u20ac855,24 - \u20ac1.751,85 al mese Ore previste: 20 a settimana Benefit: - Buoni pasto Disponibilit\u00e0: - Dal luned\u00ec al venerd\u00ec",
+            "title": "Operatore di Elaborazione Dati"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "id": "5538119018",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODExOTAxOCIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.uuE4iiSM8Ih6lOCXwrSt8hKg7gb8RLQzfLlL92dZeo8",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "title": "Data Science Specialist",
+            "description": "What you\u2019ll do: What you\u2019ll bring: Team Overview: XXX We bring the best from the global market into Sky - we buy technology, marketing, corporate, operational services and editorial production solutions. We are an international team working with our stakeholders our partners to curate the most effective and efficient customer-led operating model. High ethical standards are embeded in our team, and we engage our supply chains in creating a sustainable future! The Rewards: There\u2019s a reason people\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5538119018?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T20:05:07Z",
+            "company": {
+                "display_name": "Sky italia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 13.18126,
+            "id": "5538053660",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Friuli-Venezia Giulia",
+                    "Provincia di Udine",
+                    "Campoformido"
+                ],
+                "display_name": "Campoformido, Provincia di Udine"
+            },
+            "latitude": 46.032908,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODA1MzY2MCIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.cKyKj7nGoqH3Ye7AYbmlaHNjgC2kyhU90P524mPjkY0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "title": "Magazziniere (Con Inserimento Dati)",
+            "description": "Iziwork \u00e8 un\u2019agenzia digitale per il lavoro che ti semplificher\u00e0 la vita. Candidati in pochi click e per ogni evenienza avrai la possibilit\u00e0 di contattare il nostro servizio clienti. Descrizione missione: Per importante azienda cliente siamo alla ricerca di 2 magazzinieri. Le figure, con esperienza pregressa nella mansione, si occuperanno di: - movimentazione merce - inserimento ordini a gestionale SAP Si valutano soltanto figure con il patentino del muletto ed esperienza con il muletto frontal\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5538053660?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T19:57:39Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "iziwork"
+            }
+        },
+        {
+            "title": "Impiegato/a data entry junior",
+            "description": "Adecco Collegno ricerca per azienda cliente sita a Collegno e specializzata in trattamenti galvanici, un/a impiegato/a data entry da inserire all\u2019interno dell\u2019Ufficio Tecnico. Il/la candidata supporter il team nello sviluppo e nell\u2019ottimizzazione dei processi aziendali, con particolare attenzione alla gestione e all\u2019inserimento dei dati nel gestionale Esolver. La risorsa si occuper di: \u2022 Supporto alla mappatura e all\u2019analisi dei processi aziendali, \u2022 Inserimento, aggiornamento e registrazione d\u2026",
+            "created": "2025-12-08T17:21:46Z",
+            "company": {
+                "display_name": "Adecco Italia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5533605182?utm_medium=api&utm_source=58c69264",
+            "id": "5533605182",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Torino"
+                ],
+                "display_name": "Torino, Provincia di Torino"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.673018,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "latitude": 45.068057,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNjA1MTgyIn0.skNL3Y30kBacJ9aC0i2uqg4VVuAr_c_M_1YZSrxakTU"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5533605261?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-08T17:21:50Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ManpowerGroup"
+            },
+            "title": "Senior Data Scientist Engineer",
+            "description": "Manpower seleziona per Azienda Cliente Leader nei settori dell\u2019energia, del gas e delle energie rinnovabili un/a: SENIOR DATA SCIENTIST ENGINEER La risorsa sar responsabile di supportare lo sviluppo di modelli, analisi e strumenti previsionali per migliorare la gestione e l\u2019efficienza delle attivit e di contribuire alle attivit di analisi dati, monitoraggio delle performance e valutazione dei risultati. PRINCIPALI AREE DI RESPONSABILITA': - Supporto alla creazione di modelli di ottimizzazione e\u2026",
+            "latitude": 41.877339,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzYwNTI2MSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.JtJx2SsFVtxdXyaovoaDGW-FiKKpVDnVjohlWzrKuLo",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.489081,
+            "id": "5533605261",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma",
+                    "Roma"
+                ],
+                "display_name": "Roma, Provincia di Roma"
+            }
+        },
+        {
+            "location": {
+                "display_name": "Salerno, Provincia di Salerno",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Campania",
+                    "Provincia di Salerno",
+                    "Salerno"
+                ]
+            },
+            "id": "5339222307",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 14.756696,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMzOTIyMjMwNyIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.8PPDRHGMcTn1k6lt3qeTRAcUVwbItqNn945_ITJVEEM",
+            "latitude": 40.679228,
+            "description": "Virvelle \u00e8 una societ\u00e0 di formazione e consulenza attiva su tutto il territorio nazionale, specializzata nello sviluppo di competenze digitali, analitiche e comunicative per aziende e professionisti. Virvelle \u00e8 alla ricerca di un docente con competenze avanzate in Power BI e capacit\u00e0 di comunicazione dei dati , da coinvolgere in progetti formativi aziendali rivolti a figure professionali provenienti da diversi settori. La risorsa accompagner\u00e0 i partecipanti nell\u2019uso professionale di Power BI , \u2026",
+            "title": "Docente Power BI \u2013 Analisi Dati e Data Storytelling per Aziende",
+            "company": {
+                "display_name": "Virvelle S.r.l. - Societ\u00e0 Benefit",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-08-05T23:27:56Z",
+            "redirect_url": "https://www.adzuna.it/details/5339222307?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Addetto/a data entry junior | Addetto/a all'inserimento dati",
+            "description": "Per conto di azienda dinamica e in crescita che opera nel settore dei servizi dedicati a privati e imprese si ricerca una nuova risorsa da inserire in organico con la mansione di Data entry. Si seleziona una figura precisa e affidabile da inserire nel team amministrativo, con mansioni di inserimento dati e gestione contrattualistica. Attivit principali: - Inserimento, aggiornamento e verifica dei dati nei sistemi gestionali aziendali, - Redazione, controllo e archiviazione dei contratti con cli\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5533565936?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-08T17:00:00Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "impiegando.com"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 13.264129,
+            "salary_is_predicted": "0",
+            "id": "5533565936",
+            "location": {
+                "display_name": "Udine, Provincia di Udine",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Friuli-Venezia Giulia",
+                    "Provincia di Udine",
+                    "Udine"
+                ]
+            },
+            "latitude": 46.064591,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzNTY1OTM2In0.ZMt83JO-q70yCQZ8dkxpU4RCWFx57wxVY4qAgS41iQo",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Eligo Recruitment"
+            },
+            "created": "2025-12-11T03:32:38Z",
+            "redirect_url": "https://www.adzuna.it/land/ad/5537296681?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=65649D0CAAAD052496AD2EF2CE28108303733693",
+            "description": " Data Governance & Finance Transformation Consultant \u2013 Big4  Location: Milano, Torino (2 giorni di smart working a settimana)  RAL: fino a 49K  Esperienza: 1\u20135 anni Hai esperienza in Data Governance , Data Quality o Finance Transformation , magari in ambito bancario o assicurativo? Oppure hai 2\u20133 anni di esperienza in consulenza o in ambito dati e vuoi fare un salto di qualit\u00e0 nella tua carriera?  Questa \u00e8 la tua occasione per unirti a una Big4 internazionale come Data Governance & Finance Tran\u2026",
+            "title": "Data Governance & Finance Transformation Consultant",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Informatica/IT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzI5NjY4MSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0._c63bYkqYl7ybysaxZt2q49qZZuFD4VcLopR3Pb1XFE",
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5537296681",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.913704,
+            "id": "5518727805",
+            "location": {
+                "display_name": "Riese Pio X, Provincia di Treviso",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Treviso",
+                    "Riese Pio X"
+                ]
+            },
+            "latitude": 45.72788,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE4NzI3ODA1In0.q04L-nN9h3c4Ei5U6k6NMXEheXG7kOEPtkPSuct045I",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "title": "Service Spare Parts Data Specialist",
+            "description": "The Service Spare Parts Data Specialist is responsible for ensuring the accuracy, integrity, and consistency of spare part master data across the business unit globally. This role is critical in enforcing standardized data governance policies and aligning global service operations with corporate standards. The position will act as a bridge between headquarters and local subsidiaries, ensuring compliance with data management best practices and driving operational excellence Task & Responsabiliti\u2026",
+            "redirect_url": "https://www.adzuna.it/land/ad/5518727805?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=82188A62A8383A28F9272BB5C31B0A13C94064D5",
+            "created": "2025-11-29T03:50:10Z",
+            "company": {
+                "display_name": "Steelco Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "latitude": 40.927921,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MzM3NzE4MCIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.q7eT9qc4SwyoH5KeICNlIvLAprRzIg2GufANtNONpFQ",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 14.665618,
+            "id": "5483377180",
+            "location": {
+                "display_name": "Campania, Italia",
+                "area": [
+                    "Italia",
+                    "Campania"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.it/land/ad/5483377180?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=4DA6F1A048B11E5C2899F2DCB0BE0853AD8A9729",
+            "created": "2025-11-06T09:55:26Z",
+            "company": {
+                "display_name": "AYES - Management & Technology Consulting",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Digital Twin & Data Analysis Engineer",
+            "description": "Fai la differenza con AYES: unisciti come DIGITAL TWIN & DATA ANALYSIS ENGINEER - Railway! AYES, multinazionale di consulenza ingegneristica e tecnologica, in vista dell'espansione delle proprie attivit\u00e0 in Italia, \u00e8 alla ricerca di un DIGITAL TWIN & DATA ANALYSIS ENGINEER - Railway! AYES opera a livello globale, offrendo soluzioni avanzate e progetti innovativi nei settori pi\u00f9 affermati dell'industria: Automotive, Aerospazio e Difesa, Ferroviario, Energia, Oil&Gas, Life Sciences e Telecomunica\u2026"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "id": "5501267350",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Contabilit\u00e0/Finanza",
+                "tag": "accounting-finance-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMTI2NzM1MCIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.ptOtDkmm0oRjFh96ReOGY1SHctb2t5J0Sz_WFzkOXTQ",
+            "description": "Generali is one of the largest global insurance and asset management providers. Established in 1831, it is present in 50 countries in the world the Generali Group is one of the most significant players in the global insurance and the asset management industry. Generali supports each firm to innovate and grow with full investment autonomy ensuring they are set up to develop sustainable and innovative solutions. With the stability of Generali Group backing, the platform enables investors to acces\u2026",
+            "title": "Data Ingestion & Quality Management Analyst",
+            "company": {
+                "display_name": "Generali Employee Benefits - GEB",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-18T04:37:39Z",
+            "redirect_url": "https://www.adzuna.it/land/ad/5501267350?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=7505C037FBEBCDD5E2F695CEA73B151962D1E1C4"
+        },
+        {
+            "description": "Il/la Site Electrical Manager \u00e8 responsabile della gestione e supervisione delle attivit\u00e0 di manutenzione elettrica all'interno del data center, garantendo la continuit\u00e0 operativa e l'efficienza degli impianti. Il Site Electrical Manager possiede una solida esperienza nel settore della manutenzione elettrica, preferibilmente in contesti di data center, e ottime capacit\u00e0 di leadership, comunicazione e problem-solving. Il/la Site Electrical Manager si occuper\u00e0 inoltre di attivit\u00e0 di miglioramento\u2026",
+            "title": "Site Electrical Manager | Data Center",
+            "redirect_url": "https://www.adzuna.it/land/ad/5536049551?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=C994A183117659C1347E9257800DEAFB2DA60E26",
+            "company": {
+                "display_name": "Ali Professional",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-10T11:44:55Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ],
+                "display_name": "Milano, Provincia di Milano"
+            },
+            "id": "5536049551",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA0OTU1MSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.c6j_yZ40YGbuIt0QpPODi2XtfinlsoaC179P-Ka89AM",
+            "category": {
+                "label": "Ingegneria",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            }
+        },
+        {
+            "description": "FUNCTIONAL & DATA ANALYST \u2013 FINANCIAL SERVICES CHI SIAMO: SCS Consulting \u00e8 una societ\u00e0 di consulenza di direzione presente sul mercato da pi\u00f9 di 40 anni che opera nel campo dei servizi professionali di consulenza, sviluppo delle competenze e valorizzazione delle risorse umane e che punta all\u2019innovazione e al perseguimento della vision strategica dei propri clienti . SCS Consulting opera su tutto il territorio nazionale , con un team costituito oggi da circa 200 professionisti , cui si affianca \u2026",
+            "title": "Functional & Data Analyst - Financial Services",
+            "redirect_url": "https://www.adzuna.it/land/ad/5519950576?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=0EC6850A098F2651B6E62D7D5420BB75C64D4AAD",
+            "company": {
+                "display_name": "SCS Consulting | Consulenza Direzionale",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-30T03:49:14Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.331685,
+            "location": {
+                "display_name": "Provincia di Bologna, Emilia-Romagna",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Emilia-Romagna",
+                    "Provincia di Bologna"
+                ]
+            },
+            "id": "5519950576",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTk1MDU3NiIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.QJcwV_x_pEKLopbRiwL_fGuiFBYBNlf1WWMhlwXe9Pg",
+            "latitude": 44.435634,
+            "category": {
+                "label": "Consulenza",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            }
+        },
+        {
+            "description": "Descrizione del lavoro Ai fini dell\u2019ampliamento del nostro centro di competenza dedicato all\u2019AI e al Data Science, siamo alla ricerca di un Data Scientist Manager che operi come leader tecnico e mentore all'interno dei team, garantendo la qualit\u00e0 dei progetti e promuovendo le best practice applicabili ai contesti specifici sui clienti nell\u2019ambito dei processi Innovativi del mondo Energy. Sarai responsabile di progettare, sviluppare e implementare modelli predittivi e algoritmi avanzati, coordin\u2026",
+            "title": "DATA SCIENTIST MANAGER - SAS",
+            "redirect_url": "https://www.adzuna.it/details/5530679801?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sopra Steria"
+            },
+            "created": "2025-12-06T09:58:52Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.715378,
+            "location": {
+                "display_name": "Provincia di Roma, Lazio",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma"
+                ]
+            },
+            "id": "5530679801",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDY3OTgwMSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.0AE9y25RyezM3PpAQTdH1m2EYdwH8k3dH7U9kDFjfzE",
+            "latitude": 41.936224,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Informatica/IT"
+            }
+        },
+        {
+            "description": "Ali Agenzia Per Il Lavoro, per conto di importante azienda metalmeccanica sta selezionando un/una ADDETTO - ADDETTA DATA ENTRY. In generale, l'Addetto/a Data Entry si occupa principalmente di: - Inserimento dati precisi e tempestivi in database, fogli di calcolo o software gestionali. - Organizzazione e archiviazione di documenti (spesso digitalizzazione di documenti cartacei). - Verifica e correzione di dati per assicurarne l'accuratezza e completezza. - A volte, mansioni di back office o segr\u2026",
+            "title": "ADDETTO - ADDETTA DATA ENTRY",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ali Lavoro"
+            },
+            "created": "2025-11-27T20:07:52Z",
+            "redirect_url": "https://www.adzuna.it/details/5516702319?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Marche",
+                    "Provincia di Ancona",
+                    "Castelfidardo"
+                ],
+                "display_name": "Castelfidardo, Provincia di Ancona"
+            },
+            "id": "5516702319",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 13.578056,
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Altro"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNjcwMjMxOSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.kbNYA5DHj0pfkS-2jEpkcJHajlRSY-bpY1oSdiLNPZ0",
+            "latitude": 43.464243
+        },
+        {
+            "id": "5449990829",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Altro",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDQ5OTkwODI5In0.1-NRnyBTIui0yUn0zJYp7f0see2QpgeJo7W8AAdl7KA",
+            "contract_type": "contract",
+            "title": "Digital Health Data Engineer",
+            "description": "Job Title: Digital Health Data Engineer Location: Remote (EU-based candidates only) Duration: 6-12 months contract We are looking for an outstanding digital health data engineer whose responsibilities will include: Position Summary: We are seeking a Digital Health Data Engineer with expertise in analysing multimodal time-series data from biosensors (e.g., accelerometer, ECG, PPG, EEG) and developing advanced data pipelines for digital health applications. The ideal candidate will have experienc\u2026",
+            "created": "2025-10-16T12:11:45Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Axiom Software Solutions Limited"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5449990829?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "contract_type": "contract",
+            "title": "Big Data Analytics Engineer",
+            "description": "Senior Cloud Data Engineer \u2013 Full Remote We are looking for a Senior Cloud Data Engineer with solid experience in Big Data environments and cloud-native architectures. The candidate will work in an international context, contributing to the design, optimization, and management of large-scale data infrastructures and pipelines. This position is full remote . Key Responsibilities: Design, implement, and manage data exploration clusters using technologies such as PySpark, Dask, and Dataproc . Opti\u2026",
+            "created": "2025-11-26T14:06:54Z",
+            "company": {
+                "display_name": "Tinvention",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5514522005?utm_medium=api&utm_source=58c69264",
+            "id": "5514522005",
+            "location": {
+                "display_name": "Lanza, Milano",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano",
+                    "Lanza"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 9.187087,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDUyMjAwNSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.kQUWt9jMlchzk0BadVrCdNAgddAyhJbca1QmEsfqjLs"
+        },
+        {
+            "created": "2025-12-04T22:07:35Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Turner & Townsend"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5528346290?utm_medium=api&utm_source=58c69264",
+            "title": "Document Controller- Data Centres",
+            "description": "Job Description Turner & Townsend are leaders in professional services to the Data Centre sector globally. Due to the continued success and expansion of our Data Centre business in Italy area we are currently recruiting for a Document Controller to join our Data Centre team in Milan. Responsibilities: Act as a key interface, maintaining a comprehensive overview of all information and documentation processes. Structure and organize efficient end-to-end processes among all stakeholders, including\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs",
+                "label": "Consulenza"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI4MzQ2MjkwIn0.Bci8lQ25K6HyI6CdzJnFyVtlFxKWMozbZN06wmmns0I",
+            "id": "5528346290",
+            "location": {
+                "display_name": "Italia",
+                "area": [
+                    "Italia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.187087,
+            "id": "5501968006",
+            "location": {
+                "display_name": "Milano, Provincia di Milano",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Milano",
+                    "Milano"
+                ]
+            },
+            "latitude": 45.471322,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAxOTY4MDA2In0.N1p9rdILJojPRQf1sADEQ_qC5aPic65KNKWQXKkrtGk",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "title": "Data Engineer (Python, AWS)",
+            "salary_min": 31000,
+            "description": "Questa \u00e8 una posizione remota. ZCA Digital \u00e8 un\u2019azienda nata dalla fusione di Sinergidea e di Zero Carbon Audit: riunendo in un\u2019unica realt\u00e0 ci\u00f2 che le due aziende avevano da offrire, ZCA Digital intende rispondere alle esigenze del mercato IT e alla necessit\u00e0 di rendere il mondo digital pi\u00f9 sostenibile. Proponiamo servizi di consulenza, di sviluppo software, servizi in campo ESG e nell\u2019area del contact management. Abbiamo le nostre sedi a Milano e a Novara ed offriamo i nostri servizi sull\u2019int\u2026",
+            "contract_type": "contract",
+            "redirect_url": "https://www.adzuna.it/details/5501968006?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-18T18:05:38Z",
+            "company": {
+                "display_name": "ZCA Digital srl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "longitude": 7.494986,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5496135555",
+            "location": {
+                "display_name": "Givoletto, Provincia di Torino",
+                "area": [
+                    "Italia",
+                    "Piemonte",
+                    "Provincia di Torino",
+                    "Givoletto"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 45.160858,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk2MTM1NTU1In0.Kf9g3nxovxe7WFyDIiwUQAZuotKOzWlqtP6ifytI8j0",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Altro"
+            },
+            "title": "IMPIEGATO/A DATA ENTRY \u2013 BUYER",
+            "description": "Oggi Lavoro Spa - Agenzia per il Lavoro, Filiale di Ciri\u00e8 - ricerca per azienda cliente un/a: IMPIEGATO/A DATA ENTRY \u2013 BUYER Per realt\u00e0 operante nel settore dell'arredamento, ricerca un/a impiegato/a da inserire in ufficio con mansioni di data entry e gestione ordini fornitori. Mansioni principali - Inserimento e aggiornamento dati nel gestionale aziendale; - Gestione e monitoraggio degli ordini ai fornitori; - Controllo delle conferme d'ordine e dei tempi di consegna; - Supporto ai commerciali\u2026",
+            "redirect_url": "https://www.adzuna.it/details/5496135555?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-14T15:46:43Z",
+            "company": {
+                "display_name": "Oggi Lavoro S.p.a.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Data Centre Installer - Milan",
+            "description": "ATC is a global logistics, white glove, and technical services specialist for data centres. Our focus is on anticipating the critical needs of our clients and delivering industry-leading standards for safety, security and reliability. Since being established in 1979, we have continued to lead our dedicated teams across Europe to build strong relationships with our clients. Our mission is to deliver and install Europe\u2019s data centres with precision and care. We achieve this by focusing on our tea\u2026",
+            "created": "2025-06-17T19:22:34Z",
+            "company": {
+                "display_name": "ATC Computer Transport & Logistics",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5255009067?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "id": "5255009067",
+            "location": {
+                "display_name": "Italia",
+                "area": [
+                    "Italia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Elettrotecnica/Metalmeccanico",
+                "tag": "maintenance-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1MjU1MDA5MDY3In0.5RvK15L9Xss2k88KClsuJ53J-y4uO560HNWgnEj8WlI"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5536887641?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T20:26:20Z",
+            "company": {
+                "display_name": "Orienta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "IMPIEGATO/A DATA ENTRY- GESTIONALE",
+            "description": "Orienta Orienta Spa, Filiale di Certaldo, ricerca per azienda cliente n.1 IMPIEGATO/A DATA ENTRY-GESTIONALE . La risorsa, entrer\u00e0 a far parte dell'Ufficio Tecnico per il: - controllo dei processi, supporto nella gestione operativa e tecnica di cantiere; - attivit\u00e0 di inserimento e registrazione dati sul portale Aziendale; - inoltro delle contabilit\u00e0 di cantiere e di tutta la documentazione accessoria; - controllo dell'applicazione delle norme di sicurezza e delle procedure aziendali; - controll\u2026",
+            "latitude": 43.367832,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjg4NzY0MSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.RMku2q90vltD_n1mGBwYHbWL4-KgNAn-yF7yr4FAzQM",
+            "category": {
+                "label": "Ingegneria",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.252948,
+            "salary_is_predicted": "0",
+            "id": "5536887641",
+            "location": {
+                "display_name": "Monteriggioni, Provincia di Siena",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Siena",
+                    "Monteriggioni"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "latitude": 43.367832,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyOTc4MzUzMSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.jquBur3fCEpHtCzFzoik6ux7ZzjH7ab0D7CSWhSpPOw",
+            "category": {
+                "label": "Ingegneria",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "longitude": 11.252948,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5429783531",
+            "location": {
+                "display_name": "Monteriggioni, Provincia di Siena",
+                "area": [
+                    "Italia",
+                    "Toscana",
+                    "Provincia di Siena",
+                    "Monteriggioni"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5429783531?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-03T19:54:37Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Orienta"
+            },
+            "title": "IMPIEGATO/A DATA ENTRY- GESTIONALE",
+            "description": "Orienta Spa, Filiale di Certaldo, ricerca per azienda cliente n.1 IMPIEGATO/A DATA ENTRY-GESTIONALE . La risorsa, entrer\u00e0 a far parte dell'Ufficio Tecnico per il: - controllo dei processi, supporto nella gestione operativa e tecnica di cantiere; - attivit\u00e0 di inserimento e registrazione dati sul portale Aziendale; - inoltro delle contabilit\u00e0 di cantiere e di tutta la documentazione accessoria; - controllo dell'applicazione delle norme di sicurezza e delle procedure aziendali; - controllo dell'a\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.it/details/5497834129?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Orienta"
+            },
+            "created": "2025-11-15T18:55:47Z",
+            "description": "Orienta S.p.A. Societ\u00e0 Benefit filiale di Treviso seleziona, per azienda cliente del settore alimentare, un/una IMPIEGATO/A COMMERCIALE | DATA ANALYST a Casale Sul Sile (TV). Principali mansioni Il/la candidato/a verr\u00e0 inserito/a in ufficio commerciale, dove si occuper\u00e0 di: - Gestione del cliente acquisito - Preparazione preventivi - Elaborazione di offerte commerciali - Gestione post-vendita - Redazione di reportistica - Note di accredito e bolle di reso - Analisi dei dati relativi ai clienti \u2026",
+            "title": "IMPIEGATO/A COMMERCIALE | DATA ANALYST",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODM0MTI5In0.3CEBaIHA9vmCRe8nNQdROLg6-khR4A_nd2Iic0_N5io",
+            "latitude": 45.597569,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Contabilit\u00e0/Finanza",
+                "tag": "accounting-finance-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 12.325611,
+            "location": {
+                "display_name": "Casale sul Sile, Provincia di Treviso",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Treviso",
+                    "Casale sul Sile"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5497834129"
+        },
+        {
+            "created": "2025-11-15T18:56:19Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Orienta"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5497836385?utm_medium=api&utm_source=58c69264",
+            "title": "IMPIEGATO/A COMMERCIALE | DATA ANALYST",
+            "description": "Orienta Orienta S.p.A. Societ\u00e0 Benefit filiale di Treviso seleziona, per azienda cliente del settore alimentare, un/una IMPIEGATO/A COMMERCIALE | DATA ANALYST a Casale Sul Sile (TV). Principali mansioni Il/la candidato/a verr\u00e0 inserito/a in ufficio commerciale, dove si occuper\u00e0 di: - Gestione del cliente acquisito - Preparazione preventivi - Elaborazione di offerte commerciali - Gestione post-vendita - Redazione di reportistica - Note di accredito e bolle di reso - Analisi dei dati relativi ai \u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Contabilit\u00e0/Finanza"
+            },
+            "latitude": 45.597569,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk3ODM2Mzg1In0.-AQ5NterFek9hXDlsrj4JGj-LdMo5jYWpB9uPzxO5Bk",
+            "id": "5497836385",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Treviso",
+                    "Casale sul Sile"
+                ],
+                "display_name": "Casale sul Sile, Provincia di Treviso"
+            },
+            "longitude": 12.325611,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/5507966339?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Webranking",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-21T18:22:46Z",
+            "description": "Stiamo cercando una persona per il ruolo di Stagista Cloud & Data Engineer per la nostra sede di Cagliari. Farai parte dell\u2019area Marketing Technology e ti occuperai, a fianco del team Innovation, di contribuire allo sviluppo di nuovi servizi innovativi a supporto della consulenza digital marketing e nell\u2019integrazione di sistemi e piattaforme. Ruolo Come Stagista Innovation Engineer ti occuperai di lavorare su grossi volumi di dati di differente natura (semantici, come le keyword di ricerca, e n\u2026",
+            "title": "Stage Cloud & Data Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNzk2NjMzOSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.bEngLA2TSR-Dh1aIHVsYlDh1vKzreXyWUHCC2oicpxE",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia"
+                ],
+                "display_name": "Italia"
+            },
+            "id": "5507966339"
+        },
+        {
+            "description": "Orienta Spa Societ\u00e0 Benefit - filiale di Padova - ricerca, per importante azienda cliente di NOVENTA PADOVANA (PD) un/una DATA ENTRY - CATEGORIE PROTETTE CONTESTO Azienda che supporta imprese operanti in vari settori con servizi di finanza agevolata, internazionalizzazione, ricerca e sviluppo e promozione commerciale. MANSIONI - Immissione accurata di informazioni nei database o nei gestionali aziendali - Controllo dell'esattezza e della completezza delle informazioni inserite, correzione di ev\u2026",
+            "title": "DATA ENTRY - CATEGORIE PROTETTE",
+            "redirect_url": "https://www.adzuna.it/details/5528319445?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Orienta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-04T21:59:34Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.976407,
+            "location": {
+                "display_name": "Noventa Padovana, Provincia di Padova",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Padova",
+                    "Noventa Padovana"
+                ]
+            },
+            "id": "5528319445",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODMxOTQ0NSIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.-5VMP8UPsmvvtj2mKYisFp3N38uJ9ZP_g4uqrMZAgRM",
+            "latitude": 45.413437,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "customer-services-jobs",
+                "label": "Customer Service/Call Center"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Customer Service/Call Center",
+                "tag": "customer-services-jobs"
+            },
+            "latitude": 45.413437,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI5OTY0MDUxIn0.HN1iowoOpy43SM009tnFKB48gVcvJo5IJQdPbo6ttn8",
+            "id": "5529964051",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Padova",
+                    "Noventa Padovana"
+                ],
+                "display_name": "Noventa Padovana, Provincia di Padova"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 11.976407,
+            "salary_is_predicted": "0",
+            "created": "2025-12-05T21:53:57Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Orienta"
+            },
+            "redirect_url": "https://www.adzuna.it/details/5529964051?utm_medium=api&utm_source=58c69264",
+            "title": "DATA ENTRY - CATEGORIE PROTETTE",
+            "description": "Orienta Orienta Spa Societ\u00e0 Benefit - filiale di Padova - ricerca, per importante azienda cliente di NOVENTA PADOVANA (PD) un/una DATA ENTRY - CATEGORIE PROTETTE CONTESTO Azienda che supporta imprese operanti in vari settori con servizi di finanza agevolata, internazionalizzazione, ricerca e sviluppo e promozione commerciale. MANSIONI - Immissione accurata di informazioni nei database o nei gestionali aziendali - Controllo dell'esattezza e della completezza delle informazioni inserite, correzio\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Italia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Italia"
+            },
+            "id": "4868375773",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI0ODY4Mzc1NzczIn0.8uX5lMM8caxASDOCHnh894tjB-VmExLezkWNOklByQU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Altro"
+            },
+            "description": "Join a company with the creativity of a scaleup and the expertise of an enterprise. We are looking for an experienced and talented Project Manager to join our Operations team. As a Project Manager, you'll be responsible for managing the organization of key client projects. You will lead the end to end initiatives and you'll ensure that our projects are delivered on time, and that they meet the desired results; you'll be responsible for managing the relationship with the clients and different st\u2026",
+            "title": "Senior Data & AI Project Manager",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.it/details/4868375773?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Domyn",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-09-18T21:22:00Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE0NDc1MDgyIn0.gLSbF1NO9QuLs42QtumUMxGpTy-5l47FVceDGOBnrxU",
+            "latitude": 45.812062,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Informatica/IT"
+            },
+            "longitude": 8.781344,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Provincia di Varese, Lombardia",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Varese"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_max": 30000,
+            "id": "5514475082",
+            "redirect_url": "https://www.adzuna.it/land/ad/5514475082?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=7882D48770F99C05A6E213B6E9E5A293AD356725",
+            "company": {
+                "display_name": "Vantage Data Centers",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-26T13:26:37Z",
+            "salary_min": 10000,
+            "description": "Vantage Data Centers powers, cools, protects and connects the technology of the world's well-known hyperscalers, cloud providers and large enterprises. Developing and operating across North America, EMEA and Asia Pacific, Vantage has evolved data center design in innovative ways to deliver dramatic gains in reliability, efficiency and sustainability in flexible environments that can scale as quickly as the market demands. [\u2026] We are looking for a Critical Facilities Technician for our data cent\u2026",
+            "title": "Data Center Critical Facilities Technician"
+        },
+        {
+            "id": "5536016660",
+            "salary_max": 30000,
+            "location": {
+                "display_name": "Provincia di Roma, Lazio",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lazio",
+                    "Provincia di Roma"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 12.715378,
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "latitude": 41.936224,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjAxNjY2MCIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.mhZXLfItccf4bVg289SBtilWpTqoMHojs9gXxvCgvEQ",
+            "title": "Impiegato/a Data Entry \u2013 Servizi Informatici",
+            "salary_min": 10000,
+            "description": "Impiegato/a Data Entry \u2013 Servizi Informatici Human-Job-IT ha fornito un livello di retribuzione. Questo livello \u00e8 fornito da Human-Job-IT. La tua retribuzione effettiva sar\u00e0 basata sulle tue competenze e la tua esperienza. Rivolgiti al tuo recruiter per saperne di pi\u00f9. Azienda attiva nel settore dei servizi informatici e digitali ricerca una risorsa da inserire con il ruolo di Impiegato/a Data Entry, dedicata alla gestione e all\u2019aggiornamento dei dati all\u2019interno dei sistemi aziendali. La figur\u2026",
+            "created": "2025-12-10T10:06:35Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Human-Job-IT"
+            },
+            "redirect_url": "https://www.adzuna.it/land/ad/5536016660?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=48BEDA04648751354D1CE715AB40F75E4B3824CB"
+        },
+        {
+            "latitude": 45.243692,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTAwOTkyMCIsInMiOiJhTGtDOE5iVzhCR2UzS3BfM2VvSDNRIn0.41ieIbh4ZrP_E3umTyAMqq_YK_GXHOm4OBhRCWwTWQQ",
+            "category": {
+                "label": "Informatica/IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 11.688454,
+            "salary_max": 30000,
+            "id": "5529009920",
+            "location": {
+                "display_name": "Baone, Provincia di Padova",
+                "area": [
+                    "Italia",
+                    "Veneto",
+                    "Provincia di Padova",
+                    "Baone"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.it/land/ad/5529009920?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=64EF4E4DFDCC16C672C7A1435323CB69EE013302",
+            "created": "2025-12-05T09:00:18Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rhino"
+            },
+            "title": "Specialista Inserimento Dati - Apprendistato Orario",
+            "salary_min": 10000,
+            "description": "Una azienda della grande distribuzione situata a Selvazzano Dentro \u00e8 alla ricerca di un/una Impiegato/a Data Entry per l\u2019ufficio amministrativo. Il candidato ideale deve avere un diploma di scuola superiore e buone capacit\u00e0 organizzative. Le mansioni includono la registrazione e la verifica dei dati, la gestione delle email e il supporto alle attivit\u00e0 d\u2019ufficio. Offerta di un contratto di apprendistato con orario full time dal luned\u00ec al venerd\u00ec. J-18808-Ljbffr"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM3NjMzNDAzIn0.xs_CU8lBYmfTrZOoEKY8RImY3ouPl9DF1aKSaQlcJ4w",
+            "latitude": 45.141407,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 9.12313,
+            "location": {
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Pavia",
+                    "San Martino Siccomario"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "San Martino Siccomario, Provincia di Pavia"
+            },
+            "id": "5537633403",
+            "salary_max": 30000,
+            "redirect_url": "https://www.adzuna.it/land/ad/5537633403?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=D3C8ACFE73D3EF7CCD799B8B0C842724FA13168E",
+            "company": {
+                "display_name": "To Be Service srl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T08:52:09Z",
+            "description": "Un'azienda operante nella lavorazione del vetro cerca un impiegato/a data entry da inserire nell'ufficio amministrativo. La figura si occuper\u00e0 dell'inserimento dati, gestione documentale e supporto alle attivit\u00e0 amministrative. \u00c8 necessario possedere un diploma di maturit\u00e0 e conoscenza dei principali applicativi informatici. L'offerta prevede un contratto a tempo determinato di 6 mesi, con orario full time e buoni pasto giornalieri. J-18808-Ljbffr",
+            "salary_min": 10000,
+            "title": "Addetto Inserimento Dati \u2014 Supporto Amministrativo"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 8.781344,
+            "salary_max": 30000,
+            "id": "5534467423",
+            "location": {
+                "display_name": "Provincia di Varese, Lombardia",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Italia",
+                    "Lombardia",
+                    "Provincia di Varese"
+                ]
+            },
+            "latitude": 45.812062,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYUxrQzhOYlc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM0NDY3NDIzIn0.MRijzNgTimJHRQ1AUADH0Ptpr-lgfdf02co7t2-gRiM",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Informatica/IT"
+            },
+            "title": "Impiegato/a Data Entry \u2013 Azienda Informatica",
+            "description": "Per conto di azienda informatica attiva nella gestione di soluzioni digitali per clienti aziendali, si seleziona una risorsa da inserire all\u2019interno dell\u2019ufficio amministrativo con mansioni di inserimento dati e gestione documentale. Attivit\u00e0 previste: Inserimento dati in database e software gestionali aziendali Verifica e aggiornamento delle anagrafiche clienti Archiviazione digitale e cartacea della documentazione Controllo della correttezza e completezza delle informazioni raccolte Supporto \u2026",
+            "salary_min": 10000,
+            "redirect_url": "https://www.adzuna.it/land/ad/5534467423?se=aLkC8NbW8BGe3Kp_3eoH3Q&utm_medium=api&utm_source=58c69264&v=56FF40AA3DBAC9E79F2F8111A112C3427CB63036",
+            "created": "2025-12-09T08:36:55Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rhino online"
+            }
+        }
+    ]
+}

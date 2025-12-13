@@ -1,0 +1,1438 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Manaus, Amazonas",
+                "area": [
+                    "Brasil",
+                    "Norte",
+                    "Amazonas",
+                    "Manaus"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535241948?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "description": "Senior Python Developer - As part of the Top Coder Track, you will work on high-performance systems powering large-scale AI and data pipelines, collaborating closely with elite AI research and infrastructure teams. This is a pure coding role, perfect for developers who excel at algorithmic problem-solving, system design, and have proven themselves on platforms like LeetCode, Codeforces, HackerRank, or Kaggle. This is a pure coding role, ideal for developers who excel at algorithmic problem-solv\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -59.733686,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTI0MTk0OCIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.HFWCI9LYDKW-ojOoC1FUZMG1K8y0G7Hrao9aOAtqivE",
+            "title": "Senior Python Developer",
+            "latitude": -3.383662,
+            "id": "5535241948",
+            "created": "2025-12-09T16:03:44Z"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon Servicos de Varejo do Brasil Ltda. - C41"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5537382445?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3MzgyNDQ1In0.2WZeL35o3E0bXuyt8XEFufjHzisGnAZSJe0qCmB4wBc",
+            "contract_time": "full_time",
+            "description": "Automated Inventory Management (AIM) team is seeking for an experienced Sr. Business Intelligence Engineer to lead Supply Chain projects for LATAM (Brazil and Mexico) being based in Brazil. This strategic role will be analyzing large sets of data to build insights and help making data-driven decisions. The Sr. BIE will work with Operations, business teams and other stakeholders to create metrics, track goals and implement projects. The BIE candidate should be comfortable working within a cross \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5537382445",
+            "created": "2025-12-11T00:56:26Z",
+            "title": "Business Intel Engineer III - Supply Chain, SCOT LATAM"
+        },
+        {
+            "title": "Business Intelligence Engineer II - Supply Chain, SCOT LATAM",
+            "id": "5537382476",
+            "created": "2025-12-11T00:56:26Z",
+            "description": "Automated Inventory Management (AIM) team is seeking for a Business Intelligence Engineer to lead Supply Chain projects for LATAM (Brazil and Mexico) being based in Brazil. This strategic role will be analyzing large sets of data to build insights and help making data-driven decisions. The Supply Chain BIE will work with Operations, business teams and other stakeholders to create metrics, track goals and implement projects. The candidate should be comfortable working within a cross-functional e\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3MzgyNDc2In0.M-u6md4GOqqeNqjLRcMzsj3xG4Gk2_ARdRSCwEdyoQU",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon Servicos de Varejo do Brasil Ltda. - C41"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5537382476?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "created": "2025-12-09T16:00:37Z",
+            "id": "5535194792",
+            "title": "Senior Python Developer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535194792?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Salvador, Bahia",
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Bahia",
+                    "Salvador"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTE5NDc5MiIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.wogDA9sa8JrLrhixUSyMp9neiRzX_RWrM6dUAkw6oZ8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Python Developer - As part of the Top Coder Track, you will work on high-performance systems powering large-scale AI and data pipelines, collaborating closely with elite AI research and infrastructure teams. This is a pure coding role, perfect for developers who excel at algorithmic problem-solving, system design, and have proven themselves on platforms like LeetCode, Codeforces, HackerRank, or Kaggle. This is a pure coding role, ideal for developers who excel at algorithmic problem-solv\u2026"
+        },
+        {
+            "id": "5538360578",
+            "created": "2025-12-11T16:40:06Z",
+            "latitude": -22.6439,
+            "title": "Senior Python Developer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4MzYwNTc4In0.GejX629QTr3AhgQv55T5OZThwHkaP5a6uZTxgdJaPwU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -43.21817,
+            "description": "Senior Python Developer - As part of the Top Coder Track, you will work on high-performance systems powering large-scale AI and data pipelines, collaborating closely with elite AI research and infrastructure teams. This is a pure coding role, perfect for developers who excel at algorithmic problem-solving, system design, and have proven themselves on platforms like LeetCode, Codeforces, HackerRank, or Kaggle. This is a pure coding role, ideal for developers who excel at algorithmic problem-solv\u2026",
+            "redirect_url": "https://www.adzuna.com.br/details/5538360578?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Duque de Caxias, Estado do Rio de Janeiro",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado do Rio de Janeiro",
+                    "Duque de Caxias"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Outras vagas"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5538411042",
+            "created": "2025-12-11T16:48:19Z",
+            "title": "Senior Python Developer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODQxMTA0MiIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.fHNhZQUlqlrfX-Uc1aBTK14ClKEW3uLRXXjU5eaFmBo",
+            "description": "Senior Python Developer - As part of the Top Coder Track, you will work on high-performance systems powering large-scale AI and data pipelines, collaborating closely with elite AI research and infrastructure teams. This is a pure coding role, perfect for developers who excel at algorithmic problem-solving, system design, and have proven themselves on platforms like LeetCode, Codeforces, HackerRank, or Kaggle. This is a pure coding role, ideal for developers who excel at algorithmic problem-solv\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Outras vagas"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Vit\u00f3ria, Espirito Santo",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Espirito Santo",
+                    "Vit\u00f3ria"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538411042?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Senior Python Developer",
+            "created": "2025-12-11T16:50:05Z",
+            "id": "5538425630",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Goi\u00e1s",
+                    "Goi\u00e2nia"
+                ],
+                "display_name": "Goi\u00e2nia, Goi\u00e1s",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538425630?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Outras vagas",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Senior Python Developer - As part of the Top Coder Track, you will work on high-performance systems powering large-scale AI and data pipelines, collaborating closely with elite AI research and infrastructure teams. This is a pure coding role, perfect for developers who excel at algorithmic problem-solving, system design, and have proven themselves on platforms like LeetCode, Codeforces, HackerRank, or Kaggle. This is a pure coding role, ideal for developers who excel at algorithmic problem-solv\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4NDI1NjMwIn0.35J140oVu3VcPPZYEnyR89SCDmer3JJDfZ4OSqGHHJ0"
+        },
+        {
+            "title": "Engenheiro(a) de Dados Pleno",
+            "id": "5538432639",
+            "created": "2025-12-11T16:55:15Z",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.br/details/5538432639?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Semantix"
+            },
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Vagas em Propaganda e Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Impactar positivamente bilh\u00f5es de vidas \u00e9 nosso prop\u00f3sito e tamb\u00e9m pode ser o seu!  Fundada em 2010, no Brasil, a Semantix \u00e9 refer\u00eancia em Big Data, Analytics e Intelig\u00eancia Artificial. Somos um time de apaixonados por inova\u00e7\u00e3o, com diversas origens e diferentes graus de experi\u00eancia. O que nos une, \u00e9 a motiva\u00e7\u00e3o compartilhada de transformar a experi\u00eancia de nossos clientes atrav\u00e9s da cultura data driven. Se voc\u00ea se identificou, a Semantix \u00e9 seu lugar. Estamos ansiosos para ter voc\u00ea como parte d\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODQzMjYzOSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.1Mh8wYB1geSIXq_loZqmDvsyuK4TxQkNzVRp-MmBskA"
+        },
+        {
+            "company": {
+                "display_name": "Divulga Vagas - Empregos e Vagas Brasil",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538221920?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4MjIxOTIwIn0.NlPBTHlnCwYz7rpYjlZOktVw1usFBmZazXfq0BTsemA",
+            "description": "Resumo das atividades: Elabor. EFs, configura\u00e7\u00f5es, melhorias e interfaces (todos os processos de CO). Sal\u00e1rio a Combinar Modalidade de Contrata\u00e7\u00e3o: PJ Requisitos e Qualifica\u00e7\u00f5es necess\u00e1rias: CO-OM, CO-CCA, CO-PC, CO-ML, CO-PA. Data de in\u00edcio: Imediata Data fim da aloca\u00e7\u00e3o: Inderteminado - Divulga Vagas",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5538221920",
+            "created": "2025-12-11T16:18:10Z",
+            "title": "SAP Co Senior Home Office"
+        },
+        {
+            "title": "SAP Co Senior Home Office",
+            "created": "2025-12-11T16:18:29Z",
+            "id": "5538223763",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.br/details/5538223763?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil"
+            },
+            "company": {
+                "display_name": "Divulga Vagas - Empregos e Vagas Brasil",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Resumo das atividades: Elabor. EFs, configura\u00e7\u00f5es, melhorias e interfaces (todos os processos de CO). Sal\u00e1rio a Combinar Modalidade de Contrata\u00e7\u00e3o: PJ Requisitos e Qualifica\u00e7\u00f5es necess\u00e1rias: CO-OM, CO-CCA, CO-PC, CO-ML, CO-PA. - Data de in\u00edcio: Imediata - Data fim da aloca\u00e7\u00e3o: Inderteminado - Divulga Vagas",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4MjIzNzYzIn0.c8IsC_ZR2AbL_1cCV8LxzKI0MufvGW4xfoFWrEv3XCU"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAzODUyNTEwIn0.VOQpdzVaF9GgXZt9y5ijY2YZBwFwhsT7J1Q6PQRXba0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -48.90969,
+            "description": "Descri\u00e7\u00e3o: Monitorar, planejar e manter o funcionamento da infraestrutura de Telecomunica\u00e7\u00f5es (em redes, links, Data center, PABX, e outros equipamentos), bem como propondo melhorias e solucionando os diversos problemas das \u00e1reas. Estamos buscando profissionais para desempenhar as seguintes atividades: Monitorar e manter o funcionamento da infraestrutura de TI no tangente a redes, links de dados, telefonia e data center. Manter a central de telefonia administrativa; Realizar e monitorar os cham\u2026",
+            "redirect_url": "https://www.adzuna.com.br/details/5503852510?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Netvagas - ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Joinville, Santa Catarina",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Santa Catarina",
+                    "Joinville"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Vagas em Tecnologia Inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-19T16:30:22Z",
+            "id": "5503852510",
+            "latitude": -26.18087,
+            "title": "Analista de infraestrutura jr"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Corpora\u00e7\u00e3o GPA"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "Santo Andr\u00e9"
+                ],
+                "display_name": "Santo Andr\u00e9, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5515161529?utm_medium=api&utm_source=58c69264",
+            "description": "Description Auxiliar na prepara\u00e7\u00e3o de cortes de carne conforme padr\u00e3o da empresa, evitando perdas nos produtos. Armazenar os produtos nas c\u00e2maras resfriadas e congeladas respeitando as datas de validade, evitando giro de produtos. Selecionar produtos em caixas, organizando-os de acordo com o pedido para facilitar a movimenta\u00e7\u00e3o dos itens armazenados e a data de validade. Fazer a limpeza da \u00e1rea de trabalho Responsibilities Auxiliar na prepara\u00e7\u00e3o de cortes de carne conforme padr\u00e3o da empresa, ev\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -46.5201,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1MTYxNTI5In0._YU4ILKgsQEr3UhNiR4Vm3Ylnw52nx3HA2_2EXplNug",
+            "latitude": -23.64369,
+            "title": "Auxiliar de A\u00e7ougue -Vila Gilda / Santo Andr\u00e9 (557919)",
+            "id": "5515161529",
+            "created": "2025-11-26T15:03:27Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5519420592?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Eve Air Mobility",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Brasil",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil"
+                ]
+            },
+            "description": "Description Estamos em busca de um Arquitetos de Dados altamente qualificado para atuar na constru\u00e7\u00e3o, otimiza\u00e7\u00e3o e manuten\u00e7\u00e3o de pipelines de dados escal\u00e1veis na AWS. O profissional ser\u00e1 respons\u00e1vel por projetar e implementar arquiteturas de dados eficientes, garantindo a qualidade, governan\u00e7a e seguran\u00e7a das informa\u00e7\u00f5es. Modelo de Trabalho: Remoto Responsibilities \u2022 Projetar e desenvolver pipelines de dados escal\u00e1veis e resilientes dentro da AWS. \u2022 Criar e otimizar arquiteturas de dados utili\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxOTQyMDU5MiIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.Fby_NTDNK0t8A0j75aHe_JUS0uVAcy-NABq7ve91_Xs",
+            "title": "Pessoa Arquiteta de Dados - AWS",
+            "created": "2025-11-29T14:30:16Z",
+            "id": "5519420592"
+        },
+        {
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5531642628?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTY0MjYyOCIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.s_TqYgQTzr-aGa8qk2TA_dRsUL-H3Sd9XUnfdBujpZE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Power Bi Developer - These professionals will be responsible for partnering directly with client stakeholders to understand business needs, gather requirements, and design and develop high-quality Power BI dashboards and data models aligned with those needs. You will work closely with a US-based team lead but must operate with autonomy, proactivity, and strong communication skills. This role requires hands-on development expertise and the ability to translate complex business requirement\u2026",
+            "created": "2025-12-06T18:06:58Z",
+            "id": "5531642628",
+            "title": "Senior Power Bi Developer"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Vagas em Tecnologia Inform\u00e1tica",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LanceSoft, Inc."
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5529903986?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil"
+            },
+            "description": "Job Title: Experienced Anaplan Model Builder (FP&A & Data Integration) Nice to have skills: FP&A knowledge or certification, Anaplan Data Integration using Anaplan API or other tools. Role Overview We are seeking an Experienced Anaplan Model Builder with strong FP&A and data integration experience. The candidate will work closely with the Technical Manager, PDM (Product Development Manager), and directly with business stakeholders to deliver scalable Anaplan solutions and support ongoing operat\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTkwMzk4NiIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.FAII8C0a5U3hs_dUke_XkP_8hdVnMlCHM3PPFRBSTNk",
+            "title": "Anaplan Model Builder",
+            "id": "5529903986",
+            "created": "2025-12-05T17:19:33Z"
+        },
+        {
+            "title": "Optimize Revenue Growth",
+            "id": "5538341073",
+            "created": "2025-12-11T16:37:06Z",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538341073?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Optimize Revenue Growth - This position involves managing initiatives that span data engineering, machine learning, and user-facing interfaces. The Product Owner will be responsible for overseeing the full delivery lifecycle to ensure successful execution from concept through release. Required Skills and Qualifications At least 3 years of experience in end-to-end product ownership, product management, or delivery of data or optimization platforms. Experience working across Data Engineering, Dat\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM0MTA3MyIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.U39vLR-v8qj-gxsDUt-porZqTZH_OZXccBmuLR1cXSM"
+        },
+        {
+            "created": "2025-12-11T16:13:34Z",
+            "id": "5538192859",
+            "title": "Especialista Cx e Neg\u00f3cios Sac Acessibilidade",
+            "latitude": -29.68984,
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538192859?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Novo Hamburgo, Rio Grande do Sul",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Rio Grande do Sul",
+                    "Novo Hamburgo"
+                ]
+            },
+            "company": {
+                "display_name": "SX Neg\u00f3cios RIT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODE5Mjg1OSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.nwlwfcZA4qzE3_P_6fdN25IVIJvYrgm8K_7f5gj4Sok",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Nesta oportunidade de Especialista CX e Neg\u00f3cios, voc\u00ea far\u00e1 parte de um novo time de SAC Acessibilidade, em que sua miss\u00e3o ser\u00e1 atender com qualidade clientes atrav\u00e9s dos novos canais usando a L\u00edngua Brasileira de Sinais. Temos compromissos com a equidade de oportunidades para todas as pessoas. Valorizamos as diferen\u00e7as e temos um ambiente onde todos e todas s\u00e3o mais que bem-vindos, por isso buscamos diversidade em identidade de g\u00eanero, idade, cor e etnia, orienta\u00e7\u00e3o afetivo-sexual, origem, pes\u2026",
+            "longitude": -51.11346
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado do Rio de Janeiro",
+                    "Rio de Janeiro"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rio de Janeiro, Estado do Rio de Janeiro"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538192570?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "SX Neg\u00f3cios RIT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "Nesta oportunidade de Especialista CX e Neg\u00f3cios, voc\u00ea far\u00e1 parte de um novo time de SAC Acessibilidade, em que sua miss\u00e3o ser\u00e1 atender com qualidade clientes atrav\u00e9s dos novos canais usando a L\u00edngua Brasileira de Sinais. Temos compromissos com a equidade de oportunidades para todas as pessoas. Valorizamos as diferen\u00e7as e temos um ambiente onde todos e todas s\u00e3o mais que bem-vindos, por isso buscamos diversidade em identidade de g\u00eanero, idade, cor e etnia, orienta\u00e7\u00e3o afetivo-sexual, origem, pes\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4MTkyNTcwIn0.akUISf9FVZZhlzPydCxhjQSIJ5jeO8t-AqQ2GomN-xE",
+            "title": "Especialista Cx e Neg\u00f3cios Sac Acessibilidade",
+            "id": "5538192570",
+            "created": "2025-12-11T16:13:31Z"
+        },
+        {
+            "id": "5468181280",
+            "created": "2025-10-28T10:53:31Z",
+            "title": "Media Buyer / Paid Ads Specialist",
+            "category": {
+                "label": "Vagas em Propaganda e Marketing",
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Brasil",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5468181280?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Adoreal"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2ODE4MTI4MCIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.8iFwQ9QAinNwYZYyZWaEZNWlyPp6qcTh1wQtdy_d9cA",
+            "contract_type": "contract",
+            "description": "Who We Are We are a fast-growing vertical SaaS company that leverages innovation and disruptive technologies to improve consumer experiences, outcomes, and predictability in elective medicine. Our team thrives on challenges, embraces change, and is dedicated to transforming our industry. Adoreal is scaling rapidly, and this role is designed to support growth. As we automate more of our processes and general lead generation workflows, we are looking for a strategic implementor who can take on hi\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_max": 96000,
+            "id": "5525764781",
+            "created": "2025-12-03T12:05:35Z",
+            "title": "Especialista em Dados - RJ",
+            "salary_min": 96000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTc2NDc4MSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.tKNuegwDHSAvTyNd7EFxSKEVBGyaGsmJy8k3i06oJr8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Estamos contratando Especialista em Dados (Azure Data Factory & Databricks) Home Office Requisitos: \u2022 Azure Data Factory e Databricks; \u2022 Monitoramento com Log Analytics/Azure Monitor; \u2022 Tratativa de incidentes e requisi\u00e7\u00f5es em pipelines de dados; \u2022 Tuning e melhoria de performance de cargas/processos; \u2022 An\u00e1lise de causa raiz (RCA) e implementa\u00e7\u00e3o de solu\u00e7\u00f5es sustent\u00e1veis; \u2022 Documenta\u00e7\u00e3o de processos, fluxos e boas pr\u00e1ticas; \u2022 Viv\u00eancia com boas pr\u00e1ticas de observabilidade, qualidade e CI/CD. For\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rio de Janeiro, Estado do Rio de Janeiro",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado do Rio de Janeiro",
+                    "Rio de Janeiro"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Innolevels"
+            },
+            "redirect_url": "https://www.adzuna.com.br/land/ad/5525764781?se=2t3ykNLW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=CAD80886CE7D00662A1A9F35DB6046B9E175F7A5",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkzNDQ4NDQ1OSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.ut7fhEqUGtgtDi-sMkVMSZH1t56eLajmIuZhHrdO2Do",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Respons\u00e1vel por: projetar, construir, manter a integra\u00e7\u00e3o necess\u00e1ria para coleta, armazenamento, processamento e an\u00e1lise de conjuntos de dados grandes e complexos. Trabalhar em estreita colabora\u00e7\u00e3o com as equipes de cientista de dados, arquitetos e outros membros da equipe de dados para garantir que os dados sejam precisos, consistentes e dispon\u00edveis para consumo. Hard Skills: Gradua\u00e7\u00e3o em Ci\u00eancia da Computa\u00e7\u00e3o, Sistemas de Informa\u00e7\u00e3o, An\u00e1lise de Sistemas; S\u00f3lido conhecimento em Python, PySparc\u2026",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/4934484459?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FourHands Brasil"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Espirito Santo",
+                    "Vit\u00f3ria"
+                ],
+                "display_name": "Vit\u00f3ria, Espirito Santo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "created": "2024-11-11T09:37:10Z",
+            "id": "4934484459",
+            "title": "Engenheiro de Dados Pleno - H\u00edbrido em Vit\u00f3ria ES com PJ de at\u00e9 10k"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Bahia",
+                    "Salvador"
+                ],
+                "display_name": "Salvador, Bahia",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535222793?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Ai Model Designer - Main Responsibilities: Design, train, fine-tune, and deploy machine learning models for production. Build pipelines using vector databases and frameworks like LangChain and LangGraph. Develop prompt engineering techniques for agentic interactions. Collaborate with data engineers to maintain data pipelines for workloads. Conduct feature engineering and embeddings generation on structured and unstructured data. Implement model monitoring, drift detection, and retraining\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTIyMjc5MyIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.5nX3ay1fcBAxhdxT9hRp2aFngvOuskPJuBd7NSwpum4",
+            "title": "Senior Ai Model Designer",
+            "created": "2025-12-09T16:02:39Z",
+            "id": "5535222793"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MTkxNDY0In0.axYCCbzzpVelKlZPrYCaalcmd-rEiq9DE71dL6vJg8c",
+            "description": "Especialista Em Intelig\u00eancia De Neg\u00f3cios - O cargo exige mais de 5 anos de experi\u00eancia em desenvolvimento de aplica\u00e7\u00f5es de BI, permitindo que a pessoa escolhida contribua para o crescimento da empresa. Responsabilidades: Gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos; Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o; Proposi\u00e7\u00e3o de melhorias operacionais e de boas pr\u00e1ticas. Compet\u00eancias T\u00e9cnicas Obrigat\u00f3rias: Azure Data Services: \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -47.912034,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasilia, Distrito Federal"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535191464?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "id": "5535191464",
+            "created": "2025-12-09T16:00:17Z",
+            "latitude": -15.765286,
+            "title": "Especialista Em Intelig\u00eancia De Neg\u00f3cios"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belo Horizonte, Minas Gerais",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Minas Gerais",
+                    "Belo Horizonte"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535224308?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Outras vagas"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MjI0MzA4In0.e4Q7vXGVDfoCkHsvThHKyerk_ZYFqMHMtWcNIrzFgHA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -44.035061,
+            "description": "Evolving Mobile Experiences - As a key team member, you will collaborate closely with experienced C#/. NET backend engineers, contributing to backend features related to sleep-study processing and data workflows. This will involve shaping the overall product experience from device integration through clinical-grade data analysis. Key Responsibilities: Develop and maintain cross-platform mobile applications using Flutter/Dart for iOS and Android. Implement and optimize Bluetooth connectivity wit\u2026",
+            "id": "5535224308",
+            "created": "2025-12-09T16:02:44Z",
+            "title": "Evolving Mobile Experiences",
+            "latitude": -19.910956
+        },
+        {
+            "title": "Analista de Cq Documental",
+            "latitude": -19.69339,
+            "id": "5536685350",
+            "created": "2025-12-10T16:02:06Z",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.br/details/5536685350?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Minas Gerais",
+                    "Vespasiano"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vespasiano, Minas Gerais"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DELP ENGENHARIA MECANICA S/A"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -43.91372,
+            "description": "Principais atividades: - Lan\u00e7ar dados do RIT no sistema (Registro de Inspe\u00e7\u00e3o e Teste); - Arquivar documenta\u00e7\u00e3o de forma geral; - Alimentar o Gerenciador de Documentos com o objetivo de gerar Data Book; - Consultar o Gerenciador de Documentos para a execu\u00e7\u00e3o das atividades; - Atender coment\u00e1rios e revis\u00f5es em relat\u00f3rios; - Alimentar planilha de indicadores de qualidade; - Cobrar e monitorar documentos pertinentes ao databook; - Gerar relat\u00f3rios de acordo com as informa\u00e7\u00f5es registradas no RIT (R\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjY4NTM1MCIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.DRKZcK5oT7kx2FkSwtgwBCo0EvpLfp6AzstfZRpoJOg"
+        },
+        {
+            "id": "5538244998",
+            "created": "2025-12-11T16:20:49Z",
+            "title": "Executivo(a) de Contas - CRM",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "company": {
+                "display_name": "Newbacon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538244998?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODI0NDk5OCIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.8eDwCVVtfLfMwgZ-d_zXlG_IUWAGpFEMYxOfkD_aF28",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Se voc\u00ea \u00e9 apaixonada/o por resultados, acredita que uma comunica\u00e7\u00e3o data-driven \u00e9 o futuro, tem conhecimento sobre CRM e dom\u00ednio do idioma espanhol, queremos te conhecer. Atividades: Controlar e executar processos internos e externos com clientes (An\u00e1lise de processos de CRM, Data driver). Requisitos Experi\u00eancia s\u00f3lida em conhecimentos de Marketing Digital, Processos de envios, de Mail Marketing, SMS, Estrat\u00e9gias Digitais e desenvolvimento em sites e landing pages para grandes contas; Dom\u00ednio d\u2026"
+        },
+        {
+            "latitude": -23.95045,
+            "title": "Assistente de Transportes",
+            "created": "2025-12-11T15:45:48Z",
+            "id": "5537951719",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Hor\u00e1rio de trabalho: 08:00 AS 18:00 SEG A SEXTA (com um dia de homeoffice) Requisitos DESEJ\u00c1VEIS (N\u00e3o obrigat\u00f3rios): - Excel / Google Sheets - Power BI (desej\u00e1vel) - Sistemas de TMS/WMS integrados - Organiza\u00e7\u00e3o e senso de urg\u00eancia Atividades: - Acompanhar a chegada de comprovantes f\u00edsicos e digitais diariamente; - Consolidar documentos por nota fiscal, transportadora, rota e data; - Validar legibilidade, assinatura, carimbo, data e v\u00ednculo com a nota fiscal; - Identificar e reportar diverg\u00eancia\u2026",
+            "longitude": -46.27877,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3OTUxNzE5In0.VhS6sMEOiJTANtQC7iRJoA3BjDFsfDuzSY4GSal3Wdc",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.com.br/details/5537951719?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Supplog Armaz\u00e9ns Gerais",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "Barueri"
+                ],
+                "display_name": "Barueri, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4NDE2MzA5In0.nlIQPe91RUTkHooN2xWQ6HFzniJInwcKjpYQRM4tFe4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Idmc Developer - The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. We are looking forIDMC Developerwho wants to learn and transform his career. In this role you will: (responsibilities): Experience with Informatica tools, including PowerCenter and IDMC. Strong ETL development and data integration expertise. Proficiency in SQL and data modeling. Experience with cloud platforms (AWS, Azure, GCP). Familiarity with workflow sched\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538416309?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Outras vagas"
+            },
+            "salary_is_predicted": "0",
+            "id": "5538416309",
+            "created": "2025-12-11T16:49:05Z",
+            "title": "Idmc Developer"
+        },
+        {
+            "created": "2025-09-12T14:19:56Z",
+            "id": "5396031738",
+            "title": "Senior Prompt Engineer - Brazil (Remote, Part-Time)",
+            "salary_max": 300,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Welocalize"
+            },
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5396031738?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Vagas em Tecnologia Inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "salary_min": 204,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1Mzk2MDMxNzM4In0.W_tWDfU5JIjO7NAjoJsPVGhSPB1LQ8ysyLFxQLUKqDY",
+            "description": "Welocalize is seeking a Senior Prompt Engineer with world-class Python expertise and a sharp eye for data quality, engineering rigor, and visualization fidelity. In this role, you will create realistic datasets, write intuitive prompts, and develop high-quality \u201cgolden plots\u201d to power insightful data tasks. You'll bridge technical precision with real-world plausibility\u2014crafting examples that meet strict quality rubrics and correctness criteria. Role Details Location: Remote Commitment: Part-tim\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Outras vagas"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535158485?utm_medium=api&utm_source=58c69264",
+            "description": "Profissional T\u00e9cnico - Nossa miss\u00e3o \u00e9 conectar os candidatos certos \u00e0s oportunidades mais adequadas com base no seu perfil e experi\u00eancia. Buscamos pessoas apaixonadas por tecnologia e interessadas em crescer em um ambiente colaborativo. Tecnologia: Desenvolvimento de Software, Suporte, Produto, Arquitetura, Infraestrutura Dados: Data Science, Data Engineering, BI Vendas e Comercial: Sales, SDR,",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTE1ODQ4NSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.oHLLUvuXEaGlpWc74ueQh-8KeP-4JeIcK2UksUhQGhw",
+            "title": "Profissional T\u00e9cnico",
+            "id": "5535158485",
+            "created": "2025-12-09T15:57:25Z"
+        },
+        {
+            "id": "5538260497",
+            "created": "2025-12-11T16:22:00Z",
+            "title": "Sao Co S\u00eanior",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODI2MDQ5NyIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.QTx_N-KmlsD_IqqxGX9Y6KDkXSl41ciXI_ZDWgi8lgk",
+            "description": "Resumo das atividades: Elabor. EFs, configura\u00e7\u00f5es, melhorias e interfaces (todos os processos de CO) A Combinar Data de in\u00edcio: Imediata Data fim da aloca\u00e7\u00e3o: Indeterminado Modalidade de Contrata\u00e7\u00e3o: PJ Local do Projeto: Remoto Qualifica\u00e7\u00f5es necess\u00e1rias: CO-OM, CO-CCA, CO-PC, CO-ML, CO-PA - Divulga Vagas",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538260497?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Divulga Vagas"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-11T16:18:22Z",
+            "id": "5538223048",
+            "title": "Sao Co S\u00eanior",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4MjIzMDQ4In0.2IKqf5aDmvPw-L6VTKkJUVcefM6nxbglxvZatBjcRrw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Resumo das atividades: Elabor. EFs, configura\u00e7\u00f5es, melhorias e interfaces (todos os processos de CO) A Combinar Data de in\u00edcio: Imediata Data fim da aloca\u00e7\u00e3o: Indeterminado Modalidade de Contrata\u00e7\u00e3o: PJ Local do Projeto: Remoto Qualifica\u00e7\u00f5es necess\u00e1rias: CO-OM, CO-CCA, CO-PC, CO-ML, CO-PA - Divulga Vagas",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Divulga Vagas - Empregos e Vagas Brasil"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado do Rio de Janeiro",
+                    "Rio de Janeiro"
+                ],
+                "display_name": "Rio de Janeiro, Estado do Rio de Janeiro",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538223048?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-11T16:18:33Z",
+            "id": "5538224136",
+            "title": "Sao Co S\u00eanior",
+            "latitude": -15.765286,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM4MjI0MTM2In0.uPiAaonVjeK2_eIk6xH-6FtAk1zSlM0ud6fwTFlXtvo",
+            "description": "Resumo das atividades: Elabor. EFs, configura\u00e7\u00f5es, melhorias e interfaces (todos os processos de CO) A Combinar Data de in\u00edcio: Imediata Data fim da aloca\u00e7\u00e3o: Indeterminado Modalidade de Contrata\u00e7\u00e3o: PJ Local do Projeto: Remoto Qualifica\u00e7\u00f5es necess\u00e1rias: CO-OM, CO-CCA, CO-PC, CO-ML, CO-PA - Divulga Vagas",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -47.912034,
+            "redirect_url": "https://www.adzuna.com.br/details/5538224136?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Divulga Vagas - Empregos e Vagas Brasil",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasilia, Distrito Federal",
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ]
+            },
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Software Development Specialist",
+            "id": "5307530175",
+            "created": "2025-07-16T21:42:30Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Req ID: 331549 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Software Development Specialist to join our team in Sao Paulo, S\u00e3o Paulo (BR-SP), Brazil (BR). Mandatory Skills : 3 years of relevant experience in application Maintenance and Support. L2 role Strong in Unix Strong in writing SQL queries. Knowledge on any ot\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzA3NTMwMTc1In0.xly2RUA3REjvI3bEffugQ0F-3i8IANw8Wbo6OJ6zNyQ",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5307530175?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "NTT DATA North America",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            }
+        },
+        {
+            "id": "5520325497",
+            "created": "2025-11-30T14:21:00Z",
+            "title": "Analista Cont\u00e1bil S\u00eanior",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5520325497?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT"
+            },
+            "location": {
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDMyNTQ5NyIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0._X2_AXiuGkIuzIh7v32U1cfUCnHHusglw5pV_bw68Lk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion \u2013 it\u2019s a place where you can grow, belong and thrive. Fun\u00e7\u00e3o: Pessoa Analista Cont\u00e1bil Pleno Your day at NTT DATA A NTT DATA Inc. \u00e9 uma empresa multinacional de tecnologia que integra, dentre seus servi\u00e7os, o desenvolvimento de so\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5508520360?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "NTT America, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "display_name": "Brasil",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA4NTIwMzYwIn0._FRH3LNbgjbPd63BtKc7WYzZdztrjTEgEGq_wY6_DIU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Fun\u00e7\u00e3o: Pessoa Analista Cont\u00e1bil Pleno Your day at NTT DATA A NTT DATA Inc. \u00e9 uma empresa multinacional de tecnologia que integra, dentre seus servi\u00e7os, o desenvolvimento de so\u2026",
+            "created": "2025-11-21T19:21:00Z",
+            "id": "5508520360",
+            "title": "Analista Contbil Snior"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "Vagas em Tecnologia Inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "display_name": "Brasil",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Oowlish Technology",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5510580625?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTEwNTgwNjI1In0.l4TqsHZEc9oj3ioxHSverZNVJ9ZhOZIvvEOrFV_B1z8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for profe\u2026",
+            "created": "2025-11-23T14:24:37Z",
+            "id": "5510580625",
+            "title": "Business Intelligence Analyst"
+        },
+        {
+            "id": "5535165747",
+            "created": "2025-12-09T15:57:54Z",
+            "title": "Sap Hana Senior Consultant",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1MTY1NzQ3In0.0-IIUTLMxHPcFBUtdAUZZRK1I0bBk4La5G6NDX0Uu4k",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Sap Hana Senior Consultant - Our services include strategies for accounting, finance, regulatory reporting, performance management, sustainability, customer experience, and IoT. Operating from offices across the globe and growing, we help clients achieve operational efficiency and improve decision-making capabilities. With deep industry knowledge, technical expertise, and a diverse range of perspectives, our people spark change and create innovative solutions to complex operational issues. Our \u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535165747?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-10-01T07:16:25Z",
+            "id": "5423661947",
+            "title": "Especialista de Governan\u00e7a de Dados",
+            "company": {
+                "display_name": "SYSMAP",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5423661947?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyMzY2MTk0NyIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.1EZZP6UT9gnziFYHZyZXDyLl2rFxxc0S5ZdiRYC14w8",
+            "description": "Description Vis\u00e3o Geral Estabelecer e manter pol\u00edticas de governan\u00e7a de dados para o setor de sa\u00fade, garantindo compliance com regulamenta\u00e7\u00f5es (LGPD, CFM) e implementando controles de qualidade e seguran\u00e7a de dados m\u00e9dicos sens\u00edveis. Requisitos Gradua\u00e7\u00e3o em \u00e1reas correlatas Experi\u00eancia m\u00ednima de 4 anos em governan\u00e7a de dados Conhecimento em regulamenta\u00e7\u00f5es do setor de sa\u00fade Certifica\u00e7\u00f5es em governan\u00e7a de dados (desej\u00e1vel) Requirements Hard Skills Frameworks de governan\u00e7a (DAMA, COBIT) Regulamen\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Piaui",
+                    "Parna\u00edba"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Parna\u00edba, Piaui"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5537200000?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3MjAwMDAwIn0.sz7X6A7pgtFW6qoZ_Y00WG1_AZhP42Ehzn5Ym3EOZts",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -41.78034,
+            "description": "ATRIBUI\u00c7\u00d5ES: Atividades: Respons\u00e1vel pelo o agendamentos de servi\u00e7os ativo/receptivo, confirma\u00e7\u00e3o dos agendamentos 1 dia antes da data marcada, entrar em contato com os clientes que n\u00e3o compareceram no hor\u00e1rio agendado para remarca\u00e7\u00e3o de hor\u00e1rio/data, solicita\u00e7\u00e3o de pedidos de pe\u00e7as. Respons\u00e1vel pelo o acompanhamento da chegada de pe\u00e7as para agendamento da substitui\u00e7\u00e3o, prospec\u00e7\u00f5es atrav\u00e9s de clientes No Show (clientes que n\u00e3o compareceram na data do agendamento), e acompanhamento di\u00e1rio dos ve\u2026",
+            "id": "5537200000",
+            "created": "2025-12-10T21:26:42Z",
+            "latitude": -2.91578,
+            "title": "Atendente De Recep\u00e7\u00e3o - Recrutamento Aberto"
+        },
+        {
+            "created": "2025-12-11T16:44:37Z",
+            "id": "5538385815",
+            "title": "Business Intelligence Analyst Intern",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Outras vagas"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538385815?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM4NTgxNSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.a70Zho9ePuJZZsedpFmPHK6CCNRuL3vUR0cIBIcKojg",
+            "description": "Business Intelligence Analyst Intern - Collect and organize company data to support operational efficiency and strategy formulation. Collaborate with stakeholders to develop and optimize data analysis workflows. Create actionable reports and visualizations to inform business decisions. Requirements To excel in this role, you must possess: A Bachelor''s degree or higher in Mathematics, Statistics, Computer Science, or related fields. Excellent analytical skills and logical thinking abilities. Pr\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5436861549",
+            "created": "2025-10-08T04:01:46Z",
+            "title": "Senior Product Manager with Project Expertise",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzNjg2MTU0OSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.cOqOhmxKrjSPxD5eOh8PuGbR7f_hyX4tiR6VFRmgzWs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Product Manager with Project Expertise Join to apply for the Senior Product Manager with Project Expertise role at ArcTouch . ArcTouch is a specialty studio that is part of the award-winning AKQA Group. For over 15 years, ArcTouch has created lovable apps, websites, and connected experiences for world-class companies, leading brands, and innovative startups. Know the Product Management Team As a Senior PM, you'll have an exciting opportunity to work in a rapidly growing organization at t\u2026",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5436861549?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ArcTouch"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5401426451",
+            "created": "2025-09-16T10:37:17Z",
+            "title": "Senior AI Software Engineer",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMTQyNjQ1MSIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.RI-W-L_66Jgu__v32kL4pcGc945CK5KcsP8ka5aG6iU",
+            "description": "Workana is the largest remote work platform for talents in Latin America. Our new segment, Workana Premium , focuses on matching the most exceptional professionals with leading and innovative companies around the globe. Enjoy competitive compensation, dedicated support, and the flexibility of remote work within a dynamic environment that fosters collaboration and professional advancement. We are proud to present you with the following opportunity. About Our Client Our client is a family-owned l\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Workana"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5401426451?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Vagas em Engenharia"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5482869487?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lago"
+            },
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "display_name": "Brasil",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Role: Amazon Case Specialist Hours: 9am - 5pm Pacific Standard Time USD Salary: Negotiable based on experience The Case Specialist works under direct supervision and follows company and department policies and procedures to provide dedicated advocacy on behalf of clients and internal stakeholders, handling seller issues and resolving bottlenecks directly through Amazon Seller Support, ensuring smooth and compliant operations on the platform. Through the use of company and department practices a\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDgyODY5NDg3In0.bdZu8itB-MoDVpGQ-2o4Bj92jNQLITu-UGgXSDTWPjc",
+            "title": "Amazon Case Specialist",
+            "id": "5482869487",
+            "created": "2025-11-05T19:55:36Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Vagas em Propaganda e Marketing"
+            },
+            "company": {
+                "display_name": "M3EU",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5534613884?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil",
+                "area": [
+                    "Brasil"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0NjEzODg0In0.iDvTsNO1befnq1Jqca7uD31iK8sqmeNzVJ4ES4w-V-M",
+            "description": "Job Description The Panel Digital Growth and Optimisation Manager is responsible for developing and executing data-driven strategies to improve a company's online performance and accelerate growth across all centralised panel brands. This role oversees both the Digital Marketing and Content teams, ensuring unified digital strategies, seamless execution, and measurable outcomes that support panel goals. The Manager drives innovation, establishes digital frameworks and best practices, and ensures\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5534613884",
+            "created": "2025-12-09T12:21:26Z",
+            "title": "Panel Digital Growth and Optimisation Manager (Remote)"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jeeves"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5529633150?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Vagas em Contabilidade e Finan\u00e7as",
+                "tag": "accounting-finance-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Jeeves is a groundbreaking financial operating system built for global businesses that provides corporate cards, cross-border payments, and spend management software within one unified platform. The company operates across 20 countries including Brazil, Canada, Colombia, Mexico, the United Kingdom, across Europe, and the United States, and serves over 5,000 clients ranging from venture-backed startups to SMBs around the world. With a mission to empower businesses with more efficient and cost-ef\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTYzMzE1MCIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.LVfMslG5Lufvdcj3XIlK3LgS6Gwa7pB2XrfOzWAMJ3s",
+            "contract_time": "full_time",
+            "title": "Business Analyst",
+            "id": "5529633150",
+            "created": "2025-12-05T14:44:51Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5532050297?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Atomic HR"
+            },
+            "location": {
+                "display_name": "Brasil",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMyMDUwMjk3In0.GyFb6xbs_5-_jeU113c3ePDWQLH1h3BljmqOsR7YRLE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We connect talented tech professionals in Latin America and Canada with remote career opportunities at innovative startups worldwide. We specialize in finding roles that align with your skills, experience, and career goals. Our personalized approach ensures you're matched with companies that value your contributions and offer opportunities for growth. Whether you're a software engineer, designer, marketer, or other tech professional, we're here to help you take the next step in your career. Com\u2026",
+            "created": "2025-12-07T01:00:13Z",
+            "id": "5532050297",
+            "title": "Senior AI Engineer - US SaaS startup | Remote"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjA0ODk1NiIsInMiOiIydDN5a05MVzhCR3hfTnRkbF92T3J3In0.07fi4c5Ary1kmRYZYTyvKQRCqv4F9-eS0tiv9OPBMOE",
+            "description": "Dit ga je doen Je ondersteunt het (pleeg)kind, de ouder(s) en pleegouders en werkt verbindend Je stelt samen doelen op, legt die vast in een plan en gaat daarmee aan de slag Je bent een klankbord voor ouder(s) en pleegouders en biedt handvatten voor het vormgeven van hun ouderrol op afstand/opvoedrol en rol binnen het zorgteam Je houdt contact met instanties als zoals school, GGZ, Jeugdbescherming en CJG Je zorgt dat iedereen zich gehoord en gezien voelt Je werkt zelfstandig en overlegt met col\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil"
+            },
+            "company": {
+                "display_name": "Timon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5532048956?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-12-07T00:58:47Z",
+            "id": "5532048956",
+            "title": "Pleegzorgbegeleider Ijsselland Veluwe"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5532048098?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil"
+            },
+            "company": {
+                "display_name": "Atomic HR",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We connect talented tech professionals in Latin America and Canada with remote career opportunities at innovative startups worldwide. We specialize in finding roles that align with your skills, experience, and career goals. Our personalized approach ensures you're matched with companies that value your contributions and offer opportunities for growth. Whether you're a software engineer, designer, marketer, or other tech professional, we're here to help you take the next step in your career. Com\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMyMDQ4MDk4In0.gl6p44mrzkStPpTD10NUJOeUPbDQ6Urs-EIUAoTtGqk",
+            "title": "AI Principal Software Engineer - US SaaS startup | Remote",
+            "created": "2025-12-07T00:58:15Z",
+            "id": "5532048098"
+        },
+        {
+            "title": "L\u00edder de Dados (Hands-on)",
+            "latitude": -23.95045,
+            "id": "5469196717",
+            "created": "2025-10-29T06:29:57Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description Estamos em busca de um(a) L\u00edder de Dados hands-on para liderar as iniciativas de Engenharia de Dados e Analytics , definindo arquitetura, governan\u00e7a e processos para coleta, tratamento, armazenamento e consumo de dados. Este profissional atuar\u00e1 diretamente no desenvolvimento t\u00e9cnico e tamb\u00e9m na coordena\u00e7\u00e3o de time, sendo respons\u00e1vel por garantir que os dados suportem decis\u00f5es estrat\u00e9gicas do neg\u00f3cio. Responsibilities Responsabilidades Liderar a \u00e1rea de Engenharia de Dados e Analytic\u2026",
+            "longitude": -46.27877,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMnQzeWtOTFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY5MTk2NzE3In0.AiD9hUqSLlshF8-Yugb3MpNvFYIIpEEnKy0U6r2eY1A",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FCamara"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "Barueri"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Barueri, Estado de S\u00e3o Paulo"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5469196717?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        }
+    ],
+    "count": 56089,
+    "mean": 31611.7
+}

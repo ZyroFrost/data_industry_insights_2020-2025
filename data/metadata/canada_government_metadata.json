@@ -1,0 +1,20 @@
+{
+  "crawler": "canada_data_government_datajobs",
+  "description": "Government of Canada Open Data Portal (2020–2025) - Data/AI/ML keywords.",
+  "fields": {
+    "dataset_id": "string",
+    "title": "string",
+    "organization": "string",
+    "notes": "string",
+    "keywords": "string",
+    "publish_date": "datetime",
+    "last_update": "datetime",
+    "num_resources": "int",
+    "num_raw_files": "int",
+    "raw_urls": "string",
+    "portal_url": "string",
+    "search_keyword": "string"
+  },
+  "total_records": 257,
+  "crawl_timestamp": "2025-12-12T18:43:53.807183"
+}

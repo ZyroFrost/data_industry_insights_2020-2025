@@ -1,0 +1,1532 @@
+{
+    "mean": 94797.43,
+    "count": 52650,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "redirect_url": "https://www.adzuna.ca/details/5522247688?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjI0NzY4OCIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.cffsFqDcUCKhrA6hv4v0X9DpbrBm_4YSOA9k3ZdKCyk",
+            "created": "2025-12-01T13:48:54Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kitchener, Waterloo region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Waterloo region",
+                    "Kitchener"
+                ]
+            },
+            "id": "5522247688",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Faire"
+            },
+            "title": "Senior Software Engineer - Platform Data and Analytics",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Faire Faire is an online wholesale marketplace built on the belief that the future is local \u2014 independent retailers around the globe are doing more revenue than Walmart and Amazon combined, but individually, they are small compared to these massive entities. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town \u2014 we help them discover the best products from around the\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.706102,
+            "longitude": -79.402726,
+            "id": "5356382159",
+            "salary_is_predicted": "0",
+            "created": "2025-08-17T06:16:40Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.ca/details/5356382159?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM1NjM4MjE1OSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.FrfA1apamRnIVKz6vMGoubV2iArrVXJIDNcdKH1pvF4",
+            "description": "About Faire Faire is an online wholesale marketplace built on the belief that the future is local \u2014 independent retailers around the globe are doing more revenue than Walmart and Amazon combined, but individually, they are small compared to these massive entities. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town \u2014 we help them discover the best products from around the\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario"
+            },
+            "salary_max": 214500,
+            "title": "Senior Software Engineer - Platform Data and Analytics",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Faire"
+            },
+            "salary_min": 156000
+        },
+        {
+            "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home \u2014 from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5472354398",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Thumbtack"
+            },
+            "title": "Senior Data Science Manager, Growth and Optimization",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada"
+                ],
+                "display_name": "Canada"
+            },
+            "category": {
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "created": "2025-10-31T05:38:49Z",
+            "redirect_url": "https://www.adzuna.ca/details/5472354398?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MjM1NDM5OCIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.9_KOXieQcqhe47PcuxcVICbtB9chGdg_y4eoxLasXc0"
+        },
+        {
+            "longitude": -79.402726,
+            "id": "5486884416",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.706102,
+            "redirect_url": "https://www.adzuna.ca/details/5486884416?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Njg4NDQxNiIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.e6_UvbL437rJ95XnkNMMWsusGWe7iqnsdUrHusDK7SQ",
+            "created": "2025-11-08T05:40:32Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_max": 270250,
+            "title": "Senior Frontend Engineer- Data Engineering Experience",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Snowflake"
+            },
+            "salary_min": 183000,
+            "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowflake developed an innovative new product with a built-for-the-cloud architecture \u2026"
+        },
+        {
+            "id": "5528001359",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Intact"
+            },
+            "title": "Senior Business Analyst, Finance and Data Transformation",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Laval region",
+                    "Laval"
+                ],
+                "display_name": "Laval, Laval region"
+            },
+            "longitude": -73.742893,
+            "description": "Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times. Our employee promise represents Intact\u2019s commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in your career. In return, we promise to provide support, opportunities and performance-led financial rewards at a workplace where you can shape the future, win as a team and grow with\u2026",
+            "latitude": 45.581149,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.ca/details/5528001359?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI4MDAxMzU5In0.hTwnAB1K6Y2SIzJeW4wWlhWMHXKf3ky94NAt5mE9mTo",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-04T14:42:15Z"
+        },
+        {
+            "location": {
+                "area": [
+                    "Canada"
+                ],
+                "display_name": "Canada",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5390540542",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Intact Financial",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Business Analyst, Finance and Data Transformation",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times. Our employee promise represents Intact\u2019s commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in your career. In return, we promise to provide support, opportunities and performance-led financial rewards at a workplace where you can shape the future, win as a team and grow with\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5MDU0MDU0MiIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.-nnuP2CVxU2DgjlnUocFT2xPKSnX6P_0jDZysslFpxg",
+            "redirect_url": "https://www.adzuna.ca/details/5390540542?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-09T06:00:05Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2024-07-30T17:36:50Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "scientific-qa-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Scientific & QA Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTQ1NDA1MCIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.tvJja5oY2ESDhE0x8HsUqRGGIIQV3s8biLA893Ugk3I",
+            "redirect_url": "https://www.adzuna.ca/details/4801454050?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 45.589026,
+            "description": "Company description Terry Soot Management Group (TSMG) is a field data collection company founded in 2017. We collect data where automation is not possible. We count features, take pictures, make videos, record speech, and scan areas for every detail you need to make more informed decisions. Our field data collection teams are spread across Europe and North America, ready to accept new challenges. Project objective The goal of the project is to help collect images of streets, main points of int\u2026",
+            "longitude": -62.645866,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Nova Scotia",
+                    "Pictou region",
+                    "New Glasgow"
+                ],
+                "display_name": "New Glasgow, Pictou region"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TSMG"
+            },
+            "id": "4801454050",
+            "salary_is_predicted": "0",
+            "title": "Driver / Data Collector in New Glasgow, Canada"
+        },
+        {
+            "id": "4801490724",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TSMG"
+            },
+            "title": "Driver / Data Collector in Mount Pearl, Canada",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mount Pearl, Conception Bay - St. Johns",
+                "area": [
+                    "Canada",
+                    "Newfoundland & Labrador",
+                    "Conception Bay - St. Johns",
+                    "Mount Pearl"
+                ]
+            },
+            "longitude": -52.809226,
+            "description": "Company description Terry Soot Management Group (TSMG) is a field data collection company founded in 2017. We collect data where automation is not possible. We count features, take pictures, make videos, record speech, and scan areas for every detail you need to make more informed decisions. Our field data collection teams are spread across Europe and North America, ready to accept new challenges. Project objective The goal of the project is to help collect images of streets, main points of int\u2026",
+            "latitude": 47.516619,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.ca/details/4801490724?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI0ODAxNDkwNzI0In0.Uckc0Xds0lSx3aRqHDI3UZYwZZvURgfA6p_EErTjJUo",
+            "category": {
+                "label": "Scientific & QA Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "scientific-qa-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2024-07-30T17:39:50Z"
+        },
+        {
+            "created": "2024-07-30T17:33:31Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Scientific & QA Jobs",
+                "tag": "scientific-qa-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI0ODAxNDA5NzA2In0.jcVx8oQi_nVyLGUxUkA6G-kUDdHyjSo805iwbRpQudg",
+            "redirect_url": "https://www.adzuna.ca/details/4801409706?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 47.535275,
+            "description": "Company description Terry Soot Management Group (TSMG) is a field data collection company founded in 2017. We collect data where automation is not possible. We count features, take pictures, make videos, record speech, and scan areas for every detail you need to make more informed decisions. Our field data collection teams are spread across Europe and North America, ready to accept new challenges. Project objective The goal of the project is to help collect images of streets, main points of int\u2026",
+            "longitude": -53.282384,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Conception Bay - St. Johns, Newfoundland & Labrador",
+                "area": [
+                    "Canada",
+                    "Newfoundland & Labrador",
+                    "Conception Bay - St. Johns"
+                ]
+            },
+            "id": "4801409706",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TSMG"
+            },
+            "title": "Driver / Data Collector in St. John\u2019s, Canada"
+        },
+        {
+            "location": {
+                "display_name": "Oakville, Halton",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Halton",
+                    "Oakville"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_type": "permanent",
+            "id": "5507689086",
+            "company": {
+                "display_name": "Geotab",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Team Lead, Data Science (Generative AI)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Who we are: Geotab \u00ae is a global leader in IoT and connected transportation and certified \u201cGreat Place to Work\u2122.\u201d We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities. Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab\u2019s open platform and Geotab Marketplace \u00ae, offering\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA3Njg5MDg2In0.E1hggo0647zm3dPUJSz2_csoV8ZDl7e77oFeHPECtLU",
+            "redirect_url": "https://www.adzuna.ca/details/5507689086?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-21T11:57:48Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "latitude": 45.544959,
+            "description": "Tu es passionn\u00e9 par les nouvelles technologies et tu as envie de rejoindre une \u00e9quipe de d\u00e9veloppement logiciel qui mise sur l\u2019innovation, dans un environnement chaleureux, d\u00e9tendu et stimulant ? Nous recherchons un D\u00e9veloppeur Big Data / Machine Learning pour rejoindre notre \u00e9quipe \u00ab Audience \u00bb. Notre succ\u00e8s repose sur notre capacit\u00e9 \u00e0 relever les d\u00e9fis ensemble. Nous sommes des passionn\u00e9s de technologie, toujours \u00e0 l\u2019aff\u00fbt des meilleurs outils et m\u00e9thodes pour am\u00e9liorer notre travail. La comm\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "D\u00e9veloppeur(euse) Big Data / Machine Learning",
+            "id": "5519160923",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Carri\u00e8res Triton Digital Canada"
+            },
+            "salary_is_predicted": "0",
+            "longitude": -73.588138,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Montr\u00e9al, Qu\u00e9bec",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Montr\u00e9al"
+                ]
+            },
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-29T11:59:50Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE5MTYwOTIzIn0.jie8qEnFzZEHzIDyQv874dwgR9y1-hpcevVCFrYSg2U",
+            "redirect_url": "https://www.adzuna.ca/details/5519160923?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-22T14:33:18Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA5Njc4OTg4In0.t35wKE2NsWnrtc16KZdnKv8IeqWMsEH2Nsqz7t35on8",
+            "redirect_url": "https://www.adzuna.ca/details/5509678988?utm_medium=api&utm_source=58c69264",
+            "latitude": 45.544959,
+            "description": "Summary JOB DESCRIPTION: We are seeking a skilled and motivated DevOps Engineer with 3 to 5 years of experience to lead the modernization of our data and application delivery processes The ideal candidate will have good experience in designing implementing and managing CICD pipelines for complex multi technology environments This role will be pivotal in our transition to modern DevOps practices focusing on automating the build test and deployment of both legacy data warehouse and NET framework \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "J&M Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5509678988",
+            "title": "DevOps Engineer - Data warehouse & .NET Modernization",
+            "salary_is_predicted": "0",
+            "longitude": -73.588138,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Montr\u00e9al"
+                ],
+                "display_name": "Montr\u00e9al, Qu\u00e9bec"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Lambda, The Superintelligence Cloud, builds Gigawatt-scale AI Factories for Training and Inference. Lambda\u2019s mission is to make compute as ubiquitous as electricity and give every person access to artificial intelligence. One person, one GPU. If you'd like to build the world's best deep learning cloud, join us. Note: This position requires presence in our Qu\u00e9bec City Data Center 5 days per week. What You'll Do Ensure new server, storage and network infrastructure is properly racked, labeled, ca\u2026",
+            "latitude": 46.816056,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Qu\u00e9bec City, Qu\u00e9bec",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Qu\u00e9bec City"
+                ]
+            },
+            "longitude": -71.252738,
+            "company": {
+                "display_name": "Lambda",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5496127840",
+            "salary_is_predicted": "0",
+            "salary_max": 102700,
+            "title": "Data Center Operations Engineer - Quebec, Canada",
+            "salary_min": 68250,
+            "created": "2025-11-14T09:43:27Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            },
+            "redirect_url": "https://www.adzuna.ca/details/5496127840?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk2MTI3ODQwIn0.LpKmIC0L4TibI4Qwp_YlHmUZjvhZqOtSnMDmwn0vZBU"
+        },
+        {
+            "created": "2025-11-22T15:10:06Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "redirect_url": "https://www.adzuna.ca/details/5509683480?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA5NjgzNDgwIn0.rSGW5TT81LviSusULlNk0-EvsxdXuynFO-JOxS96HK0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Union/Affiliation: Administrative and Professional Staff (APSA) Pay range: $99,865 to $119,148 annually SFU Department Descr: School of Medicine - Undergraduate Medical Education Position Grade: 12  of openings: 1 Biweekly Hours: 72 Who We Are Simon Fraser University is a leading research university, advancing an inclusive and sustainable future. Our purpose \u2013 the essence of SFU \u2013 is to create and connect knowledge, learning and community for deeper understanding and meaningful impact. We are c\u2026",
+            "latitude": 49.246112,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Burnaby, Greater Vancouver",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "Burnaby"
+                ]
+            },
+            "longitude": -122.976173,
+            "salary_max": 119148,
+            "id": "5509683480",
+            "company": {
+                "display_name": "Simon Fraser University",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Associate Director, Data Science - School of Medicine",
+            "salary_min": 99865
+        },
+        {
+            "description": "Experience Aviva Individually we are people, but together we are Aviva. Individually these are just words, but together they are our Values \u2013 Care, Commitment, Community, and Confidence. At Aviva Canada , we put people first\u2014our employees, our customers, and our communities. We\u2019re proud of a culture built on care, inclusion, and collaboration, where your voice matters and your growth is supported. We\u2019re not just about insurance; we\u2019re about making a real difference by protecting what matters mo\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5533720299",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Aviva Employment Services"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Specialist, Data Governance (process and documentation)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada"
+                ],
+                "display_name": "Canada"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-08T13:25:21Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzcyMDI5OSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0._3YrtMnvhKlHK8A0LWSqeDE4PKxCoFjCYvcxUKYj394",
+            "redirect_url": "https://www.adzuna.ca/details/5533720299?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Are you passionate about building innovative solutions that make data trusted, secure, and accessible? Join our Global Data Governance Technology team and help us develop the future of data at Manulife. In this role, you\u2019ll work with innovative technologies including Microsoft Azure, Databricks, and AI/ML tools. You will create systems that maintain data quality, compliance, and governance throughout the enterprise. You\u2019ll collaborate with diverse teams, grow your skills, and make an impact in \u2026",
+            "location": {
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5510554424",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Manulife"
+            },
+            "title": "Senior Full Stack Data Governance Engineer",
+            "created": "2025-11-23T12:19:52Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.ca/details/5510554424?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTEwNTU0NDI0In0.Qd_QLidWna_-2REhuBk_7qF5MM_BNfj7W8OSAy-3OW8"
+        },
+        {
+            "description": "Work Location: Toronto, Ontario, Canada Hours: 37.5 Line of Business: Technology Solutions Pay Details: $126,800 - $164,100 CAD This role is eligible for a discretionary variable compensation award that considers business and individual performance. TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been desig\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5526429857",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "TD",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Cloud Data Engineer - BI Integration Specialist",
+            "location": {
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-03T14:14:56Z",
+            "redirect_url": "https://www.adzuna.ca/details/5526429857?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjQyOTg1NyIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.jOw_Ts_UC2wj4gjDjpBWpfFK0frhNElLvep5Rp3tkhI"
+        },
+        {
+            "description": "Work Location: Toronto, Ontario, Canada Hours: 37.5 Line Of Business: Technology Solutions Pay Details: $126,800 - $164,100 CAD This role is eligible for a discretionary variable compensation award that considers business and individual performance. TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been desig\u2026",
+            "latitude": 43.706102,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TD Securities"
+            },
+            "id": "5528001562",
+            "salary_is_predicted": "0",
+            "title": "Cloud Data Engineer - BI Integration Specialist",
+            "location": {
+                "display_name": "Toronto, Ontario",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -79.402726,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-04T14:42:21Z",
+            "redirect_url": "https://www.adzuna.ca/details/5528001562?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI4MDAxNTYyIn0.63jmUfqM_S5FLhYig7__6pYhlKdYPsn4JW8b4e-YoF8"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 46.43405,
+            "description": "Description Build an Aviation Career You\u2019re Proud Of At StandardAero, we use our ingenuity and know-how to find solutions for the simple to the most complex challenges in Aviation. Together, we get the job done and done well. Bring your mechanical aptitude, a strong work-ethic, and a hunger for learning \u2013 we\u2019ll teach you the rest. What\u2019s it like at StandardAero Collaboration, teamwork, and having each other's backs are the norm here. Our growth in this expanding industry means getting career st\u2026",
+            "longitude": -63.82188,
+            "location": {
+                "display_name": "Slemon Park, Prince",
+                "area": [
+                    "Canada",
+                    "Prince Edward Island",
+                    "Prince",
+                    "Slemon Park"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5449954996",
+            "contract_type": "contract",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Standard Aero"
+            },
+            "salary_is_predicted": "0",
+            "title": "Summer Intern - Data Analytics (Supply Chain)",
+            "created": "2025-10-16T05:35:31Z",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0OTk1NDk5NiIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.wMxQy4iuXJYVZ4L_qWla4E5b84laKY6mjwNuA6nEAZM",
+            "redirect_url": "https://www.adzuna.ca/details/5449954996?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.ca/details/4801375384?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTM3NTM4NCIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.fxEKwmiQwhftTOEskX7DPAKc5OlIRJhjHJJ6sBcAW10",
+            "created": "2024-07-30T17:30:52Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Edmonton region",
+                    "Edmonton"
+                ],
+                "display_name": "Edmonton, Edmonton region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Dallas IT"
+            },
+            "id": "4801375384",
+            "salary_is_predicted": "0",
+            "title": "Jr. Data Analyst / Full-time (Remote)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "The Jr Data Analyst is responsible for providing key technical and financial insights to plan and effectively operate the business, through data analytics, reporting and analysis. They will serve as the central report contact for multiple business units. Essential Functions Of The Jr Data Analyst Role Include Advanced analysis, utilizing large datasets and complex business requirements to drive meaningful change on KPIs and objectives. SQL querying across multiple platforms and scripting to ret\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.ca/details/5523800666?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIzODAwNjY2In0.POnc8MjCaGGyFBJa0cjajfXrHD9Aew2HC1HnZBI0rZQ",
+            "created": "2025-12-02T06:28:02Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "display_name": "Toronto, Ontario",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -79.402726,
+            "salary_is_predicted": "0",
+            "id": "5523800666",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DoiT"
+            },
+            "title": "Senior Product Manager, Real-Time Data",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Job Description Location Our Senior Product Manager will be an integral part of our global Product Managers team. This role is based remotely in the East or Central time zone of the US, in the United Kingdom or Ireland. Who We Are DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure you're operating in a well-architected and scalable\u2026",
+            "latitude": 43.706102
+        },
+        {
+            "id": "5467678735",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BEEM"
+            },
+            "salary_is_predicted": "0",
+            "title": "Architecte de Solutions Data, BI & IA",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Montr\u00e9al",
+                    "Westmount"
+                ],
+                "display_name": "Westmount, Montr\u00e9al",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -73.55286,
+            "description": "\u00c0 propos de BEEM Chez BEEM, notre mission est de rendre les donn\u00e9es accessibles et utiles pour toutes les organisations, peu importe leur taille. Nous offrons BEEM Data, une plateforme flexible qui centralise et transforme les donn\u00e9es issues de multiples sources pour aider les entreprises \u00e0 prendre des d\u00e9cisions \u00e9clair\u00e9es. Gr\u00e2ce \u00e0 ses pipelines automatis\u00e9s, son partage s\u00e9curis\u00e9 et ses insights bas\u00e9s sur l\u2019IA, BEEM Data simplifie l\u2019acc\u00e8s aux donn\u00e9es, les analyses et les rapports. BEEM assure aus\u2026",
+            "latitude": 45.51044,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.ca/details/5467678735?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NzY3ODczNSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.wJuWZgAO8GLNNBQhHXiHbiXYK5JxkCpeuYIRLJW_rNc",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-28T05:33:57Z"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-20T07:59:45Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA1MDk2NDExIn0.W08NDdl3AP_MSdChV6aF1-UiWB_rczYPlHEe0HS-8uk",
+            "redirect_url": "https://www.adzuna.ca/details/5505096411?utm_medium=api&utm_source=58c69264",
+            "latitude": 45.544959,
+            "description": "Job Description Job Description Salary: propos de BEEM Chez BEEM, notre mission est de rendre les donnes accessibles et utiles pour toutes les organisations, peu importe leur taille. Nous offrons BEEM Data, une plateforme flexible qui centralise et transforme les donnes issues de multiples sources pour aider les entreprises prendre des dcisions claires. Grce ses pipelines automatiss, son partage scuris et ses insights bass sur lIA, BEEM Data simplifie laccs aux donnes, les analyses et les rappo\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5505096411",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "BEEM"
+            },
+            "salary_is_predicted": "0",
+            "title": "Architecte de Solutions Data, BI & IA",
+            "longitude": -73.588138,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Montr\u00e9al, Qu\u00e9bec",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Montr\u00e9al"
+                ]
+            }
+        },
+        {
+            "location": {
+                "display_name": "Markham, York region",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "York region",
+                    "Markham"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -79.293777,
+            "id": "5498392090",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Pathway Communications"
+            },
+            "salary_is_predicted": "0",
+            "title": "Graduate Electrical Engineer - Data Centre Operations",
+            "contract_type": "contract",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Job Description About us Pathway Communications has a track record of 30 years providing high-quality Information Technology solutions, including technical contact Centre services at Tiers I, II and III to demanding corporate, government and non-profit clients in Canada and the United States. We commenced operations in 1995 and have grown, over the past 30 years, from being one of Canada\u2019s pioneering ISPs to a provider of end-to-end corporate IT solutions including inbound techn\u2026",
+            "latitude": 43.86652,
+            "redirect_url": "https://www.adzuna.ca/details/5498392090?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk4MzkyMDkwIn0.x05B2AdUAOwRtOhKgOO2q-IfKYmF0GNr3-Nn8trCefw",
+            "created": "2025-11-15T16:15:23Z",
+            "category": {
+                "label": "Graduate Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "graduate-jobs"
+            },
+            "contract_time": "part_time"
+        },
+        {
+            "id": "5529318955",
+            "salary_is_predicted": "0",
+            "longitude": -79.402726,
+            "latitude": 43.706102,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.ca/details/5529318955?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTMxODk1NSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.hxfe3JJj7kBVxT2j3tyGXGD21iFYDPY30NYYYrUpQeU",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-05T12:06:43Z",
+            "salary_max": 250000,
+            "title": "Senior Data Scientist, Analytics (Relo to SF)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Airwallex"
+            },
+            "salary_min": 200000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario"
+            },
+            "description": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 200,000 businesses worldwide \u2013 including Brex, Rippling, Navan, Qantas, SHEIN and many more \u2013 with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale. Proudly founded in Melbourne, we have a team of over \u2026"
+        },
+        {
+            "created": "2025-10-18T05:33:24Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDUzNjMxOTA1In0.HwYO9vZclzfGB-H2arnQ2fwqN6GxCPSvmRwMPkotpXM",
+            "redirect_url": "https://www.adzuna.ca/details/5453631905?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 45.544959,
+            "description": "Voldex is a leading gaming company focused on Roblox, the most exciting ecosystem in gaming today. We are home to several of Roblox's top games, including Brookhaven, Driving Empire, and NFL Universe Football. With over 145 million monthly active players across our games, we are the 1 Roblox developer by audience size. Founded in 2015, we have since grown to 75 full-time remote team members across the globe. Our strategy is to acquire and sustainably grow games on Roblox. Our acquisition strate\u2026",
+            "longitude": -73.588138,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Montr\u00e9al"
+                ],
+                "display_name": "Montr\u00e9al, Qu\u00e9bec"
+            },
+            "id": "5453631905",
+            "title": "Sr. Data Analyst - NFL Universe Football",
+            "company": {
+                "display_name": "Voldex Games",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent"
+        },
+        {
+            "created": "2025-11-19T18:06:21Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDIyMTI3NSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.7QHoa9ySk3pMo3H46mWCvY_EpLAoaZRbndN1pt4fUkA",
+            "redirect_url": "https://www.adzuna.ca/details/5504221275?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.706102,
+            "description": "We\u2019re Hiring a TreasuryLiquidityDataAnalyst \u2013 SQL Expert Are you experienced in Capital Markets and Treasury and looking to leverage your expertise in SQL and financial data analysis? Join our Client's leading financial institution working on strategic initiatives in the Treasury/Liquidity domain.  Location: [Toronto, Canada /Hybrid]  Industry: Financial Services | Capital Markets | Treasury  What You'll Do: - Collaborate with business users to analyze, document, and validate business rules and\u2026",
+            "longitude": -79.402726,
+            "location": {
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "display_name": "Toronto, Ontario",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Nexgen HR and Tech Solutions Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5504221275",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "title": "Treasury Liquidity/ Data Analyst \u2013 SQL Expert"
+        },
+        {
+            "longitude": -79.402726,
+            "location": {
+                "display_name": "Toronto, Ontario",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Celestica"
+            },
+            "id": "5538376290",
+            "salary_is_predicted": "0",
+            "title": "Student Intern, Data Analyst & Quote Controller",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.706102,
+            "description": "Req ID: 129434 Remote Position: Hybrid Region: Americas Country: Canada State/Province: Ontario City: Toronto 16 Month Internship Celestica is a global electronics manufacturing services company, headquartered in Toronto, Canada, with over 28,000 employees across 40 sites in North America, Europe, and Asia. Working with the world\u2019s leading technology companies across a broad range of industries, Celestica delivers a full suite of services \u2013 from design and engineering, to manufacturing and supp\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM3NjI5MCIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.98GFrJ9DQwN-TA9flpPM6yBY-_EgRNLitghC1jLzfsc",
+            "redirect_url": "https://www.adzuna.ca/details/5538376290?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T14:42:55Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Referral Board",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5486867879",
+            "title": "Senior Security Research Engineer - Data Science",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada"
+                ],
+                "display_name": "Canada"
+            },
+            "description": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.ca/details/5486867879?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Njg2Nzg3OSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.WwAz8tX1bnpjn_hfhOOSC9Vg1R8Tg19LiW8T8joYZPM",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-08T05:25:34Z"
+        },
+        {
+            "created": "2025-11-09T05:48:37Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg4MTI5NDUyIn0.-zJI7NDJoqYehTVkZ9wUugKsFk0QBiMfj3ProglZ7gI",
+            "redirect_url": "https://www.adzuna.ca/details/5488129452?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "\"The Marketing team is poised for unprecedented growth and opportunity. We're in a very unique position where we've experienced tremendous success but are far from exhausting the whitespace around us. There is a unique opportunity to join a rising organization and make a significant and immediate impact.\" Mark Lynch - Senior Director, Demand Generation Are you passionate about transforming data into strategy and AI into action? We are currently seeking a Senior Manager, Data Science to join our\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "id": "5488129452",
+            "company": {
+                "display_name": "Absorb LMS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Lead Data Scientist \ufffd Marketing & Product Analytics"
+        },
+        {
+            "location": {
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5527437506",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "League"
+            },
+            "salary_max": 249100,
+            "title": "AVP Product Management, Data & AI Platform",
+            "salary_is_predicted": "0",
+            "salary_min": 224200,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About League Founded in 2014, League is the leading healthcare consumer experience (CX) platform, powered by artificial intelligence (AI), reaching more than 63 million people around the world and delivering the highest level of personalization in the industry. Payers, providers, and consumer health partners build on League\u2019s platform to deliver high-engagement healthcare solutions proven to improve health outcomes. League has raised over $285 million in venture capital funding to date, powerin\u2026",
+            "redirect_url": "https://www.adzuna.ca/details/5527437506?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI3NDM3NTA2In0.feMWFsWY_5nCAUaIGKu2NZA3LV6lNNgFHudNYecVXho",
+            "created": "2025-12-04T12:08:48Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "created": "2025-11-21T10:35:38Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Engineering Jobs",
+                "tag": "engineering-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.ca/details/5507586933?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA3NTg2OTMzIn0.MxW-_bkvKTsH9vIHsOfIhsPBkji_xLPS2ZpfA_Vd42E",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Job Description Who are we? Equinix is the world\u2019s digital infrastructure company\u00ae, shortening the path to connectivity to enable the innovations that enrich our work, life and planet. A place where bold ideas are welcomed, human connection is valued, and everyone has the opportunity to shape their future. Joining our operations team means being at the center of everything \u2013 maintaining and evolving critical infrastructure that powers the digital world and delivers real impact f\u2026",
+            "location": {
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5507586933",
+            "company": {
+                "display_name": "Equinix",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Capacity Engineer Staff (data center, CFD)"
+        },
+        {
+            "category": {
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "created": "2025-11-28T14:04:40Z",
+            "redirect_url": "https://www.adzuna.ca/details/5518331132?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODMzMTEzMiIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.RmaHxZj1yOCxKU1Kb_2a6agj9xb53M_16uVMvjbZLPQ",
+            "description": "A career in our Finance Transformation practice, within Consulting services, will provide the opportunity to work alongside Finance leaders to optimize the structure of their finance functions, re-architect finance processes and implement best-of-breed technology to enable their transformation journey. Join a team of business professionals who work with clients to solve complex problems while utilizing tools to digitally upskill Finance teams. By working with clients to establish and deliver on\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5518331132",
+            "company": {
+                "display_name": "PwC",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Finance Data Architect, Manager, Finance Consulting",
+            "location": {
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Montr\u00e9al"
+                ],
+                "display_name": "Montr\u00e9al, Qu\u00e9bec",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.ca/details/5514871175?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDg3MTE3NSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.JBGBjj2A6KDFv0hR8wY_47rfpjm6HrlOknUhFvUca8I",
+            "created": "2025-11-26T12:19:11Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Info-Tech Research Group"
+            },
+            "id": "5514871175",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer/Developer \u2013 Canada (Remote)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Info-Tech Research Group delivers impartial, highly pertinent IT research, enabling CIOs and IT leaders to make well-informed, strategic decisions. We are currently serving over 30,000 professionals and collaborate closely with IT teams, equipping them with actionable tools and expert guidance to drive measurable results and enhance technology initiatives and organizational processes. \u00e2\u0080\u00af Why join us? We pride ourselves on consistent year-on-year growth, with double-digit growth even during a g\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 43.706102,
+            "description": "Position Description: This role is hybrid and requires you to be at our client office at a minimum 4 days per week - subject to change at any time. We are seeking a Senior Rule Engineering to design, implement, and manage complex business rules within enterprise software systems. This role requires strong analytical skills, deep understanding of business logic, and expertise in rule engines or Business Rules Management Systems (BRMS). You will work closely with business and technical teams to t\u2026",
+            "longitude": -79.402726,
+            "location": {
+                "display_name": "Toronto, Ontario",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Toronto"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "CGI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5537995069",
+            "salary_is_predicted": "0",
+            "title": "Sr. Rules Data Engineer (Global Security)",
+            "created": "2025-12-11T13:50:36Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3OTk1MDY5In0.rkjJdfaFTkLFTUG8uK7_4ueVi0pfGkghuLOzsDlMRPE",
+            "redirect_url": "https://www.adzuna.ca/details/5537995069?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "location": {
+                "display_name": "Canada",
+                "area": [
+                    "Canada"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Autodesk",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5432529846",
+            "salary_is_predicted": "0",
+            "title": "Director User Experience, AEC Platform Data",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Requisition ID  25WD91561 Position Overview We seek an experienced and results-driven Director of User Experience Design who inspires great work , nurtures talent, and can bring people together in the creation and evolution of best - in - class experiences that customers love. As a leader in our Architecture, Engineering, and Construction (AEC) Data Platform team , you will lead and advance our mission to reimagine the way customers capture, utilize , and exchange Building Information Model\u2026",
+            "redirect_url": "https://www.adzuna.ca/details/5432529846?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzMjUyOTg0NiIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.7tcTI8JECVmD3TXggAxNFYIUqirN5p3mJVvN8lms8AM",
+            "created": "2025-10-05T05:06:34Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 45.715103,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "longitude": -73.662377,
+            "location": {
+                "display_name": "Terrebonne, Les Moulins",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Lanaudi\u00e8re",
+                    "Les Moulins",
+                    "Terrebonne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "id": "5521539074",
+            "salary_is_predicted": "0",
+            "title": "Data Entry Clerk (Remote) - No Experience Required",
+            "created": "2025-12-01T08:18:52Z",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTUzOTA3NCIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.U-Dpph-S0ZOEv4jaAEtrcZuy5bdG927jP-06dVVy3Ow",
+            "redirect_url": "https://www.adzuna.ca/details/5521539074?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "contract_time": "part_time",
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            },
+            "created": "2025-12-01T08:21:48Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTU1OTk3NSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.-T1HYNbHfzmWzLEE9dO6oRkxm9A7-tHlHeZFPwyoauQ",
+            "redirect_url": "https://www.adzuna.ca/details/5521559975?utm_medium=api&utm_source=58c69264",
+            "latitude": 44.447634,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Data Entry Clerk - Up to $850 a Week",
+            "id": "5521559975",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "salary_is_predicted": "0",
+            "longitude": -78.78684,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Kawartha Lakes"
+                ],
+                "display_name": "Kawartha Lakes, Ontario"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTUxODk5In0.TbZdwl8KTgyguyeHbnNLTE6lEqhx2UxKwQR75bc188s",
+            "redirect_url": "https://www.adzuna.ca/details/5521551899?utm_medium=api&utm_source=58c69264",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            },
+            "created": "2025-12-01T08:20:39Z",
+            "id": "5521551899",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "ApexFocusGroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Entry Clerk - Up to $850 a Week",
+            "longitude": -73.480282,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Mont\u00e9r\u00e9gie",
+                    "Champlain",
+                    "Longueuil"
+                ],
+                "display_name": "Longueuil, Champlain"
+            },
+            "latitude": 45.531116,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "longitude": -122.60059,
+            "location": {
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "Maple Ridge"
+                ],
+                "display_name": "Maple Ridge, Greater Vancouver",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5521543294",
+            "title": "Data Entry Clerk - Up to $850 a Week",
+            "company": {
+                "display_name": "ApexFocusGroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 49.219005,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTQzMjk0In0.gJ5ew5uLEDrFGZ-XK_1bzj3G6hrR6I1FFLsh60IPeJ0",
+            "redirect_url": "https://www.adzuna.ca/details/5521543294?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-01T08:19:24Z",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTQ1ODQ3In0.ZGXhwN_o_xTOI0SeEuOm0aJnomkzqBmZdxxj74MSkUs",
+            "redirect_url": "https://www.adzuna.ca/details/5521545847?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-01T08:19:49Z",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            },
+            "longitude": -79.461476,
+            "location": {
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "York region",
+                    "Newmarket"
+                ],
+                "display_name": "Newmarket, York region",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5521545847",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "title": "Data Entry Clerk - Up to $850 a Week",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 44.054341,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026"
+        },
+        {
+            "created": "2025-12-01T08:19:27Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "contract_time": "part_time",
+            "redirect_url": "https://www.adzuna.ca/details/5521543614?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTQzNjE0In0.Tov790VJPAh00djfa_u-hPCrVdRqh-xJH2fyKDloWrM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "latitude": 50.557699,
+            "location": {
+                "display_name": "Regina region, Saskatchewan",
+                "area": [
+                    "Canada",
+                    "Saskatchewan",
+                    "Regina region"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -104.442694,
+            "id": "5521543614",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "title": "Data Entry Clerk (Remote) - Work Independently"
+        },
+        {
+            "created": "2025-12-01T08:20:24Z",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTU1MDA3OCIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.bAyIkgAcdZDmyOSHZDiKo6X4yIbeZdu_BpJY2m7VVgQ",
+            "redirect_url": "https://www.adzuna.ca/details/5521550078?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 49.984553,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "longitude": -112.309618,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Lethbridge region"
+                ],
+                "display_name": "Lethbridge region, Alberta"
+            },
+            "id": "5521550078",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "title": "Data Entry Clerk - Up to $850 a Week",
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-01T08:18:49Z",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTM4NjYzIn0.bCT00Bo15-k45WmRmp9OnzNUhO2tUL20lXYr2u7BPg8",
+            "redirect_url": "https://www.adzuna.ca/details/5521538663?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 55.623761,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "longitude": -118.39637,
+            "location": {
+                "display_name": "Grande Prairie region, Alberta",
+                "area": [
+                    "Canada",
+                    "Alberta",
+                    "Grande Prairie region"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "ApexFocusGroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5521538663",
+            "salary_is_predicted": "0",
+            "title": "Data Entry Clerk (Remote) - No Experience Required"
+        },
+        {
+            "longitude": -72.571204,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Mauricie",
+                    "Francheville",
+                    "Trois-Rivi\u00e8res"
+                ],
+                "display_name": "Trois-Rivi\u00e8res, Francheville"
+            },
+            "id": "5521548178",
+            "title": "Data Entry Clerk (Remote) - Work Independently",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 46.358375,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTQ4MTc4In0.DAMa4a49RQ--rQ1Cs9GrVRAAEaVGTUavytybByGhUXk",
+            "redirect_url": "https://www.adzuna.ca/details/5521548178?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-01T08:20:08Z",
+            "contract_time": "part_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            }
+        },
+        {
+            "longitude": -64.714434,
+            "location": {
+                "display_name": "Dieppe, Westmorland",
+                "area": [
+                    "Canada",
+                    "New Brunswick",
+                    "Westmorland",
+                    "Dieppe"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "id": "5521543922",
+            "salary_is_predicted": "0",
+            "title": "Data Entry Clerk (Remote) - Work Independently",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 46.08727,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTQzOTIyIn0.KhyzbnWodsxPzn9AikOqm_hlgUSN3QSShdK9C77bJa4",
+            "redirect_url": "https://www.adzuna.ca/details/5521543922?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-01T08:19:29Z",
+            "contract_time": "part_time",
+            "category": {
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.ca/details/5521552055?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWkRfV2hjM1c4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTUyMDU1In0.C_yvwuP0HfdOrkXr-Q5Wrnjjbece3QEdGqgcYNP_cr4",
+            "created": "2025-12-01T08:20:41Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs",
+                "tag": "admin-jobs"
+            },
+            "contract_time": "part_time",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "British Columbia",
+                    "Greater Vancouver",
+                    "Burnaby"
+                ],
+                "display_name": "Burnaby, Greater Vancouver"
+            },
+            "longitude": -122.976173,
+            "salary_is_predicted": "0",
+            "id": "5521552055",
+            "company": {
+                "display_name": "ApexFocusGroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Entry Clerk (Remote) - Work Independently",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "latitude": 49.246112
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "latitude": 43.64442,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Halton Hills, Halton",
+                "area": [
+                    "Canada",
+                    "Ontario",
+                    "Halton",
+                    "Halton Hills"
+                ]
+            },
+            "longitude": -79.90248,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "id": "5521551162",
+            "salary_is_predicted": "0",
+            "title": "Data Entry Clerk (Remote) - No Experience Required",
+            "created": "2025-12-01T08:20:33Z",
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "part_time",
+            "redirect_url": "https://www.adzuna.ca/details/5521551162?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTU1MTE2MiIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.MEBfeEIRpjUOpg4XjI7S1dPcVlvYo4p9Z-uvBpveelQ"
+        },
+        {
+            "created": "2025-12-01T08:20:28Z",
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            },
+            "contract_time": "part_time",
+            "redirect_url": "https://www.adzuna.ca/details/5521550539?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTU1MDUzOSIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.O8xBe1QbdtXMsv5TIbQHzxL9QMsiMYmqV2ySMmgHtXY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "latitude": 46.804026,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Chaudi\u00e8re - Appalaches",
+                    "Desjardins",
+                    "L\u00e9vis"
+                ],
+                "display_name": "L\u00e9vis, Desjardins"
+            },
+            "longitude": -71.172791,
+            "company": {
+                "display_name": "ApexFocusGroup",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5521550539",
+            "salary_is_predicted": "0",
+            "title": "Data Entry Clerk (Remote) - No Experience Required"
+        },
+        {
+            "contract_time": "part_time",
+            "category": {
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "admin-jobs"
+            },
+            "created": "2025-12-01T08:20:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTU0ODI1NiIsInMiOiJaRF9XaGMzVzhCRzdnY3JqVkVhaUR3In0.0yv10JlGRj4KJ6-VkvWOdohOsM3H3lwhqMVhZ2uFIW4",
+            "redirect_url": "https://www.adzuna.ca/details/5521548256?utm_medium=api&utm_source=58c69264",
+            "latitude": 45.751067,
+            "description": "Now accepting applicants for Focus Group studies. Earn up to $850 per week part-time working from home. Must register to see if you qualify. No Data Entry experience needed. Data Entry Clerk Work From Home - Part Time Remote Focus Group Panelists Our company is seeking individuals to participate in National & Local Paid Focus Groups, Clinical Trials, and Market Research assignments. With most of our paid focus group studies, you have the option to participate remotely online or in-person. This \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5521548256",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ApexFocusGroup"
+            },
+            "title": "Data Entry Clerk (Remote) - No Experience Required",
+            "longitude": -73.447279,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Canada",
+                    "Qu\u00e9bec",
+                    "Lanaudi\u00e8re",
+                    "L'Assomption",
+                    "Repentigny"
+                ],
+                "display_name": "Repentigny, L'Assomption"
+            }
+        }
+    ]
+}

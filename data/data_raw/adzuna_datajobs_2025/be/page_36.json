@@ -1,0 +1,1394 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzYzNDc1NCIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.V2S0nCeo0WpRpqfXwgMzUV0RE4JExKJ1DWzBvTRQoQs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "La Banque CPH est une banque coop\u00e9rative locale et de proximit\u00e9 valorisant une approche proche du \u00ab small is beautiful \u00bb. Sa vision humaine de l\u2019entreprise lui garantit un succ\u00e8s jamais d\u00e9menti. CPH a \u00e0 c\u0153ur de conserver son esprit PME qui constitue son \u00e2me, son authenticit\u00e9, sa diff\u00e9rence et son succ\u00e8s, qui l\u00e9gitime son existence m\u00eame. Loin de s\u2019apparenter \u00e0 une course effr\u00e9n\u00e9e vers la croissance \u00e0 tout prix, l\u2019ambition de La Banque CPH est surtout de maintenir et de parfaire son organisation.\u2026",
+            "longitude": 3.3915,
+            "category": {
+                "label": "Accounting en Financi\u00eble vacatures",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Banque CPH"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Henegouwen (Provincie)",
+                    "Doornik-Moeskroen",
+                    "Doornik"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Doornik, Doornik-Moeskroen"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5537634754?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=D6B8028085D0D03CE478DD62DC2898472824042F",
+            "salary_is_predicted": "0",
+            "created": "2025-12-11T08:53:52Z",
+            "id": "5537634754",
+            "title": "Financial Manager",
+            "latitude": 50.5717
+        },
+        {
+            "latitude": 51.19926,
+            "title": "Geofysicus",
+            "created": "2025-10-24T23:05:55Z",
+            "id": "5463221960",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Wat ga je doen? Jij gaat de verantwoordelijkheid nemen over: - Uitvoeren van GPR-metingen op verschillende locaties. - Kalibreren en onderhouden van GPR-apparatuur. - Verwerken en interpreteren van radarbeelden en geofysische data. - Opstellen van technische rapporten en adviezen op basis van GPR-analyses. - Samenwerken met ingenieurs, archeologen, milieu-experts en andere belanghebbenden. - Identificeren van ondergrondse structuren zoals leidingen, kabels, holtes en funderingen Wie ben jij? Ke\u2026",
+            "longitude": 3.81216,
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MzIyMTk2MCIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.5SZVhILS08udHD5HEtqHRHb8hRanuu3GXAf-a-N0zcE",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Asap.be",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Oost-Vlaanderen (Provincie)",
+                    "Eeklo",
+                    "Zelzate"
+                ],
+                "display_name": "Zelzate, Eeklo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5463221960?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Bouwkunde vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "created": "2025-04-09T12:42:27Z",
+            "latitude": 50.82768,
+            "location": {
+                "display_name": "Elsene, Brussel Hoofdstad",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb",
+                    "Brussel (Regio)",
+                    "Brussel Hoofdstad",
+                    "Elsene"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEzNzAzNTEzOSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.E7IPrvP9ZHbRs-aDo9nPuntjszEt5yGgpALHb34Ce-8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5137035139",
+            "title": "GenAI Engineer",
+            "salary_max": 70000,
+            "company": {
+                "display_name": "LittleBigCode",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5137035139?utm_medium=api&utm_source=58c69264",
+            "salary_min": 45000,
+            "description": "Design, develop, and deploy GenAI models , with a focus on large language models (LLMs) and multimodal systems Build, fine-tune, and optimize AI agents capable of autonomous reasoning, planning, and task execution Develop end-to-end GenAI pipelines, from data ingestion and preprocessing to model serving and monitoring Collaborate with cross-functional teams (engineering, product, data science) to integrate GenAI solutions into real-world applications Implement prompt engineering and retrieval-a\u2026",
+            "longitude": 4.37178
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Key Responsibilities Lead and support a team of IT technicians and support staff. Coordinate and oversee daily IT operations, ensuring high availability of systems. Manage and improve POS systems, order management platforms, reservation tools, and digital payment solutions specific to the restaurant business. Act as the liaison between IT and restaurant operations to ensure smooth technology integration. Identify process improvement opportunities and lead implementation. Oversee\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI5OTc2MDgxIn0.zKG7HbX4kLV7OpEf7HxIsmj6dWzCe01pJUYG2tDDUvc",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Antwerpen (Provincie)",
+                    "Antwerpen"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Antwerpen, Antwerpen (Provincie)"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5529976081?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Everience Benelux",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT ICT vacatures"
+            },
+            "title": "Teamlead IT Support (m/w/d)",
+            "created": "2025-12-05T21:59:57Z",
+            "id": "5529976081"
+        },
+        {
+            "title": "Technical Project Manager",
+            "created": "2025-11-27T07:32:27Z",
+            "id": "5515857006",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": " Technical Project Manager \u2013 Migration to Web Platform Location: Kontich / Hybrid Department: Engineering Reports to: CTO Type: Full-time  The Mission We\u2019re embarking on one of the most exciting transformations in our company\u2019s history \u2014 migrating our Facility client-based application into a next-generation web platform that\u2019s faster, smarter, and built for scale. To lead this mission, we\u2019re looking for a Technical Project Manager (TPM) who thrives at the intersection of technology, strategy, a\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTg1NzAwNiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.u4piY8hfUTTc_RhwhYd1DHU9PcqiZX0WDaxCcrbv7WM",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "display_name": "3P - Belgi\u00eb / Belgique",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5515857006?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3052187D69B0008E1225F448B9BDB484C5968074",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT ICT vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "id": "5515857571",
+            "created": "2025-11-27T07:36:03Z",
+            "title": "Automation (AVEVA) Engineer",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5515857571?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A031DC344A6B468C535F5582A987EA9939435BDF",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Capgemini Engineering"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTg1NzU3MSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.2SPinad-1BJDic-Td0vkmSPXlbtDbwapBy7mFy-Dg_I",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world\u2019s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the\u2026"
+        },
+        {
+            "created": "2025-11-26T06:59:54Z",
+            "id": "5514276268",
+            "title": "Accountant",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDI3NjI2OCIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.unWPnBHVarTcuwCE8qZVWDXjbUhU1-X0t6lRMDU7Vew",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Department: Accounting Sappi International\u2019s Accounting team plays a central role in ensuring accurate financial operations, strong governance, and seamless global collaboration. The team oversees financial reporting, compliance, treasury administration, accounts payable, and supports key strategic finance programs, including securitization and factoring. Sharon Gafri - Hiring Manager: \"We are a small team of accounting professionals in the Treasury Department responsible for managing treasury,\u2026",
+            "redirect_url": "https://www.adzuna.be/land/ad/5514276268?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=6A681904231881951F8C2CD1598EAA2CFD8892A9",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sappi"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT ICT vacatures",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5517541542?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=C5FADFBD5CCE9AB80036BF8E642498334DFB44E2",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Muto"
+            },
+            "description": "Mid-Market Account Executive (AE) Location: Hybrid, Ghent (Dok-Noord) & Antwerp (Middelheim-park) Department: Growth Type: Full-time Company Description Muto simplifies corporate mobility intelligence by connecting all aspects of company mobility from fleet and employees to contracts, invoices, and CO\u2082 reporting, into one data-driven platform. Our vision: to make mobility accessible for every employee, adaptable to every life phase, and manageable without complexity. Role Description This is a \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE3NTQxNTQyIn0.Ka49QpzlrtcR9FTGU6LpdsO1AkHTDgJeOR5cwzB63aw",
+            "title": "Mid-Market Account Executive",
+            "id": "5517541542",
+            "created": "2025-11-28T11:48:07Z"
+        },
+        {
+            "created": "2025-12-03T09:27:41Z",
+            "id": "5525456507",
+            "title": "Analyste Fonctionnel \u2013 Secteur \u00c9nergie",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "eXalt"
+            },
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5525456507?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2E2058E993EEE4776B7162FDB8CC766AC6B78935",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI1NDU2NTA3In0.vZDdj0sMPm89ljICe90Q656ehDq7dGcZMCKQ52U9q84",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "\u26a1 Analyste Fonctionnel \u2013 Secteur \u00c9nergie  Bruxelles | CDI eXalt recrute un(e) Analyste Fonctionnel(le) en CDI pour intervenir sur des missions \u00e0 fort impact chez nos clients (TSO, DSO, fournisseurs, traders, producteurs). C\u2019est l\u2019occasion id\u00e9ale de mettre votre sens de l\u2019analyse au service de projets strat\u00e9giques qui fa\u00e7onnent l\u2019\u00e9nergie de demain.  Votre mission Vous jouerez un r\u00f4le de relais entre les \u00e9quipes m\u00e9tiers et techniques. Concr\u00e8tement, vous serez amen\u00e9(e) \u00e0 : Comprendre les enjeux op\u2026"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Worldline"
+            },
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5525456664?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=9BD93087E2F99B80EC95A040E47F2D68A7A231DB",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "This is Worldline. Worldline helps businesses of all shapes and sizes to accelerate their growth journey - quickly, simply, and securely. We are the innovators at the heart of the payments technology industry, shaping how the world pays and gets paid. Our technology powers the growth of millions of businesses across 5 continents. And just as we help our customers accelerate their business, we are committed to helping our people accelerate their careers. Together, we shape the evolution. Day-to-\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI1NDU2NjY0In0.xHBV-8RzHYWnL5Mnw8KgkR7LjOx1aCwYBxaV_lBCFSw",
+            "title": "Payroll Specialist",
+            "id": "5525456664",
+            "created": "2025-12-03T09:27:51Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.be/land/ad/5498193108?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=17E6B0D206168D6B37735F125CF126F7FBD1CAB0",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb"
+            },
+            "company": {
+                "display_name": "Qcify",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Qcify Qcify develops advanced quality inspection and sorting systems for the food industry powered by computer vision and deep learning. As a fast-growing scale-up, we serve customers across five continents, with recent shipments to North and South America, Australia, Europe, and Asia. Our mission? Bringing consistency, efficiency, and transparency to the global food supply chain \u2014 with data and technology at the core of everything we do. Wanted: Financial Controller We\u2019re looking for a h\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk4MTkzMTA4In0.HrsHwBV3TM_S_j-UPh1-7wJyMhOUbrd_BgfQ3Tf2HbA",
+            "title": "Financial Controller",
+            "id": "5498193108",
+            "created": "2025-11-15T21:11:46Z"
+        },
+        {
+            "created": "2025-11-26T06:59:32Z",
+            "id": "5514276092",
+            "title": "Junior Business Analist",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "display_name": "Projective Talent | Part of Projective Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5514276092?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=31FDCD970999991002CBDB719D314BB2B8296456",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDI3NjA5MiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.H8rE7zodzT9Y5qfG4UGpvaGCgygz_nX5e2gh8K2OqYU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Junior Business Analyst (Consultancy Track) Location: Brussels area/Antwerp (Hybrid) Languages: Dutch and/or French (good understanding of the other)  English Experience: 0\u20132 years | Graduate level Hybride 2 days at the office Join our Smart Programme and start your career as a Business Analyst! At Projective Talent , we partner with leading companies to deliver impactful change across financial services, data, and digital transformation. Through our Smart Programme , you\u2019ll receive intensive c\u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDI3NjQzNyIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.nwrZf_45eBc9YaPuzQrMSYG3HMW_8ktBxPyer22-yPI",
+            "description": "eXalt Belgique recrute - CDI  Functional Analyst avec background technique Vous aimez creuser le fonctionnel, poser (beaucoup) de questions, et comprendre les enjeux m\u00e9tiers dans les moindres d\u00e9tails ? Si vous venez du monde du d\u00e9veloppement, que vous ma\u00eetrisez UML et SQL, et que vous souhaitez mettre votre curiosit\u00e9 au service de projets innovants dans le ferroviaire ou les syst\u00e8mes de gestion du trafic, ce poste pourrait vous correspondre. Nous recherchons un ou une Functional Analyst confirm\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "eXalt"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5514276437?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=D9CE930DDA6D44447A9A90F56E0FD3ECCACC5A2B",
+            "salary_is_predicted": "0",
+            "id": "5514276437",
+            "created": "2025-11-26T07:00:22Z",
+            "title": "Functional Analyst"
+        },
+        {
+            "title": "Business Controller",
+            "id": "5530550569",
+            "created": "2025-12-06T05:04:05Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "display_name": "A-Z Talents",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5530550569?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=A06912DE1D6C0720620BF718DB1BBD5B876618DD",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Company Our client, is the market leader in the Belgian distribution of MRO consumables and part of a strong international group. The company supports a wide range of industrial clients. With more than 400 motivated employees , 10 locations across Belgium, and an impressive portfolio of over 400,000 technical products , they deliver real added value to their customers every day. Their core values, unity, courage, and transparency, form the foundation of how they work, grow, and succee\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MDU2OSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.sai8ULgamDwophtj2ULRRV5CQ-i7lecMedPaytvIIIw"
+        },
+        {
+            "description": "Who we are Phinest is a Belgian Management Consulting firm providing tailor-made services for Bel20 and Bel20-like companies. We help these leading companies deliver their key strategic projects across various sectors (Utilities, Pharmaceutical, Banking & Insurance, Retail, Transport, Public, Telecom). We combine a human-sized organisation with large-scale impact . You are not just a consultant: you grow with us while making an impact for our clients. At Phinest, you\u2019ll find the right balance b\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MzE4NTc1MSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.5xe083k70Ir54aEum3gYQM8VUkkSsYInH3pExWMHNBc",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5483185751?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=5C55AD2B47034691F76E116B6F1C6E042CA491EC",
+            "company": {
+                "display_name": "Phinest",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Portfolio Manager",
+            "id": "5483185751",
+            "created": "2025-11-06T06:51:21Z"
+        },
+        {
+            "title": "Legal Counsel & DPO",
+            "id": "5536095019",
+            "created": "2025-12-10T13:55:55Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "display_name": "BankB",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5536095019?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=4A13C231A7B1D57F74EA39AB1C787BADB7848CAB",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Als bedrijfsjurist(e) ben je een onmisbare schakel binnen onze organisatie. Je bent het eerste aanspreekpunt voor juridische vragen binnen verschillende domeinen, van bank- en financieel recht, privacy, ICT (DORA, NIS2, AI, accesibility, ), marketing tot algemeen commercieel recht en geschillen. Als generalist werk je nauw samen met andere collega\u2019s die specifieke materies behandelen (o.a. kredieten, governance, HR). Met jouw expertise bouw je mee aan een stevig juridisch kader. Zo kan onze org\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjA5NTAxOSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.mkj-BAXr3a5Nx0sUEyggoPdAbOkROutVs9fY_-T1hRs"
+        },
+        {
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5498192707?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=048DAC696E89AEECFB6EFE2F9DB5EB7B0F0E88E2",
+            "company": {
+                "display_name": "VDAB",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5ODE5MjcwNyIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.IURUqYpZanLjyb6NnXABqKXtE0FGAy35Rc9zQRdKXQ0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Jouw toekomstige job \u2018Software factory\u2019 (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continu\u00efteit en de kwaliteit\u2026",
+            "created": "2025-11-15T21:11:35Z",
+            "id": "5498192707",
+            "title": "Java-ontwikkelaar"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDU1MDYyNCIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.9fGRVvk45xviavotnn-nvj6PtBMoRtvOgj0nBGlJbhU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are looking for a precise and passionate System Analyst who will be responsible for evaluating, designing, and improving our IT systems. Within the department responsible for military data, you will work closely with business stakeholders, developers, and project managers to ensure that technological solutions align with the organization\u2019s needs and contribute to our strategic objectives. Work Environment The IT&S Department of Defence\u2019s Competence Center is seeking experienced IT specialist\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5530550624?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=62C2D807984E4B668685F6F374D77C3A6E35F083",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Belgian Defence"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-12-06T05:04:10Z",
+            "id": "5530550624",
+            "title": "System Analyst (M/V/X)"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODkyNTAwMyIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.c7XdUaQtihvhCtn7HrwBEGdHBSv-JK6cTPDEIupvMWk",
+            "description": "Are you the Supplier Order Management Representative who turns chaos into clarity? As a SOM Representative, you will play a crucial role in efficiently handling the incoming goods process. You will act as an extension of the Purchase Department and closely monitor that all orders placed are correctly delivered as agreed. Your responsibilities include: Following up on schedules in cooperation with carriers, carefully coordinating time slots with the warehouse, checking all required paperwork and\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5518925003?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=664E45CA55BEB1B79F41B6BFD7B414EC33F0AEF2",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Overseas Distribution Company NV"
+            },
+            "salary_is_predicted": "0",
+            "id": "5518925003",
+            "created": "2025-11-29T11:35:09Z",
+            "title": "Supplier Order Management Representative"
+        },
+        {
+            "title": "SAP Analytics Consultant",
+            "id": "5097567828",
+            "created": "2025-03-17T18:25:22Z",
+            "description": "Join us as a SAP Analytics Consultant on a permanent contract in Zaventem! Job: Implementation of SAP BI tools for our customers Location: Zaventem Languages: French or Dutch and English You are a team player and have no trouble communicating clearly and openly with your colleagues. A little French? Of course! Can you speak Dutch? Wees maar zeker! Living and working in Belgium means that you speak at least English with French or Dutch on a daily basis. Your thirst for learning keeps you up to d\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA5NzU2NzgyOCIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.Cfi0MvC1ax_VPRtQkhu-LEjRtzbCz2wIUDbAGoU0ne4",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5097567828?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Micropole",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Analyst Intern - Generalist - Brussels (2026 Start Date)",
+            "created": "2025-10-25T06:07:51Z",
+            "id": "5463625418",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About Analysis Group Analysis Group is one of the largest international economics consulting firms, with more than 1,500 professionals across 15 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDYzNjI1NDE4In0.SDuNwx-YoUaN_jnKGfG3_boJNmM-F3ewu0taPWMIeMM",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "display_name": "Analysis Group, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5463625418?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Thales"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Luik (Provincie)",
+                    "Luik",
+                    "Herstal"
+                ],
+                "display_name": "Herstal, Luik",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5468509265?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT ICT vacatures",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY4NTA5MjY1In0.CTd7ejgHNmQv6thT_gIcpO8XZ-XFnbC_6a0HVL6bF3g",
+            "contract_time": "full_time",
+            "longitude": 5.63088,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Lieu : Herstal, Belgium Mission: The key user windchill creo will be the main contact person for both software packages, windchill for configuration management and Creo for the design of our products. He/she supports the other departments in finding the necessary solutions for there problems linked to the product development of configuration management. In case there is the need to have supplementary modules of Creo or windchill, the analyses and trials will be at your responsibility. Training \u2026",
+            "created": "2025-10-28T20:46:21Z",
+            "id": "5468509265",
+            "title": "Software Administrator Windchill & Creo",
+            "latitude": 50.66559
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "QA en Kwaliteitsborging vacatures",
+                "tag": "scientific-qa-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5531606949?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Elsene, Brussel Hoofdstad",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb",
+                    "Brussel (Regio)",
+                    "Brussel Hoofdstad",
+                    "Elsene"
+                ]
+            },
+            "company": {
+                "display_name": "Pulse Foundation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.37178,
+            "description": "Your Role \u2014 Product & Impact Analyst Intern Pulse Foundation is developing a pioneering AI-powered support platform for entrepreneurs in difficulty , including a new volunteer model and collaboration framework with social professionals. We are looking for an intern who will work closely with the Product Lead and the Chief Impact Officer to strengthen the product, impact and stakeholder work around this new initiative. This internship sits at the crossroads of data , product , social impact , an\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMxNjA2OTQ5In0.-k21w60sqjiR4fI42Rt7Uvb6089k-LHlFcf-Ma70sn8",
+            "title": "Product & Impact Analyst Intern",
+            "latitude": 50.82768,
+            "id": "5531606949",
+            "created": "2025-12-06T21:12:25Z"
+        },
+        {
+            "title": "Marketing Operations Manager",
+            "id": "5461388566",
+            "created": "2025-10-23T21:34:49Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Lighthouse, we\u2019re on a mission to disrupt commercial strategy for the hospitality industry. Our innovative commercial platform takes the complexity out of data, empowering businesses with actionable insights, advanced pricing tools, and cutting-edge business intelligence to unlock their full revenue potential. Backed by $370 million in series C funding and driven by an unwavering passion for growth, we\u2019ve welcomed five companies into our journey and have surpassed $100 million in ARR in 2024\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTM4ODU2NiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.DPlZEXTE8IxwfQVYEC4bDnYcRmAAzQmUwZA0Uc8VAbo",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR Reclame en Marketing vacatures"
+            },
+            "company": {
+                "display_name": "Lighthouse",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/details/5461388566?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Air Liquide",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5471543014?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "hr-jobs",
+                "label": "Personeelszaken Human Resources vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDcxNTQzMDE0In0.cMt2iuVqO27l1pMQlbYYTKhQ8P-E346-5DqyGqNkolU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "This is an exceptional opportunity for a motivated young professional to launch an international career in Talent Acquisition (TA), with a key focus on operational recruitment excellence. Based in Brussels, you will be integrated into our TA Center of Expertise (CoE) for the EAMEI (Europe, Africa, Middle East, India) region. Your primary mission will be to support the end-to-end recruitment lifecycle across diverse international roles. You will also dedicate significant time to specialized proj\u2026",
+            "id": "5471543014",
+            "created": "2025-10-30T20:47:32Z",
+            "title": "VIE - Talent Acquisition Specialist - Recruitment & AI Support (M/F/D)"
+        },
+        {
+            "id": "5525813084",
+            "created": "2025-12-03T16:13:00Z",
+            "title": "2025-0276 Support for Microsoft Power BI Implement. (NS) - TUE 16 Dec RELAUNCH",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI1ODEzMDg0In0.-KrOBTMWu6MwN9TonM1xpfPGw88_fof1-3mwiqMo0P0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Under the original submission, the previous quote was non-compliant for the following reasons: Profiles are missing Microsoft system engineer experience. Previously submitted bids were non-compliant for the following reasons: Insufficient experience ref SOW section 3.1.1 and 3.1.3. Further to Section 8.1.2 the candidate lacks extended experience in Oracle BI Products and databases. Insufficient experience ref SOW section 3.1.1 and 3.1.10. Further to Section 8.1.2 the candidate lacks extended ex\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "display_name": "EMW, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5525813084?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Vacatures Ander of Algemeen",
+                "tag": "other-general-jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Help Europe\u2019s biggest buildings waste less energy. Help Europe\u2019s biggest buildings waste less energy. Enersee is growing fast. We are scaling to the next phase and building the core of our energy efficiency platform to help hospitals, offices, factories, and cities become radically more energy efficient. To make that happen, we need you! We\u2019re looking for a Full Stack Developer who thrives on shipping features end-to-end . From frontend UI to backend logic, you\u2019ll help us deliver the technology\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTk4NzEzNiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.CGPPUmoeE9Urgao4LvrePufE_89LJcNEOQFAIakX2Ro",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "BV Enersee",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Antwerpen (Provincie)",
+                    "Antwerpen"
+                ],
+                "display_name": "Antwerpen, Antwerpen (Provincie)",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5505987136?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Energie Olie en Gas vacatures",
+                "tag": "energy-oil-gas-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Full Stack Developer",
+            "created": "2025-11-20T21:14:45Z",
+            "id": "5505987136"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR Reclame en Marketing vacatures",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "bpost"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5522406866?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "What will you do? Job purpose : The Corporate Commercial Excellence Director at bpost will establish the framework and governance for our sales and strategic marketing organization to further enhance customer centricity, boost sales efficiency, and foster commercial agility. The role focuses on redesigning and managing processes, and building organizational capabilities. It fosters a culture of excellence, innovation, and continuous improvement. Key responsibilities : 1. Sales performance & new\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjQwNjg2NiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.yXdmTQcwAiYev_5ZQSnlXysAgykoKudvRQlJyvpSsLE",
+            "title": "Commercial Excellence Director",
+            "id": "5522406866",
+            "created": "2025-12-01T20:34:18Z"
+        },
+        {
+            "created": "2025-08-08T17:45:45Z",
+            "id": "5343864113",
+            "title": "Client Executive - New Business",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hitachi Vantara Corporation"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5343864113?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzQzODY0MTEzIn0.alIx7vZeS8dH6fO0NEgzU4fSMNK30HzRyM61mzGAjbE",
+            "description": "Client Account Executive \u2013 New Business Our Company We\u2019re Hitachi Vantara, the data foundation trusted by the world\u2019s innovators. Our resilient, high-performance data infrastructure means that customers \u2013 from banks to theme parks \u00ad\u2013 can focus on achieving the incredible with data. If you\u2019ve seen the Las Vegas Sphere, you\u2019ve seen just one example of how we empower businesses to automate, optimize, innovate \u2013 and wow their customers. Right now, we\u2019re laying the foundation for our next wave of gr\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-11-30T05:15:27Z",
+            "id": "5519966079",
+            "title": "Logistics Engineer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Dark Light - data & BI consultancy"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5519966079?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B2E9F98ABE6AC010BE5557AE8A8AE7B3E985A654",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE5OTY2MDc5In0.pQIAoR2jmBgJSHJ-V9w7qNUe9StU67L8RnQnUH-tOg0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Company We are currently looking for one of our clients in Antwerp to find an ambitious professional who would like to take on the role of Logistics Engineer within a dynamic logistics environment. Responsibilities Lead warehouse implementations together with Operations, Engineering, and the client. Coordinate teams responsible for WMS setup, configuration, and training. Safeguard scope, budget, and KPIs to ensure a flawless start-up. Design warehouse processes, automation flows, and \u2026"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/details/5097567991?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Trensition"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Word lid van Trendtracker - Ontketen je potentieel Bij Trendtracker zijn we altijd op zoek naar gepassioneerde individuen die klaar staan om een impact te maken in de wereld van AI-gedreven strategische intelligentie. Als je gedreven wordt door innovatie, enthousiast bent om nieuwe uitdagingen aan te gaan en graag wilt groeien in een dynamische omgeving, dan horen we graag van je. Waar we naar op zoek zijn: Senior Full-Stack Ontwikkelaars: Uw expertise in softwareontwikkeling kan ons helpen ons\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA5NzU2Nzk5MSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.MDBEpEvmC3aLh4VbYS6qFgKoOk6j8nfjcWoQs4dYdXk",
+            "title": "Open sollicitatie",
+            "id": "5097567991",
+            "created": "2025-03-17T18:25:23Z"
+        },
+        {
+            "latitude": 50.87074,
+            "title": "Purchase Supply Chain Co\u00f6rdinator",
+            "id": "5435976629",
+            "created": "2025-10-07T21:21:41Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Logistieke vacatures",
+                "tag": "logistics-warehouse-jobs"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Limburg (Provincie)",
+                    "Tongeren",
+                    "Bilzen"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bilzen, Tongeren"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5435976629?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Carglass",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Vanuit ons Europees Distributiecentrum te Bilzen van 43.000m\u00b2 verzorgt Carglass\u00ae Distributie de Supply Chain van autoruiten en toebehoren voor de Belron@ groep in 25 landen. Per dag vertrekken er 6000 autoruiten en 25000 stuks toebehoren naar de 929 service centra binnen de Belron@groep. Tegelijkertijd verzorgt ze ook de aanvoer naar andere Carglass\u00ae distributiecentra, zowel binnen als buiten Europa. Hiervoor beschikt zij over een groep van 250 gemotiveerde medewerkers. Wil jij een cruciale rol\u2026",
+            "longitude": 5.51803,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzNTk3NjYyOSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.q6Jqkp0HfCedwFeHr7DBvOU9Hu8WJbcqCP4OnC4Ka2Y",
+            "contract_time": "full_time"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY0NTE2NTgyIn0.0cEmp4AuJg4F8LeVx6vY2sBiDnyUN9EAuUjqHe326pM",
+            "description": "Wij zoeken  Wij zoeken een enthousiaste, creatieve en resultaatgerichte professional die ons business development-, communicatie- en eventsteam versterkt. Je voelt je thuis in een dynamische, juridische omgeving en weet de nieuwste digitale trends te vertalen naar impactvolle communicatie. Je combineert een hands-on mentaliteit met strategisch inzicht en bent in staat om zowel zelfstandig als in teamverband te werken. Taken & Verantwoordelijkheden Websitebeheer & optimalisatie: Je beheert en op\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR Reclame en Marketing vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Schoups"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5464516582?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "created": "2025-10-25T21:40:06Z",
+            "id": "5464516582",
+            "title": "Communicatie & Digital Marketing Officer"
+        },
+        {
+            "id": "5444727402",
+            "created": "2025-10-13T01:09:43Z",
+            "latitude": 51.22852,
+            "title": "Business Controller",
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDQ0NzI3NDAyIn0.IMJta8tmhB02JF1KtSFmFRuFcskO9kmVQ_5rK8OX2sk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.31367,
+            "description": "Business Controller About the job Ben jij een resultaatgerichte financieel expert die houdt van data-analyse en structuur? Sta je te popelen om jouw inzichten om te zetten in waarde en mee te bouwen aan een data-gestuurde cultuur, binnen een innovatieve internationale omgeving? Dan is deze uitdagende rol als Business Controller zeker iets voor jou! Your responsibilities In deze dynamische functie draag je bij aan financi\u00eble besluitvorming en stimuleer je datagedreven verbeteringen binnen de org\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ITZU"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Limburg (Provincie)",
+                    "Maaseik",
+                    "Lommel"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Lommel, Maaseik"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5444727402?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Diest, Leuven",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb",
+                    "Vlaams-Brabant (Provincie)",
+                    "Leuven",
+                    "Diest"
+                ]
+            },
+            "company": {
+                "display_name": "ITZU",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5529854754?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Financieel controller About the job Samen met onze klant, een voedingsbedrijf regio Diest, zijn we op zoek naar een gemotiveerd financieel controller . Your responsibilities Naast de klassieke boekhoudkundige opdrachten , analyses en cost controlling, neem je ook een sleutelrol op in het beheer van onze data. Je verantwoordelijkheden omvatten onder meer: Accounting van A tot Z Opvolgen en optimaliseren van bestaande rapporteringen Uitvoeren van periodieke afsluitingen, grondige controles en ana\u2026",
+            "longitude": 5.01358,
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTg1NDc1NCIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.a439ZDVs8TGP1Q1oQJBoKJWox2a6Vlu0LGffMJKlwQ0",
+            "title": "Financieel controller",
+            "latitude": 51.00379,
+            "id": "5529854754",
+            "created": "2025-12-05T21:15:59Z"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PricewaterhouseCoopers"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5383154213?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzgzMTU0MjEzIn0.wmGXSI08tcgMogCjtvlHGSGEfOUKuPiFrRnRMzgVGjw",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Finance Management Level Associate Job Description & Summary Contribute to creating a better tomorrow The only way we can tackle the challenges of this fast-changing world is with passionate people. Led by our purpose of building trust and solving important problems, we come together at PwC to address the biggest issues facing the world in a way that drives positive impact. Are you eager to join a team fuelled by open and curiou\u2026",
+            "id": "5383154213",
+            "created": "2025-09-04T18:00:25Z",
+            "title": "Junior Finance Consultant"
+        },
+        {
+            "id": "5060933583",
+            "created": "2025-02-23T01:50:48Z",
+            "latitude": 51.20986,
+            "title": "Internship: Finetuning a Large Language Model",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MDYwOTMzNTgzIn0.RBirBbH2Fu99yd2x318yIGb5kFtAvABz27lvzR51fA8",
+            "longitude": 3.4482,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Rapid advancements in deep learning technology have led to the rise of Large Language Models (LLMs) \u2013 AI systems capable of generating context-aware, human-like responses to queries. Many of such models are publicly available, and while they perform great on general tasks, they often struggle with domain-specific tasks due to their general nature. To avoid the colossal cost of developing domain-specific LLMs from scratch, a technique called \u2018Finetuning\u2019 has recently gained traction. Here, an ex\u2026",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Info Support"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Oost-Vlaanderen (Provincie)",
+                    "Eeklo",
+                    "Maldegem"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Maldegem, Eeklo"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5060933583?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-11T01:20:42Z",
+            "id": "5537169206",
+            "title": "Performance Marketer BeNe",
+            "category": {
+                "label": "PR Reclame en Marketing vacatures",
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5537169206?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Schneider Electric"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzE2OTIwNiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.33X7ZREwCG9zFbfESH7Tlyp1gMq8zUfMilvJWI0UF4I",
+            "contract_time": "full_time",
+            "description": "At Schneider Electric, we empower our people to shape their careers and achieve their goals. Recognized by LinkedIn as a Top 25 Employer of Choice and ranked the world's most sustainable company for the second time, we offer an international, dynamic environment where innovation and sustainability go hand in hand. LI-JB10 About the Role As Performance Marketer BeNe , reporting to our offices in Ukkel, you will leverage data-driven insights to optimize marketing strategies, enhance channel perfo\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDg1NTAxODA2In0.F_5MH6bHkZukG12TM3DT7DmQ2zRFs0iMMrl21FBppjY",
+            "description": "We currently have a vacancy for a Full Stack developer fluent in English, to offer his/her services as an expert who will be based in Brussels, Belgium. The work will be carried out either in the company\u2019s premises or on site at customer premises. In the context of the first assignment, the successful candidate will be integrated in the Development team of the company that will closely cooperate with a major client\u2019s IT team on site. Tasks: Development of front-end website; Development of back-\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "display_name": "EUROPEAN DYNAMICS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5485501806?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Vacatures Ander of Algemeen"
+            },
+            "salary_is_predicted": "0",
+            "id": "5485501806",
+            "created": "2025-11-07T14:46:47Z",
+            "title": "Full Stack Developer"
+        },
+        {
+            "redirect_url": "https://www.adzuna.be/details/5010061742?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EUROPEAN DYNAMICS"
+            },
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Vacatures Ander of Algemeen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxMDA2MTc0MiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.0XVD4m2SqZ7kZr9lac5PpHsAkbFJertU639ZrzBJqm8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We currently have a vacancy for a System Integration & Workflow Specialist fluent in English, to offer his/her services as an expert who will be based in Brussels, Belgium. The work will be carried out either in the company\u2019s premises or on site at customer premises. In the context of the first assignment, the successful candidate will be integrated in the Development team of the company that will closely cooperate with a major client\u2019s IT team on site. Tasks: Design, plan, implement integratio\u2026",
+            "created": "2025-01-14T16:42:34Z",
+            "id": "5010061742",
+            "title": "System Integration & Workflow Specialist"
+        },
+        {
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.be/details/5403107492?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EUROPEAN DYNAMICS"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Vacatures Ander of Algemeen"
+            },
+            "description": "We currently have a vacancy for an IT Project & Portfolio Manager fluent in English, to offer his/her services as an expert who will be based in Brussels, Belgium. The work will be carried out either on the company\u2019s premises or on site at customer premises. In the context of the first assignment, the successful candidate will be integrated into the Development team of the company that will closely cooperate with a major client\u2019s IT team on site. Tasks Coordinate contributions to corporate requ\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDAzMTA3NDkyIn0.MwIkufuH9pvbx8jeaZr5SD_JKilX1Oak5GQ8f-Kz9Ho",
+            "contract_time": "full_time",
+            "title": "IT Project & Portfolio Manager",
+            "created": "2025-09-17T16:09:23Z",
+            "id": "5403107492"
+        },
+        {
+            "longitude": 4.44424,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Work from Home Survey Taker (Side Gig) We are looking for people who are motivated to participate in paid research across the country and local areas. Join this Work from Home Belgium Market Research Panel Today. You have two options when it comes to paid research : you can either take part in person or online. This is a great way for you to make extra income at home as data entry clerk. Compensation: Work from home and take surveys to earn Money. There are many payment options, including PayPa\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI0ODAxMDU0NDUwIn0.asAT88TYCPskPiw7MXh67m1O5xM2ALsomJZv44O9Eqg",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TowardJobs"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Henegouwen (Provincie)",
+                    "Charleroi",
+                    "Charleroi"
+                ],
+                "display_name": "Charleroi",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.be/details/4801054450?utm_medium=api&utm_source=58c69264",
+            "latitude": 50.41146,
+            "title": "Part Time Customer Service Representative",
+            "created": "2024-07-30T22:04:14Z",
+            "id": "4801054450"
+        },
+        {
+            "created": "2025-10-04T04:02:46Z",
+            "id": "5430653625",
+            "latitude": 50.91216,
+            "title": "Continuous Improvement Specialist",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzMDY1MzYyNSIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.PSEXu0m6QLa5nTcKzpMjD7RXV-G7L2RJ4UBSoHeOTIo",
+            "description": "PURPOSE OF THE JOB As a Continuous Improvement Specialist, you will drive practical improvement initiatives across departments in our rapidly expanding and increasingly automated distribution center in Machelen. You will connect data, processes, and people to identify and implement sustainable improvements, foster a Lean culture, and support the site's transformation journey. ROLES & RESPONSIBILITIES  Manage and execute process improvement projects using Lean and structured problem-solving meth\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.43535,
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb",
+                    "Vlaams-Brabant (Provincie)",
+                    "Halle-Vilvoorde",
+                    "Machelen"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Machelen, Halle-Vilvoorde"
+            },
+            "company": {
+                "display_name": "Abbott",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5430653625?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "description": "Migration Testing Specialist - Insurance Domain Location: Brussels, Belgium Work Model: Hybrid (2-3 days/week onsite) Employment Type: Full-time Job Category: Technology & Engineering Language Requirement: Dutch (Mandatory) About the role As a Migration Testing Specialist - Insurance Domain , you will play a critical role in ensuring the successful migration of back-office systems within a leading insurance environment. You will be a valued member of our cross-functional delivery team, collabor\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA5OTkxMDQ3In0.dfxsOvGohblg1UkPbNHNIGARHj5UkrM6SdvzLrv_CBg",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb"
+            },
+            "company": {
+                "display_name": "Cognizant",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5509991047?utm_medium=api&utm_source=58c69264",
+            "title": "Migration Testing Specialist",
+            "created": "2025-11-22T23:18:02Z",
+            "id": "5509991047"
+        },
+        {
+            "created": "2025-08-14T17:49:18Z",
+            "id": "5352419222",
+            "title": "Quality Assurance Software Development Engineer",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM1MjQxOTIyMiIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.wUfSOmz19Adcs9cwsWIr_v8vzcnWKrU9GF0LpUSaFI8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description Nokia\u2019s IP Network Division is at the heart of a revolution to bring more and faster network capacity to people and data centers worldwide through our ambition, innovation, and technical expertise. We are looking for a QA Engineer to define, program automated tests and drive test strategy(s) for cutting edge IP/DataCenter/Mobile features for our IP range of products. the IP Network Division presents Nokia right on top for global leadership in IP networking providing a comprehensive \u2026",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Nokia Global"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5352419222?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "IT ICT vacatures",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-12-05T21:59:57Z",
+            "id": "5529976097",
+            "title": "Marketing Campaign Specialist",
+            "latitude": 50.88769,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTk3NjA5NyIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.Qhi3MIdvFK5z7V0OCR3uNGOctMScGUAmG670TpEF8FU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.47013,
+            "description": "Description du poste Le/La Marketing Campaign Specialist est responsable de la planification, l\u2019ex\u00e9cution et l\u2019optimisation des campagnes marketing multicanales (emailing, paid media, r\u00e9seaux sociaux, etc.) afin de g\u00e9n\u00e9rer des leads, accro\u00eetre la notori\u00e9t\u00e9 de la marque et soutenir les objectifs business. Vos responsabilit\u00e9s : Concevoir, planifier et piloter des campagnes marketing B2B sur diff\u00e9rents canaux (emailing, display, social media, SEA, etc.) pour l\u2019ensemble des solutions Quadient (SaaS\u2026",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Zaventem, Halle-Vilvoorde",
+                "area": [
+                    "Belgi\u00eb",
+                    "Vlaams-Brabant (Provincie)",
+                    "Halle-Vilvoorde",
+                    "Zaventem"
+                ]
+            },
+            "company": {
+                "display_name": "Quadient",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.be/details/5529976097?utm_medium=api&utm_source=58c69264",
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Devoteam Internship 2026",
+            "latitude": 50.91216,
+            "id": "5537657240",
+            "created": "2025-12-11T11:01:27Z",
+            "longitude": 4.43535,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Project Overview: We are excited to invite talented and motivated students to participate in our internship project focused on developing a cutting-edge data processing platform. This project offers an excellent opportunity to gain hands-on experience with cloud technologies while contributing to a real-world solution. Interns will also have the chance to work with modern tools like AWS services and Databricks, which are integral to the platform's architecture. Project Descripti\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM3NjU3MjQwIn0.opu0EdYlT9WBuHOPxDyvTta5cCsNVuSQK4IEPy1WNdk",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Devoteam Belgium"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Machelen, Halle-Vilvoorde",
+                "area": [
+                    "Belgi\u00eb",
+                    "Vlaams-Brabant (Provincie)",
+                    "Halle-Vilvoorde",
+                    "Machelen"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/details/5537657240?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT ICT vacatures",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDgzNjgxNyIsInMiOiJ0S080LTluVzhCR3hfTnRkbF92T3J3In0.oJJxPNm4bOPqmAO37Lj7D9upM23z4iknMIlPEOJEt24",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij klaar om het verschil te maken als Business Analyst in een organisatie waar technologie en logistiek elkaar versterken? In deze veelzijdige rol werk je op het snijvlak van IT en operations . Jij zorgt ervoor dat de systemen en processen perfect op elkaar aansluiten en ondersteunt de organisatie bij elke stap van de digitale transformatie. Beheren en onderhouden van het Transport Management Systeem (TMS) en aanverwante tools Analyseren en realiseren van systeemverbeteringen en integratie\u2026",
+            "redirect_url": "https://www.adzuna.be/land/ad/5504836817?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=15BA9D71BC835D035D2081483FEA406C135D14EB",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Conessence"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "id": "5504836817",
+            "created": "2025-11-20T09:20:04Z",
+            "title": "Business Analyst"
+        },
+        {
+            "description": " Vacature: Business Controller / Finance Business Partner  Regio: Heusden-Zolder  Contract: Vast, voltijds Ben jij een strategische denker met een passie voor cijfers \u00e9n business? Wil je echte impact maken binnen een groeiende organisatie die de absolute TOP is in zijn segment? Dan is deze rol iets voor jou!  Wat ga je doen? Als Business Controller / Finance Business Partner ben jij d\u00e9 financi\u00eble rechterhand van het management. Je vertaalt cijfers naar inzichten, uitdagingen \u00e9n oplossingen. Je \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAyODgwNTEyIn0.xjoDjpuweUJfHi20xrzYwlWnztrzjBwFxdwD8FCmg5Y",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belgi\u00eb",
+                "area": [
+                    "Belgi\u00eb"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5502880512?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=3836F1C1D8F68738D8264D677AA41E4B9CA66A22",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "APEX LEAGUE"
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Business Controller",
+            "created": "2025-11-19T08:03:44Z",
+            "id": "5502880512"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEtPNC05blc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDk4MTk3MjAyIn0.YhPzAiULacoohECJNYjvBEm9K5CKgPbYr0vuZh5V59U",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ben jij een echte \u201cpeople person\u201d die energie krijgt van connecteren, netwerken en matchen? Wil je je eerste stappen zetten in de wereld van IT recruitment en meebouwen aan een groeiend consultancybedrijf? Dan hebben wij de perfecte uitdaging voor jou! Over ons Wij zijn 3D-ICT, een dynamisch IT-consultancybedrijf. Onze consultants werken aan innovatieve projecten bij klanten in uiteenlopende sectoren \u2014 van softwareontwikkeling tot cloud en data. Om onze groei te ondersteunen, zoeken we een Juni\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.be/land/ad/5498197202?se=tKO4-9nW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=B20978DE8FE92A0357A32BA89AD64BC66B52A5B0",
+            "location": {
+                "area": [
+                    "Belgi\u00eb"
+                ],
+                "display_name": "Belgi\u00eb",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "3D-ICT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-15T21:12:54Z",
+            "id": "5498197202",
+            "title": "Junior IT Recruiter"
+        }
+    ],
+    "count": 5554,
+    "mean": 61902.88
+}

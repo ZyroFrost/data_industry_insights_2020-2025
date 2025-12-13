@@ -1,0 +1,1625 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 14587,
+    "results": [
+        {
+            "company": {
+                "display_name": "Talenza",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-15T03:49:11Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5496343196?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "salary_min": 165000,
+            "description": "Senior Data Engineer (Initial 12 month FTC - With a view to turn perm) Greenfield Microsoft Fabric Build. Reporting to CIO A leading organisation is standing up a brand new Data and Analytics function. This is a rare greenfield opportunity for a Data Engineer who wants to shape an entire ecosystem from day one. You will work directly with the CIO. You will own the design, build, and evolution of a modern Azure and Microsoft Fabric environment. The strategy is already mapped . Now they need some\u2026",
+            "title": "Senior Data Engineer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk2MzQzMTk2In0.RXUHDFpFvv9_G0OqezBAuJAZC7Ts_mEqK4fSKuD7C7c",
+            "location": {
+                "display_name": "North Sydney Area, North Shore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "North Shore",
+                    "North Sydney Area"
+                ]
+            },
+            "id": "5496343196",
+            "salary_max": 180000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5520868897?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ALDI Stores"
+            },
+            "created": "2025-12-01T18:15:23Z",
+            "description": "Job Description An exciting opportunity for an Analyst has become available in our Forecasting and Data Analytics team within the National Supply Chain department of ALDI stores. This is a permanent full-time opportunity. The National Supply Chain Forecasting & Data team are responsible for developing accurate demand forecasts and analysing complex supply chain data to support efficient planning and decision-making. They provide critical insights and data-driven recommendations to optimise inve\u2026",
+            "title": "Forecasting & Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDg2ODg5NyIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.9XU_nDbn6hT-Eo3EW8yBXExybe1YFYbMqa17RjdQ8NE",
+            "latitude": -33.78167,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "longitude": 150.81367,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Minchinbury, Blacktown Area",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Western Sydney",
+                    "Blacktown Area",
+                    "Minchinbury"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5520868897"
+        },
+        {
+            "id": "5535590372",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -33.885283,
+            "created": "2025-12-10T12:48:21Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5535590372?utm_medium=api&utm_source=58c69264",
+            "salary_max": 700,
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM1NTkwMzcyIn0.ZAun0Irc4ptDGGSTd90nKg1szPJ0TtzJ555_jlZvXg8",
+            "contract_type": "contract",
+            "title": "GCP Data Engineer",
+            "description": "About the role You will work as a key member of a collaborative data engineering team, responsible for building, maintaining, and uplifting core GCP data platforms. You take ownership of defined deliverables, contribute to reliable and scalable solutions, and help drive best practice across documentation, observability, and deployment. You will work closely with engineers, vendor partners, and business stakeholders to ensure data enhancements and platform improvements are delivered safely, effe\u2026",
+            "salary_min": 600,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Correlate Resources"
+            }
+        },
+        {
+            "description": "Job Description On a typical day you will: Lead, mentor and motivate a data science team (up to10 people) and set the technical direction and standards Collaborate within a cross-functional digital team, including Product Management, Engineering and Design. Bridge the gap between business problems and data science solutions, turning opportunities into impactful, production-ready models. Utilise strong analytical and modelling skills to design, build, and validate machine learning solutions, par\u2026",
+            "title": "Lead Data Scientist",
+            "redirect_url": "https://www.adzuna.com.au/details/5514505767?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lendi Group"
+            },
+            "created": "2025-11-26T23:56:36Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "id": "5514505767",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDUwNTc2NyIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.BhDOENptgYYa1Y3qn-H09vStTaI0nCPZR6B0LujnjlI",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Phillip Riley"
+            },
+            "contract_type": "permanent",
+            "title": "Lead Data Scientist",
+            "description": "About the position: The Lead Data Scientist role is central to shaping and delivering the organisation\u2019s strategy through advanced analytics, machine learning, and AI. Your role: This position drives the development of innovative, data-driven solutions that enhance operational efficiency, support business growth, and improve customer outcomes. The role involves leading and developing a data science team, fostering a culture of continuous learning, and ensuring effective use of technology resour\u2026",
+            "salary_min": 210000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM1ODUxNDc0In0.dm8ZZsTicGmTthqaVeJwSaH1vt_M1iZ2_UmU5x2bsT8",
+            "salary_max": 210000,
+            "salary_is_predicted": "0",
+            "longitude": 144.957935,
+            "created": "2025-12-10T16:12:55Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5535851474?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": -37.806509,
+            "id": "5535851474",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": -37.806509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTU4OTQ5MyIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.GdoXF5OkVxqJNiD_E2oUro15uEqCGOABWUrDKiRX51c",
+            "id": "5535589493",
+            "location": {
+                "display_name": "Melbourne, Melbourne Region",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 144.957935,
+            "created": "2025-12-10T12:47:57Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Torch Professional Services Pty Ltd"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5535589493?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "contract_type": "contract",
+            "title": "Data Migration Specialist",
+            "description": "Our client is undertaking a major business transformation program and is seeking an experienced Data Migration Specialist to play a key role in supporting the migration of critical data and documents into production environments. This is an exciting opportunity for a specialist who thrives in complex data environments and wants to contribute to a high-impact national transformation initiative. About the Role In this role, you will lead end-to-end data migration activities, ensuring data accurac\u2026"
+        },
+        {
+            "id": "5535915553",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Port Phillip",
+                    "Middle Park"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Middle Park, Port Phillip"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": -37.844856,
+            "created": "2025-12-10T17:38:58Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5535915553?utm_medium=api&utm_source=58c69264",
+            "salary_max": 150000,
+            "salary_is_predicted": "0",
+            "longitude": 144.977613,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM1OTE1NTUzIn0.8BXxHiWT9IBsNcjTlveRFjt6nkco4cDcMbYABNhGpo0",
+            "title": "Consultant - Data Engineer",
+            "description": "At Intelligen, we\u2019re building something different. Over the past three years, we\u2019ve evolved from a bold startup to a trusted partner for some of Australia\u2019s most complex data transformations. As demand for modern data engineering accelerates, we\u2019re expanding our consulting team with hands-on technical talent who can help clients uplift and modernise their data platforms at speed. We\u2019re now embarking on a major engagement with a key enterprise client and are looking for experienced dbt\u2013Snowflake\u2026",
+            "salary_min": 113000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Intelligen Group"
+            }
+        },
+        {
+            "salary_max": 150000,
+            "salary_is_predicted": "0",
+            "longitude": 151.206616,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTkxNTU1MiIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.rw4Y5lPNGAWnSvUQssztGtscznS7RA0do77thSFEtEw",
+            "salary_min": 113000,
+            "description": "At Intelligen, we\u2019re building something different. Over the past three years, we\u2019ve evolved from a bold startup to a trusted partner for some of Australia\u2019s most complex data transformations. As demand for modern data engineering accelerates, we\u2019re expanding our consulting team with hands-on technical talent who can help clients uplift and modernise their data platforms at speed. We\u2019re now embarking on a major engagement with a key enterprise client and are looking for experienced dbt\u2013Snowflake\u2026",
+            "title": "Consultant - Data Engineer",
+            "company": {
+                "display_name": "Intelligen Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "display_name": "The Rocks, Sydney"
+            },
+            "id": "5535915552",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -33.865715,
+            "created": "2025-12-10T17:38:58Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5535915552?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Intelligen Group"
+            },
+            "title": "Consultant - Data Engineer",
+            "description": "At Intelligen, we\u2019re building something different. Over the past three years, we\u2019ve evolved from a bold startup to a trusted partner for some of Australia\u2019s most complex data transformations. As demand for modern data engineering accelerates, we\u2019re expanding our consulting team with hands-on technical talent who can help clients uplift and modernise their data platforms at speed. We\u2019re now embarking on a major engagement with a key enterprise client and are looking for experienced dbt\u2013Snowflake\u2026",
+            "salary_min": 113000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTkxNTU1OCIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.9GU6Prbk7t_1LVYZpq4npBG973Qii-EQc1bFKwUjgM0",
+            "salary_max": 150000,
+            "longitude": 153.023362,
+            "salary_is_predicted": "0",
+            "created": "2025-12-10T17:38:58Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5535915558?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": -27.467089,
+            "id": "5535915558",
+            "location": {
+                "display_name": "Brisbane CBD, Brisbane",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane",
+                    "Brisbane CBD"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5517681157",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzY4MTE1NyIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.c2TyI5U2NwulvmEHmHhsKvYFKM2kwRypjqfJ7BJMz4o",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "title": "Data Solutions Manager",
+            "description": "Job Description We\u2019re looking for someone to lead the migration of our data sources to Google Cloud Platform (GCP) and help the business make the most of GCP\u2019s AI capabilities. This is a hands\u2011on delivery role where you\u2019ll manage a small team, work with global colleagues, and partner with the business to deliver scalable, secure data solutions. What you\u2019ll do: Lead the migration of on prem databases and datasets into Google Cloud Platform (GCP), ensuring integrity and security. Design and maint\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5517681157?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-29T00:11:16Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Colliers"
+            }
+        },
+        {
+            "title": "Data Analyst Intern",
+            "description": "ABOUT US STUDY AND WORK helps companies hire emerging talent with the ambition to prove themselves in the workplace. Currently, we have several companies looking to hire Data Analyst Interns so as to \u201cTry Before You Hire\u201d under our Professional Internship Program. ABOUT OUR CLIENTS As a Data Analyst Intern, you will be working with data and business intelligence teams in medium to large companies or consulting agencies. You will gain hands-on experience under the guidance of highly experienced \u2026",
+            "contract_type": "contract",
+            "contract_time": "part_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5514272671?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-26T16:51:09Z",
+            "company": {
+                "display_name": "Study and Work",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "salary_is_predicted": "0",
+            "id": "5514272671",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDI3MjY3MSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.wFtZ1_cVwe08rT0ABt1RyqUE5xpFZtLQziaWcifM9OM",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTIyMTc2NTM3In0.MfgOMgo3ELsqSQuTfPbIZxhDlfttRWbpPGI8J4AzWvw",
+            "location": {
+                "display_name": "Melbourne, Melbourne Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ]
+            },
+            "id": "5522176537",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Clicks IT Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-02T04:44:07Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5522176537?utm_medium=api&utm_source=58c69264",
+            "description": "Australian Citizenship Mandatory with Baseline Clearance Multiple locations available 12 months with 2 *12 months extensions About the Role Our clients is seeking an experienced AWS Cloud Data Architect to drive the modernisation of enterprise data services. You'll design and deliver cloud-native data architectures that are secure, resilient, and enable real-time data access and advanced analytics. This is a leadership role where you'll influence strategy, mentor teams, and ensure solutions del\u2026",
+            "title": "Senior Data Architect"
+        },
+        {
+            "id": "5502611401",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "latitude": -37.806509,
+            "created": "2025-11-19T11:01:30Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5502611401?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "salary_max": 850,
+            "salary_is_predicted": "0",
+            "longitude": 144.957935,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjYxMTQwMSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.gMhytULVREuxRyyqbtdBVHursT5apw9H9pyH5r0svpI",
+            "contract_type": "contract",
+            "title": "Senior Data Scientist",
+            "description": "Senior Data Scientist required to create a forecasting model for a government entity to predict case load. Responsibilities: Working with internal stakeholders to gather and define requirements Analysing historical and real-time data, assess data quality and identify gaps Developing qualitative forecasting models using statistical and machine learning techniques Building scalable and adaptable models to allow for changing case flows Requirements: Extensive background in data analysis and statis\u2026",
+            "salary_min": 850,
+            "company": {
+                "display_name": "FourQuarters",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "salary_max": 100,
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDk1Nzg3OSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.0jGqdJQbQx2xvlrKwqJhhTqqXEmsRZS2SZ660HTxe90",
+            "contract_type": "contract",
+            "title": "Licensed Data Technicians",
+            "salary_min": 0,
+            "description": "Calling All Licensed Data Technicians \u2013 Sydney & Melbourne! Major 2026 Projects | Live Data Centre Work | Fibre Patching Specialists | Yellow Badge Highly Regarded Are you an experienced Data Technician looking to step into some of the most exciting data centre and fibre infrastructure projects rolling out across both NSW and VIC in 2026? We want to hear from you now . We\u2019re building a high-performing talent pool of Licensed Data Technicians with proven experience in:  Live Data Centre Environm\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "White Collar Blue"
+            },
+            "id": "5524957879",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "label": "Trade & Construction Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "trade-construction-jobs"
+            },
+            "latitude": -33.885283,
+            "created": "2025-12-03T10:01:49Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5524957879?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAxMzQ3NTU3In0.M2OBvvcweiY37CxLidhNFpjHm7kaSdGjcCpCqLa-SGM",
+            "salary_max": 75000,
+            "longitude": 152.928532,
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Perigon Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "permanent",
+            "salary_min": 75000,
+            "description": "About the Role Our client is seeking a Data and Reporting Analyst to join their Technology team. This full-time Brisbane-based role is ideal for a junior candidate with strong analytical skills and a passion for data. You\u2019ll help coordinate data collection and support internal, external, and regulatory reporting needs, contributing to dashboards and visualisations that drive business decisions. Key Responsibilities Coordinate data collection and reporting processes Create and maintain dashboard\u2026",
+            "title": "Data & Reporting Analyst",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": -27.416056,
+            "location": {
+                "display_name": "Brisbane, Brisbane Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane"
+                ]
+            },
+            "id": "5501347557",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-11-18T18:02:01Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5501347557?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "title": "Chief Engineer - Data",
+            "description": "Chief Data Engineer - Financial Services Sydney Major FS Institution | Transformation Program Senior Leadership Role | Data, Cloud, Engineering Strategy About the Role Join us as a Chief Data Engineer and play a pivotal role in one of the Group's most ambitious transformation programs: a business-led, tech-enabled initiative designed to simplify processes, systems and technology across the organisation. This is a once-in-a-generation opportunity to define the future of data engineering, uplift \u2026",
+            "salary_min": 260000,
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.com.au/details/5533947131?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-09T08:21:15Z",
+            "company": {
+                "display_name": "Talenza",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5533947131",
+            "salary_max": 280000,
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzk0NzEzMSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.ZMjxC9TRBh8KEA-pdCUPU5wTT9r1l5l7YoO3DJIVAvA",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "id": "5533946832",
+            "salary_max": 286000,
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMzOTQ2ODMyIn0.DylsGcRd78ZPk6_TN9zHcT7SGwgOOsxLo8oGYYPdfpM",
+            "contract_type": "contract",
+            "title": "Data Platform Engineer",
+            "description": "Get recognition and reward working with this a pioneering industry leader, as they embark on a transformative journey! We are currently seeking a passionate Data platform engineer for an exciting 12-month contract opportunity within their highly respected Technology team. This pivotal role demands a seasoned professional with robust expertise in AWS Glue, AWS Lake formation. This is your opportunity to make a profound impact in in migrating customers from Cloudera to AWS native data services, e\u2026",
+            "salary_min": 234000,
+            "created": "2025-12-09T08:20:46Z",
+            "company": {
+                "display_name": "Mane Consulting",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5533946832?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.206616,
+            "id": "5410577544",
+            "location": {
+                "display_name": "The Rocks, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ]
+            },
+            "latitude": -33.865715,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMDU3NzU0NCIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.iL2A-q2bxZqLnfACQDOLxCB2vR_0jhI3Td_w13OO0I4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Principal Data Engineer",
+            "description": "Through proprietary software and AI, along with a focus on customer delight, Sleek makes the back-office easy for micro SMEs. We give Entrepreneurs time back to focus on what they love doing - growing their business and being with customers. With a surging number of Entrepreneurs globally, we are innovating in a highly lucrative space. We operate 3 business segments: Corporate Secretary : Automating the company incorporation, secretarial, filing, Nominee Director, mailroom and immigration proce\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5410577544?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-22T22:46:02Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sleek"
+            }
+        },
+        {
+            "company": {
+                "display_name": "Halcyon Knights",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "contract",
+            "salary_min": 800,
+            "description": "Help deliver a major CRM transformation, migrating sensitive data into Salesforce on a rolling contract with high impact and strong extension potential. What you\u2019ll be doing Leading data migration activities across legacy Microsoft CRM \u2192 Salesforce Building and optimising ETL pipelines (DBAmp experience highly regarded) Working with SQL Agent, stored procedures, and automation Managing data quality, mapping, cleansing, and reconciliation Supporting UAT and validation through dev, stage & prod e\u2026",
+            "title": "Data Migration Specialist",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM1OTk3MTM1In0.u-mMqfPlLOoFCZIabS2Q3oC-iRn1r6opmcp0yXZsrEk",
+            "salary_max": 800,
+            "longitude": 144.957935,
+            "salary_is_predicted": "0",
+            "created": "2025-12-10T18:20:04Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5535997135?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": -37.806509,
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "id": "5535997135",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "longitude": 152.928532,
+            "salary_max": 120000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDg5OTE3NyIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.2rk-28OX9CJ4Gfb-vKbR8AZq8jubulEQZDBxcAV5khE",
+            "salary_min": 120000,
+            "description": "Data Marketing Analyst Location: Brisbane Permanent position Become part of a national team of exceptional technologists dedicated to delivering meaningful impact for clients. They're on a mission to drive business transformation and build a smarter, more connected future through innovative data, AI and cloud solutions. What's in it for you: Work with Data technology that makes a measurable difference Clear structured career development plan Join a stable, supportive team who are in growth mode\u2026",
+            "title": "Data Marketing Analyst",
+            "contract_type": "permanent",
+            "company": {
+                "display_name": "Source Point Services Pty Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane"
+                ],
+                "display_name": "Brisbane, Brisbane Region"
+            },
+            "id": "5524899177",
+            "latitude": -27.416056,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5524899177?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-03T07:48:32Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5460370322?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Employment Hero",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-23T18:26:02Z",
+            "description": "Who we are Employment Hero is on a mission to make employment easier and more valuable for everyone. Our Employment Operating System brings hiring, HR, payroll and benefits into an all-in-one solution. Since our inception in 2014, we\u2019ve scaled to a $2 billion valuation and gained a presence in 6 countries globally - Australia, New Zealand, Singapore, Malaysia, the UK and Canada. We now service over 300,000 businesses and more than 2 million employees. The EH Way At Employment Hero, we\u2019re proud \u2026",
+            "title": "Senior Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MDM3MDMyMiIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.5lsd9IgGCW3mjTVV_-Z8LYISbTGfJSByH1d7cuJT8pY",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia"
+            },
+            "id": "5460370322"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5502346434?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "Mane Consulting",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-19T06:26:10Z",
+            "description": "Feel empowered in this Innovative company with AI and data analytics in its DNA. Leverage their global footprint to solve clients' business needs. You'll drive results that combines cutting edge advanced analytics and automated AI with an integrated suite of leading tools and technologies. Role Description The Senior Consultant / Data Engineer role is responsible for delivery and implementation of integration solutions. The ideal candidate would also be responsible for developing and delivering\u2026",
+            "salary_min": 130000,
+            "title": "Data & Analytics Consultant",
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAyMzQ2NDM0In0.qNlCgvGLFMKVi9QhJCVUEAH9gHbd4rTRxNp2akoRpro",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "salary_max": 150000,
+            "id": "5502346434"
+        },
+        {
+            "id": "5470266205",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "category": {
+                "label": "Consultancy Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MDI2NjIwNSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.hI8tEAhtVSt7cb6_z-z583d8ciLR8P-c2_dIZ1B1RX0",
+            "contract_type": "contract",
+            "title": "Data Engineer - Internship",
+            "description": "Data Analyst - Internship Decision Inc Australia is seeking a bright, eager, optimistic, and inquisitive intern that wants experience with a business that helps companies become Data-Driven to take on the challenges of a digital world. Sydney City, NSW, Australia At Decision Inc., we look for people who want to fulfil their passion for changing the world with technology and data. No two days are the same. You will be challenged and pushed whilst being nurtured and supported to become a master o\u2026",
+            "created": "2025-10-30T10:49:22Z",
+            "company": {
+                "display_name": "Decision Inc",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5470266205?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "company": {
+                "display_name": "Precision Sourcing",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-27T06:35:29Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5515258757?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "description": "Senior Data Scientist | NLP & LLM Focus | Financial Services We're partnering with a leading financial services organisation to find a technically strong Senior Data Scientist to join their analytics function. What We're Looking For: You're a Data Scientist who excels at productionising models and deploying robust, scalable solutions. Your strength lies in taking NLP and LLM projects from experimentation through to production, with deep technical expertise and strong engineering fundamentals. Y\u2026",
+            "salary_min": 160000,
+            "title": "Senior Data Scientist",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE1MjU4NzU3In0.0Ol3kf2ocISwSol9uPRJGwHyXVyP2qYL5eXoCW1ijJg",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "id": "5515258757",
+            "salary_max": 220000,
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-12-06T20:53:12Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5530727478?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": -37.806509,
+            "id": "5530727478",
+            "location": {
+                "display_name": "Melbourne, Melbourne Region",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FourQuarters"
+            },
+            "contract_type": "contract",
+            "title": "Data Project Manager",
+            "salary_min": 180000,
+            "description": "Project Manager required to lead a number of data platform initiatives as part of a large transformation program for a large financial services business. Responsibilities: leading project teams in the delivery of various data-related pieces of work liaising with business leaders and the IT Project Director to plan workstreams and drive successful delivery managing documentation, executing risk and arranging workshops and internal forums Requirements: extensive project management experience, wit\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDcyNzQ3OCIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.N7YXs1HCFt-tCaMJsSjcls-unXQIUUzQ9u4KIuKXv_w",
+            "salary_max": 180000,
+            "salary_is_predicted": "0",
+            "longitude": 144.957935
+        },
+        {
+            "longitude": 152.928532,
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzQxMDU1OSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.yeQbvdtvGQDhmzQ4c3Ext4YhQ_yfi1me4KKmCmO5YS4",
+            "contract_type": "permanent",
+            "salary_min": 350000,
+            "description": "Permanent opportunity Brisbane CBD/Hybrid location Lead growth across QLD & NSW Step into a senior role with autonomy, influence and the chance to help scale a fast-growing, values-led consulting firm Evinact is a consulting firm that helps organisations make better decisions through data, information management and digital transformation. They work with clients across government and industry to design and deliver practical, high-impact solutions - from data strategy and analytics through to di\u2026",
+            "title": "Partner - Data & Digital",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "PRA"
+            },
+            "location": {
+                "display_name": "Brisbane, Brisbane Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Queensland",
+                    "Brisbane Region",
+                    "Brisbane"
+                ]
+            },
+            "id": "5517410559",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": -27.416056,
+            "created": "2025-11-28T17:32:51Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5517410559?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time"
+        },
+        {
+            "latitude": -33.885283,
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5502704455",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "contract_time": "part_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5502704455?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-19T13:37:56Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAyNzA0NDU1In0.7DKw7mglGU-5makiXKwX4x_Vg9igHRaBIlMZtTvD9IE",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "salary_max": 20,
+            "company": {
+                "display_name": "Study and Work",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Analyst Intern",
+            "description": " 3-Month Unpaid Work Experience Opportunity \u2013 Data Analytics (Sydney | 3 Days On-Site) Organisation dedicated to empowering businesses through simple, smart and secure technology solutions. This short-term learning placement is designed to provide structured, supervised experience for students or early-career professionals seeking practical exposure to data analytics within a commercial environment. The placement focuses on skill development and observation rather than performing productive wor\u2026",
+            "salary_min": 20,
+            "contract_type": "contract"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzYzMzUzMCIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.5lxXf-e3INEwIkiHv_PN_FxHYc83PwTVaWcMWJsJTU0",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "id": "5533633530",
+            "salary_max": 260000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Clicks IT Recruitment",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T04:45:45Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5533633530?utm_medium=api&utm_source=58c69264",
+            "contract_type": "permanent",
+            "salary_min": 234000,
+            "description": "Location: Sydney (Hybrid - Office & Client Site) Contract: 6 Months (Strong Extension Potential) Eligibility: Must hold Australian Permanent Residency or Citizenship About the Role We're hiring a Lead / Senior Data Specialist for our client, a leading consultancy , to drive the transformation from legacy data silos to a Unified Lakehouse on Databricks . You'll lead discovery workshops, shape target architecture, and work with a high-performing engineering team to turn raw data into trusted insi\u2026",
+            "title": "Lead Data Specialist"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "LP Consulting Services"
+            },
+            "created": "2025-12-10T10:09:17Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5535373564?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "salary_min": 79040,
+            "description": "$38.99 per hour casual rate Free on site Parking Port of Brisbane Location 4178 - must have own transport Monday to Friday 7.00am-3.00pm We are currently seeking an experienced Master Data Officer to support the day to day operation of a large Finance Team. The preferred and successful candidate will have a dynamic \"can do \" attitude, work well as part or team while also taking initiative in unsupervised conditions in addition possessing a firm understanding of standard accounting practices. Co\u2026",
+            "title": "Master Data Officer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTM3MzU2NCIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.w1EKj7NsFYeV1X6k5CwHNld-k5Uo-z4IQIzyNX6TY9E",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia"
+                ],
+                "display_name": "Australia"
+            },
+            "id": "5535373564",
+            "salary_max": 83200,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "latitude": -37.806509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDUzMTc0NDY3In0.h2okcAVgnDTYkvt8KkBbv7Cx0NhhiZdgKgFZmp0lTLA",
+            "id": "5453174467",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 144.957935,
+            "created": "2025-10-18T13:20:56Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5453174467?utm_medium=api&utm_source=58c69264",
+            "title": "Data Center Operation Technician , Data Centre Operations",
+            "description": "Description The Infrastructure Operations team is looking for Data centre Trainee Technicians to join our expanding Infrastructure Operations team. Data centre Technicians are the primary resolver and troubleshoot and solve a range of data centre infrastructure issues including, but not limited to: hardware, fiber, networking, and related problems. If you like to use IT principles like computer architecture and the OSI model (Open Systems Interconnection Model) and apply them to finding solutio\u2026"
+        },
+        {
+            "title": "Contact Data Manager (Data Entry and Team Lead)",
+            "description": "Let\u2019s be BrilliantTogether Overview The Contact Data Manager is a senior role within the Rainmaker Data Team, including Contact Data entry and maintenance, as well as managing direct reports. Data Quality is critical and the role also includes assisting with day-to-day data operations, workflow and processes. This position provides the opportunity to grow your data and management skills, along with gaining knowledge on the financial services industry in Australia. Working within a long-establis\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5204220207?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-05-18T05:49:52Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ISS STOXX"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5204220207",
+            "location": {
+                "display_name": "Sydney, Sydney Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ]
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1MjA0MjIwMjA3In0.Qillja1aopb403n1cw-MTY0-R9nDX06j-ykf9InYHoI",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            }
+        },
+        {
+            "created": "2023-01-17T12:03:50Z",
+            "company": {
+                "display_name": "Infosys Singapore & Australia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/3853274756?utm_medium=api&utm_source=58c69264",
+            "title": "Lead Data Engineer",
+            "description": "Infosys Consulting is the worldwide management and IT consultancy unit of the Infosys Group (NYSE: INFY), a global advisor to leading companies for strategy, process engineering, and technology-enabled transformation programs. A pioneer in breaking down the barriers between strategy and execution, Infosys Consulting delivers superior business value to its clients by advising them on strategy and process optimization as well as IT-enabled transformation. To find out how we go beyond the expected\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzg1MzI3NDc1NiIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.oU3cb88LBQIPKl2lIStV6OGrQAyS5XYM2gL9lZYdB8E",
+            "id": "3853274756",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "contract_type": "permanent",
+            "description": "The Infrastructure Operations team is looking for Data centre Trainee Technicians to join our expanding Infrastructure Operations team. Data centre Technicians are the primary resolver and troubleshoot and solve a range of data centre infrastructure issues including, but not limited to: hardware, fiber, networking, and related problems. If you like to use IT principles like computer architecture and the OSI model (Open Systems Interconnection Model) and apply them to finding solutions to proble\u2026",
+            "title": "Data Center Operation Technician , Data Centre Operations",
+            "company": {
+                "display_name": "Amazon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-18T04:19:19Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5452525319?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "Australia",
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5452525319",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MjUyNTMxOSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.Giuy_XG2J5cGFsTTniX722bWQmXpc2uxSbxYU-gF-8U"
+        },
+        {
+            "longitude": 151.22041,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5470494003",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "Woolloomooloo"
+                ],
+                "display_name": "Woolloomooloo, Sydney"
+            },
+            "latitude": -33.86928,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDcwNDk0MDAzIn0.aO18o6BjXBeoJZCokvpaenevqqKfrpE6wmxRLhuc1SY",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Technical Data Officer",
+            "description": "Title: Technical Data Officer At KBR - We do things that matter. We deliver science, technology and engineering solutions to governments and companies around the world. KBR employs approximately 38,000 people worldwide with customers in more than 80 countries and operations in over 29 countries. KBR is proud to work with its customers across the globe to provide technology, value-added services, and long-term operations and maintenance services to ensure consistent delivery with predictable res\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5470494003?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-30T13:27:36Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KBR"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.au/details/5406153196?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-19T12:08:23Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CoStar Realty Information, Inc."
+            },
+            "title": "Senior Data Engineer",
+            "description": "Senior Data Engineer Job Description Company Overview: CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online marketplaces. Included in the S&P 500 Index and the NASDAQ 100, CoStar Group is on a mission to digitize the world's real estate, empowering all people to discover properties, insights and connections that improve their businesses and lives. We have been living and breathing the world of real estate informati\u2026",
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDA2MTUzMTk2In0.wc9Lq_mJOsBKRWo_7QXBu8vFQxz_csYd6ZBVOgg4V1s",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "longitude": 151.203231,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5406153196",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NDk5NzE4NDE1In0.0mw_ltX_dah0DyEvC4J4Rpzn2Ea0TtO7_RAa4mXOf2E",
+            "latitude": -33.79677,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.12436,
+            "location": {
+                "display_name": "North Ryde, Ryde Area",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Northern Suburbs",
+                    "Ryde Area",
+                    "North Ryde"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5499718415",
+            "redirect_url": "https://www.adzuna.com.au/details/5499718415?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Oracle",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-17T09:23:40Z",
+            "description": "Job Description Are you an experienced Data Centre Technician with a background in racking & stacking to deployment & decommissioning - and everything in between? Interested in new challenges and being part of a team working on critical projects? Then we'd like to talk to you! As an Oracle Data Centre Technician you will be the technical liaison between the technology teams and the Data Centre Environment. You will be able to troubleshoot and solve all but the most complex infrastructure issues\u2026",
+            "title": "Data Centre Technician"
+        },
+        {
+            "latitude": -37.806509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM4MjI2NTc0NiIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.1l9iBy1rIwpKg3cwEtXz6XPqDoxkQseFUr7kv3pKVXE",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 144.957935,
+            "id": "5382265746",
+            "location": {
+                "display_name": "Melbourne, Melbourne Region",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5382265746?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-04T11:08:43Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "L3Harris"
+            },
+            "title": "Configuration and Data Manager",
+            "description": "L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers' mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do. L3Harris Technologie\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.203231,
+            "salary_is_predicted": "0",
+            "id": "5120327126",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEyMDMyNzEyNiIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.8Yiy0OnE_oqC_6Ozry9Vss4AEZnm21PYh4mI5QR0kOo",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Data Governance Specialist",
+            "description": "Job Description: Data Governance Specialist Primary Skill: Data Governance Secondary Skill: Exposure to Profisee and Talend Metadata Manager tools Key Responsibilities: Develop and implement a comprehensive Data Governance Framework, including Operating Models, Policies, Processes, and Procedures. Define and periodically refresh Data Governance roles, responsibilities, stewardship models, and RACI matrices. Identify and manage Data Assets and Critical Data Elements, ensuring the application of \u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5120327126?utm_medium=api&utm_source=58c69264",
+            "created": "2025-04-01T06:12:08Z",
+            "company": {
+                "display_name": "Tech Aalto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzAwODg2NSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.Eqvs5RVjZMyu2Y3BJkasUUHSu2VRujPiyZCpOtf_0G8",
+            "longitude": 144.957935,
+            "salary_is_predicted": "0",
+            "salary_max": 550,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Speller International"
+            },
+            "salary_min": 350,
+            "description": "Master Data Analyst We are seeking a Master Data Analyst to join a busy Master Data BAU team. This role suits someone with solid ERP experience, strong attention to detail, and a passion for maintaining clean, reliable data. Your Role Data Stewardship Maintain high-quality master data across key systems. Develop and document processes to support consistent data standards. Partner with SMEs and data stewards to identify, correct, and prevent data issues. Support master data components of busines\u2026",
+            "title": "Master Data Analyst",
+            "latitude": -37.806509,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "id": "5523008865",
+            "redirect_url": "https://www.adzuna.com.au/details/5523008865?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-02T10:12:37Z"
+        },
+        {
+            "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion \u2013 it\u2019s a place where you can grow, belong and thrive. Your day at NTT DATA The Data Engineer (Consultant) is a seasoned subject matter expert, responsible for the transformation of data into a structured format that can be easily \u2026",
+            "title": "Data Engineer Consultant",
+            "redirect_url": "https://www.adzuna.com.au/details/5384712652?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "company": {
+                "display_name": "NTT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-09-05T21:28:48Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "id": "5384712652",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1Mzg0NzEyNjUyIn0.VuzoPW5llIS5TEnHjrDSp3rf_jVvEnlYuiN7HaK4-mc",
+            "latitude": -33.885283,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NTT America, Inc."
+            },
+            "created": "2025-08-22T10:59:01Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5363048334?utm_medium=api&utm_source=58c69264",
+            "description": "Make an impact with NTT DATA Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion - it's a place where you can grow, belong and thrive. Your day at NTT DATA The Data Engineer (Consultant) is a seasoned subject matter expert, responsible for the transformation of data into a structured format that can be easily \u2026",
+            "title": "Data Engineer Consultant",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MzA0ODMzNCIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.aq4u6FksFUpOOui2FhN7xiUayoZ-q50JazZs_rSN8jA",
+            "latitude": -33.885283,
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "id": "5363048334",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231
+        },
+        {
+            "company": {
+                "display_name": "APS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-28T20:33:58Z",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5517490589?utm_medium=api&utm_source=58c69264",
+            "salary_min": 95187,
+            "description": "The key duties of the position include The Role This is an opportunity for finance and data governance professionals with strong accounting and data management capabilities to work within a small multi-disciplined team of professionals, supporting finance business stakeholders during a period of major system and organisational change. Your key responsibilities will include: Supporting work area priorities, managing workflows, contributing to strategies and evaluating business outcomes. Understa\u2026",
+            "title": "Finance Data Officer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzQ5MDU4OSIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.2znaWu5dcWB4Q0hhgStHV5mIRPJ5VYn3gwGSNX9CIo4",
+            "location": {
+                "display_name": "Melbourne, Melbourne Region",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ]
+            },
+            "id": "5517490589",
+            "salary_max": 95187,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5517490592?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "APS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-28T20:33:58Z",
+            "description": "The key duties of the position include The Role This is an opportunity for finance and data governance professionals with strong accounting and data management capabilities to work within a small multi-disciplined team of professionals, supporting finance business stakeholders during a period of major system and organisational change. Your key responsibilities will include: Managing and leading a team, including providing clear and consistent communication, setting clear performance and behavio\u2026",
+            "salary_min": 120303,
+            "title": "Finance Data Manager",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE3NDkwNTkyIn0.Md2042S0tCqz0nhYIOYLcPsHYRibnmjP999sDJXv-SU",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "salary_max": 120303,
+            "id": "5517490592"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Kelsian Group"
+            },
+            "created": "2025-12-05T12:03:52Z",
+            "redirect_url": "https://www.adzuna.com.au/details/5528738184?utm_medium=api&utm_source=58c69264",
+            "description": "Join an award-winning ASX-listed organisation shaping the future of global transport. Play a key role in building trusted, high-quality data across Kelsian. Kelsian Group Limited is looking for an experienced Data Governance Specialist to help elevate the quality, security, and reliability of Kelsian's enterprise data. This is an exciting opportunity for a governance-minded data professional who enjoys building frameworks, improving data quality, influencing stakeholders, and embedding good dat\u2026",
+            "title": "Data Governance Specialist",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODczODE4NCIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.rdgn16wh1XsKUH5r4H15Z1MFDeH63zL7C--JlxWKCGY",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "South Australia",
+                    "Adelaide Region",
+                    "Adelaide"
+                ],
+                "display_name": "Adelaide, Adelaide Region"
+            },
+            "id": "5528738184",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.203231,
+            "id": "5519619635",
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sydney, Sydney Region"
+            },
+            "latitude": -33.885283,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTE5NjE5NjM1In0.8aQlRYsmoJeKdVturIKIea0CW6XJczQNUtxgMs0Iang",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "title": "Data Engineer - Snowflake",
+            "description": "UTS College is the premium pathway for students into the University of Technology Sydney (UTS), Australia's number one young university. Our vision is to actualise potential and enhance lives through the power of learning, our actions, and our people. Our purpose is to provide the best available opportunity for students to develop the knowledge, skills and attributes they need to attain their goals through market-leading courses, teaching excellence and an emphasis on the student experience. Ab\u2026",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.com.au/details/5519619635?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-30T05:59:25Z",
+            "company": {
+                "display_name": "UTS College",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "AI Data Engineer",
+            "description": "Credit Corp is Australia's largest provider of sustainable financial services to the credit impaired consumer segment. We are an ASX listed company with over 2200 staff in multiple locations in Australia, USA, New Zealand and Philippines. We work closely with regulators to provide sustainable financial solutions with the objective of improving our customers\u2019 circumstances as a pathway to mainstream financial inclusion. The Role: We're seeking an expert Data Engineer who is passionate about buil\u2026",
+            "redirect_url": "https://www.adzuna.com.au/details/5536305552?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-11T05:02:41Z",
+            "company": {
+                "display_name": "Credit Corp Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 151.2028,
+            "id": "5536305552",
+            "location": {
+                "display_name": "Sydney CBD, Sydney",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "Sydney CBD"
+                ]
+            },
+            "latitude": -33.88078,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjMwNTU1MiIsInMiOiJKdVlSUU03VzhCR2UzS3BfM2VvSDNRIn0.pjTr6ObHPDu_LPCXMwBFaRMveXbrRNLlu-veQPWTf7U",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "id": "4801331951",
+            "location": {
+                "area": [
+                    "Australia",
+                    "Victoria",
+                    "Melbourne Region",
+                    "Melbourne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Melbourne, Melbourne Region"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 144.957935,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "latitude": -37.806509,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI0ODAxMzMxOTUxIn0.9voLBUnTA3xkmBTwWzCQc0pVb7swC3oBON1nBUqsSd0",
+            "title": "Senior Data Engineer",
+            "description": "Ippon Australia is a team of true technologists who leverage contemporary thinking and tools to enhance the way our clients drive value. Whether it\u2019s a bespoke platform to improve employee engagement within a national retail chain, or developing an app that provides next level direct customer interaction; value is delivered to our clients when we begin by understanding the business outcomes they desire and then apply our technical expertise to make these a reality. We are expanding our market o\u2026",
+            "created": "2024-07-31T07:21:22Z",
+            "company": {
+                "display_name": "Ippon Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/4801331951?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Australia",
+                    "Australian Capital Territory",
+                    "Canberra Region",
+                    "South Canberra",
+                    "Parkes"
+                ],
+                "display_name": "Parkes, South Canberra"
+            },
+            "id": "5529042386",
+            "latitude": -35.30011,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5529042386?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "created": "2025-12-05T20:37:54Z",
+            "salary_is_predicted": "0",
+            "longitude": 149.13273,
+            "salary_max": 96344,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI5MDQyMzg2In0.nsjXFv5TgV1KoVpqCh-6jk6b5kfSxbgn4Iy23H5a2xA",
+            "salary_min": 96344,
+            "description": "About the role As part of the Digital First program, the Unified Data View (UDV) will provide a complete, accurate, and up-to-date data for Business Intelligence, data analysis, and enhanced collection search capability. The Unified Data View aggregates, unifies, and presents collection metadata from multiple, disparate sources into a single, cohesive view to facilitate better decision-making, improve data accessibility, and enhance data analysis capabilities for users across the National Archi\u2026",
+            "title": "Data Warehouse Developer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "APS"
+            }
+        },
+        {
+            "created": "2025-11-22T06:35:27Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "RAC"
+            },
+            "redirect_url": "https://www.adzuna.com.au/details/5508239488?utm_medium=api&utm_source=58c69264",
+            "contract_time": "part_time",
+            "title": "Data Governance Lead",
+            "description": "As a Data Governance Lead you will be e xecuting RAC Group data governance and data management directives under the guidance of the Senior Manager, Data Governance , to enable our federated businesses (domains) assess, maintain, protect and enrich our data assets in accordance with agreed principles, policies and standards while proactively contributing to the operationalisation of the enterprise D ata G overnance F ramework . This is a 1-year maximum term opportunity to start. What will you be\u2026",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTA4MjM5NDg4In0.UQoEvdRclRpLYLLe_B9za_CUhiPUuwSc5A7AeTudVkU",
+            "id": "5508239488",
+            "location": {
+                "area": [
+                    "Australia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Australia"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 151.206616,
+            "location": {
+                "area": [
+                    "Australia",
+                    "New South Wales",
+                    "Sydney Region",
+                    "Sydney",
+                    "The Rocks"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "The Rocks, Sydney"
+            },
+            "id": "5535766889",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSnVZUlFNN1c4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM1NzY2ODg5In0.StltvidJHLsQCj5ilPwyKKSqBOGlFiDHh_CUTtPHBKE",
+            "latitude": -33.865715,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "This is a Registry Data Lead role with ASIC based in Sydney, NSW, AU  ASIC  Role Seniority - mid level More about the Registry Data Lead role at ASIC At ASIC, you can be the change that ensures a fair, strong and efficient financial system for the benefit of all Australians. Contribute to delivering on ASIC's purpose, vision, and strategic priorities to help maintain the integrity of the financial system and protect consumers from harm. Step into a pivotal role as Registry Data Lead, where you'\u2026",
+            "title": "Registry Data Lead",
+            "contract_type": "permanent",
+            "redirect_url": "https://www.adzuna.com.au/details/5535766889?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "ASIC",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-10T14:33:36Z"
+        }
+    ],
+    "mean": 113870.02
+}

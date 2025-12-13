@@ -1,0 +1,1551 @@
+{
+    "mean": 205645.98,
+    "count": 36482,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1NDQwMDUzIn0.TMVXbE2Oa2nkfKIliasqoXrEFveHR8F7K_f7Zcyog9k",
+            "redirect_url": "https://www.adzuna.pl/details/5535440053?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T01:09:41Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "salary_min": 231840,
+            "salary_max": 302400,
+            "company": {
+                "display_name": "Addepto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Data Scientist ML Engineer",
+            "description": "Addepto is a leading AI consulting and data engineering company that builds scalable, ROI-focused AI solutions for some of the world\u2019s largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With our exclusive focus on Artificial Intelligence and Big Data, we help organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth. Beyond client projects, we have developed our own prod\u2026",
+            "longitude": 17.03854,
+            "id": "5535440053",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.10789
+        },
+        {
+            "longitude": 21.2453,
+            "id": "5535440051",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.21519,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ0MDA1MSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.YweZ-hD1MHxOeAg34dZbCRpy4f6T7SIsK31LzSd0SDM",
+            "redirect_url": "https://www.adzuna.pl/details/5535440051?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T01:09:41Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 231840,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Addepto"
+            },
+            "title": "Senior Data Scientist ML Engineer",
+            "salary_max": 302400,
+            "description": "Addepto is a leading AI consulting and data engineering company that builds scalable, ROI-focused AI solutions for some of the world\u2019s largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With our exclusive focus on Artificial Intelligence and Big Data, we help organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth. Beyond client projects, we have developed our own prod\u2026"
+        },
+        {
+            "id": "5535440101",
+            "salary_is_predicted": "0",
+            "longitude": 21.2453,
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.pl/details/5535440101?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ0MDEwMSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.12PerGu8i0BVD6A5zrwz9z-HV_KJw1_ZqOhjPrBix6k",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-10T01:09:41Z",
+            "salary_max": 342720,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Addepto"
+            },
+            "title": "Lead Data Scientist ML Engineer",
+            "salary_min": 231840,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "description": "Addepto is a leading AI consulting and data engineering company that builds scalable, ROI-focused AI solutions for some of the world\u2019s largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With our exclusive focus on Artificial Intelligence and Big Data, we help organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth. Beyond client projects, we have developed our own prod\u2026"
+        },
+        {
+            "longitude": 20.17848,
+            "salary_is_predicted": "0",
+            "id": "5535440136",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.1024,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "display_name": "Krak\u00f3w, ma\u0142opolskie"
+            },
+            "salary_min": 231840,
+            "salary_max": 342720,
+            "title": "Lead Data Scientist ML Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Addepto"
+            },
+            "description": "Addepto is a leading AI consulting and data engineering company that builds scalable, ROI-focused AI solutions for some of the world\u2019s largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With our exclusive focus on Artificial Intelligence and Big Data, we help organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth. Beyond client projects, we have developed our own prod\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1NDQwMTM2In0.OdJ6q8V-7PnkpxSK4XJ7-j9RjKVmD8HUMGvheXFU-kU",
+            "redirect_url": "https://www.adzuna.pl/details/5535440136?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T01:09:42Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            }
+        },
+        {
+            "id": "5535440322",
+            "salary_is_predicted": "0",
+            "longitude": 17.03854,
+            "latitude": 51.10789,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ0MDMyMiIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.oilDzHmE7BDiej59BT68t-CXJZfRapkcdNO7bLYkp5s",
+            "redirect_url": "https://www.adzuna.pl/details/5535440322?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-10T01:09:43Z",
+            "salary_min": 231840,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Addepto"
+            },
+            "title": "Senior Data Scientist Tech Lead",
+            "salary_max": 342720,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ]
+            },
+            "description": "Addepto is a leading AI consulting and data engineering company that builds scalable, ROI-focused AI solutions for some of the world\u2019s largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With our exclusive focus on Artificial Intelligence and Big Data, we help organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth. Beyond client projects, we have developed our own prod\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.10789,
+            "longitude": 17.03854,
+            "id": "5535440114",
+            "salary_is_predicted": "0",
+            "created": "2025-12-10T01:09:41Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.pl/details/5535440114?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQ0MDExNCIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.BIe0o-wDMIPeV8Sj5g0hAOHfcViemKWZf7nq1a31TYU",
+            "description": "Addepto is a leading AI consulting and data engineering company that builds scalable, ROI-focused AI solutions for some of the world\u2019s largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With our exclusive focus on Artificial Intelligence and Big Data, we help organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth. Beyond client projects, we have developed our own prod\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ]
+            },
+            "title": "Lead Data Scientist ML Engineer",
+            "salary_max": 342720,
+            "company": {
+                "display_name": "Addepto",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 231840
+        },
+        {
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Ksi\u0119gowo\u015b\u0107 i finanse"
+            },
+            "created": "2025-06-14T12:16:37Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjUwMjg3MjM0In0.D-yOlfHjW053hkZ6mxQDRGO4KpFk2fL9BSzbTwjtHao",
+            "redirect_url": "https://www.adzuna.pl/details/5250287234?utm_medium=api&utm_source=58c69264",
+            "description": "CAPCO POLAND *We are looking for candidates based in Ma\u0142opolskie voivodship/twice a week in the office * Joining Capco means joining an organisation that is committed to an inclusive working environment where you\u2019re encouraged to BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It\u2019s important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something differen\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5250287234",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Capco"
+            },
+            "title": "Business Analyst- Data System Migration",
+            "location": {
+                "area": [
+                    "Polska"
+                ],
+                "display_name": "Polska",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5363436223?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzYzNDM2MjIzIn0.2hoTla4_eA42ZLVKGTLjEFxsO9hB73BrXGbAStIN64k",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-08-22T13:14:30Z",
+            "company": {
+                "display_name": "People.ai",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5363436223",
+            "salary_is_predicted": "0",
+            "title": "Senior Software Engineer, Data Modeling",
+            "location": {
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "People.ai is an AI-powered foundational data platform that helps customers unlock go-to-market success & growth by providing teams with solutions built specifically for their needs. Providing enhanced pipeline visibility, more actionable insights, and a single source of truth for all sales activities. People.ai\u2019s unique dataset, consisting of trillions of sales activities, millions of deals, 160 million business contacts, and 69 approved patents related to AI-based business insights, sets the c\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "title": "Data and Analytics Team Lead",
+            "id": "5518310149",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Randstad"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "As a Data & Analytics Lead, you will play a key role in driving collaboration, bringing together data from multiple verticals to analyse and optimize marketing performance across the customer journey. Your work will directly influence business decision-making by delivering tangible reports, insights, and opportunities for improvement. With a strong focus on data storytelling, you will translate complex data into compelling narratives, creating presentations and reports that clearly communicate \u2026",
+            "redirect_url": "https://www.adzuna.pl/details/5518310149?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODMxMDE0OSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.VRc2zVK5olfx4btD0Gr61zgfhos2iC0CkGTlIdKLNQg",
+            "created": "2025-11-28T19:51:28Z",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, reklama, marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTU5ODk4MyIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.qT5T8BbK8BYQWuOW-swif5QvPGs96sCCT3wCFWWutRw",
+            "redirect_url": "https://www.adzuna.pl/details/5485598983?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-11-07T16:18:47Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Hylogic sp. z o.o."
+            },
+            "id": "5485598983",
+            "salary_is_predicted": "0",
+            "title": "Senior Supply Chain Data Scientist",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "description": "Expected, PythonOptional, Microsoft Azure, DatabricksAbout the project, As a Senior Data Scientist, you will be designing and building advanced data science systems to solve specific business cases for our customers. You will be supported by our small but dedicated team of data scientists, coordinate with other teams and domain experts within the company, as well as with business stakeholders on our customers\u2019 side to deep dive into customer\u2019s data and use cases, propose solutions, and apply ma\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5510682291",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Relativity"
+            },
+            "salary_is_predicted": "0",
+            "title": "Lead Distributed Data Platform Engineer",
+            "location": {
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Posting Type Remote Job Overview We are building a specialized team focused on enabling advanced analytics and reporting capabilities across our internal data ecosystem. As a Tech/Team Lead, you will combine deep technical expertise with leadership skills to guide a team in designing and maintaining data platforms that integrate modern lakehouse technologies, distributed compute frameworks, and cloud-native services to support diverse analytical use cases and enterprise-scale insights. You will\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTEwNjgyMjkxIn0.H6Eo5S4ieB13PF8vUGkxgGIXI--J1J0z4vBE6lVHvGc",
+            "redirect_url": "https://www.adzuna.pl/details/5510682291?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-11-23T22:43:30Z"
+        },
+        {
+            "description": "We are building a specialized team focused on enabling advanced analytics and reporting capabilities across our internal data ecosystem. As a Tech/Team Lead, you will combine deep technical expertise with leadership skills to guide a team in designing and maintaining data platforms that integrate modern lakehouse technologies, distributed compute frameworks, and cloud-native services to support diverse analytical use cases and enterprise-scale insights. You will lead architectural decisions, me\u2026",
+            "company": {
+                "display_name": "Relativity",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Lead Distributed Data Platform Engineer",
+            "salary_max": 348000,
+            "salary_min": 231996,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-01T21:16:49Z",
+            "redirect_url": "https://www.adzuna.pl/details/5522762543?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyNzYyNTQzIn0.DsyBJKGW9z99I72U5vvXf6GusRJqgeq5YAD-qEdZjzE",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5522762543",
+            "salary_is_predicted": "0",
+            "longitude": 21.2453
+        },
+        {
+            "latitude": 50.26008,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5522762540",
+            "salary_is_predicted": "0",
+            "longitude": 19.02547,
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-01T21:16:49Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyNzYyNTQwIn0._HDmE643wa6WK6EoXVo7TM_OJsCaxUbPKJ4zZonVVLo",
+            "redirect_url": "https://www.adzuna.pl/details/5522762540?utm_medium=api&utm_source=58c69264",
+            "description": "We are building a specialized team focused on enabling advanced analytics and reporting capabilities across our internal data ecosystem. As a Tech/Team Lead, you will combine deep technical expertise with leadership skills to guide a team in designing and maintaining data platforms that integrate modern lakehouse technologies, distributed compute frameworks, and cloud-native services to support diverse analytical use cases and enterprise-scale insights. You will lead architectural decisions, me\u2026",
+            "salary_min": 231996,
+            "salary_max": 348000,
+            "title": "Lead Distributed Data Platform Engineer",
+            "company": {
+                "display_name": "Relativity",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Katowice, \u015bl\u0105skie",
+                "area": [
+                    "Polska",
+                    "\u015bl\u0105skie",
+                    "Katowice"
+                ]
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ]
+            },
+            "salary_min": 231996,
+            "salary_max": 348000,
+            "title": "Lead Distributed Data Platform Engineer",
+            "company": {
+                "display_name": "Relativity",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are building a specialized team focused on enabling advanced analytics and reporting capabilities across our internal data ecosystem. As a Tech/Team Lead, you will combine deep technical expertise with leadership skills to guide a team in designing and maintaining data platforms that integrate modern lakehouse technologies, distributed compute frameworks, and cloud-native services to support diverse analytical use cases and enterprise-scale insights. You will lead architectural decisions, me\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjc2MjU0NSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.S8faPeesIk-Vhm1JMdJvMdYpnDnfaOkGcPJ8072GoU0",
+            "redirect_url": "https://www.adzuna.pl/details/5522762545?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-01T21:16:49Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 18.64664,
+            "id": "5522762545",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 54.35203
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5522762537?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyNzYyNTM3In0.XczOs6iNeKc4bJXqvWzZhC5KmR7agGSfsRagUCip4P4",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-01T21:16:49Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Relativity"
+            },
+            "title": "Lead Distributed Data Platform Engineer",
+            "salary_max": 348000,
+            "salary_min": 231996,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ]
+            },
+            "description": "We are building a specialized team focused on enabling advanced analytics and reporting capabilities across our internal data ecosystem. As a Tech/Team Lead, you will combine deep technical expertise with leadership skills to guide a team in designing and maintaining data platforms that integrate modern lakehouse technologies, distributed compute frameworks, and cloud-native services to support diverse analytical use cases and enterprise-scale insights. You will lead architectural decisions, me\u2026",
+            "id": "5522762537",
+            "salary_is_predicted": "0",
+            "longitude": 20.17848,
+            "latitude": 50.1024,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "longitude": 17.03854,
+            "id": "5522762544",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.10789,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Relativity"
+            },
+            "title": "Lead Distributed Data Platform Engineer",
+            "salary_max": 348000,
+            "salary_min": 231996,
+            "description": "We are building a specialized team focused on enabling advanced analytics and reporting capabilities across our internal data ecosystem. As a Tech/Team Lead, you will combine deep technical expertise with leadership skills to guide a team in designing and maintaining data platforms that integrate modern lakehouse technologies, distributed compute frameworks, and cloud-native services to support diverse analytical use cases and enterprise-scale insights. You will lead architectural decisions, me\u2026",
+            "redirect_url": "https://www.adzuna.pl/details/5522762544?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyNzYyNTQ0In0.7GQXmGrliKXqBeRahXQFX5GTxdrXfmh9SGSLwPrbFTo",
+            "created": "2025-12-01T21:16:49Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5461263420?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTI2MzQyMCIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.KUoXaYS95PGe8UdxQRpUN_bHT6nvrl-eRjhY4Oa07TA",
+            "created": "2025-10-23T19:05:03Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie"
+            },
+            "longitude": 21.2453,
+            "id": "5461263420",
+            "title": "Data and AI DevOps Engineer",
+            "company": {
+                "display_name": "EY ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Data and AI DevOps Engineer Data and AI DevOps Engineer Warszawa The Technology Consulting team works with world\u2019s best-known large domestic and global: financial institutions, broker-dealers, foreign banking organizations, asset management and insurance companies, who trusted us to assist them with large scale transformation program delivery challenges. This is an opportunity to be a part of a fast growing Data & AI team focused on cutting edge technologies, including Gen AI/LLMs with plenty o\u2026",
+            "latitude": 52.21519
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5502335243?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjMzNTI0MyIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.NRWTgN2_Y1iFm5eZxVnlRNFSTMVbiEK4bBhoKL4E3rI",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-18T20:19:49Z",
+            "company": {
+                "display_name": "Tooploox",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5502335243",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Scientist / Team Lead",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "description": "Expected, PythonYour responsibilities, Work on end-to-end data science projects involving classical machine learning or statistical methods (e.g. time series forecasting) as well as deep learning approaches from data exploration and modeling to deployment., Collaborate with business stakeholders to understand their needs and translate them into machine learning solutions., Present complex analytical findings in a clear, actionable way to both technical and non-technical audiences., Contributing\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "latitude": 50.1024,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5485873312",
+            "salary_is_predicted": "0",
+            "longitude": 20.17848,
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-07T18:25:05Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTg3MzMxMiIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.UDbX8lbSaN3XA-Gpn5x3wVGArBXmrWP3C7oCKoSI9ag",
+            "redirect_url": "https://www.adzuna.pl/details/5485873312?utm_medium=api&utm_source=58c69264",
+            "description": "Bachelor's degree in Computer Science, Engineering, or a related field. Proven experience as a Data Engineer or in a similar role. Strong knowledge of data processing technologies and database systems ( SQL, NoSQL ). Experience with data pipeline and workflow management tools (e.g., Apache Airflow ). Proficiency in programming languages such as Python, Java, or Scala. Familiarity with cloud services ( AWS, GCP, Azure ). Strong problem-solving skills and attention to detail. Excellent communicat\u2026",
+            "salary_min": 13200,
+            "company": {
+                "display_name": "Mindbox S.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer @ Mindbox S.A.",
+            "salary_max": 15600,
+            "location": {
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "id": "5522377687",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AXA XL Catlin Services SE"
+            },
+            "title": "Client Data Analyst, Client Intelligence",
+            "location": {
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Expected, Microsoft Power BI, SQL, PythonYour responsibilities, Work with big data environment \u2013 providing analysis, metrics and reports supporting client management framework., Understand the relevant data from our systems and carry out all required data analysis., Develop complex SQL scripts to retrieve data from strategic systems., Develop tools based on stakeholder requirements that can be leveraged by other teams / regions., Elicit qualitative and quantitative data and use advanced analyti\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyMzc3Njg3In0.NOfyECseUNHCH38VSwkhY2tAZ6N0KtTn4kFaZ-VHsg4",
+            "redirect_url": "https://www.adzuna.pl/details/5522377687?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-01T20:31:53Z"
+        },
+        {
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-09-12T23:46:39Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzk2NDIwMzY5In0.w7t9JqHmgSPDh_GttGyPOEZ-tTNL5UwFyNPMjFgnxE0",
+            "redirect_url": "https://www.adzuna.pl/details/5396420369?utm_medium=api&utm_source=58c69264",
+            "description": "Do\u0142\u0105cz do naszego zespo\u0142u jako Data Engineer i wzmocnij funkcj\u0119 Data Delivery w obszarze Data & Analytics. B\u0119dziesz odpowiedzialny za rozw\u00f3j i utrzymanie platformy danych opartej na Informatica PowerCenter. Informacje organizacyjne: Bran\u017ca: Consulting IT Wakaty: 2 Lokalizacja: praca w 100% zdalnie Start: ASAP (max 3msc okresu wypowiedzenia) Stawka (do ustalenia): 155 - 175 PLN netto  VAT / h Warunki zaanga\u017cowania: B2B (outsourcing przez 1dea), full-time, long-term (12msc) Proces rekrutacyjny (w\u2026",
+            "salary_min": 312480,
+            "company": {
+                "display_name": "1dea",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 352800,
+            "title": "Senior Data Engineer Informatica PowerCenter",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto"
+            },
+            "latitude": 54.35203,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5396420369",
+            "salary_is_predicted": "0",
+            "longitude": 18.64664
+        },
+        {
+            "longitude": 21.2453,
+            "id": "5396420375",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.21519,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "company": {
+                "display_name": "1dea",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Data Engineer Informatica PowerCenter",
+            "salary_max": 352800,
+            "salary_min": 312480,
+            "description": "Do\u0142\u0105cz do naszego zespo\u0142u jako Data Engineer i wzmocnij funkcj\u0119 Data Delivery w obszarze Data & Analytics. B\u0119dziesz odpowiedzialny za rozw\u00f3j i utrzymanie platformy danych opartej na Informatica PowerCenter. Informacje organizacyjne: Bran\u017ca: Consulting IT Wakaty: 2 Lokalizacja: praca w 100% zdalnie Start: ASAP (max 3msc okresu wypowiedzenia) Stawka (do ustalenia): 155 - 175 PLN netto  VAT / h Warunki zaanga\u017cowania: B2B (outsourcing przez 1dea), full-time, long-term (12msc) Proces rekrutacyjny (w\u2026",
+            "redirect_url": "https://www.adzuna.pl/details/5396420375?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzk2NDIwMzc1In0.gIzM4xdeqtYt6HanocNK0w3LHWE9UFypDsa1dAoj3Aw",
+            "created": "2025-09-12T23:46:39Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5396420932?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzk2NDIwOTMyIn0.5fW8209DEwc5d_c7CQlivcrpcq6sNwdJwa_RHsIiKpY",
+            "created": "2025-09-12T23:46:42Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ],
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Senior Data Engineer Informatica PowerCenter",
+            "salary_max": 352800,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "1dea"
+            },
+            "salary_min": 312480,
+            "description": "Do\u0142\u0105cz do naszego zespo\u0142u jako Data Engineer i wzmocnij funkcj\u0119 Data Delivery w obszarze Data & Analytics. B\u0119dziesz odpowiedzialny za rozw\u00f3j i utrzymanie platformy danych opartej na Informatica PowerCenter. Informacje organizacyjne: Bran\u017ca: Consulting IT Wakaty: 2 Lokalizacja: praca w 100% zdalnie Start: ASAP (max 3msc okresu wypowiedzenia) Stawka (do ustalenia): 155 - 175 PLN netto  VAT / h Warunki zaanga\u017cowania: B2B (outsourcing przez 1dea), full-time, long-term (12msc) Proces rekrutacyjny (w\u2026",
+            "longitude": 20.17848,
+            "id": "5396420932",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.1024
+        },
+        {
+            "latitude": 51.10789,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5396420946",
+            "longitude": 17.03854,
+            "description": "Do\u0142\u0105cz do naszego zespo\u0142u jako Data Engineer i wzmocnij funkcj\u0119 Data Delivery w obszarze Data & Analytics. B\u0119dziesz odpowiedzialny za rozw\u00f3j i utrzymanie platformy danych opartej na Informatica PowerCenter. Informacje organizacyjne: Bran\u017ca: Consulting IT Wakaty: 2 Lokalizacja: praca w 100% zdalnie Start: ASAP (max 3msc okresu wypowiedzenia) Stawka (do ustalenia): 155 - 175 PLN netto  VAT / h Warunki zaanga\u017cowania: B2B (outsourcing przez 1dea), full-time, long-term (12msc) Proces rekrutacyjny (w\u2026",
+            "salary_min": 312480,
+            "salary_max": 352800,
+            "title": "Senior Data Engineer Informatica PowerCenter",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "1dea"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-09-12T23:46:42Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzk2NDIwOTQ2In0.GvJWMmvDGZHhNzg_TPVuE9rTAP5y16kRjx6LCsSE-3k",
+            "redirect_url": "https://www.adzuna.pl/details/5396420946?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5396421785?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5NjQyMTc4NSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.yStF8nqGzp_rZNLOVHJOLGmxWgksiNs6Ewu6rpDrg9U",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-09-12T23:46:46Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "1dea"
+            },
+            "title": "Senior Data Engineer Informatica PowerCenter",
+            "salary_max": 352800,
+            "salary_min": 312480,
+            "location": {
+                "display_name": "Pozna\u0144, wielkopolskie",
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pozna\u0144"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Do\u0142\u0105cz do naszego zespo\u0142u jako Data Engineer i wzmocnij funkcj\u0119 Data Delivery w obszarze Data & Analytics. B\u0119dziesz odpowiedzialny za rozw\u00f3j i utrzymanie platformy danych opartej na Informatica PowerCenter. Informacje organizacyjne: Bran\u017ca: Consulting IT Wakaty: 2 Lokalizacja: praca w 100% zdalnie Start: ASAP (max 3msc okresu wypowiedzenia) Stawka (do ustalenia): 155 - 175 PLN netto  VAT / h Warunki zaanga\u017cowania: B2B (outsourcing przez 1dea), full-time, long-term (12msc) Proces rekrutacyjny (w\u2026",
+            "id": "5396421785",
+            "salary_is_predicted": "0",
+            "longitude": 16.93875,
+            "latitude": 52.40321,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "description": "Ideally you have: 3 years in Data Science role Advanced knowledge of Machine and Deep Learning algorithms, Statistics and Mathematics Experience of working in Python, including Scikit-learn, PyTorch and common machine learning packages Good knowledge of SQL Understanding data preprocessing, feature engineering, and model evaluation techniques Exposure to MLOps, model monitoring principles, CI/CD and associated tech, e.g., Docker, MLflow, k8s, FastAPI etc. are a plus Familiarity with Agile metho\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Godel Technologies Europe"
+            },
+            "id": "5468661217",
+            "salary_max": 1740,
+            "salary_is_predicted": "0",
+            "title": "Data Scientist @ Godel Technologies Europe",
+            "salary_min": 960,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-29T00:19:13Z",
+            "redirect_url": "https://www.adzuna.pl/details/5468661217?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2ODY2MTIxNyIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.oe9XgGY_khJUnARzfvrB_FVPgJ0-0f4n12k-1hFLEv0"
+        },
+        {
+            "company": {
+                "display_name": "TowardJobs",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "4802298483",
+            "title": "Part Time Data Entry Agent",
+            "salary_is_predicted": "0",
+            "longitude": 18.64664,
+            "location": {
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 54.35203,
+            "description": "Earn at Home Panelist Program - Customer Service Rep - Data Entry Clerk - Work from Home & Part-time We are presently trying to find online support in our work from home Panelist Program. This is a legit possibility for someone who takes pleasure in sharing opinions regarding products, services and trends in todays market area. As a Team Member, you will certainly be executing different jobs such as online data entry, performing e-mail feedback, evaluations, studies as well as other on-line job\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI0ODAyMjk4NDgzIn0.fWXpe-7msxA3NJLmDC_pjet0yfrNjwNmnDSEiKfiP6U",
+            "redirect_url": "https://www.adzuna.pl/details/4802298483?utm_medium=api&utm_source=58c69264",
+            "contract_time": "part_time",
+            "category": {
+                "label": "HR i rekrutacja",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hr-jobs"
+            },
+            "created": "2024-07-31T10:09:56Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.pl/details/5441888676?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQxODg4Njc2In0.BYWsx24Vqynn2XL2LT4k9hoy1AGuG8aLC8-YpUlFxQg",
+            "created": "2025-10-11T00:59:23Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pozna\u0144"
+                ],
+                "display_name": "Pozna\u0144, wielkopolskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 16.93875,
+            "id": "5441888676",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 52.40321
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 51.10789,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ]
+            },
+            "longitude": 17.03854,
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5441888678",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "created": "2025-10-11T00:59:23Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.pl/details/5441888678?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQxODg4Njc4In0.p7y2YhplKPkoWqFLeF0lL9yvv4bgwldDSgXKNeYqobI"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 50.1024,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Krak\u00f3w, ma\u0142opolskie",
+                "area": [
+                    "Polska",
+                    "ma\u0142opolskie",
+                    "Krak\u00f3w"
+                ]
+            },
+            "longitude": 20.17848,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii"
+            },
+            "id": "5441888673",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "created": "2025-10-11T00:59:23Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.pl/details/5441888673?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQxODg4NjczIn0.EOQzkEfdkeCw5m7tt13LdjNP276MD-vFxcrnqoghnjQ"
+        },
+        {
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 54.35203,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5441888652",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "location": {
+                "display_name": "Gda\u0144sk, Tr\u00f3jmiasto",
+                "area": [
+                    "Polska",
+                    "pomorskie",
+                    "Tr\u00f3jmiasto",
+                    "Gda\u0144sk"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 18.64664,
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-11T00:59:22Z",
+            "redirect_url": "https://www.adzuna.pl/details/5441888652?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MTg4ODY1MiIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.oRhmudPN5OAU1PQgIouKad428e-3tRpTcpelkeZYUCg"
+        },
+        {
+            "created": "2025-10-11T00:59:22Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.pl/details/5441888651?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQxODg4NjUxIn0.AS1uE_PIbJwuL9vKxNZJ8RN5trC43Rr7vismVsAlwrw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 52.21519,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "longitude": 21.2453,
+            "salary_is_predicted": "0",
+            "id": "5441888651",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii"
+            },
+            "title": "Senior Data Engineer z AWS i Snowflake"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.26008,
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "longitude": 19.02547,
+            "location": {
+                "area": [
+                    "Polska",
+                    "\u015bl\u0105skie",
+                    "Katowice"
+                ],
+                "display_name": "Katowice, \u015bl\u0105skie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5503923670",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "created": "2025-11-19T20:49:16Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzkyMzY3MCIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.LvuY1n6AQ27-mOLiGtIDE3ehefJROqGeYCAKHAODL5Y",
+            "redirect_url": "https://www.adzuna.pl/details/5503923670?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-11-19T20:49:17Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTAzOTIzNjgzIn0.3MfTGRa2qtgaGmXphowz0gHShgxaH1nd0R3OPkDuuEM",
+            "redirect_url": "https://www.adzuna.pl/details/5503923683?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.24645,
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "longitude": 22.56845,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "lubelskie",
+                    "Lublin"
+                ],
+                "display_name": "Lublin, lubelskie"
+            },
+            "salary_is_predicted": "0",
+            "id": "5503923683",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Data Engineer z AWS i Snowflake"
+        },
+        {
+            "longitude": 14.60616,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Szczecin, zachodniopomorskie",
+                "area": [
+                    "Polska",
+                    "zachodniopomorskie",
+                    "Szczecin"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "id": "5503923682",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 53.49874,
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzkyMzY4MiIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.O8-E2aUhRl80FfJ6RZp-m3bVbK95uzj9GV6fL2TpMxM",
+            "redirect_url": "https://www.adzuna.pl/details/5503923682?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-19T20:49:17Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            }
+        },
+        {
+            "location": {
+                "display_name": "\u0141\u00f3d\u017a, \u0142\u00f3dzkie",
+                "area": [
+                    "Polska",
+                    "\u0142\u00f3dzkie",
+                    "\u0141\u00f3d\u017a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 19.6198,
+            "id": "5503923651",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sii"
+            },
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 51.77497,
+            "redirect_url": "https://www.adzuna.pl/details/5503923651?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzkyMzY1MSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.s6Cp-oIIFJ7cb2Wxw5xH9iQL8ToL9ZFHCAXTsJh4Pww",
+            "created": "2025-11-19T20:49:16Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "created": "2025-11-19T20:49:17Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzkyMzY4NiIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.nb9lMAdedq6hfIx9NQzDWgtWgR0JwWzmCNUZjo2jazU",
+            "redirect_url": "https://www.adzuna.pl/details/5503923686?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 53.02777,
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "longitude": 18.67662,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Toru\u0144, kujawsko-pomorskie",
+                "area": [
+                    "Polska",
+                    "kujawsko-pomorskie",
+                    "Toru\u0144"
+                ]
+            },
+            "id": "5503923686",
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5503923794",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rzesz\u00f3w, podkarpackie",
+                "area": [
+                    "Polska",
+                    "podkarpackie",
+                    "Rzesz\u00f3w"
+                ]
+            },
+            "longitude": 22.00695,
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 50.04228,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.pl/details/5503923794?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzkyMzc5NCIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.YL80kEs87F0pefy4jvBeide1bET61m998l-iT8eTf_8",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-11-19T20:49:17Z"
+        },
+        {
+            "id": "5503923729",
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "location": {
+                "area": [
+                    "Polska",
+                    "kujawsko-pomorskie",
+                    "Bydgoszcz"
+                ],
+                "display_name": "Bydgoszcz, kujawsko-pomorskie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 18.00844,
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 53.12348,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.pl/details/5503923729?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzkyMzcyOSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.ld17vi2naom_55Xzlrinw8-mqYlJqA72rb7uaWJcDlk",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-11-19T20:49:17Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "latitude": 53.13249,
+            "location": {
+                "display_name": "Bia\u0142ystok, podlaskie",
+                "area": [
+                    "Polska",
+                    "podlaskie",
+                    "Bia\u0142ystok"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 23.16884,
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5503923855",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "created": "2025-11-19T20:49:18Z",
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.pl/details/5503923855?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzkyMzg1NSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.F4hhW9P_PXZgq1_6RCQ4-womsdNp3Q7YIkUBdrf8B3U"
+        },
+        {
+            "longitude": 16.78035,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "wielkopolskie",
+                    "Pi\u0142a"
+                ],
+                "display_name": "Pi\u0142a, wielkopolskie"
+            },
+            "company": {
+                "display_name": "Sii",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5503923727",
+            "salary_is_predicted": "0",
+            "title": "Senior Data Engineer z AWS i Snowflake",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 53.1928,
+            "description": "Poszukujemy Data Engineer'a z do\u015bwiadczeniem w Snowflake, AWS i procesach ETL, kt\u00f3ry b\u0119dzie \u015bci\u015ble wsp\u00f3\u0142pracowa\u0142 z naukowcami AI i analitykami danych w celu projektowania, rozwijania i utrzymywania potok\u00f3w danych i system\u00f3w, kt\u00f3re wspieraj\u0105 przypadki u\u017cycia danych klinicznych i operacyjnych. Twoje zadania Projektowanie i rozwijanie architektury danych z uwzgl\u0119dnieniem Snowflake, Immuta, Collibra i bezpiecze\u0144stwa w chmurze Wdra\u017canie i optymalizacja proces\u00f3w ETL/ELT, zarz\u0105dzanie surowymi danymi, \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTAzOTIzNzI3In0.dMnwhKZ3qctJ81B2mogE_vnQGzOESwoS-TidgL4p8nk",
+            "redirect_url": "https://www.adzuna.pl/details/5503923727?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-19T20:49:17Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            }
+        },
+        {
+            "id": "5456468120",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Aviva Employment Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Solution Designer (Master Data Management)",
+            "location": {
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Hi, we're glad you're here! We are hiring to our Aviva Services Excellence Centre! Take a look at our job description - maybe it suits you or one of your friends? As a Solution Designer specialising in Master Data Management , you will play a key role in shaping and delivering strategic data solutions across Customer Data Platforms. You\u2019ll work closely with architects, engineers, and stakeholders to design scalable, secure, and future-proof MDM solutions that support business outcomes and enabl\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDU2NDY4MTIwIn0.B_sXkqA1paLWBpINXZicNTTD2fCzc5seF8drsrj8njQ",
+            "redirect_url": "https://www.adzuna.pl/details/5456468120?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-10-20T19:33:49Z"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-26T21:37:33Z",
+            "redirect_url": "https://www.adzuna.pl/details/5515351259?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE1MzUxMjU5In0.XSSCEjj7NuHe80xZcwE7zkS5hl9-PJZKNf4gzo07LEo",
+            "description": "Wymagane, SQL, T-SQL, SnowFlake, Microsoft Azure, Google Cloud Platform, PostgreSQL, Microsoft SQL Server, MongoDB, Git, PythonMile widziane, KafkaO projekcie, Poszukujemy osoby, kt\u00f3ra do\u0142\u0105czy do naszego zespo\u0142u w roli Engineering Team Leader - Data Platform. Osoba na tym stanowisku b\u0119dzie \u0142\u0105czy\u0107 kompetencje techniczne oraz liderskie. G\u0142\u00f3wnym zadaniem zespo\u0142u Data Platform jest utrzymanie i rozw\u00f3j hurtowni danych on premise i jej docelowa migracja na \u015brodowisko chmurowe (SnowFlake). W sk\u0142ad zes\u2026",
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_max": 372000,
+            "id": "5515351259",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "XTB S.A.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Engineering Team Leader (Data Platform)",
+            "salary_min": 300000,
+            "location": {
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 21.2453
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Expected, AWS, Terraform, Kubernetes, Kafka, Flink/SparkOperating system, Windows, macOS, LinuxYour responsibilities, building and scaling streaming infrastructure using technologies such as Kafka, Apache Spark, Apache Flink, and Snowflake,, ensuring the reliability and security of the infrastructure using Kubernetes (k8s) and Infrastructure as Code (IaaC),, contributing to the architecture and defining best practices for our Data Platform,, collaborating with data producers and consumers acros\u2026",
+            "location": {
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5473237282",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Xebia sp. z o.o."
+            },
+            "title": "Senior Platform Engineer, Data Streaming",
+            "created": "2025-10-31T19:53:24Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.pl/details/5473237282?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MzIzNzI4MiIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.feA2ADUBXwxO4PQ0iXXgXRKxVMi1svZycHIn4s8kphg"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA0MTgxNzM0NyIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.U06gocBg6kVH_eqyOPrszHRSyw7fUD6nxUsr4YitNR0",
+            "redirect_url": "https://www.adzuna.pl/details/5041817347?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT",
+                "tag": "it-jobs"
+            },
+            "created": "2025-02-07T21:04:09Z",
+            "id": "5041817347",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Intern Data Warehouse Developer/Analyst",
+            "location": {
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "We need Intern Data Warehouse developer or Intern Data Warehouse analyst. Your responsibilities: Verifying quality of software and reporting issues Supporting the DWH Development Team Preparing and executing of test cases If You have experience with SAS 4GL or SQL and You are IT studient or similar, don't hesitate :) Apply!",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "longitude": 21.2453,
+            "id": "5441887753",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.21519,
+            "redirect_url": "https://www.adzuna.pl/details/5441887753?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQxODg3NzUzIn0.-dPBpRL7Nw11Tdyg4--Aq_Svd046l1EGcKYQDMWwjM8",
+            "created": "2025-10-11T00:58:32Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Warszawa, mazowieckie",
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ]
+            },
+            "title": "Senior Data Scientist Tech Lead",
+            "salary_max": 330000,
+            "company": {
+                "display_name": "Tooploox",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 252000,
+            "description": "Hi there! We\u2019re Tooploox, a Solvd Inc. company We create AI-powered products and services that make a real difference. Our team of nearly 200 specialists - including a 50 person R&D team with many PhDs - has pioneered AI solutions across industries from healthcare to e-commerce. We\u2019ve published research in top-tier venues like NeurIPS and ICML, while delivering real-world applications that help our clients innovate and scale. Now, as Solvd Inc. company, we\u2019re building on our strengths with even\u2026"
+        },
+        {
+            "latitude": 51.10789,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5441887755",
+            "salary_is_predicted": "0",
+            "longitude": 17.03854,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-11T00:58:32Z",
+            "redirect_url": "https://www.adzuna.pl/details/5441887755?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MTg4Nzc1NSIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.UheNhskzQmnc-Q8mK3Jy6YfrFPORwc3fwjJKfKFVD78",
+            "description": "Hi there! We\u2019re Tooploox, a Solvd Inc. company We create AI-powered products and services that make a real difference. Our team of nearly 200 specialists - including a 50 person R&D team with many PhDs - has pioneered AI solutions across industries from healthcare to e-commerce. We\u2019ve published research in top-tier venues like NeurIPS and ICML, while delivering real-world applications that help our clients innovate and scale. Now, as Solvd Inc. company, we\u2019re building on our strengths with even\u2026",
+            "title": "Senior Data Scientist Tech Lead",
+            "salary_max": 330000,
+            "company": {
+                "display_name": "Tooploox",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 252000,
+            "location": {
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "description": "Czego oczekujemy od Ciebie: Wykszta\u0142cenia wy\u017cszego w obszarze In\u017cynierii IT, In\u017cynierii Danych lub Data Science 2\u20133 lat praktycznego do\u015bwiadczenia w in\u017cynierii Big Data Znajomo\u015bci j\u0119zyk\u00f3w programowania i skryptowych: Spark, Scala, Java, Shell, Python Do\u015bwiadczenia z Elasticsearch i bazami danych SQL Praktycznej znajomo\u015bci narz\u0119dzi takich jak Databricks oraz Hadoop HDFS Wiedzy z zakresu matematyki, statystyki i uczenia maszynowego (mile widziane) Zainteresowania cyberbezpiecze\u0144stwem i Generative\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5471710938",
+            "salary_is_predicted": "0",
+            "salary_max": 12600,
+            "company": {
+                "display_name": "ASTEK Polska",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Big Data Engineer @ ASTEK Polska",
+            "salary_min": 9600,
+            "location": {
+                "display_name": "Polska",
+                "area": [
+                    "Polska"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "IT",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-10-31T00:19:34Z",
+            "redirect_url": "https://www.adzuna.pl/details/5471710938?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MTcxMDkzOCIsInMiOiJmQW1SSHRuVzhCRzdnY3JqVkVhaUR3In0.XXhARgjz_ktyofUbZ-WetLUiGy2Q-VgwThP3jkna-E0"
+        },
+        {
+            "latitude": 52.21519,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5463268878",
+            "salary_is_predicted": "0",
+            "longitude": 21.2453,
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "created": "2025-10-25T01:29:57Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYzMjY4ODc4In0.YyuNEhQIHzXduu6_gj1r17St73vja2Z_01qBYRlX3GM",
+            "redirect_url": "https://www.adzuna.pl/details/5463268878?utm_medium=api&utm_source=58c69264",
+            "description": "Location: Warsaw (Inflancka 4A) or Remote Work (Poland) B2B Contract, Targeted Salary: 160 - 180 PLN Net/Hour Python ApacheSpark Databricks MSSQL Git CI/CD Docker Azure Kubernetes Are you ready to join our international team as a Senior Data Engineer with Databricks ? We shall tell you why you should What products do we develop? KMD Elements is a cloud-based solution tailored for the energy and utility market. It offers a highly efficient way to handle complex data validation and advanced formu\u2026",
+            "salary_min": 322560,
+            "company": {
+                "display_name": "KMD Poland",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 362880,
+            "title": " Senior Data Engineer with Databricks",
+            "location": {
+                "area": [
+                    "Polska",
+                    "mazowieckie",
+                    "Warszawa"
+                ],
+                "display_name": "Warszawa, mazowieckie",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2025-11-21T21:12:59Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkFtUkh0blc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA4MzMwMzYyIn0.GXiPhHTVXgaHwkEwTY98C_0cVUJDdZHD8Uo9z-bMtfs",
+            "redirect_url": "https://www.adzuna.pl/details/5508330362?utm_medium=api&utm_source=58c69264",
+            "description": "Location: Warsaw (Inflancka 4A) or Remote Work (Poland) B2B Contract, Targeted Salary: 160 - 180 PLN Net/Hour Python ApacheSpark Databricks MSSQL Git CI/CD Docker Azure Kubernetes Are you ready to join our international team as a Senior Data Engineer with Databricks ? We shall tell you why you should What products do we develop? KMD Elements is a cloud-based solution tailored for the energy and utility market. It offers a highly efficient way to handle complex data validation and advanced formu\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Polska",
+                    "dolno\u015bl\u0105skie",
+                    "Wroc\u0142aw"
+                ],
+                "display_name": "Wroc\u0142aw, dolno\u015bl\u0105skie"
+            },
+            "salary_min": 322560,
+            "title": " Senior Data Engineer with Databricks",
+            "company": {
+                "display_name": "KMD Poland",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 362880,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.10789,
+            "longitude": 17.03854,
+            "id": "5508330362",
+            "salary_is_predicted": "0"
+        }
+    ]
+}

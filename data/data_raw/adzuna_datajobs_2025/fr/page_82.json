@@ -1,0 +1,1571 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5444008656?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=442DE5D1A9E6ED38299C94A840D9801ACA4E10E4",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Octopus IT"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDQ0MDA4NjU2In0.SJrdVuOkhaB1VsjNGEdtgzCsHgHCTGEJxdGAteWdfv0",
+            "salary_min": 45000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.344631,
+            "description": "La soci\u00e9t\u00e9 Cr\u00e9\u00e9e il y a 7ans, cette entreprise de conseilen hyper croissance, se compose d'environ 90 personnes. Elleest devenue experte en Data et IA (NLP, Deep Learning, Machine Learning) et accompagne leurs clients sur l'ensemble de leurs projets data \u00e0 travers la valorisation de leurs donn\u00e9es. Leur valeur ajout\u00e9e ? Leur sp\u00e9cialisation en Data ce qui leur permet d'offrir 3 expertises m\u00e9tiers distinctes : la Data Science, la Data Engineering et le Machine Learning Engineering. Autour de ces e\u2026",
+            "created": "2025-10-12T11:29:59Z",
+            "id": "5444008656",
+            "latitude": 48.863839,
+            "title": "D\u00e9veloppeur Backend Python - Azure Sp\u00e9cialis\u00e9 en Big Data - Rejoignez la Data Academy Paris ou Remote Partiel H/F",
+            "salary_max": 45000
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMzI4NTYzOSIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.tMiIQ-kglQGR6BjIAlQO4EGcX243BuXtXf3j4lRxvJw",
+            "longitude": 2.344631,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Le contenu du poste est libell\u00e9 en anglais car il n\u00e9cessite de nombreuses interactions avec nos filiales \u00e0 l\u2019international, l'anglais \u00e9tant la langue de travail. This job offer is accessible to all, regardless of gender. Job title: Accelerator Software Engineer (Paris) About the job We are looking for a Software Engineer to join the Sanofi\u2019s Commercial Accelerator which is at the intersection of technology, commercial and healthcare, operating in product teams and partnering closely with busine\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sanofi EU"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5533285639?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=277F39351B89EA3877E6CFDE6DA042546FDFCD18",
+            "salary_is_predicted": "0",
+            "id": "5533285639",
+            "created": "2025-12-08T08:55:28Z",
+            "latitude": 48.863839,
+            "title": "Accelerator Software Engineer (Paris)"
+        },
+        {
+            "description": "Chez Capgemini Invent, nous croyons que l\u2019innovation est le moteur du changement. En tant que consultants en transformation digitale, nous combinons nos capacit\u00e9s strat\u00e9giques, cr\u00e9atives et scientifiques, en collaborant \u00e9troitement avec nos clients pour leur fournir des solutions de pointe. Rejoignez-nous pour conduire une transformation adapt\u00e9e aux d\u00e9fis d'aujourd'hui et de demain. Missions : A propos de frog, part of Capgemini Invent frog, part of Capgemini Invent, est la combinaison au sein \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDMyMzk1MDYxIn0.aUfk41M2387a9O3vIICc0w8d_zjzsnXy1qEhQsJf0Xo",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "frog",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5432395061?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=5625B14A005AD0BFBDF41419E210EB1BC762F692",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France",
+                "area": [
+                    "France"
+                ]
+            },
+            "title": "Directeur consultant - Directrice consultante data au sein des \u00e9quipes frog part of Capgemini Invent",
+            "id": "5432395061",
+            "created": "2025-10-05T08:26:34Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE4Njg3MzU4In0.X7Kk3OaOP50YJdMUsvAefiMN4eFUBM_81SFITRO_6Nc",
+            "description": "Description du poste Vous int\u00e9gerez une \u00e9quipe projet Data & Comp&Ben en tant que consultant Business Analyst. Vous serez encadr\u00e9 par un s\u00e9nior de l\u2019offre et vous participerez \u00e0 des missions d\u2019accompagnement des Directions Comp&Ben de nos clients dans le cadre de leurs processus de r\u00e9visions salariales et de transparence des r\u00e9mun\u00e9rations. Vous interviendrez plus particuli\u00e8rement sur : la compr\u00e9hension et la d\u00e9finition des besoins m\u00e9tiers, la validation des besoins m\u00e9tiers dans leur solution de\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.27251,
+            "redirect_url": "https://www.adzuna.fr/details/5518687358?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Neuilly-sur-Seine, Nanterre",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Neuilly-sur-Seine"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "ACT-ON DATA"
+            },
+            "category": {
+                "label": "Emplois Consultants",
+                "tag": "consultancy-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-29T02:03:42Z",
+            "id": "5518687358",
+            "title": "Stage 2026 - Data innovation Comp&Ben H/F",
+            "latitude": 48.88357
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Lyon, Rh\u00f4ne",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon"
+                ]
+            },
+            "company": {
+                "display_name": "Devoteam Data Driven France",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5534599604?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs",
+                "label": "Emplois Ing\u00e9nierie"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0NTk5NjA0In0._pXmXmiJX9C2eIqQeherI1Lb02J5IkFNSLkmKyoxv-4",
+            "description": "Description du poste Rejoignez notre \u00e9quipe lyonnaise sur des projets innovants, dans un environnement propice \u00e0 la formation et au d\u00e9veloppement continu. Nos clients sont des grands comptes de secteurs d'activit\u00e9 vari\u00e9s (Industrie, Transport, Logistique, Banque, Assurance, Energie). Vos missions principales : En tant que PO / Project manager Data, vous \u00eates en charge de la strat\u00e9gie d\u2019un Data Product ou d\u2019un portefeuille. Votre objectif principal est de maximiser sa valeur apport\u00e9e. D\u00e9finir la\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.08666,
+            "created": "2025-12-09T14:58:24Z",
+            "id": "5534599604",
+            "latitude": 45.72035,
+            "title": "Chef de projet / Product Owner Data Senior F/H"
+        },
+        {
+            "id": "5523520183",
+            "created": "2025-12-02T06:06:36Z",
+            "title": "Chef de Projet Data - Ing\u00e9nieur des Donn\u00e9es H/F",
+            "latitude": 48.661816,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Autres/G\u00e9n\u00e9ral",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5523520183?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=992D893DE242C4A4EACE7CCAA0A07E697EF496C8",
+            "location": {
+                "display_name": "Bas-Rhin, Grand-Est",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Bas-Rhin"
+                ]
+            },
+            "company": {
+                "display_name": "P. Data",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMzUyMDE4MyIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.D94NeeNdNf_hvAd8Qbl7mebQEytP07IjQQIAytE3MwA",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 7.642103,
+            "description": "L'Ing\u00e9nieur Data - Chef de Projets Donn\u00e9es a pour mission de concevoir, s\u00e9curiser et am\u00e9liorer les syst\u00e8mes d'information de donn\u00e9es (SID) de la R\u00e9gion Grand Est. Il d\u00e9veloppe et industrialise des pipelines et plateformes fiables, performants et adapt\u00e9s aux besoins m\u00e9tiers, tout en garantissant la qualit\u00e9, la s\u00e9curit\u00e9 et la conformit\u00e9 r\u00e9glementaire (dont RGPD) sur l'ensemble du cycle de vie des donn\u00e9es. Il contribue \u00e0 la gouvernance des donn\u00e9es \u00e0 travers le catalogage, le lignage et la document\u2026"
+        },
+        {
+            "created": "2025-10-29T10:53:59Z",
+            "id": "5469240962",
+            "latitude": 48.84167,
+            "title": "Chef de projet Senior - Data & IA H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "15\u00e8me Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "15\u00e8me Arrondissement, Paris"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5469240962?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Health Data Hub",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDY5MjQwOTYyIn0.PXxQT4y8Z-OAzrPyYvopUWWPRqKW7P-HoViWst5Dh4I",
+            "longitude": 2.29963,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "La Direction scientifique du Health Data Hub est charg\u00e9e d\u2019\u00e9laborer la strat\u00e9gie scientifique du Health Data Hub. Dans cette perspective, elle entretient des relations avec les diff\u00e9rents \u00e9cosyst\u00e8mes cl\u00e9s de la sant\u00e9 qu\u2019ils soient acad\u00e9miques, institutionnels, industriels, \u00e0 l\u2019\u00e9chelle nationale ou internationale ; elle contribue \u00e0 la diffusion d\u2019une culture de l\u2019intelligence artificielle et de la donn\u00e9e de sant\u00e9 et elle \u00e9labore des nouvelles offres de services en lien avec les autres \u00e9quipes du\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description du poste En tant que Consultant(e) CIO, Data & AI Advisory, vous rejoignez la Business Unit Technology Advantage de Sia. Au sein de cette Business Unit, nos \u00e9quipes interviennent aupr\u00e8s de l\u2019ensemble des secteurs d\u2019activit\u00e9s (transport, \u00e9nergie, banque & assurance, secteur public\u2026) sur les principaux leviers de la transformation num\u00e9rique. Leurs missions : \u00c9clairer nos clients sur l\u2019IT, l\u2019IA et la Data face \u00e0 l\u2019\u00e9volution rapide de technologies \u00e9mergentes pour les aider \u00e0 d\u00e9finir un \u2026",
+            "longitude": 5.08666,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1Njg3NDgzIn0.MDQxTd_HsKOEgQ-cPl7uFJaXXy76stl-rvifVD_pfis",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Consultants",
+                "tag": "consultancy-jobs"
+            },
+            "company": {
+                "display_name": "Sia",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon"
+                ],
+                "display_name": "Lyon, Rh\u00f4ne",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5535687483?utm_medium=api&utm_source=58c69264",
+            "title": "Consultant (e) CIO, Data & AI Advisory - Bureau de Lyon",
+            "latitude": 45.72035,
+            "created": "2025-12-10T03:32:39Z",
+            "id": "5535687483"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Au c\u0153ur d\u2019enjeux strat\u00e9giques pour le projet, vous porterez la vision du p\u00f4le Data, guiderez son impact au studio et contribuerez \u00e0 faire grandir la culture data en local, pour en faire un v\u00e9ritable levier cr\u00e9atif et d\u00e9cisionnel. Principales missions : \u00b7 Management et organisation : encadrer l\u2019\u00e9quipe (Data Analyst et Data Scientist), r\u00e9partir la charge de travail, assurer le suivi humain et le d\u00e9veloppement des talents \u00b7 Recommandations internes : collaborer avec les diff\u00e9rentes\u2026",
+            "longitude": 5.08666,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTA3MzA1MzM0In0.16cB2LKAC8qXllotUAjz5P1fAjO1hOPpZxQC4Lh6ZaY",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Lyon, Rh\u00f4ne",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon"
+                ]
+            },
+            "company": {
+                "display_name": "Ubisoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5507305334?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 45.72035,
+            "title": "Lead Data (F/H/NB) \u2013 The Crew Motorfest",
+            "created": "2025-11-21T12:41:53Z",
+            "id": "5507305334"
+        },
+        {
+            "created": "2025-10-09T16:32:48Z",
+            "id": "5439608264",
+            "title": "Consultant Confirm\u00e9 en Strat\u00e9gie Data et IA (H/F)",
+            "latitude": 48.8814,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDM5NjA4MjY0In0.In2vnq9yDrIKhPZoHvBBqqMU-ELZHI2bofnk50h6420",
+            "longitude": 2.3365,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Rejoignez le leader du conseil en Strat\u00e9gie Data et IA ! Qui sommes-nous ? AI Builders est un cabinet de conseil en Strat\u00e9gie Data et Intelligence Artificielle (IA), fond\u00e9 en 2018 par St\u00e9phane RODER, auteur du Guide Pratique de l\u2019Intelligence Artificielle dans l\u2019entreprise . Notre mission : permettre aux entreprises de transformer leurs processus gr\u00e2ce \u00e0 la Data et \u00e0 l\u2019IA, en maximisant leur performance. Nos valeurs ? Expertise, Bienveillance et Excellence . Depuis sa cr\u00e9ation, AI Builders conn\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs",
+                "label": "Emplois Autres/G\u00e9n\u00e9ral"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5439608264?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "8\u00e8me Arrondissement"
+                ],
+                "display_name": "8\u00e8me Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "AI Builders",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "longitude": 2.3365,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Rejoignez le leader du conseil en Strat\u00e9gie Data et IA ! Qui sommes-nous ? AI Builders est un cabinet de conseil en Strat\u00e9gie Data et Intelligence Artificielle (IA), fond\u00e9 en 2018 par St\u00e9phane RODER, auteur du Guide Pratique de l\u2019Intelligence Artificielle dans l\u2019entreprise . Notre mission : permettre aux entreprises de transformer leurs processus gr\u00e2ce \u00e0 la Data et \u00e0 l\u2019IA, en maximisant leur performance. Nos valeurs ? Expertise, Bienveillance et Excellence . Depuis sa cr\u00e9ation, AI Builders conn\u2026",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDYzMzI1NTM1MSIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.2BtGnqNF2vlR7I8Mu3aZ2xuSms_Bksp0R4biziUshEY",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs",
+                "label": "Emplois Consultants"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/4633255351?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "display_name": "8\u00e8me Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "8\u00e8me Arrondissement"
+                ]
+            },
+            "company": {
+                "display_name": "AI Builders",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Consultant Senior en Strat\u00e9gie Data et IA (H/F)",
+            "latitude": 48.8814,
+            "id": "4633255351",
+            "created": "2024-04-02T17:47:16Z"
+        },
+        {
+            "latitude": 48.863839,
+            "title": "English Speaker Freelance Data Entry role - fully remote",
+            "id": "5471758858",
+            "created": "2025-10-31T00:51:23Z",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Velenosi&Meredith",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5471758858?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.344631,
+            "description": "Remote Data Entry & Quality Control Specialist (Fully Remote, Part-Time) We are seeking a detail-oriented and organized Data Entry & Quality Control Specialist to join a fully remote, international team supporting a leading digital mobility project. This role offers flexibility, autonomy, and the chance to contribute to a high-quality back-office operation with professional support and future growth opportunities. Key Responsibilities Accurately transfer and input data between two platforms usi\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MTc1ODg1OCIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.3u31GguenE4W5GWyx6QG2feFVYgyDPOChWj87XGokK0"
+        },
+        {
+            "latitude": 48.54975,
+            "title": "Responsable de chantier GTB - Data Center F/H",
+            "id": "5461734834",
+            "created": "2025-10-24T01:55:50Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Autres/G\u00e9n\u00e9ral",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Toul-Sud, Toul",
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Meurthe-et-Moselle",
+                    "Toul",
+                    "Toul-Sud"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5461734834?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Cegelec Tertiaire IDF Data Center",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": 5.9108,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Vous souhaitez participer \u00e0 un beau projet d'entreprise et donner une nouvelle \u00e9nergie \u00e0 votre carri\u00e8re? Vous \u00eates la personne que nous recherchons! Cegelec Data Center, filiale du groupe VINCI Energies recrute: Un(e) Responsable de chantier GTB H/F Rattach\u00e9(e) au Responsable d'affaires, le Chef de chantier Chef de chantier organise, planifie et supervise les travaux de GTB / Contr\u00f4le-Commande dans le cadre de projets Data Centers, en garantissant la qualit\u00e9, les d\u00e9lais et la s\u00e9curit\u00e9. A ce tit\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDYxNzM0ODM0In0.c3OKOX1Fgpj3ZtphzY3mjs4-F3c2MUdPhLFeJoSLO5w"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "display_name": "Toulouse, Haute-Garonne",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Occitanie",
+                    "Haute-Garonne",
+                    "Toulouse"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Talan"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5527084033?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 1.44295,
+            "description": "Description du poste En tant que Consultant(e) Data Engineer sp\u00e9cialis\u00e9 sur Palantir Foundry , vous \u00eates en mission chez nos clients ou en mode projet dans nos locaux. Vous \u00eates responsable de la conception, de la mise en \u0153uvre et de la maintenance des pipelines de donn\u00e9es en veillant \u00e0 leur qualit\u00e9 et \u00e0 leur fiabilit\u00e9 tout au long de leur cycle de vie. Vos principales missions : Contribuer \u00e0 la conception et \u00e0 la mise en des plateformes de donn\u00e9es modernes Industrialiser et optimiser des solut\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzA4NDAzMyIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.ZdzjGFvyO-WnGZNI-Bn-N7-3k7O4J_e_e5LLVdT7IXw",
+            "title": "Data Engineer Palantir Foundry - Confirm\u00e9/Senior (H/F)",
+            "latitude": 43.60436,
+            "id": "5527084033",
+            "created": "2025-12-04T08:21:33Z"
+        },
+        {
+            "description": "Afin d'accompagner le d\u00e9veloppement de notre offre Data & Analytics, Capco Paris recrute des Senior Consultants pour intervenir sur diff\u00e9rentes missions aupr\u00e8s de nos clients sp\u00e9cialis\u00e9s dans les services financiers. Qui sommes-nous ? Capco est un cabinet de conseil international, sp\u00e9cialis\u00e9 dans les services financiers. Fond\u00e9 en 1998, le cabinet compte aujourd\u2019hui plus de 7 000 collaborateurs dans 36 bureaux \u00e0 travers le monde, dont 160 \u00e0 Paris. Challenger reconnu face aux grands noms du conse\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.344631,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTY0MTU2MiIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.68QSW5YPpLyZu6_3lUWijxQBrCei5E6bgyHWBC8lw3g",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Data Management H/F/D chez Capco",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/4801641562?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs",
+                "label": "Emplois Consultants"
+            },
+            "latitude": 48.863839,
+            "title": "Senior Consultant/Manager - Data Management H/F/D",
+            "created": "2024-07-30T23:50:36Z",
+            "id": "4801641562"
+        },
+        {
+            "id": "5458260746",
+            "created": "2025-10-22T02:50:09Z",
+            "title": "Pne Data Foundations Sr. Lead H/F",
+            "latitude": 48.78342,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Autres/G\u00e9n\u00e9ral",
+                "tag": "other-general-jobs"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Mars IS UK"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Schweighouse-sur-Moder, Haguenau",
+                "area": [
+                    "France",
+                    "Grand-Est",
+                    "Bas-Rhin",
+                    "Haguenau",
+                    "Schweighouse-sur-Moder"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5458260746?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=9F9C464E758B874F2531D461B9E27A96EB2E2C62",
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1ODI2MDc0NiIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.ro0MR8WBFK-hA2vz0RkffRrBsXGbBqTClrofILupQqw",
+            "longitude": 7.70622,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description de poste: The PNE Data Foundations Sr Lead ensures that Pet Nutrition Europe (PNE) has a strong, governed, and scalable data foundation to enable high-quality analytics and insights. This role is critical in bridging the gap between the AOE D&A data team and PNE, ensuring alignment with global data models, governance principles, and strategic data initiatives such as the DDF (Digital Data Foundation) program. What are we looking for? - Preferred education Is a university degree In b\u2026"
+        },
+        {
+            "latitude": 48.863839,
+            "title": "Data Engineer Senior - Expert Dataiku - CDI - H/F",
+            "id": "5514050190",
+            "created": "2025-11-26T02:38:54Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description Nous sommes \u00e0 la recherche d\u2019un Data analyst capable de participer \u00e0 des projets techniques. Vous devrez faire preuve d\u2019un \u00e9tat d\u2019esprit \u00e0 la fois innovant, m\u00e9thodique, orient\u00e9 solution (et non probl\u00e8me !), et communiquant. Des connaissances et de la pratique en data science sont un plus. VOTRE ROLE SUR NOS PROJETS : En mission : analyse des besoins m\u00e9tiers, d\u00e9finition des principes et m\u00e9thodes de collecte et de traitement des donn\u00e9es, mise en application des techniques de trait\u2026",
+            "longitude": 2.344631,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE0MDUwMTkwIn0.gneojZ7Pu_dQ_8hxRt0IF8CG9q4JpRs9Jop4w8UcKYY",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Talan"
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5514050190?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-12-05T07:31:08Z",
+            "id": "5528980040",
+            "title": "Tech Lead Data Engineer Bi H/F",
+            "salary_max": 85000,
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "France"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Washington Frank"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5528980040?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2F8B6330DA2003924356D9A604C580172F4E2268",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODk4MDA0MCIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0._cK4TDna1Ev3imm9E1LnxRvy6WWPVzoL9G3Eze5HHXM",
+            "contract_time": "full_time",
+            "salary_min": 75000,
+            "description": "Tech Lead Data Engineer BI - Data Platform, MDM & Governance (H/F) Type de contrat : CDI Localisation : \u00cele-de-France Secteur : Industrie R\u00e9mun\u00e9ration : 75 - 85K\u20ac en fixe Contexte : Notre client, acteur industriel majeur, lance une transformation Data ambitieuse from scratch : la soci\u00e9t\u00e9 met en place sa plateforme Data pour la premi\u00e8re fois. Dans ce contexte, nous recherchons un(e) Tech Lead Data Engineer BI pour construire, structurer et piloter l'ensemble de la cha\u00eene Data. Vous serez au coeu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "latitude": 48.88328,
+            "title": "Consultant\u00b7e Data Governance - Collibra H/F",
+            "created": "2025-10-29T02:28:44Z",
+            "id": "5468855042",
+            "longitude": 2.23762,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Description du poste Nous poursuivons notre d\u00e9veloppement et recherchons actuellement un.e Consultant.e Data Governance / Collibra pour intervenir chez l'un de nos clients du secteur Assurance. Vos missions Au sein du Data Office, vous accompagnerez l'harmonisation et la structuration de la gouvernance des donn\u00e9es, en vous appuyant sur l'outil Collibra. Votre r\u00f4le portera principalement sur la r\u00e9daction et la formalisation de la documentation fonctionnelle et des guides utilisateurs, afin de fa\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2ODg1NTA0MiIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.IWv9YUtNHIITQw2LDBDqj0mthq4yoCqYazxWcx3I-Wk",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Puteaux"
+                ],
+                "display_name": "Puteaux, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Celad",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5468855042?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=CE90C257A5F87B58FB8249564930C60997BF5E84",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "id": "5535660736",
+            "created": "2025-12-10T03:19:50Z",
+            "title": "Chef de Projet Data Bi S\u00e9nior H/F",
+            "latitude": 45.85511,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTY2MDczNiIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0._Iy_EGcVOWMt8hjN4Dk-S0xmgsGfbE0gastRycJxDG0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.902705,
+            "description": "Vos missions principales En tant que Chef de projet Data BI, vous \u00eates responsable de la bonne ex\u00e9cution des projets Data chez nos clients, de la phase de cadrage jusqu'au d\u00e9ploiement. - Pilotage de projet : Vous assurez le management des projets Data BI (planning, budget, ressources) et vous \u00eates le garant de leur succ\u00e8s. - Analyse des besoins : Vous travaillez en \u00e9troite collaboration avec les m\u00e9tiers pour comprendre et formaliser leurs besoins en termes de reporting et d'analyse de donn\u00e9es. \u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Devoteam France"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5535660736?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=5CBA41EE6360ADF253A6ED2C19CADBFE7C682B34",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Au-del\u00e0 de la RSE, nous avons d\u00e9velopp\u00e9 notre propre approche, RESET, qui englobe l'ensemble de nos engagements en mati\u00e8re de responsabilit\u00e9 \u00e9conomique, sociale, environnementale et technologique, tant au sein de notre collectif que chez nos clients. Onepoint, est une entreprise inclusive, handi accueillante, avec une politique de diversit\u00e9 affirm\u00e9e et certifi\u00e9e B Corp. Contribuez aux grandes transformations des entreprises et des acteurs publics en alliant innovation technologique et expertise\u2026",
+            "longitude": 2.34107,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMDYwODcwNSIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.qsy_K1oUgL16avQ0PG1IbYRnYpY9VEqIwHUQjW5RRsA",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "1er Arrondissement, Paris",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ]
+            },
+            "company": {
+                "display_name": "Onepoint",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5530608705?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=DB774D01A66EF3B930DA5A7A053CF03FA72BA320",
+            "title": "Consultant S\u00e9nior Data Ops - Sre H/F",
+            "latitude": 48.86023,
+            "created": "2025-12-06T06:33:06Z",
+            "id": "5530608705"
+        },
+        {
+            "id": "5528980451",
+            "title": "Architecte Data - Ssot - Temps R\u00e9el H/F",
+            "salary_max": 55000,
+            "company": {
+                "display_name": "Step Up",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5528980451?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=804AF9AD1D41D9BAE1E38F3384F0A33E45968023",
+            "salary_min": 50000,
+            "description": "Architecte Data - SSOT / Temps R\u00e9el (H/F) Marseille (2 \u00e0 3 jours par semaine sur site) 4 ans xp min D\u00e9marrage ASAP CDI Contexte international & strat\u00e9gique Dans le cadre d'une transformation Data ambitieuse, nous recherchons un Architecte Data pour concevoir et piloter la mise en place d'une Single Source of Truth (SSOT) \u00e0 l'\u00e9chelle du groupe. Objectif : garantir une donn\u00e9e unique, fiable, document\u00e9e et accessible en temps r\u00e9el. Vos missions Architecture & Design D\u00e9finir l'architecture globale \u2026",
+            "longitude": 5.09542,
+            "created": "2025-12-05T07:31:34Z",
+            "latitude": 43.533738,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne"
+                ],
+                "display_name": "Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODk4MDQ1MSIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.WtvS-04QfPDtahjEULWT5_maOiHg5KUXupjRnz8Df2g",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_max": 70000,
+            "title": "Senior Data Engineer - Plateforme & Mod\u00e9lisation H/F",
+            "latitude": 48.863839,
+            "created": "2025-08-29T03:50:07Z",
+            "id": "5372957132",
+            "longitude": 2.344631,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Rattach\u00e9 au responsable de l'\u00e9quipe, vous int\u00e9grerez la direction data, compos\u00e9e actuellement de 2 ing\u00e9nieurs BI et 3 data analysts. Votre r\u00f4le s'inscrit dans une dynamique de modernisation forte, avec deux objectifs majeurs : - Finaliser la refonte du syst\u00e8me d'information m\u00e9tier d'ici juin 2026 - D\u00e9ployer la nouvelle data platform, qui sera le socle de la strat\u00e9gie data de l'entreprise En tant que Senior Data Engineer / R\u00e9f\u00e9rent technique, vous interviendrez sur l'ensemble de la cha\u00eene data :\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzcyOTU3MTMyIn0.3NxNLpr5IInwr6Y2wqNZLBUUqh3fwMRiH_DkoBnF1eM",
+            "salary_min": 55000,
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Autres/G\u00e9n\u00e9ral",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "Silkhom",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5372957132?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=949AE5D5770E72980D2A2C8C8FDB82D4D8E34ADB"
+        },
+        {
+            "id": "5489016528",
+            "created": "2025-11-10T06:01:55Z",
+            "latitude": 48.81846,
+            "title": "Tech Lead Data Engineer Esg H/F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4OTAxNjUyOCIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.sMZf1Dfa2fyDM43lAxNjq9x0A62CzYipwQMHW5Lus6E",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.31993,
+            "description": "NOUS CONNAITRE ! La Direction IT and Op\u00e9ration Services (IOS) a pour objectif de doter CACIB de la meilleure Plateforme IT et Op\u00e9rations pour r\u00e9pondre aux besoins de maintenir et renforcer la qualit\u00e9 des services rendus \u00e0 CACIB et de se pr\u00e9parer aux enjeux de croissance et de transformation digitale de CACIB dans les ann\u00e9es futures. Rejoignez la Direction IOS / Global IT (GIT) de CA-CIB, responsable de la conception, du d\u00e9veloppement, de la maintenance des applications et des syst\u00e8mes de la Ban\u2026",
+            "category": {
+                "label": "Emplois Comptabilit\u00e9 et Finance",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Antony",
+                    "Montrouge"
+                ],
+                "display_name": "Montrouge, Antony",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ca Cib France"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5489016528?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F9BC4C8A9C01D7B8FD8613A1E9B4CEF326DA83A7",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMyMTM0Mzg4In0.9-a-szs7CLfKL2p1SqFT-aIPfildq50Z0vXxFBimpQY",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "latitude": 48.863839,
+            "created": "2025-12-07T07:12:00Z",
+            "description": "Offre de mission - Product Owner / Chef de Projet Data (H/F) Nous recherchons en urgence un profil expert pour une mission longue dur\u00e9e \u00e0 Paris, en pilotage de produits Data au sein d'une grande organisation nationale. Vous interviendrez sur un programme strat\u00e9gique de transformation orient\u00e9 data management, gouvernance, structuration produit et valorisation business. Localisation : Paris (3 jours de pr\u00e9sentiel / semaine) D\u00e9marrage : Janvier 2026 Votre r\u00f4le Vous assurerez le r\u00f4le de Product Own\u2026",
+            "longitude": 2.344631,
+            "salary_min": 40000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/5532134388?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2D8378C019244D92A8216CA3222025FB62D24FDE",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Step Up"
+            },
+            "salary_max": 45000,
+            "title": "Product Owner - Chef de Projet Data H/F",
+            "id": "5532134388"
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "DGTL Performance"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5525326777?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=DCCC09EB666A01FD846D4DC6A24307EF08CE986E",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI1MzI2Nzc3In0.WjE7chStL3o-NzKApGQwBy3OGvqwxDNr9nZm_1pqAxM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Le poste s'inscrit chez un grand acteur du Retail \u00e0 port\u00e9e internationale. Le PO \u00e9voluera au sein d'une \u00e9quipe Data d'environ 30 personnes, organis\u00e9e par domaines. Rattachement direct au Lead PO Data Sales / Finance / CRM. Mission : piloter la vision, la roadmap et la valeur produit sur un des 3 p\u00e9rim\u00e8tres suivant : - CRM, Digital et e-commerce. - Supply, Operations et Planning - Produit ENVIRONNEMENT FONCTIONNEL Le PO intervient sur l'ensemble des sujets Data li\u00e9s au CRM, au Digital et \u00e0 l'e-c\u2026",
+            "longitude": 2.344631,
+            "created": "2025-12-03T06:15:12Z",
+            "id": "5525326777",
+            "latitude": 48.863839,
+            "title": "Product Owner Data CRM - Digital H/F"
+        },
+        {
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Artefact",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5460040124?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=7020A6BC438055256D58EF8AE0ABD1A102CEAA52",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDYwMDQwMTI0In0.9z1M0NnvWFY_cuO466hNF8QEusQXbv2JCB2dlJyoK1I",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Who we are Artefact is a leading global consulting company dedicated to accelerating the adoption of data and AI to positively impact people and organizations. We specialize in data transformation and data marketing to drive tangible business results across the entire enterprise value chain. Artefact offers the most comprehensive set of data-driven solutions per industry, built on deep data science and cutting-edge AI technologies, delivering AI projects at scale in all industry sectors. From s\u2026",
+            "longitude": 2.344631,
+            "id": "5460040124",
+            "created": "2025-10-23T03:14:35Z",
+            "title": "Senior Data Scientist Marketing M H/F",
+            "latitude": 48.863839
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "1er Arrondissement, Paris"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5530608702?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=38659E9F86CF8F3B3B54C63C56AB2F7F6D5B9114",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Onepoint"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMwNjA4NzAyIn0.YjzNAMyeXnA3fvh0HgK5jPFl4PwzDbuu26kz5EeeVpE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Au-del\u00e0 de la RSE, nous avons d\u00e9velopp\u00e9 notre propre approche, RESET, qui englobe l'ensemble de nos engagements en mati\u00e8re de responsabilit\u00e9 \u00e9conomique, sociale, environnementale et technologique, tant au sein de notre collectif que chez nos clients. Onepoint, est une entreprise inclusive, handi accueillante, avec une politique de diversit\u00e9 affirm\u00e9e et certifi\u00e9e B Corp. Votre futur collectif : - Rejoignez notre collectif Data.IA compos\u00e9 de 250 personnes passionn\u00e9es d'innovation et de data - La \u2026",
+            "longitude": 2.34107,
+            "created": "2025-12-06T06:33:06Z",
+            "id": "5530608702",
+            "latitude": 48.86023,
+            "title": "Consultant Confirm\u00e9 en Data Gouvernance - Collibra H/F"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Levallois-Perret"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Levallois-Perret, Nanterre"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Keyrus"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5503115189?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=501CEC94DE7F3E6A87F99E4FEBE2131F09E927D4",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTAzMTE1MTg5In0.8L87IIkBAsZFLp1UY9rklWJytqMAEYnj9biSoJPwNRc",
+            "longitude": 2.28834,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Qui sommes-nous ? Une success story dans la Data et le Digital ! Notre mission ? Des projets \u00e0 forte valeur ajout\u00e9e pour accro\u00eetre la performance et la comp\u00e9titivit\u00e9 des entreprises, faciliter et acc\u00e9l\u00e9rer leur transformation. Notre expertise depuis plus de 25 ans ? Le conseil et l'int\u00e9gration de solutions innovantes autour de trois domaines : - Data Intelligence Business Intelligence, Big Data & Analytics, Intelligence Artificielle - Digital Experience Conseil, Strat\u00e9gie & Performance Digitale\u2026",
+            "created": "2025-11-19T12:21:20Z",
+            "id": "5503115189",
+            "latitude": 48.89434,
+            "title": "Data Engineer Snowflake - Keyrus France H/F"
+        },
+        {
+            "title": "Responsable Data & Applications M\u00e9tiers - Industrie H/F",
+            "latitude": 48.863839,
+            "created": "2025-11-27T06:57:52Z",
+            "id": "5515849227",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Autres/G\u00e9n\u00e9ral",
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5515849227?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=46D92F8103A44475B181BBCF15307469D6FB9292",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Keyman"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "CDI - Paris - ETI internationale (industrie) Poste bas\u00e9 \u00e0 la D\u00e9fense. Nous recrutons pour une ETI internationale en pleine transformation digitale un Responsable Data & Applications M\u00e9tiers, r\u00f4le cl\u00e9 rattach\u00e9 \u00e0 la Direction Data & Syst\u00e8mes d'Information. Ce poste s'adresse \u00e0 un profil confirm\u00e9, op\u00e9rationnel et structurant, capable de piloter un patrimoine applicatif tout en construisant la gouvernance Data du groupe. Vos enjeux principaux Dans un contexte de mont\u00e9e en puissance des sujets Data \u2026",
+            "longitude": 2.344631,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE1ODQ5MjI3In0.aGkhqxGzUk4pQWqXtsr4Ti7V5ybDqMutDUhyhJ3D6Tc"
+        },
+        {
+            "description": "Nous ne sommes pas seulement sp\u00e9cialis\u00e9s dans le num\u00e9rique. Nous intervenons \u00e9galement sur la data. Nous poss\u00e9dons une Practice Data qui se d\u00e9veloppe fortement gr\u00e2ce \u00e0 nos partenaires strat\u00e9giques comme Snowflake, Informatica, Talend, Microsoft Azure, AWS, GCP, ou encore de gros \u00e9diteurs du march\u00e9 comme Databricks, Dataiku, Microstrategy, Teradata, etc Aujourd'hui, nous sommes capables d'asseoir notre expertise en accompagnant nos clients sur toute la cha\u00eene de valorisation data (cas d'usage, d\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.33183,
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MDU3MTM4MTQxIn0.JzHBs5Q8Br1y1O_tnO61R5o6jtbaTr1bcHz4fSPh9Os",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5057138141?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=DD886798549FEF3F9EE563D3011254900D576946",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Seine-Saint-Denis",
+                    "Saint-Denis",
+                    "Saint-Ouen"
+                ],
+                "display_name": "Saint-Ouen, Saint-Denis",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Inetum",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 48.90609,
+            "title": "Ing\u00e9nieur Big Data & Cloud S\u00e9nior H/F",
+            "created": "2025-02-20T05:04:18Z",
+            "id": "5057138141"
+        },
+        {
+            "title": "Tech Lead Data - Keyrus France H/F",
+            "latitude": 44.83737,
+            "created": "2025-11-29T06:09:51Z",
+            "id": "5518807181",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5518807181?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=D948AF124325E751BA2988C88EEEE25CC2D3760E",
+            "location": {
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde",
+                    "Bordeaux",
+                    "Talence"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Talence, Bordeaux"
+            },
+            "company": {
+                "display_name": "Keyrus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -0.57614,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Rejoignez l'aventure Data chez Keyrus Bordeaux ! Ici, la Data ne se limite pas \u00e0 des chiffres : elle devient une v\u00e9ritable exp\u00e9rience humaine et technologique. L'agence de Keyrus Bordeaux est en pleine croissance, et nous recherchons un(e) Tech Lead Data pr\u00eat(e) \u00e0 jouer un r\u00f4le cl\u00e9 dans notre d\u00e9veloppement. Vous avez une solide expertise technique en data et l'envie de guider nos \u00e9quipes sur des projets innovants et ambitieux ? Vous aimez prendre des d\u00e9cisions strat\u00e9giques, encadrer des d\u00e9velop\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODgwNzE4MSIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.jhqY4NuvaL6mFCi-PBO7Fzxwsps7aExnZFF6mUYUhhU"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Artefact"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5460111377?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=813C98FB8367F9BE097C00382BA99C623C715D94",
+            "longitude": 2.344631,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Who we are Artefact is a leading global consulting company dedicated to accelerating the adoption of data and AI to positively impact people and organizations. We specialize in data transformation and data marketing to drive tangible business results across the entire enterprise value chain. Artefact offers the most comprehensive set of data-driven solutions per industry, built on deep data science and cutting-edge AI technologies, delivering AI projects at scale in all industry sectors. From s\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MDExMTM3NyIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.GpEDd6oiwfOnLwtmDqjzE-sJk_4lQdbob-qzeU43EVI",
+            "title": "Data Science Manager - Marketing M H/F",
+            "latitude": 48.863839,
+            "id": "5460111377",
+            "created": "2025-10-23T04:20:57Z"
+        },
+        {
+            "created": "2025-11-19T12:21:20Z",
+            "id": "5503115212",
+            "title": "Digital Biologics Platform - Data Scientist H/F",
+            "latitude": 48.78944,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": " sanofi aventis Recherche et D\u00e9veloppement"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Vitry-sur-Seine, Cr\u00e9teil",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Val-de-Marne",
+                    "Cr\u00e9teil",
+                    "Vitry-sur-Seine"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5503115212?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=E3053DB81B4D4F4E80541E0D64FCE663CF2DBC3F",
+            "category": {
+                "tag": "manufacturing-jobs",
+                "label": "Emplois Fabrication",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzExNTIxMiIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.k0HX6OyEUT6d0wnmTk1gEfJL-wWXejl2aSPRcJe_SXs",
+            "longitude": 2.38932,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Le contenu du poste est libell\u00e9 en anglais car il n\u00e9cessite de nombreuses interactions avec nos filiales \u00e0 l'international, l'anglais \u00e9tant la langue de travail. This job offer is accessible to all, regardless of gender. Job title:Digital Biologics Platform - Data Scientist - Location: Vitry-sur-Seine About the job Join our Digital Biologics Platform - Biologics Data team within Large Molecules Research as a Data Scientist, where you'll be at the forefront of revolutionizing biologics discovery\u2026"
+        },
+        {
+            "description": "Au-del\u00e0 de la RSE, nous avons d\u00e9velopp\u00e9 notre propre approche, RESET, qui englobe l'ensemble de nos engagements en mati\u00e8re de responsabilit\u00e9 \u00e9conomique, sociale, environnementale et technologique, tant au sein de notre collectif que chez nos clients. Onepoint, est une entreprise inclusive, handi accueillante, avec une politique de diversit\u00e9 affirm\u00e9e et certifi\u00e9e B Corp. Votre futur collectif : - Rejoignez notre Hub Data & IA compos\u00e9 de 350 passionn\u00e9s qui interviennent au quotidien chez nos clie\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.34107,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM0MjUxNzUxIn0.BLMbPqeIpeRpc0xStqCb52tTcUs88CqE_l9DiZbqCSk",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "1er Arrondissement, Paris",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris",
+                    "1er Arrondissement"
+                ]
+            },
+            "company": {
+                "display_name": "Onepoint",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5534251751?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=93F5504793FF71BEA03D0C2382C9B06360C21013",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "title": "Consultant Confirm\u00e9 en Data Product Management H/F",
+            "latitude": 48.86023,
+            "id": "5534251751",
+            "created": "2025-12-09T04:20:01Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Emplois Informatique"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Numberly",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5321338957?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=1E5E6679D6967187D38DDF1EB660E4407A83572E",
+            "description": "Dans un contexte d'in\u00e9galit\u00e9 dans la d\u00e9tention des donn\u00e9es, les marques doivent s'organiser, acc\u00e9l\u00e9rer sur le digital et faire de leur patrimoine de donn\u00e9es un atout de leur souverainet\u00e9. Pour cela, nous accompagnons nos clients sur le d\u00e9ploiement et la r\u00e9alisation de strat\u00e9gies de partenariat de donn\u00e9es. Concr\u00e8tement, nous jouons le r\u00f4le de tiers de confiance entre plusieurs entit\u00e9s en acc\u00e9dant \u00e0 la donn\u00e9e d'une entreprise pour am\u00e9liorer la connaissance client et march\u00e9 d'une marque qui en pos\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.344631,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MzIxMzM4OTU3In0.uwo-QK6tHXSwuRh6swXZ4xKsfkRNBy6qcQoFgZ-Yo4Y",
+            "latitude": 48.863839,
+            "title": "Stage - Project Manager Data Collab H/F",
+            "id": "5321338957",
+            "created": "2025-07-25T09:22:09Z"
+        },
+        {
+            "company": {
+                "display_name": "Devoteam France",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5535660737?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=42BC683D41FF7B16FE1F16241FB0861107A9F33B",
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTM1NjYwNzM3In0.YY67C_YNYDcOSu4g1E3IqHadsSUvIbdfJ-4VzUVAenQ",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Vos missions principales En tant que Chef(fe) de Projet Fonctionnel Data, vous pilotez le d\u00e9ploiement de projets Data strat\u00e9giques, notamment autour de la gestion des donn\u00e9es de r\u00e9f\u00e9rence (MDM) pour nos clients. - Pilotage de Projets Data : Vous assurez la chefferie de projet Data fonctionnelle, g\u00e9rant la reprise de projets en cours (comme le d\u00e9ploiement du MDM Fournisseur) et le lancement des projets inscrits \u00e0 la roadmap. - Gestion Multi-projets : Vous d\u00e9montrez votre capacit\u00e9 \u00e0 g\u00e9rer en para\u2026",
+            "longitude": 4.902705,
+            "id": "5535660737",
+            "created": "2025-12-10T03:19:50Z",
+            "title": "Chef de Projet Data Mdm S\u00e9nior H/F",
+            "latitude": 45.85511
+        },
+        {
+            "created": "2025-11-07T05:57:45Z",
+            "id": "5484770286",
+            "latitude": 48.89434,
+            "title": "Data Engineer Databricks - Keyrus France H/F",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5484770286?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=8AAD5A12D1BEB6893DC102F9AA3217678C222296",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Levallois-Perret, Nanterre",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Levallois-Perret"
+                ]
+            },
+            "company": {
+                "display_name": "Keyrus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDg0NzcwMjg2In0.REjF0ffbjkUtzmoWZVIAWF0-ynUKgHnEgPykbuzLPkI",
+            "longitude": 2.28834,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Qui sommes-nous ? Une success story dans la Data et le Digital ! Notre mission ? Des projets \u00e0 forte valeur ajout\u00e9e pour accro\u00eetre la performance et la comp\u00e9titivit\u00e9 des entreprises, faciliter et acc\u00e9l\u00e9rer leur transformation. Notre expertise depuis plus de 25 ans ? Le conseil et l'int\u00e9gration de solutions innovantes autour de trois domaines : - Data Intelligence Business Intelligence, Big Data & Analytics, Intelligence Artificielle - Digital Experience Conseil, Strat\u00e9gie & Performance Digitale\u2026"
+        },
+        {
+            "created": "2025-12-05T07:31:34Z",
+            "latitude": 48.863839,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODk4MDQ2MSIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.5M48wQxLIHAeHmRv_ri91h_ei1RFGvCc1lTqgIJZ934",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "salary_max": 55000,
+            "id": "5528980461",
+            "title": "Data Engineer Gcp - Airflow - Dbt H/F",
+            "salary_min": 45000,
+            "description": "Data Engineer GCP - Spark, Airflow, dbt/Kedro Industrialisation & qualit\u00e9 des donn\u00e9es Contexte Tu veux rejoindre une \u00e9quipe Data qui construit des pipelines cloud \u00e0 grande \u00e9chelle, avec des enjeux de performance, de qualit\u00e9 et d'industrialisation ? Nous recherchons un Data Engineer confirm\u00e9 GCP, passionn\u00e9 par la scalabilit\u00e9, la mod\u00e9lisation et la fiabilit\u00e9 de la donn\u00e9e, pour intervenir sur un environnement cloud de r\u00e9f\u00e9rence. Tes missions : - Concevoir, d\u00e9velopper et maintenir des pipelines Dat\u2026",
+            "longitude": 2.344631,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lutessa"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5528980461?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2C06EBC04466472966253518551DA2CB6D8A1611"
+        },
+        {
+            "latitude": 43.533738,
+            "title": "Data Engineer App\u00e9tence Machine Learning H/F",
+            "created": "2025-12-06T08:14:20Z",
+            "id": "5530647589",
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.fr/land/ad/5530647589?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=1702927CABC8F9F4FF9E25A6EFB778E71EC3669C",
+            "location": {
+                "display_name": "Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Provence-Alpes-C\u00f4te d'Azur",
+                    "Bouches-du-Rh\u00f4ne"
+                ]
+            },
+            "company": {
+                "display_name": "Amiltone",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 5.09542,
+            "description": "Int\u00e9gr\u00e9 \u00e0 nos \u00e9quipes sur notre Factory ou chez nos clients, vous interviendrez sur un projet en tant que Data engineer. Dans le cadre d'un projet de transformation Data ambitieux, nous recherchons un Ing\u00e9nieur Data pour concevoir et structurer l'architecture d'un Data Warehouse et poser les bases des futurs projets d'intelligence artificielle. Vous interviendrez sur l'ensemble de la cha\u00eene de valeur de la donn\u00e9e : collecte, structuration, gouvernance, qualit\u00e9 et pr\u00e9paration aux usages pr\u00e9dicti\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTMwNjQ3NTg5In0.DlEU0msR5l7gybfBHl98zLjbHvOt1DkzHoaCD3G-zi8",
+            "contract_time": "full_time"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.23762,
+            "description": "Vous souhaitez rejoindre une soci\u00e9t\u00e9 \u00e0 taille humaine o\u00f9 l'innovation et la confiance sont au coeur de la culture ? Trimane recherche son/sa futur(e) Consultant(e) Exp\u00e9riment\u00e9(e) AMOA Data Gouvernance (H/F/NB) pour piloter et structurer la strat\u00e9gie IA de l'un de ses clients. Votre r\u00f4le : Au sein de l'\u00e9quipe data de notre client, vous interviendrez sur le p\u00e9rim\u00e8tre strat\u00e9gique de gouvernance de la donn\u00e9e et de structuration de projets data \u00e0 dimension internationale. En interaction directe avec\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTI4OTUwODI5In0.bq77azrSS_Kb5Mm1hEcsl0yAEZC9cpb02AjWM5D2heg",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Puteaux"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Puteaux, Nanterre"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5528950829?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=CE5D4C3E45AA050C72EBB7FE40C86CE16C696EDB",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Trimane"
+            },
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "latitude": 48.88328,
+            "title": "Consultant Exp\u00e9riment\u00e9 AMOA Data Gouvernance H/F",
+            "id": "5528950829",
+            "created": "2025-12-05T06:53:05Z"
+        },
+        {
+            "id": "5484770269",
+            "created": "2025-11-07T05:57:44Z",
+            "title": "Cloud Data Engineer - Keyrus France H/F",
+            "latitude": 48.89434,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDg0NzcwMjY5In0.2feWSiHrfg7RFeisCgfuJrDgF5BozNj5FRwBgt65qK0",
+            "longitude": 2.28834,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Qui sommes-nous ? Une success story dans la Data et le Digital ! Notre mission ? Des projets \u00e0 forte valeur ajout\u00e9e pour accro\u00eetre la performance et la comp\u00e9titivit\u00e9 des entreprises, faciliter et acc\u00e9l\u00e9rer leur transformation. Notre expertise depuis plus de 25ans ? Le conseil et l'int\u00e9gration de solutions innovantes autour de trois domaines : - Data Intelligence Business Intelligence, Big Data & Analytics, Intelligence Artificielle - Digital Experience Conseil, Strat\u00e9gie & Performance Digitales\u2026",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Levallois-Perret"
+                ],
+                "display_name": "Levallois-Perret, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5484770269?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=4CE9262F47FA422829E71CEB0F73423F29B72F13",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Keyrus"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-07-03T13:49:17Z",
+            "id": "5281248919",
+            "latitude": 48.79507,
+            "title": "Chef de Projet Data Management Office H/F",
+            "category": {
+                "label": "Emplois Comptabilit\u00e9 et Finance",
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "LCL - Fonctions Centrales",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Villejuif, L'Ha\u00ff-les-Roses",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Val-de-Marne",
+                    "L'Ha\u00ff-les-Roses",
+                    "Villejuif"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5281248919?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=F5670C8167F90A62C89BD5A89BC7889CAF4A4A0D",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1MjgxMjQ4OTE5In0.Pc9Z0G9XuFrago0OlnNyA4siWTa0XY2BHnTXUc5s6nw",
+            "description": "La Direction Strat\u00e9gie, Transformation, Innovation a pour mission d'identifier, de favoriser, d'accompagner et de piloter les transformations n\u00e9cessaires \u00e0 la r\u00e9alisation des ambitions de d\u00e9veloppement et de modernisation au service des clients de LCL, \u00e0 horizon 2030. Ces transformations se traduisent principalement par : La mise en oeuvre de nouveaux projets de d\u00e9veloppement et de synergies pour adresser les opportunit\u00e9s de nos march\u00e9s en croissance, et les nouvelles attentes des clients ; La \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.36653
+        },
+        {
+            "created": "2025-11-28T06:18:25Z",
+            "latitude": 45.85511,
+            "location": {
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes"
+            },
+            "category": {
+                "label": "Unknown",
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NTE3MzkwNTI1In0.ylgglNRvqil4kr02oihxieqkbf2YaICX4IVWGjqeZJQ",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5517390525",
+            "title": "Data Engineer Cloud IA - Recrutement Poei H/F",
+            "salary_max": 45000,
+            "redirect_url": "https://www.adzuna.fr/land/ad/5517390525?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=2E28FC01FA061A7ACB62384740B7BCA0E170E325",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JEMS"
+            },
+            "salary_min": 38000,
+            "longitude": 4.902705,
+            "description": "Vos principales missions seront : - Participer \u00e0 la conception et r\u00e9alisation d'une solution Data depuis l'acquisition jusqu'\u00e0 l'exploitation de la donn\u00e9e en accompagnant la r\u00e9flexion des directions m\u00e9tiers - Identifier, collecter et int\u00e9grer les donn\u00e9es n\u00e9cessaires \u00e0 la r\u00e9solution de probl\u00e9matiques m\u00e9tier et op\u00e9rationnelles - Garantir la qualit\u00e9 des donn\u00e9es en mettant en place les outils de mesure et de suivi ad\u00e9quats en appliquant les r\u00e8gles de Data Gouvernance et de Data Management - Transcr\u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODgwNzE4MCIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.0WxMvaa5vbrjsKHOKPhgfZ_OIAj5lPWJ-YgOiMvMayw",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -0.57614,
+            "description": "Rejoignez l'aventure Data chez Keyrus Bordeaux ! Ici, la Data ne se limite pas \u00e0 des chiffres : elle devient une v\u00e9ritable exp\u00e9rience humaine et technologique. L'agence de Keyrus Bordeaux est en pleine croissance, et nous recherchons un(e) Product Owner Data pr\u00eat(e) \u00e0 jouer un r\u00f4le cl\u00e9 dans notre d\u00e9veloppement. Vous avez une solide compr\u00e9hension des enjeux data et analytics, et l'envie de piloter la vision produit, de prioriser les besoins et de collaborer \u00e9troitement avec nos \u00e9quipes technique\u2026",
+            "company": {
+                "display_name": "Keyrus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Talence, Bordeaux",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Nouvelle-Aquitaine",
+                    "Gironde",
+                    "Bordeaux",
+                    "Talence"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5518807180?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=715E67693348C0BA8957F6568844CDD8806041FA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Emplois Informatique",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "created": "2025-11-29T06:09:51Z",
+            "id": "5518807180",
+            "latitude": 44.83737,
+            "title": "Product Owner Data - Keyrus France H/F"
+        },
+        {
+            "latitude": 45.85511,
+            "title": "Modern Data Architect - Keyrus France H/F",
+            "id": "5484770254",
+            "created": "2025-11-07T05:57:44Z",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne"
+                ]
+            },
+            "company": {
+                "display_name": "Keyrus",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5484770254?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=9D3E6655182E3934CF16721BE2EF6B7960A8302C",
+            "description": "MAKE DATA MATTER ? Ce qui compte chez Keyrus, ce ne sont pas seulement les donn\u00e9es, mais les probl\u00e8mes qu'elles nous permettent de r\u00e9soudre. Nous souhaitons que la Data compte dans une perspective \u00e9largie, ax\u00e9e sur l'humain, qui rend possible un changement positif \u00e0 grande \u00e9chelle. Nous travaillons depuis plus de 25 ans au design, \u00e0 la construction et d\u00e9veloppement de solutions Data qui r\u00e9solvent les enjeux de nos clients et de la plan\u00e8te. Keyrus, \u00e0 Lyon, recherche un Modern Data Architect pour\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 4.902705,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NDc3MDI1NCIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.UNLyTVVzQGe1Cf2FPde90d_da_PxRMg-Chbo1nZDe0I"
+        },
+        {
+            "created": "2025-10-16T03:43:30Z",
+            "id": "5449507618",
+            "title": "Architecte Data Transverse Dcoe - France H/F",
+            "latitude": 45.83561,
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sopra Steria"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Limonest, Lyon",
+                "area": [
+                    "France",
+                    "Auvergne-Rh\u00f4ne-Alpes",
+                    "Rh\u00f4ne",
+                    "Lyon",
+                    "Limonest"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5449507618?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=13C444AFBD5728FDDFEA5C3A15D22BF9102AB416",
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2pIcmJ0VFc4Qkd4X050ZGxfdk9ydyIsImkiOiI1NDQ5NTA3NjE4In0.ZwE0vKdgkom3_1onWtNTkganzc2srblH0nbkcVHX27k",
+            "contract_time": "full_time",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Le Data Center of Excellence Sopra Steria (DCoE), entit\u00e9 transverse du p\u00f4le France, est au coeur de l'accompagnement et de la transformation Data / IA de nos clients. Convaincu que la Data est le moteur d'un socle industriel \u00e9volutif et durable, construit pour r\u00e9pondre aux enjeux buisness, nous travaillons sur toute la chaine afin d'apporter de la valeur \u00e0 nos clients sur tous les niveaux (m\u00e9tier, IT, CxO) en lien avec nos \u00e9quipes conseils et delivery. Le DCOE regroupe les expertises technologi\u2026",
+            "longitude": 4.77147
+        },
+        {
+            "created": "2025-11-26T08:10:23Z",
+            "id": "5514316148",
+            "latitude": 48.863839,
+            "title": "Senior Data Analyst - Genai Builder H/F",
+            "location": {
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Paris, Ile-de-France"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5514316148?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=84F88652B03D1581E903C4A464ED7B2593BDA94C",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Artefact"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "Emplois Informatique",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNDMxNjE0OCIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.S3OQBbfYTwXM37GvXFQuV1-AKwZAPa9RSB3WbZQrN-A",
+            "longitude": 2.344631,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Beyond consulting, we are deeply committed to making AI ethical and accessible. We launched the Artefact School of Data to facilitate career transitions into tech roles and established AI Research Centers in Paris and Shanghai. What you will be doing - Key responsibilities As a Data Analyst specialized in GenAI, you will bridge data expertise and AI innovation. You'll design, prototype, and deliver intelligent solutions leveraging GenAI, automation tools, and low-code/no-code platforms such as \u2026"
+        },
+        {
+            "latitude": 48.89683,
+            "title": "Data Engineer Spark Scala - Services Financiers - Ile-De-France",
+            "created": "2025-12-01T20:19:15Z",
+            "id": "5522315917",
+            "description": "Description du poste La division \u00ab Services Financiers \u00bb de Sopra Steria se concentre sur la banque de d\u00e9tail, la banque priv\u00e9e et les services financiers sp\u00e9cialis\u00e9s. Nous accompagnons la transformation de nos clients dans les domaines des Cr\u00e9dits, Risques/Conformit\u00e9 et Moyens de Paiement. Dans ce cadre de la mise en place de la plateforme Data pour l\u2019un de nos clients, nous recherchons un/e Data Engineer Spark Scala. Votre r\u00f4le et vos missions : En accord avec le client, vous \u00e9valuez, conceve\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.25651,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjMxNTkxNyIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.3ErP_KuAq-U1AoBm3CklniICLTpMVucqzkhljtFpziM",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Sopra Steria",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Courbevoie, Nanterre",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Hauts-de-Seine",
+                    "Nanterre",
+                    "Courbevoie"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.fr/details/5522315917?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Emplois Informatique",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "id": "5037182341",
+            "created": "2025-02-04T19:45:23Z",
+            "latitude": 48.863839,
+            "title": "Consultant Senior AMOA Data - CDI H/F",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "display_name": "Paris, Ile-de-France",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "France",
+                    "Ile-de-France",
+                    "Paris"
+                ]
+            },
+            "company": {
+                "display_name": "Talan",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.fr/land/ad/5037182341?se=SjHrbtTW8BGx_Ntdl_vOrw&utm_medium=api&utm_source=58c69264&v=69B92A5D581D402E7AF5686CA1B7C11BA5BF467E",
+            "salary_is_predicted": "0",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzNzE4MjM0MSIsInMiOiJTakhyYnRUVzhCR3hfTnRkbF92T3J3In0.RNHMUjgjezZFcvnFqSbkNQ9LaWeeoqmeHrYcyCW1LY4",
+            "longitude": 2.344631,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Talan renforce sa communaut\u00e9 ADVISORY au sein du p\u00f4le Data pour intervenir sur les diff\u00e9rents projets de nos clients grands comptes. Notre aventure a commenc\u00e9 il y a plus de 13 ans, avec l'ambition d'apporter une expertise pointue \u00e0 nos clients, en couvrant tout le cycle de vie de la Data : les aider \u00e0 collecter, exploiter, stocker, organiser, visualiser la richesse de leurs gisements de donn\u00e9es, et les accompagner \u00e0 transformer les donn\u00e9es en source de valeur. Notre expertise repose sur les en\u2026"
+        }
+    ],
+    "count": 31779,
+    "mean": 49185.38
+}

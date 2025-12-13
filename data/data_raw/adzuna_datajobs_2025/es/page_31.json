@@ -1,0 +1,1482 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 27365,
+    "results": [
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMxNzIwODI3MiIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.3Qbd1D0_rsbv2BmXs5Xsq0Gijgea2hlgA7ibzxP70T4",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "id": "5317208272",
+            "redirect_url": "https://www.adzuna.es/details/5317208272?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-07-23T00:10:12Z",
+            "description": "Descripci\u00f3n: Desde Second Window estamos en b\u00fasqueda de diferentes perfiles de Ingeniero/a de Datos / Data Engineer / Data Analyst / Analista de Datos para incorporar en una posici\u00f3n muy estable, a largo plazo en modalidad remota. \u00bfQu\u00e9 necesitamos? Data Engineer con al menos 2 a\u00f1os de experiencia para dar respuesta a las peticiones que se reciben de otras \u00e1reas del cliente: consultar datos, realizar extracciones, realizar peque\u00f1os desarrollos en el Datalake (DataBricks) con Scala y/o Python. - \u2026",
+            "title": "Data Engineer con DataBricks. Teletrabajo"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -3.724726,
+            "salary_is_predicted": "0",
+            "id": "5389443413",
+            "location": {
+                "display_name": "Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 40.429254,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1Mzg5NDQzNDEzIn0.9QwgXY2iLMJdU90DZd5TfEIYpPcj_EHtclnnt_1B7mI",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "title": "Data Governance Specialist (cert. discapacidad)",
+            "description": "Descripci\u00f3n: En Experience IT Solutions buscamos incorporar un/a especialista en Gobierno del Dato para colaborar en un proyecto estrat\u00e9gico con foco en la gesti\u00f3n, calidad y gobierno de la informaci\u00f3n, dentro de un entorno innovador orientado a la inteligencia artificial y la normativa europea de datos. \u00bfQu\u00e9 buscamos? Un/a profesional con experiencia en proyectos de Gobierno del Dato y Gobierno de la IA, con conocimiento profundo de metodolog\u00edas, marcos regulatorios y herramientas espec\u00edficas.\u2026",
+            "redirect_url": "https://www.adzuna.es/details/5389443413?utm_medium=api&utm_source=58c69264",
+            "created": "2025-09-08T17:36:43Z",
+            "company": {
+                "display_name": "eXperience IT Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "id": "5441222965",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MTIyMjk2NSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.tvV7EnN24bUsmjLiB5MqyOoPOPEfNr7M4hHV6MN2k9Y",
+            "title": "Data Engineer (ETL) (Remoto, Rockstardata)",
+            "description": "\u00bfEres un apasionado de los datos y te encanta transformar informaci\u00f3n en oportunidades? En Rockstar Data estamos construyendo la primera plataforma de Business Intelligence y AI Predictiva dise\u00f1ada espec\u00edficamente para el ocio nocturno y la restauraci\u00f3n. Donde antes hab\u00eda intuici\u00f3n, ahora hay datos. Y donde antes hab\u00eda hojas de Excel, ahora hay inteligencia. Nuestra visi\u00f3n: Centralizamos datos de ventas, reservas, contabilidad, inventario y marketing en un Data Warehouse de dise\u00f1o propio, y los\u2026",
+            "created": "2025-10-10T15:12:54Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HelloMrLead"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5441222965?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "id": "5062368340",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA2MjM2ODM0MCIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.0Xn8i2WCq2N1vbr1YXx8AsoW2I8O56TXK7XrkDMb9Xo",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "description": "\u00bfQU\u00c9 ES TELEF\u00d3NICA IOT&BIG DATA TECH? Al unir las capacidades del mundo IoT con las de Inteligencia Artificial, podemos conectar a\u00fan m\u00e1s las cosas con las personas. Esta conexi\u00f3n nos acerca y nos inspira para crear nuevas y mejores soluciones. El poder no est\u00e1 en tener datos, si no en lo que haces con ellos. De esta forma, transformamos el ADN de millones de compa\u00f1\u00edas convirti\u00e9ndolas en catalizadoras de la nueva era digital. Ayudamos a nuestros clientes a tomar decisiones basadas en datos para \u2026",
+            "title": "TTech_IoT Data Governance Consultant",
+            "redirect_url": "https://www.adzuna.es/details/5062368340?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Telef\u00f3nica",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-02-24T20:19:10Z"
+        },
+        {
+            "description": "Location: Madrid, Spain About This Role We\u2019re looking for experienced German, French, Dutch, Danish, Swedish, Norwegian, Finnish, Italian, Spanish, or Portuguese speakers to join our team as Senior Data Research Analysts. Our EMEA Data Team is dedicated to delivering top-quality financial data that empowers investors worldwide. In this role, you\u2019ll be a key data expert, working closely with the Global Data Team and business partners to ensure the accuracy, completeness, and timeliness of invest\u2026",
+            "title": "Multilingual Senior Data Research Analyst",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Morningstar"
+            },
+            "created": "2025-10-18T19:59:59Z",
+            "redirect_url": "https://www.adzuna.es/details/5454305812?utm_medium=api&utm_source=58c69264",
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid"
+            },
+            "id": "5454305812",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -3.724726,
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDU0MzA1ODEyIn0.CEgAT2Orq36dN2KY6IPCpxEgGS8lXStnuMIErgORwTs",
+            "latitude": 40.429254
+        },
+        {
+            "id": "5526715701",
+            "location": {
+                "display_name": "Barcelona",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 2.168131,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "latitude": 41.380002,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI2NzE1NzAxIn0.-qSqF3sFKCpQQiMPQxCsSJphgHU-NnMFZja05ljQZH8",
+            "contract_type": "permanent",
+            "title": "Senior Data & AI Platform Owner",
+            "description": "Senior Data & AI Platform Owner ABOUT THE OPERATIONS IT TEAM Join our global Operations IT team, supporting diverse areas such as Pharmaceutical Technology Development, Manufacturing Global Engineering, and more. We combine cutting-edge science with leading digital technology platforms and data, impacting lives through advancements in data, analytics, and AI. Embrace a dynamic environment with endless opportunities for learning and growth. ROLE OVERVIEW Were seeking a technical, forward-thinkin\u2026",
+            "created": "2025-12-04T00:06:29Z",
+            "company": {
+                "display_name": "AstraZeneca",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5526715701?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTExNTkyODc4In0.UM99AqN8RsYBfdVKxZdiAwN7FnsgDxtyRCWIagETaBo",
+            "latitude": 41.471855,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en marketing, publicidad y relaciones p\u00fablicas",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.062941,
+            "location": {
+                "display_name": "Sant Cugat del Vall\u00e8s, Barcelona",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Sant Cugat del Vall\u00e8s"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5511592878",
+            "redirect_url": "https://www.adzuna.es/details/5511592878?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Alpega Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-24T19:51:05Z",
+            "description": "The Alpega Group is looking for a Marketing RevOps Data Analyst . This position will be based in Barcelona, Spain. WHO ARE WE The Alpega Group is a fast-growing, leading software company that offers modular solutions to manage transportation end-to-end and enable our customers to achieve greener transportation processes, with 35 years in the business. Find more about our clients and services here: Alpega Group: control your supply chain with Alpega TMS. Freight Exchange (alpegagroup.com) ABOUT \u2026",
+            "title": "Marketing RevOps Data Analyst | Hybrid"
+        },
+        {
+            "title": "Data Analyst - (Certificado de Discapacidad)",
+            "description": "\u00bfBuscas un lugar donde tu talento sea lo \u00fanico que importe? En Leroy Merlin Espa\u00f1a tenemos un puesto pensado para ti. Formamos un equipo diverso donde tambien las personas con discapacidad encuentran las herramientas, adaptaciones y oportunidades para brillar profesionalmente. Juntos/as construimos un entorno donde cada persona puede aportar su mejor versi\u00f3n Principales funciones y responsabilidades: Estrategia corporativa de Datos: Implementar la estrategia de construcci\u00f3n del marco de datos d\u2026",
+            "redirect_url": "https://www.adzuna.es/details/5449989848?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-16T12:10:44Z",
+            "company": {
+                "display_name": "Leroy Merlin Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -3.632402,
+            "id": "5449989848",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Alcobendas"
+                ],
+                "display_name": "Alcobendas, Madrid"
+            },
+            "latitude": 40.541042,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDQ5OTg5ODQ4In0.PDHJYl-1xIwp9J6m5-_al0W80sjFO14qJ0_vZvRVsf0",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NDQ3ODQxNSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.4KTv29Bl2omXUj8PuWl8qeoxntuWBkTjef66T8Sa6wE",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5464478415",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5464478415?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-25T19:46:39Z",
+            "company": {
+                "display_name": "Accenture",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Strategy and Governance Manager",
+            "description": "If you are ready to lead the total reinvention of the company through data and technology , you have an opportunity to join the Accenture team and change the future of our clients and society. Responsibilities: Collaborate with clients to define and deploy data & AI strategies. Conduct data maturity assessments, identifying gaps and opportunities for improvement. Define and deploy data governance frameworks and operating models across various industries. Develop and implement policies and proce\u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM4MDI0ODc0In0.z3AbyOdRm0w5AUziQ4kSbLFv8S5bZizfR24g2EijGqE",
+            "latitude": 40.429254,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -3.724726,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "id": "5538024874",
+            "redirect_url": "https://www.adzuna.es/details/5538024874?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Talent Connect",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-11T19:54:40Z",
+            "description": " DATA ANALYST \u2013 CMS PEOPLE  Ubicaci\u00f3n: Remoto (preferencia en Barcelona y alrededores)  Modalidad: Full-time  Industria: Eventos, Marketing Digital, An\u00e1lisis de Datos  Sobre CMS People: Somos una empresa con impacto global en la industria financiera, organizando eventos en mercados como Brasil, Espa\u00f1a, Portugal, M\u00e9xico, Argentina, Chile y Per\u00fa. Estamos en b\u00fasqueda de un Data Analyst que nos ayude a transformar datos en estrategias accionables.  Responsabilidades del rol: Integrar y optimizar ba\u2026",
+            "title": "DATA ANALYST - Remoto 100% (Barcelona)"
+        },
+        {
+            "redirect_url": "https://www.adzuna.es/details/5480893521?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "thePower"
+            },
+            "created": "2025-11-04T20:19:18Z",
+            "description": "Sobre el puesto Buscamos un/a instructor/a experto/a en Data & Analytics para impartir una formaci\u00f3n intensiva de 4 meses en turno de ma\u00f1ana que cubre desde los fundamentos del an\u00e1lisis de datos hasta principios b\u00e1sicos de Data Science y Business Intelligence. Tareas * Impartir clases en directo sobre los m\u00f3dulos del programa (presenciales u online) * Preparar el material did\u00e1ctico proporcionado (videos, ejercicios pr\u00e1cticos, casos de estudio) * Guiar a los estudiantes en proyectos pr\u00e1cticos y \u2026",
+            "title": "INSTRUCTOR/A DE DATA & ANALYTICS",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MDg5MzUyMSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.0xngij6sghBuKPq42KkyoRncASvF8CWpRQlBNeZAokU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "id": "5480893521"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNjY1MTk2NyIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.8nH7Fb6vna0R6FtnxEFsZ9FEGTyKz2HlFthbIWrcCxM",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5506651967",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.es/details/5506651967?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-21T01:55:39Z",
+            "company": {
+                "display_name": "EX Venture Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "AI & Data Management Intern (Bali)",
+            "description": "AI & Data Management Intern (Bali) Location: Bali, Indonesia (On-site only) Compensation: Unpaid Internship Role Overview Design, build, and manage our state-of-the-art, AI-powered data systems that are responsible for organizing, analyzing, and visualizing vast amounts of information from across the entire EX Venture ecosystem. This role is crafted for a highly data-driven and analytical individual with a strong and demonstrable analytical mindset and a deep-seated passion for using data to so\u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTEwNzgwMDg1In0.PZStu9OJNH4Chh4N695lv4Tk2ERPiNTiMNxGrzfLNRw",
+            "latitude": 41.389687,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 2.165094,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "display_name": "Barcelona"
+            },
+            "id": "5510780085",
+            "redirect_url": "https://www.adzuna.es/details/5510780085?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EX Venture"
+            },
+            "created": "2025-11-24T00:11:08Z",
+            "description": "AI & Data Management Intern (Bali) Location: Bali, Indonesia (On-site only) Compensation: Unpaid Internship Role Overview Design, build, and manage our state-of-the-art, AI-powered data systems that are responsible for organizing, analyzing, and visualizing vast amounts of information from across the entire EX Venture ecosystem. This role is crafted for a highly data-driven and analytical individual with a strong and demonstrable analytical mindset and a deep-seated passion for using data to so\u2026",
+            "title": "AI & Data Management Intern (Bali)"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NTU2NTAwOSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.W7lODBvjg564e3C0d2VqaEmL0WAL1QNBp26RQ0zfXDU",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en hosteleria y restauraci\u00f3n",
+                "tag": "hospitality-catering-jobs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5485565009",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5485565009?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-07T15:49:17Z",
+            "company": {
+                "display_name": "AstraZeneca",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Clinical Data Analyst - Evinova",
+            "description": "About Evinova: Evinova is a pioneering health tech business with a mission to transform billions of patients\u2019 lives through technology, data, and innovative delivery practices. We deliver globally-scaled digital health solutions that are science-based, evidence-led, and human experience-driven\u2014serving clinical trial sponsors, research organizations, care teams, and patients across 40 countries. Our platform accelerates clinical development, elevates patient experiences, and enables better healt\u2026"
+        },
+        {
+            "title": "Senior Data & AI Platform Engineer",
+            "description": "ABOUT THE OPERATIONS IT TEAM Join our global Operations IT team, supporting diverse areas such as Pharmaceutical Technology Development, Manufacturing & Global Engineering, and more. We combine cutting-edge science with leading digital technology platforms and data, impacting lives through advancements in data, analytics, and AI. Embrace a dynamic environment with endless opportunities for learning and growth. ROLE OVERVIEW We\u2019re seeking a technical, forward-thinking Data & AI Platform Engineer\u2026",
+            "created": "2025-11-06T15:33:56Z",
+            "company": {
+                "display_name": "AstraZeneca",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5483943311?utm_medium=api&utm_source=58c69264",
+            "id": "5483943311",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Mzk0MzMxMSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.sTHeO4Mv68Puw4exD6cgMtZ4AtKrcXcIUaU5r2BDxnI"
+        },
+        {
+            "salary_min": 60000,
+            "description": "Provide guidance to development teams, review code, and ensure that it aligns with the architectural design, including integration patterns that need to be communicated to other teams. Involved in selection of appropriate technologies, tools, and frameworks that align with the organization's current and future goals and capabilities, regarding software development and integration. Profile has to make focus on Data technologies and serve as a key link to CDO (Chief Data Officer) Team. Provide ne\u2026",
+            "title": "DATA SOLUTION ARCHITECT-Posible remoto",
+            "redirect_url": "https://www.adzuna.es/details/5438549535?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-09T09:59:07Z",
+            "longitude": -3.724726,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "id": "5438549535",
+            "salary_max": 70000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzODU0OTUzNSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.7T8H2XAbcplMHVnTyfmSTRDykneUpjt35IRsB3V3Kio",
+            "latitude": 40.429254,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Trabajos en inform\u00e1tica"
+            }
+        },
+        {
+            "id": "5062368554",
+            "location": {
+                "display_name": "Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -3.684093,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "latitude": 40.426012,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1MDYyMzY4NTU0In0.pjP3-1n-mkW2Q_VNRPxB9VJri3CZbFfFD3jjZ7Qnif0",
+            "title": "Data Engineer- Analyst H/M",
+            "description": "\u00bfQui\u00e9nes somos? El trabajo de VINCI Energies Spain est\u00e1 alineado con todas las ramas de VINCI Energies del Grupo, siendo l\u00edder global en soluciones para la digitalizaci\u00f3n y la transici\u00f3n energ\u00e9tica de las compa\u00f1\u00edas como motores de la transformaci\u00f3n de los negocios. Axians, es la marca de VINCI Energies especializada en las tecnolog\u00edas de la informaci\u00f3n y las comunicaciones (TIC), que proporciona un amplio espectro de soluciones y servicios para atender las necesidades de las empresas en infraes\u2026",
+            "created": "2025-02-24T20:19:12Z",
+            "company": {
+                "display_name": "VINCI",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5062368554?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "title": "Head of Data Science (Marketing)",
+            "description": "Who we are Moniepoint is Africa's all-in-one financial ecosystem, empowering businesses and their customers with seamless payment, banking, credit, and management tools. In 2023, we processed $182 billion and are Nigeria\u2019s largest merchant acquirer. About the role We\u2019re looking for a strategic and hands-on Head of Data Science (Marketing) to lead our data initiatives in a high-growth environment. This role is pivotal in driving our data strategy, fostering a data-driven culture, and ensuring th\u2026",
+            "redirect_url": "https://www.adzuna.es/details/5496122489?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-14T15:39:00Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Moniepoint"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5496122489",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjEyMjQ4OSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.twV4iw4_df-CvcnUEL4dErsnuSkKXxDddWYopaTQxeo",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en marketing, publicidad y relaciones p\u00fablicas"
+            }
+        },
+        {
+            "created": "2025-09-12T19:32:26Z",
+            "company": {
+                "display_name": "Heetch",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5396049954?utm_medium=api&utm_source=58c69264",
+            "title": "Head of Data Science & Analytics",
+            "description": "Location: Barcelona Office, hybrid About the Role: We are seeking a Head of Data Science & Analytics to lead and elevate our data function at Heetch . This role blends technical expertise with strategic influence , ensuring that data is at the heart of every product and business decision. You will oversee a high-performing team of data scientists and product analysts , focusing on maximising impact, driving experimentation, and fostering continuous growth . You will empower and up skill existin\u2026",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en marketing, publicidad y relaciones p\u00fablicas"
+            },
+            "latitude": 41.380002,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5NjA0OTk1NCIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.DrQ49v2vh8JPosQVNPUob1xFUzncn-o_ALdHB9v8NrA",
+            "id": "5396049954",
+            "location": {
+                "display_name": "Barcelona",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ]
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 2.168131
+        },
+        {
+            "created": "2025-10-27T18:59:08Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ultra Tendency"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5466456885?utm_medium=api&utm_source=58c69264",
+            "title": "Senior Data Consultant (m/f/*)",
+            "description": "Our Data & Engineering community is growing, and we\u2019re now looking for a Senior Data Consultant (m/f/*) to join our team in Spain, supporting our global growth. As a Senior Data Consultant, you will combine deep hands-on experience in modern data platforms \u2014 particularly Databricks \u2014 with a strategic, client-oriented mindset. You\u2019ll advise organizations on how to design, implement, and scale data-driven architectures, while guiding them through every stage of their digital transformation journe\u2026",
+            "category": {
+                "label": "Trabajos en consultor\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NjQ1Njg4NSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.GRjGxrBaX6sl44q6tRDAgpuNUV3KHn7VjRrs85G4Yl0",
+            "id": "5466456885",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0"
+        },
+        {
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid"
+            },
+            "id": "5502531878",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -3.683412,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjUzMTg3OCIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.S0LYLvYlRw2Q3N7nTc6N4H5w-yhxsu1ItIOBsyxGrMw",
+            "latitude": 40.480423,
+            "description": "Who are we looking for? Are you an expert in the world of data engineering with strong knowledge of Databricks, Snowflake, and dbt, and do you have a passion for sharing your expertise with other professionals? Do you have the ambition to lead complex data engineering projects, support the growth of junior talent, and contribute to business development through pre-sales activities? Then you are the person we are looking for! What will you do? As a Senior Data Engineer & Training Lead, you will \u2026",
+            "title": "SENIOR DATA ENGINEER &TRAINING LEAD",
+            "company": {
+                "display_name": "The Information Lab Italia Srl",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-18T22:54:09Z",
+            "redirect_url": "https://www.adzuna.es/details/5502531878?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -5.941724,
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Andaluc\u00eda",
+                    "Sevilla",
+                    "Sevilla"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sevilla"
+            },
+            "id": "5480893451",
+            "salary_max": 25000,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDgwODkzNDUxIn0.Dn6duyjyPCr6jMds-ofs96iCsQiWhUjGC8yMIpbP3qE",
+            "latitude": 37.376158,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_min": 20000,
+            "description": "Oferta de empleo: Data Analyst | Grupo Pampling | Sevilla Sobre Grupo Pampling Somos una empresa textil nacida en Sevilla hace m\u00e1s de 20 a\u00f1os , con presencia en Espa\u00f1a, Europa y Latinoam\u00e9rica en m\u00e1s de 100 puntos de venta propios y tambi\u00e9n con un fuerte canal online que nos conecta con clientes de todo el mundo. Nuestra filosof\u00eda se basa en ofrecer moda original y sostenible, apostando por la creatividad, el talento global y la producci\u00f3n responsable. Contamos con marcas con personalidad propia\u2026",
+            "title": "Data Analyst | Grupo Pampling | Sevilla",
+            "redirect_url": "https://www.adzuna.es/details/5480893451?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "GRUPO PAMPLING",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-04T20:19:17Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -3.724726,
+            "location": {
+                "display_name": "Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5534791933",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDc5MTkzMyIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.xsaeJi6tOUVwqSES65wXYOzJnY9_MvuijFID6uTmF5U",
+            "latitude": 40.429254,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "description": "Our Data & Engineering community is growing, and we're now looking for aSenior Data Consultant (m/f/*)to join our team in Spain, supporting our global growth.As a Senior Data Consultant, you will combine deep hands-on experience in modern data platforms \u2014 particularly Databricks \u2014 with a strategic, client-oriented mindset. You'll advise organizations on how to design, implement, and scale data-driven architectures, while guiding them through every stage of their digital transformation journey.W\u2026",
+            "title": "Senior Data Consultant (M/F/*)",
+            "redirect_url": "https://www.adzuna.es/details/5534791933?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Ultra Tendency",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T19:13:35Z"
+        },
+        {
+            "company": {
+                "display_name": "Appodeal",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-02T19:57:22Z",
+            "redirect_url": "https://www.adzuna.es/details/5524620659?utm_medium=api&utm_source=58c69264",
+            "description": "Appodeal is a dynamic US-based product company with a truly global presence. We have offices in Warsaw, Barcelona and Virginia along with remote team members located around the world. Our company thrives on diversity, collaboration, and innovation, making us a leader in the mobile app monetization space. Why Appodeal? At Appodeal, we\u2019re more than just a company\u2014we\u2019re a team united by a common mission: to help every person discover and grow their talents! We take pride in our cutting-edge produc\u2026",
+            "title": "Head/Director of Data Science",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTI0NjIwNjU5In0.mrH2lQLG6rYcpo9iDTlwF8Qvlqe-6JnaoTr4y-JRypE",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a"
+            },
+            "id": "5524620659",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5253190500",
+            "location": {
+                "display_name": "Barcelona",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ]
+            },
+            "longitude": 2.168131,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "latitude": 41.380002,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1MjUzMTkwNTAwIn0.eHj951hMPuGLY9ic0T_hqTVFuVeZ5QunTId7mZeEEH8",
+            "title": "Expert Data Steward - Product Content",
+            "description": "We are currently looking for a Expert Data Steward - Product Content in order to complete our IT Master Data Governance department. Position Snapshot Location: Barcelona Type of Contract: Permanent Stream: IT Master Data Governance Type of work: Hybrid Work Language: Fluent Business English The role Under the guidance of the Data Governance Lead for Marketing and Sales Data, you will be responsible for the governance of the data model in the PIM solution. The data model includes all customer an\u2026",
+            "created": "2025-06-16T16:36:00Z",
+            "company": {
+                "display_name": "Nestl\u00e9",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5253190500?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "id": "4800598638",
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Barcelona"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.165094,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "Trabajos en inform\u00e1tica"
+            },
+            "latitude": 41.389687,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMDU5ODYzOCIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.67tmyBb2W4xKXPkCF0M-sDv7g2wik5ChXf4U6L5_VTY",
+            "title": "HQ BARCELONA - Senior Data Scientist",
+            "description": "Jobandtalent Who we are : We are a workforce on-demand company that heavily relies on tech . We integrate the complete process of selecting, hiring, and managing employees, being the first in digitizing all the steps, introducing Artificial Intelligence solutions in multiple phases, obtaining faster and higher-quality service for our clients, and great satisfaction and loyalty for our workers. Our Impact on Society : Our vision is to create a long-term job security condition for our workers whi\u2026",
+            "created": "2024-07-30T15:53:16Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jobandtalent"
+            },
+            "redirect_url": "https://www.adzuna.es/details/4800598638?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "latitude": 41.380002,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI3NzU0Mzc3NSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.JyQlYty-Gx8vCIEk1g-4KP_KirMgy77OsqxLOiK1jSE",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "longitude": 2.168131,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5277543775",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "display_name": "Barcelona"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5277543775?utm_medium=api&utm_source=58c69264",
+            "created": "2025-07-01T16:28:18Z",
+            "company": {
+                "display_name": "DocMorris",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Scientist (m/f/d)",
+            "description": "The Swiss-based DocMorris AG is a leading company in the fields of online pharmacy, marketplace and professional healthcare with strong brands in Germany and other European countries. With its business model, DocMorris offers its patients, customers and partners a broad range of products and services. In doing so, DocMorris is pursuing its vision of creating a digital health ecosystem for everyone to manage their health in one click. In Spain and France, the company operates the leading marketp\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": 2.176349,
+            "location": {
+                "display_name": "Barcelona",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5395847835",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5NTg0NzgzNSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.YOHzTTXfB8fGp1Y09LhhEldeAeCVCna__JfteHka284",
+            "latitude": 41.384247,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "Te incorporar\u00e1s como nuestro nuevo/a cient\u00edfico/a de datos s\u00e9nior dentro de un equipo de ciencia de datos altamente experimentado y talentoso. Tendr\u00e1s autonom\u00eda para liderar proyectos y adquirir\u00e1s experiencia trabajando con grandes y diversos conjuntos de datos. Este puesto forma parte de nuestro equipo de ciencia de datos centrado en productos y videojuegos. \u00bfEn qu\u00e9 consistir\u00e1 tu puesto? Traducir problemas de negocio ambiguos en componentes anal\u00edticos medibles. Implementar metodolog\u00edas para ge\u2026",
+            "title": "Cient\u00edfico/a de datos s\u00e9nior",
+            "redirect_url": "https://www.adzuna.es/details/5395847835?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Product Madness",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-09-12T15:00:05Z"
+        },
+        {
+            "created": "2024-01-19T10:31:35Z",
+            "company": {
+                "display_name": "INETUM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.es/details/4532559486?utm_medium=api&utm_source=58c69264",
+            "title": "Arquitectos Cloud Data H/M",
+            "description": "Mission Buscamos un Arquitecto Cloud, para incorporarse al equipo Cloud de Inetum. Especializado en arquitecturas orientadas a Datos y AWS Perfil \u25cf Solidos conocimiento y experiencia del cloud AWS\u25cf Experiencia como arquitecto definiendo arquitecturas orientadas a datos en Cloud\u25cf Conocimientos de arquitecturas Data Lake y DataWarehouse\u25cf Conocimiento de los principales servicios Data en AWS: Data Lake, Kinesis, Glue, Athena, Quicksight, EMR, etc\u25cf Conocimientos de arquitectura, gobierno y calidad \u2026",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "latitude": 40.426012,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDUzMjU1OTQ4NiIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.XOGQEkCpWU6LRwsTdM3aGYLsP1LEKi_QRAwiZXdwpSo",
+            "id": "4532559486",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -3.684093
+        },
+        {
+            "location": {
+                "display_name": "Avil\u00e9s, Asturias",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Principado de Asturias",
+                    "Asturias",
+                    "Avil\u00e9s"
+                ]
+            },
+            "id": "5271829620",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -5.922247,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1MjcxODI5NjIwIn0.G8IfMrJl03P2Tr5vphdjs6l7iqj6YnAWlHuu7GdhKf4",
+            "latitude": 43.555444,
+            "description": "At DuPont, our purpose is to empower the world with essential innovations to thrive. We work on things that matter. Whether it's providing clean water to more than a billion people on the planet, producing materials that are essential in everyday technology devices from smartphones to electric vehicles, or protecting workers around the world. Discover the many reasons the world's most talented people are choosing to work at DuPont. Why Join Us | DuPont Careers The HR Data Analyst will play a cr\u2026",
+            "title": "HR Data Analyst & Business Intelligence",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-06-27T20:09:27Z",
+            "redirect_url": "https://www.adzuna.es/details/5271829620?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "latitude": 40.429254,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTM0NzkxMzI0In0.nwTj8PT9vnOedmKVjw4If8QWzNXyOPtWJ21XuWOjtjQ",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "longitude": -3.724726,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5534791324",
+            "location": {
+                "display_name": "Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.es/details/5534791324?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-09T19:13:31Z",
+            "company": {
+                "display_name": "Morningstar",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Multilingual Senior Data Research Analyst",
+            "description": "Multilingual Senior Data Research Analyst page is loaded Multilingual Senior Data Research Analyst Apply locations Madrid time type Full time posted on Posted 30 Days Ago job requisition id REQ Location: Madrid, Spain Working Pattern: Hybrid (3 days in office) About This Role We're looking for experienced German, French, Dutch, Danish, Swedish, Norwegian, Finnish, Italian, Spanish, or Portuguese speakers to join our team as Senior Data Research Analysts. Our EMEA Data Team is dedicated to deliv\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a"
+            },
+            "id": "5507234360",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNzIzNDM2MCIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.r082rUPuZextkCBKEB1mw76bWBgzMhWXOM_PFpFs2yI",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "description": "Especialista en Datos Banca Especialista en Datos Madrid \u00bfTe apasiona transformar datos en decisiones de negocio estrat\u00e9gicas? Esta es tu oportunidad para impactar directamente en la optimizaci\u00f3n digital de una de las \u00e1reas m\u00e1s din\u00e1micas del sector financiero. Ubicaci\u00f3n: Madrid (Oficinas del Cliente en Las Tablas) Modalidad: Presencial Experiencia Requerida: M\u00ednimo 2 a\u00f1os en roles de especialista/explotaci\u00f3n de datos Tus principales funciones: Dise\u00f1o, desarrollo, mantenimiento y evoluci\u00f3n de cu\u2026",
+            "title": "Especialista en Datos Banca, presencial",
+            "redirect_url": "https://www.adzuna.es/details/5507234360?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CAS TRAINING"
+            },
+            "created": "2025-11-21T11:42:05Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -3.724726,
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid"
+            },
+            "id": "5464812296",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDY0ODEyMjk2In0._8m-ggVFSZvuEvRcfByL5H7KmQ9bI7GTbQzBH3CoWqU",
+            "latitude": 40.429254,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "description": "As a Data Protection Expert (DPE) you will be supporting Cigna's International Health global business , with strong focus on the Spanish domestic market. You will play an active role in all data protection-related matters. As a DPE you will ensure that Cigna International Health (International Health) processes the personal data of its customers, employees, vendors and providers in compliance with the applicable data protection rules. You will advise International Health business on data protec\u2026",
+            "title": "Data Privacy Expert Senior Analyst",
+            "redirect_url": "https://www.adzuna.es/details/5464812296?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "The Cigna Group",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-10-26T03:22:28Z"
+        },
+        {
+            "title": "Data Privacy Expert Senior Analyst",
+            "description": "As a Data Protection Expert (DPE) you will be supporting Cigna\u2019s International Health global business , with strong focus on the Spanish domestic market. You will play an active role in all data protection-related matters. As a DPE you will ensure that Cigna International Health (International Health) processes the personal data of its customers, employees, vendors and providers in compliance with the applicable data protection rules. You will advise International Health business on data protec\u2026",
+            "created": "2025-10-31T18:50:06Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cigna Group"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5473151669?utm_medium=api&utm_source=58c69264",
+            "id": "5473151669",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Trabajos en contabilidad y finanzas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "accounting-finance-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NDczMTUxNjY5In0.Opgt4-3y8gtUR9aq4AHGZTHFC7OW4p1nPHebK3mIlCI"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1MzkyMjk1NTU0In0.gt7RbbDMB7CxX1ApwU3H1QDr8F51GP83edweb9FZE6o",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a"
+            },
+            "id": "5392295554",
+            "redirect_url": "https://www.adzuna.es/details/5392295554?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "Happening",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-09-10T13:44:55Z",
+            "description": "At Superbet, data isn\u2019t a support function, it\u2019s at the heart of every major decision we make. As an Analyst, you\u2019ll operate at the intersection of product, commercial, and marketing strategy. Your analyses won\u2019t sit in slide decks; they\u2019ll directly shape how millions of customers engage with our products. This is a role for very special kind of analyst: who love hard problems, thrive in ambiguity, and get energized by moving from messy data to clear insights that drive strategy. You\u2019ll be expe\u2026",
+            "title": "Senior Product Data Analyst, CRM"
+        },
+        {
+            "title": "Senior Data Engineer (m/f/*)",
+            "description": "Our Engineering community is growing, and we\u2019re now looking for a Senior Data Engineer (m/f/*) to join our team in Spain, supporting our global growth. As Senior Data Engineer (m/f/*) , you design and optimize data processing algorithms on a talented, cross-functional team. You are familiar with the Apache open-source suite of technologies and want to contribute to the advancement of data engineering. WHAT WE OFFER Flexible work options, including fully remote or hybrid arrangements (candidates\u2026",
+            "created": "2025-08-31T13:27:20Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ultra Tendency"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5376214267?utm_medium=api&utm_source=58c69264",
+            "id": "5376214267",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM3NjIxNDI2NyIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.c5rE9eIKmnvZKKOTJgmntURq6k7KWsqcskctpCdLNc0"
+        },
+        {
+            "description": "IKERLAN Ikerlan formamos parte de la corporaci\u00f3n Mondragon, la cooperativa m\u00e1s grande del mundo. Somos un centro tecnol\u00f3gico l\u00edder en la transferencia de conocimiento y en la aportaci\u00f3n de valor competitivo a las empresas. Buscamos la excelencia en la IDi, a trav\u00e9s del aprendizaje diario y la adaptaci\u00f3n a las necesidades de nuestros clientes y la cercan\u00eda a la realidad empresarial. Descripci\u00f3n de la oferta Estamos buscando a una persona para el equipo de Cloud Data Spaces centrada en el desarro\u2026",
+            "title": "Ingeniero/a de Datos Cloud",
+            "redirect_url": "https://www.adzuna.es/details/5441519691?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ikerlan"
+            },
+            "created": "2025-10-10T19:44:33Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -2.927,
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bilbao, Vizcaya",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Pa\u00eds Vasco",
+                    "Vizcaya",
+                    "Bilbao"
+                ]
+            },
+            "id": "5441519691",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MTUxOTY5MSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.JnxhHvUU9IOY-3HtLmEFqIz4tLUf5loQZvH0g7VvUk4",
+            "latitude": 43.263227,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            }
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQzNDI2MjAzNSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.5UBoLoxHkubxJseDy0SmoK5XI5-k0jmXn7ktBojeTn4",
+            "latitude": 43.065678,
+            "location": {
+                "display_name": "Arrasate/Mondrag\u00f3n, Guip\u00fazcoa",
+                "area": [
+                    "Espa\u00f1a",
+                    "Pa\u00eds Vasco",
+                    "Guip\u00fazcoa",
+                    "Arrasate/Mondrag\u00f3n"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5434262035",
+            "longitude": -2.490078,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Ikerlan"
+            },
+            "created": "2025-10-06T19:42:43Z",
+            "redirect_url": "https://www.adzuna.es/details/5434262035?utm_medium=api&utm_source=58c69264",
+            "description": "IKERLAN Ikerlan formamos parte de la corporaci\u00f3n Mondragon, la cooperativa m\u00e1s grande del mundo. Somos un centro tecnol\u00f3gico l\u00edder en la transferencia de conocimiento y en la aportaci\u00f3n de valor competitivo a las empresas. Buscamos la excelencia en la IDi, a trav\u00e9s del aprendizaje diario y la adaptaci\u00f3n a las necesidades de nuestros clientes y la cercan\u00eda a la realidad empresarial. Descripci\u00f3n de la oferta Estamos buscando a una persona para el equipo de Cloud Data Spaces centrada en el desarro\u2026",
+            "title": "Ingeniero/a de Datos Cloud"
+        },
+        {
+            "location": {
+                "display_name": "Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4290987060",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -3.684093,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDI5MDk4NzA2MCIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.gwOUh6U-GWtH_9xoCocWNGxTHy1D4oz6n1hQjktd4M4",
+            "latitude": 40.426012,
+            "description": "Mission En Inetum estamos creciendo y buscamos un Test Data Manager para colaborar en un proyecto con una importante empresa de distribuci\u00f3n espa\u00f1ola. \u00bfQU\u00c9 HAR\u00c1S? Verificaci\u00f3n viabilidad de datos/entorno para realizaci\u00f3n de pruebas.Datos: confirmar atributos de datos en BBDD y preparar procedimientos de actualizaci\u00f3n/recuperaci\u00f3n autom\u00e1ticos.Entorno: sem\u00e1foros para servicios ca\u00eddos en servidores Unix, Webservices, \u2026Estudio posibilidad de virtualizar secciones concretas de los flujos de los caso\u2026",
+            "title": "Test Data Manager H/M",
+            "company": {
+                "display_name": "INETUM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2023-09-02T07:29:49Z",
+            "redirect_url": "https://www.adzuna.es/details/4290987060?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "contract_type": "permanent",
+            "title": "Consultor/a - Protecci\u00f3n de Datos",
+            "description": "Consultor/a - Protecci\u00f3n de Datos Buscamos un/a Consultor/a Senior en Protecci\u00f3n de Datos para un nuevo proyecto estrat\u00e9gico en Madrid. La persona seleccionada formar\u00e1 parte de un equipo especializado, colaborando en la implantaci\u00f3n, supervisi\u00f3n y mejora continua de programas de cumplimiento en materia de privacidad. Requisitos: -Formaci\u00f3n: Grado, Licenciatura o Ingenier\u00eda Superior (o equivalente). -Experiencia demostrable m\u00ednima de 6 a\u00f1os en cumplimiento de las normativas de protecci\u00f3n de dato\u2026",
+            "created": "2025-12-06T00:10:00Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Baoss"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5530262251?utm_medium=api&utm_source=58c69264",
+            "id": "5530262251",
+            "location": {
+                "display_name": "Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "longitude": -3.724726,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "latitude": 40.429254,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTMwMjYyMjUxIn0.o_v5OvQBU-8Du8Lc0DODnBpB_xuFgxHeaxemqTaIarg"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "latitude": 41.380002,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEzNTY2MDA5MCIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.F5lTungjSx63x-JGbU_xSEVZQzG_eB5bBWLB0KNUv3c",
+            "id": "5135660090",
+            "salary_max": 30000,
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Barcelona"
+            },
+            "longitude": 2.168131,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "created": "2025-04-08T19:22:57Z",
+            "company": {
+                "display_name": "Multinacional Franco Espa\u00f1ola",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5135660090?utm_medium=api&utm_source=58c69264",
+            "title": "Administrador Base de Datos (DBA)",
+            "description": "Multinacional franco espa\u00f1ola especializada en software de IBM y U2, desarrollo de aplicaciones, servicios profesionales a empresas y Data Warehouse, precisa incorporar: Buscamos un profesional con experiencia de al menos 2 a\u00f1os en administraci\u00f3n y desarrollo de aplicaciones con el gestor de base de datos UniVerse. Buenos conocimientos y experiencia en Bases de Datos Multivaloradas Se busca una persona responsable, organizada y con capacidad para incorporaci\u00f3n inmediata Requisitos del puesto Re\u2026",
+            "salary_min": 20000
+        },
+        {
+            "title": "Administrativo/a (Introducci\u00f3n datos NAVISION)",
+            "description": "\u00bfTe encuentras en b\u00fasqueda de un empleo temporal de unos 2 - 3 meses de duraci\u00f3n? \u00bfAportas experiencia administrativa en introducci\u00f3n de datos con NAVISION? \u00a1Tenemos una oferta de empleo para ti! Desde Catalunyampleo buscamos para importante laboratorio farmac\u00e9utico ubicado en Sant Joan Desp\u00ed un perfil administrativo para dar soporte al Dpto. de RRHH en la introducci\u00f3n de datos con NAVISION de forma temporal. - Introducci\u00f3n de datos en el sistema inform\u00e1tico NAVISION - Digitalizaci\u00f3n de documen\u2026",
+            "redirect_url": "https://www.adzuna.es/details/5515438447?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-27T00:03:13Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Grupompleo"
+            },
+            "longitude": 2.168131,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5515438447",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "display_name": "Barcelona"
+            },
+            "latitude": 41.380002,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNTQzODQ0NyIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.CjVuB5-N_1MzXsIKg64LEu0ftoTHnXIYkCJhm2bylDY",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "description": "En Alcampo creemos en la fuerza de las personas para transformar el mundo y queremos que quienes trabajan en Alcampo vivan en un ambiente propicio para hacerlo, por eso apostamos por el aprendizaje, la innovaci\u00f3n y el desarrollo del talento de todas y cada una de las personas de la empresa. De ser seleccionado/a tu misi\u00f3n ser\u00e1 actuar alineado y contribuir con los objetivos de Alcampo, Misi\u00f3n: Colaborar en el desarrollo y mantenimiento de aplicaciones y sistemas en el \u00e1rea de Data IT, ya sea en \u2026",
+            "title": "Analista Programador/a \u2013 \u00c1rea Data",
+            "redirect_url": "https://www.adzuna.es/details/5456302081?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Alcampo"
+            },
+            "created": "2025-10-20T15:22:34Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -0.920103,
+            "location": {
+                "display_name": "Cuarte de Huerva, Zaragoza",
+                "area": [
+                    "Espa\u00f1a",
+                    "Arag\u00f3n",
+                    "Zaragoza",
+                    "Cuarte de Huerva"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5456302081",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NjMwMjA4MSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.6YWQyHOMh4_He0kUsb6IX61oU4l5XSjlU_vJxZ7mA8c",
+            "latitude": 41.610117,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI1NTAzMzEzMDYwIn0.aQ_3CUgC8-VJljbsvIda46JkTOzJ5yM-tUnBTZASfBk",
+            "latitude": 41.399672,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Sant Adri\u00e0 de Bes\u00f2s"
+                ],
+                "display_name": "Sant Adri\u00e0 de Bes\u00f2s, Barcelona"
+            },
+            "id": "5503313060",
+            "longitude": 2.20397,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MULTIVERSE COMPUTING"
+            },
+            "created": "2025-11-19T17:57:03Z",
+            "redirect_url": "https://www.adzuna.es/details/5503313060?utm_medium=api&utm_source=58c69264",
+            "description": "We are looking to fill this role immediately and are reviewing applications daily. Expect a fast, transparent process with quick feedback. Why join us? We are a European deep-tech leader in quantum and AI, backed by major global strategic investors and strong EU support. Our groundbreaking technology is already transforming how AI is deployed worldwide \u2014 compressing large language models by up to 95% without losing accuracy and cutting inference costs by 50\u201380%. Joining us means working on cutt\u2026",
+            "title": "Data Engineer (Fixed-term contract)"
+        },
+        {
+            "description": "About the Role As a Technical Project Manager (Data Engineering) , you will play a key role in ensuring that our data solutions deliver tangible value to both internal teams and external partners. You\u2019ll work hand-in-hand with Data Tech Leads, Engineers, Product Managers, and Project Managers to translate business needs into clear technical deliverables \u2014 and drive those projects to completion with excellence and precision. This is a highly cross-functional role: you\u2019ll navigate between the wor\u2026",
+            "title": "Technical Project Manager (Data Engineering)",
+            "redirect_url": "https://www.adzuna.es/details/5520454937?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FeverUp"
+            },
+            "created": "2025-11-30T19:53:18Z",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "id": "5520454937",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDQ1NDkzNyIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.5fQAXILyWt6Ked438DyF0LVEhHTz-YjotFRUDgIEL1U",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            }
+        },
+        {
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TEMA Grupo Consultor"
+            },
+            "created": "2025-11-04T03:45:36Z",
+            "redirect_url": "https://www.adzuna.es/details/5479262459?utm_medium=api&utm_source=58c69264",
+            "description": "TEMA Grupo Consultor es la empresa matriz de un holding de compa\u00f1\u00edas especializadas en consultor\u00eda dentro del \u00e1mbito del transporte y la movilidad . Fundado en 1982 , el Grupo se ha consolidado como referente nacional en el desarrollo de proyectos y estudios de transporte de pasajeros y mercanc\u00edas , prestando servicio tanto a la administraci\u00f3n p\u00fablica como a entidades privadas . TicMoveo (y su socia, Palma Tools ) son empresas especializadas en consultor\u00eda e ingenier\u00eda en medios de pago interop\u2026",
+            "title": "Ingeniero/a de Datos Senior",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3OTI2MjQ1OSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.XRsjXMqNpHT2mMbU_OWMZniV-6ndrI30I-JVdJJpWvQ",
+            "latitude": 40.394747,
+            "location": {
+                "display_name": "Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "id": "5479262459",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "longitude": -3.689118
+        },
+        {
+            "company": {
+                "display_name": "TSMG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-10-10T14:48:24Z",
+            "redirect_url": "https://www.adzuna.es/details/4897443145?utm_medium=api&utm_source=58c69264",
+            "description": "Company description: Terry Soot Management Group (TSMG) is a field data collection company founded in 2017 in Europe. We collect data where automation is not possible. We count features, take pictures, make videos, record speech, and scan areas for every detail you need to make more informed decisions. Our field data collection teams are spread across Europe and North America, ready to accept new challenges. Project description: The goal of the project is to collect visual and geo data for onli\u2026",
+            "title": "Field Data Collection Specialist\\Surveyor",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5NzQ0MzE0NSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.FHLFIz08GaEnF0Sdg9UKAxUbzuHmB_Y1D_yZL3HaRLY",
+            "latitude": 43.263227,
+            "location": {
+                "display_name": "Bilbao, Vizcaya",
+                "area": [
+                    "Espa\u00f1a",
+                    "Pa\u00eds Vasco",
+                    "Vizcaya",
+                    "Bilbao"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "4897443145",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": -2.927,
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Field Data Collection Specialist\\Surveyor",
+            "description": "Company description: Terry Soot Management Group (TSMG) is a field data collection company founded in 2017 in Europe. We collect data where automation is not possible. We count features, take pictures, make videos, record speech, and scan areas for every detail you need to make more informed decisions. Our field data collection teams are spread across Europe and North America, ready to accept new challenges. Project description: The goal of the project is to collect visual and geo data for onli\u2026",
+            "redirect_url": "https://www.adzuna.es/details/4897443659?utm_medium=api&utm_source=58c69264",
+            "created": "2024-10-10T14:48:58Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TSMG"
+            },
+            "longitude": -1.128541,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "4897443659",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Regi\u00f3n de Murcia",
+                    "Murcia",
+                    "Murcia"
+                ],
+                "display_name": "Murcia"
+            },
+            "latitude": 37.984364,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5NzQ0MzY1OSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.2QHyMHwTko25ZHs5u5Em-Pvx68v8AMXorrfz6rRuC74",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            }
+        },
+        {
+            "latitude": 40.429254,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg5NzQ0MzQ1NSIsInMiOiJha3I2QzliVzhCR2UzS3BfM2VvSDNRIn0.8MRhgxWf1_G0i0J4B5hsQe7ArvtkCNulqUWyCIohhmQ",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown",
+                "label": "Unknown"
+            },
+            "longitude": -3.724726,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "4897443455",
+            "location": {
+                "display_name": "Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.es/details/4897443455?utm_medium=api&utm_source=58c69264",
+            "created": "2024-10-10T14:48:45Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TSMG"
+            },
+            "title": "Field Data Collection Specialist\\Surveyor",
+            "description": "Company description: Terry Soot Management Group (TSMG) is a field data collection company founded in 2017 in Europe. We collect data where automation is not possible. We count features, take pictures, make videos, record speech, and scan areas for every detail you need to make more informed decisions. Our field data collection teams are spread across Europe and North America, ready to accept new challenges. Project description: The goal of the project is to collect visual and geo data for onli\u2026"
+        },
+        {
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 2.168131,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "display_name": "Barcelona"
+            },
+            "id": "4897443634",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWtyNkM5Ylc4QkdlM0twXzNlb0gzUSIsImkiOiI0ODk3NDQzNjM0In0.UmlwYOG1L03TnOr6Q_Wb-JRLlBTS_jqR5ChXjSqsKz4",
+            "latitude": 41.380002,
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "description": "Company description: Terry Soot Management Group (TSMG) is a field data collection company founded in 2017 in Europe. We collect data where automation is not possible. We count features, take pictures, make videos, record speech, and scan areas for every detail you need to make more informed decisions. Our field data collection teams are spread across Europe and North America, ready to accept new challenges. Project description: The goal of the project is to collect visual and geo data for onli\u2026",
+            "title": "Field Data Collection Specialist\\Surveyor",
+            "redirect_url": "https://www.adzuna.es/details/4897443634?utm_medium=api&utm_source=58c69264",
+            "company": {
+                "display_name": "TSMG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2024-10-10T14:48:54Z"
+        }
+    ],
+    "mean": 83503.66
+}

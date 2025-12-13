@@ -1,0 +1,1458 @@
+{
+    "mean": 83503.66,
+    "count": 27365,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Otros trabajos",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-11-12T09:07:25Z",
+            "redirect_url": "https://www.adzuna.es/details/5491618374?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MTYxODM3NCIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.dMPkgwuundRL1Y6sfAbldrpMvSZ5yrroyiL_EtW7J8I",
+            "description": "About us At Visium, we enable enterprise executives to define their AI & Data strategy, execute large scale transformations, and implement AI across operations, ensuring their organization becomes future-proof. With expertise in strategy, architecture, cloud engineering, analytics, artificial intelligence, and machine learning, we empower our clients to unleash and scale the power of their data. We\u2019re on a mission to pioneer a bright future and build future-proof and ethical organizations. Join\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Visium SA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5491618374",
+            "title": "Join Visium Talent Community (spontaneous application)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            }
+        },
+        {
+            "created": "2025-12-01T20:20:54Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en ingenier\u00eda"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIyMzE4NDIxIn0.CYp4YJbjmD_9HxR5V168KvEx06l3aLkUbzvpKK3Rz88",
+            "redirect_url": "https://www.adzuna.es/details/5522318421?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.429254,
+            "description": "Descripci\u00f3n del empleo En Veolia Espa\u00f1a buscamos incorporar un/a T\u00e9cnico de Herramientas Digitales reportando al Responsable T\u00e9cnico Operativo de Biomasa para nuestras oficinas en Madrid. Si est\u00e1s interesado/a en participar en el proceso de selecci\u00f3n, \u00a1Inscr\u00edbete aqu\u00ed! Funciones Liderar proyectos de transformaci\u00f3n digital para C&I Biomasa incluyendo la implementaci\u00f3n del ERP corporativo y asegurando su correcta integraci\u00f3n y adopci\u00f3n Identificar oportunidades de mejora, proponer y ejecutar proy\u2026",
+            "longitude": -3.724726,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid"
+            },
+            "company": {
+                "display_name": "Veolia Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5522318421",
+            "salary_is_predicted": "0",
+            "title": "T\u00e9cnico de Herramientas Digitales"
+        },
+        {
+            "redirect_url": "https://www.adzuna.es/details/5537151510?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MTUxNTEwIn0.DKcVb611wv0w8kC5yVKdw93pW_Swg1KgJsdKQEWbqrA",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Trabajos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T01:17:10Z",
+            "company": {
+                "display_name": "Axiom Software Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5537151510",
+            "title": "Semantic Search Engineer, Spain",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "description": "Semantic Search Engineer We are looking for Semantic Search Developers for crawling and feeding data into search engines. Should have worked with Apache Solr, Pipeship, AWS, Data Specilist, ML and MS Graph 1. Data Acquisition Use Apache ManifoldCF to crawl SharePoint, file systems, or databases. Use Microsoft Graph API for structured Microsoft 365 data. 2. Semantic Enrichment Use Apache Marmotta to enrich data with RDF triples and linked data. 3. Pipeline Orchestration Use Pipeship to manage in\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_max": 90000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "agap2 Espa\u00f1a"
+            },
+            "id": "5527254813",
+            "title": "Senior MLOps Engineer",
+            "salary_is_predicted": "0",
+            "salary_min": 70000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid, Comunidad de Madrid"
+            },
+            "longitude": 3.70325,
+            "description": "\u00a1 Desde Agap2 estamos en b\u00fasqueda de un perfil Senior MLOps para incorporarse a un proyecto estrat\u00e9gico dentro del \u00e1mbito anal\u00edtico y de datos! Buscamos un / a profesional con s\u00f3lida experiencia t\u00e9cnica que participe en la implementaci\u00f3n y puesta en producci\u00f3n de soluciones anal\u00edticas para un importante cliente del sector Seguros , ubicado en Madrid . Este rol es fundamental para garantizar que los modelos y pipelines de datos sean robustos, escalables y de alto impacto , trabajando de forma co\u2026",
+            "latitude": 40.4167,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.es/land/ad/5527254813?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DC1E0C0A7954D56A37F8F7BF5F91A5808DF61CC2",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNzI1NDgxMyIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.Ck1nh4Z-WL0VpvEfCLiZDFrqimmaUnx7CRcRO9j9c4M",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica"
+            },
+            "created": "2025-12-04T13:03:38Z"
+        },
+        {
+            "title": "DMLT - Senior Technical Consultant - Logistics Unification",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SAP"
+            },
+            "salary_max": 90000,
+            "id": "5521448864",
+            "salary_is_predicted": "0",
+            "salary_min": 70000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona"
+                ],
+                "display_name": "Barcelona, Catalu\u00f1a"
+            },
+            "longitude": 2.1734,
+            "description": "DMLT - Senior Technical Consultant - Logistics Unification Join to apply for the DMLT - Senior Technical Consultant - Logistics Unification role at SAP . Opportunity As a Senior Technical Consultant in SAP\u2019s Data Management & Landscape Transformation (DMLT) team, you will help customers transform their SAP system landscapes through high\u2011impact data migration, transformation, and consolidation projects. You will work with SAP\u2019s latest data transformation tools and methodologies, enabling our cus\u2026",
+            "latitude": 41.3851,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.es/land/ad/5521448864?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=08C67F73EF6029CC762FBC3664F12AD13CC0D3FB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMTQ0ODg2NCIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.-qNdkYQ29QOGS9KoRBkRbsE00jK-ZUAdERIicabHQbY",
+            "category": {
+                "label": "Trabajos en consultor\u00eda",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "consultancy-jobs"
+            },
+            "created": "2025-12-01T13:00:13Z"
+        },
+        {
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "FeverUp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Analytics Engineer",
+            "id": "5447355106",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Role At Fever , we are building a federated data organization that combines centralization where it\u2019s essential and autonomy where it creates value. Our teams leverage modern data platforms (Snowflake, DBT, Airflow, DataHub, Metabase, etc.). At the same time, we are developing our own technology to deliver high-quality data products across multiple business domains. As an Analytics Engineer , you\u2019ll be the bridge between data engineering and business analytics, ensuring that our stake\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQ3MzU1MTA2In0.ZaOPFdwjWTPHc1Dtmwvi4rCQAGO7VOtmCx8NpJDnNMI",
+            "redirect_url": "https://www.adzuna.es/details/5447355106?utm_medium=api&utm_source=58c69264",
+            "created": "2025-10-14T19:55:13Z",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en marketing, publicidad y relaciones p\u00fablicas"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the Role At Fever , we are building a federated data organization that combines centralization where it\u2019s essential and autonomy where it creates value. Our teams leverage modern data platforms (Snowflake, DBT, Airflow, DataHub, Metabase, etc.). At the same time, we are developing our own technology to deliver high-quality data products across multiple business domains. As an Analytics Engineer , you\u2019ll be the bridge between data engineering and business analytics, ensuring that our stake\u2026",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5531579930",
+            "company": {
+                "display_name": "FeverUp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "BI Engineer",
+            "created": "2025-12-06T19:53:43Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5531579930?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTMxNTc5OTMwIn0.PpEePzjrTyClC75NIvw-2nVDP_A5tb706-AQDDVkN2c"
+        },
+        {
+            "longitude": 2.168131,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "display_name": "Barcelona"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "TD SYNNEX"
+            },
+            "id": "5521515227",
+            "title": "Program Manager - Digital customer lifecycle",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 41.380002,
+            "description": "About the role: We are looking for a bright, motivated and switched on Customer lifecycle Program Manager to support the deployment and development of TD Synnex omni-channel digital transformation sales engagement strategy for our key Vendors in Europe and North America. The function will coordinate and work with multidisciplinary experts and leaders from across the organisation covering data, marketing automation, sales and e-commerce platforms. This role will be instrumental in leading and co\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTIxNTE1MjI3In0.DxsBc7MfhCwTHjUXcY1NAe3aV5Rpa_fllIT-LOnO_TQ",
+            "redirect_url": "https://www.adzuna.es/land/ad/5521515227?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0AE5B225DDBAD503845BE72AC4AF62C81D5188A0",
+            "created": "2025-12-01T14:13:19Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.es/details/5536327933?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM2MzI3OTMzIn0.Qqv8apGZxQtjhiq5QhH1Zs6U4xTAK0YW-TayVRKe5uM",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-10T19:20:17Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Barcel\u00f3 Hotels & Resorts Egypt"
+            },
+            "id": "5536327933",
+            "salary_is_predicted": "0",
+            "title": "Cocinero/A - Barcel\u00f3 Benidorm Beach",
+            "location": {
+                "display_name": "Alicante, Comunidad Valenciana",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad Valenciana",
+                    "Alicante"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -0.4907,
+            "description": "Pol\u00edtica de Privacidad Informaci\u00f3n adicional sobre tratamiento de datos personales 1.\u00bfQui\u00e9n es el responsable del tratamiento de sus datos? El responsable del tratamiento de sus datos es Barcel\u00f3 Gesti\u00f3n Hotelera, S.L. (en adelante, \"BGH) con domicilio social en c/ Jos\u00e9 Rover Motta, 27, , de Palma. Si tiene alguna consulta relativa a protecci\u00f3n de datos puede dirigirse al delegado de protecci\u00f3n de datos de BGH a trav\u00e9s del correo  2.\u00bfCon qu\u00e9 finalidad y legitimaci\u00f3n tratamos sus datos? Gesti\u00f3n d\u2026",
+            "latitude": 38.346,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "display_name": "Barcel\u00f3 Hotels & Resorts Egypt",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Subgobernante/A - Barcel\u00f3 Imagine",
+            "id": "5536327653",
+            "salary_is_predicted": "0",
+            "longitude": -3.724726,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid"
+            },
+            "latitude": 40.429254,
+            "description": "Pol\u00edtica de Privacidad Informaci\u00f3n adicional sobre tratamiento de datos personales 1.\u00bfQui\u00e9n es el responsable del tratamiento de sus datos? El responsable del tratamiento de sus datos es Barcel\u00f3 Gesti\u00f3n Hotelera, S.L. (en adelante, \"BGH) con domicilio social en c/ Jos\u00e9 Rover Motta, 27, , de Palma. Si tiene alguna consulta relativa a protecci\u00f3n de datos puede dirigirse al delegado de protecci\u00f3n de datos de BGH a trav\u00e9s del correo  2.\u00bfCon qu\u00e9 finalidad y legitimaci\u00f3n tratamos sus datos? Gesti\u00f3n d\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM2MzI3NjUzIn0.WGcMW48L2NKUdavEWV-dllazCPvDuIqMlZMStyUi_o0",
+            "redirect_url": "https://www.adzuna.es/details/5536327653?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-10T19:20:13Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are building the next generation of Mews Business Intelligence and looking for a Senior BI Engineer , someone with experience developing similar products that transform data into real solutions. This position sits at the intersection of data engineering, backend development, and product. The objective is to build reliable data pipelines, clear data models, and backend services that enable our customers to make better decisions through data. Our stack includes dbt, Databricks, Kafka, CDC, .NE\u2026",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5477358701",
+            "company": {
+                "display_name": "Mews",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior BI Engineer",
+            "salary_is_predicted": "0",
+            "created": "2025-11-02T19:02:57Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDc3MzU4NzAxIn0.J_YzFeOjocPLbp2JBrbdyxZbS_eK3Vop_NXEncw8BXE",
+            "redirect_url": "https://www.adzuna.es/details/5477358701?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "category": {
+                "label": "Trabajos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-20T15:24:57Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA1MTQ1NTczIn0.aSh_I2PNSvINsNDn2YrUl1gCfX6Ojocwe9wOLPn789Y",
+            "redirect_url": "https://www.adzuna.es/details/5505145573?utm_medium=api&utm_source=58c69264",
+            "latitude": 37.996209,
+            "description": "\u00bfQUI\u00c9NES SOMOS? En Libelium , desarrollamos soluciones tecnol\u00f3gicas innovadoras basadas en datos ambientales a trav\u00e9s de gemelos digitales , enriquecidos con informaci\u00f3n local captada por nuestros dispositivos IoT. Nuestra tecnolog\u00eda permite a las smart cities optimizar sus zonas de bajas emisiones y a infraestructuras cr\u00edticas mejorar su eficiencia y seguridad mediante la monitorizaci\u00f3n avanzada del entorno, como en el caso del transporte de la energ\u00eda el\u00e9ctrica. Nuestros dispositivos IoT cone\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Platform Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Libelium"
+            },
+            "id": "5505145573",
+            "salary_is_predicted": "0",
+            "longitude": -1.092406,
+            "location": {
+                "display_name": "Murcia",
+                "area": [
+                    "Espa\u00f1a",
+                    "Regi\u00f3n de Murcia",
+                    "Murcia",
+                    "Murcia"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2025-09-24T10:30:15Z",
+            "category": {
+                "tag": "legal-jobs",
+                "label": "Trabajos en legal",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.es/land/ad/5413654348?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3378B69896AEB9E257AD1B4DBDF38D00633D6B9F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDEzNjU0MzQ4In0.CbJ_Q6BfJxOq88iDv-i0XJAVuWqgRVq368WfimtDkfk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior Director EU Legal Center of Expertise Ireland Posted 2025-09-12 Job Purpose This role is a key member of the Legal and Compliance Department, who will primarily focus on offering advice and solutions to HR teams and business leaders in Ireland and Germany regarding the full spectrum of HR topics from the legal perspective (\u201c Employment Laws Compliance \u201d). This role will also provide support on data privacy, AI compliance related topics in Ireland and Germany from the legal perspective (\u201c\u2026",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "WuXi Biologics Group"
+            },
+            "salary_max": 110000,
+            "id": "5413654348",
+            "title": "Senior Director EU Legal Center of Expertise",
+            "salary_is_predicted": "0",
+            "salary_min": 90000
+        },
+        {
+            "created": "2025-09-14T03:55:39Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5398583821?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzk4NTgzODIxIn0.cLwfmKowj1ZAmQ7JA9nykv8vfDhuibgmihWHD3O0u1Y",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At Boehringer Ingelheim, we are shaping the future of healthcare through data. As the driving force behind our global data platforms, we empower teams across the company to unlock the full potential of data and foster a truly data-driven culture. Our mission is to build and evolve our proprietary robust, scalable, and secure platforms using cutting-edge technologies like Amazon Web Services (AWS) and Snowflake. These platforms are the foundation of our data ecosystem-enabling innovation, accele\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Boehringer Ingelheim"
+            },
+            "id": "5398583821",
+            "title": "Snowflake Software Engineer",
+            "salary_is_predicted": "0"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 41.380002,
+            "description": "About the Role We\u2019re looking for a Senior Analytics Engineer to elevate the quality, reliability, and impact of data across the company. You\u2019ll own critical pieces of our analytics infrastructure, from modelling and transformation layers to data quality frameworks and self-serve tooling, ensuring that teams can trust, understand, and act on data with confidence. As a senior technical contributor, you\u2019ll partner closely with Data Science, Product, Engineering, and Operations teams to design robu\u2026",
+            "longitude": 2.168131,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Barcelona",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ]
+            },
+            "company": {
+                "display_name": "Heetch",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5522257097",
+            "title": "Senior Analytics Engineer",
+            "created": "2025-12-01T20:01:16Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en marketing, publicidad y relaciones p\u00fablicas",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMjI1NzA5NyIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.l96JesmsoQ5wH-itRhePFoyVR8kUz4mag_VpsLUxHms",
+            "redirect_url": "https://www.adzuna.es/details/5522257097?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "About the CompanyOMODA Motors is a new brand built by Chery Group, which is a leading Chinese automobile company. OMODA operates individually from other brands of Chery Group. Its business scope covers the R&D, production and sales of passenger cars.We are seeking a highly skilledBusiness Intelligence Specialistto join our Business Intelligence Centre and become the primary owner of our enterprise Power BI environment. You will be instrumental in building and maintaning the company's centralize\u2026",
+            "latitude": 40.541042,
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Alcobendas"
+                ],
+                "display_name": "Alcobendas, Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -3.632402,
+            "company": {
+                "display_name": "Omoda & Jaecoo Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5534793226",
+            "title": "Intelligence Specialist",
+            "salary_is_predicted": "0",
+            "created": "2025-12-09T19:13:44Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5534793226?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0NzkzMjI2In0.Ag9U6KMer89YY4Pt42u-Ke3ykQWkyrvuTECNJJBdfHE"
+        },
+        {
+            "id": "5536329153",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Omoda & Jaecoo Espa\u00f1a"
+            },
+            "title": "Intelligence Specialist",
+            "salary_is_predicted": "0",
+            "longitude": -3.724726,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "latitude": 40.429254,
+            "description": "About the Company OMODA Motors is a new brand built by Chery Group, which is a leading Chinese automobile company. OMODA operates individually from other brands of Chery Group. Its business scope covers the R&D, production and sales of passenger cars. Business Intelligence Specialist We are seeking a highly skilled Business Intelligence Specialist to join our Business Intelligence Centre and become the primary owner of our enterprise Power BI environment. You will be instrumental in building an\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjMyOTE1MyIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.mFiXH_koqnJJRUqQUbX5OMg35YGKW2lccaKGazIm7Qg",
+            "redirect_url": "https://www.adzuna.es/details/5536329153?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-12-10T19:20:33Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "A leading analytics firm in Madrid is seeking an Advance Analytics Specialist with strong SQL skills and experience in cloud data environments. The role involves extracting and validating SQL queries to ensure data quality and requires expertise in mathematical methodologies and data management. The company offers a range of flexible benefits, growth opportunities, and a commitment to work-life balance with hybrid working options. J-18808-Ljbffr",
+            "latitude": 40.4167,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid, Comunidad de Madrid"
+            },
+            "longitude": 3.70325,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "UNAVAILABLE"
+            },
+            "salary_max": 90000,
+            "id": "5517642511",
+            "title": "Advanced Analytics Scientist \u2014 Cloud & BigQuery",
+            "salary_min": 70000,
+            "created": "2025-11-28T13:41:46Z",
+            "category": {
+                "label": "Trabajos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.es/land/ad/5517642511?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2BDB837FA8123D4015D848AF29EDF6B66E15CB35",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzY0MjUxMSIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.vs8xYI7qf-n0_RmhUFCP8uj6mpgwx3J16hRsjcoiFMg"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDExNjUzMSIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.gfTLPZbZQsLBU9z7UyDFMyiqA14_bcH7yzZn4gH6fLk",
+            "redirect_url": "https://www.adzuna.es/land/ad/5520116531?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=52731EDBC780366EE171F8CC9AD8CF19F06C6FFB",
+            "category": {
+                "tag": "manufacturing-jobs",
+                "label": "Trabajos en fabricaci\u00f3n y manufactura",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-30T13:00:43Z",
+            "company": {
+                "display_name": "Steneg",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Purchase Specialist",
+            "id": "5520116531",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Our client is a technology-driven organization that develops and distributes high-performance solutions for automotive, industrial and manufacturing environments. Operating globally, the company applies advanced materials science, surface-engineering technologies and automation to deliver precise, efficient and scalable products. Its culture is defined by operational agility, technical rigor and continuous improvement across its international supply-chain network. Mission The Purchase Specialis\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-06T23:20:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg0NDA1NDg1In0.rB2aMj_dKazvsRZtdTCvm__psHQal6e9i-28fHznP2I",
+            "redirect_url": "https://www.adzuna.es/land/ad/5484405485?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C94F9EDE96111EDB534F0E2C036D951D05336AA9",
+            "description": "\u00bfQuieres formar parte de una consolidada empresa en el sector del Ocio y Entretenimiento donde se trabaja siempre con las \u00faltimas tecnolog\u00edas? \u00a1 CIRSA es tu lugar! \u00a1Tenemos una posici\u00f3n de Responsable Procesos Compras para trabajar en nuestras oficinas en Terrassa! \u00bfQu\u00e9 podemos ofrecerte? \u231a Flexibilidad horaria  Pol\u00edtica h\u00edbrida de teletrabajo  Bonus referral por referenciar a una persona que cumpla con el perfil que buscamos. \u00a1Tu recomendaci\u00f3n es garant\u00eda extra de calidad!  Paquete de retribuc\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CIRSA"
+            },
+            "id": "5484405485",
+            "title": "Responsable Procesos Compras",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MTYyMDA1NTE4In0.Ul3huhHgFUIqX4heW3DshD4JAcNRM7Ud-IRMxdI6Uro",
+            "redirect_url": "https://www.adzuna.es/land/ad/5162005518?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=2BDC6740905ABCC9D2DB75D4462DD1E91312AA9A",
+            "created": "2025-04-25T11:10:05Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en consultor\u00eda",
+                "tag": "consultancy-jobs"
+            },
+            "longitude": 3.70325,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid, Comunidad de Madrid"
+            },
+            "salary_min": 70000,
+            "salary_max": 90000,
+            "company": {
+                "display_name": "DATAIS",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5162005518",
+            "title": "Business Intelligence Consultant",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.4167,
+            "description": "DATAIS, a consultancy specializing in the design and execution of data and artificial intelligence projects, adopts an integrated approach to cover the entire data cycle and strategy. As a network of expert professionals, DATAIS fosters trust and collaborates to provide data and AI solutions and tailored support services, including training and consulting. Born as a Spin-off of VISUALITICS focused on data analysis and visualization expertise, our projects have expanded to engage with diverse as\u2026"
+        },
+        {
+            "category": {
+                "tag": "healthcare-nursing-jobs",
+                "label": "Trabajos en sanidad y salud",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-15T19:50:02Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk4MDU5MzA0In0.OiFXN_TJAtcj88kfcuI9qw_7jWUmlm3zSxJ3Ex7OsEI",
+            "redirect_url": "https://www.adzuna.es/land/ad/5498059304?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=5488F59174474FCD5CF9E5A965345A3603770F49",
+            "latitude": 40.4167,
+            "description": "Director - Healthcare AI Solutions (TAX Free Salary) Artificial Intelligence & Data Talent Partner at Discovered MENA  Job title: Director - Healthcare AI Solutions Location: Dubai (A relocation package is provided) Responsibilities Strategic Foresight & Technology Scouting: Scout the global healthcare AI vendor and partnership landscape, focusing on solutions that can demonstrably leverage data assets and address prioritized clinical and operational needs. Provide data-driven recommendations a\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 90000,
+            "id": "5498059304",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Discovered MENA"
+            },
+            "salary_max": 110000,
+            "title": "Director - Healthcare AI Solutions (TAX Free Salary)",
+            "salary_is_predicted": "0",
+            "longitude": 3.70325,
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid, Comunidad de Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en dise\u00f1o y artes gr\u00e1ficas",
+                "tag": "creative-design-jobs"
+            },
+            "created": "2025-12-03T10:11:25Z",
+            "redirect_url": "https://www.adzuna.es/details/5525463431?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNTQ2MzQzMSIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.euaDK-XqxWlI8ReX2TNaJcpFXe3keV4lucIrGCBVHzA",
+            "description": "Role: GAIN- Performance- Performance Graphic & Motions Ad Designer Location: Spain Hybrid/Remote: Hybrid - Based in Barcelona We\u2019re looking for a Performance Ad Designer who blends creative craft with data-driven thinking to create high-impact visual assets for paid social campaigns. In this role, you\u2019ll design both static and motion ads tailored for performance\u2014working closely with creative strategists to turn insights into scroll-stopping visuals across Meta, TikTok, YouTube, and beyond. You \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "This is Gain Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5525463431",
+            "salary_is_predicted": "0",
+            "title": "GAIN Performance Graphic & Motion Ads Designer",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.es/details/5495495762?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDk1NDk1NzYyIn0.5JMn0v6fRlbYiwFEp59JKDx8IlY9CrQ5PWpqohkJD_M",
+            "created": "2025-11-14T12:11:37Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "IRIUM - Spain",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5495495762",
+            "title": "Java Developer Remoto",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "En IRIUM nos preocupamos porque no dejes de perseguir tus sue\u00f1os. Prep\u00e1rate para conquistar tus metas y ten siempre presente disfrutar del camino. Actualmente nos encontramos en b\u00fasqueda de un/a Programador/a Java especializado/a en Microservicios y Spring Boot , para unirse a un proyecto estrat\u00e9gico en el sector tecnol\u00f3gico. El objetivo es desarrollar y mantener aplicaciones basadas en arquitectura hexagonal , potenciar sistemas de microservicios y asegurar la calidad y escalabilidad del c\u00f3dig\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Overview: As a YouTube Media Buyer, you will be responsible for strategizing, launching, and optimizing YouTube ad campaigns to drive awareness, engagement, and conversions. You\u2019ll work closely with the creative, marketing, and analytics teams to ensure our video ads align with business objectives and deliver maximum return on ad spend (ROAS). Responsibilities: Campaign Strategy & Execution \u2013 Plan, launch, and optimize YouTube Ads campaigns, including TrueView, Discovery, Bumper, and In-Str\u2026",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Activate Talent",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "32775692981 - Youtube Media Buyer",
+            "id": "5422536363",
+            "salary_is_predicted": "0",
+            "created": "2025-09-30T20:24:25Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en marketing, publicidad y relaciones p\u00fablicas",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5422536363?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDIyNTM2MzYzIn0.PKZUqYD34o16VSHW7FH0vAYwww0dYgDvX77AcSOAlhE"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "As Senior Product Owner, you will drive the end-to-end development of crypto products that bridge traditional and decentralized finance. You will identify opportunities in the evolving crypto landscape and translate them into user-centric solutions. Success in this role requires a deep understanding of DeFi and the ability to make complex concepts accessible to mainstream financial users. The role requires someone that can pioneer new product categories by simplifying crypto for everyday use in\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deblock"
+            },
+            "id": "5415710445",
+            "salary_is_predicted": "0",
+            "title": "Senior Product Owner - Crypto",
+            "created": "2025-09-26T16:43:40Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Otros trabajos",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDE1NzEwNDQ1In0.X5BAWxvUGkEj7p0qgm3rYqqatG_amgv6eWLLGtZnWks",
+            "redirect_url": "https://www.adzuna.es/details/5415710445?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNDg0MDcyMyIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.rPgFYnMt37fF9vX3-C_SCiZlYKlZCNBm-8lxtRv1Ndo",
+            "redirect_url": "https://www.adzuna.es/details/5534840723?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-12-09T19:20:25Z",
+            "id": "5534840723",
+            "company": {
+                "display_name": "IRIUM - Spain",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "SENIOR MLOPS ENGINEER (REMOTO)",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "description": " En IRIUM nos preocupamos porque no dejes de perseguir tus sue\u00f1os. Prep\u00e1rate para conquistar tus metas, y ten siempre presente disfrutar del camino.  Actualmente nos encontramos en b\u00fasqueda de SENIOR MLOPS ENGINEER (REMOTO) , con  8 a\u00f1os de experiencia para participar en un proyecto.  \u00bfQu\u00e9 esperamos de ti? 8 a\u00f1os de experiencia en entornos AWS a lo largo de todo el ciclo de vida: desde el origen del dato hasta producci\u00f3n. Experiencia s\u00f3lida en MLOps / AIOps. Dominio de Python y capacidad para c\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjcyNjk4MSIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.nJ3DJKK-9cV01DYUZ-YddTInq5-Dd9nUoHaDM-wxzRQ",
+            "redirect_url": "https://www.adzuna.es/details/5502726981?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Trabajos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-19T04:02:19Z",
+            "title": "Domain Architect (Digital Experience Platform) - All genders",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "zooplus SE"
+            },
+            "id": "5502726981",
+            "salary_is_predicted": "0",
+            "longitude": -3.724726,
+            "location": {
+                "display_name": "Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 40.429254,
+            "description": "Job Description Architectural work sounds boring? At zooplus, we have created a unique & lean process in which we employ collaborative crafting to deliver practical blueprints, guidelines, and training to support our product teams in reaching their goal. To make it even better, we are looking for you, an experienced Domain Architect who has footprints in business domains and cares about the important stuff. Being part of the Enterprise Architecture Chapter, your mission is to create an environm\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-04-07T21:05:05Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MTMzODQyODYyIn0.gxR-A-Tw69018cPQ1gXrGkkIz1qma5OX-QayQCFXZ-k",
+            "redirect_url": "https://www.adzuna.es/details/5133842862?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 28.1009,
+            "description": "Algunas de tus funciones ser\u00e1n: Liderazgo y gesti\u00f3n del equipo: Dirigir, coordinar y supervisar el equipo, asegurar el cumplimiento de los SLA (Service Level Agreements) y fomentar la capacitaci\u00f3n y el desarrollo profesional del equipo. Administraci\u00f3n y mantenimiento de las bases de datos: Instalar, configurar y actualizar sistemas de bases de datos, monitorear el rendimiento y aplicar ajustes, optimizar consultas SQL, \u00edndices y estructuras de almacenamiento. Seguridad y protecci\u00f3n de datos: De\u2026",
+            "longitude": -15.4654,
+            "location": {
+                "display_name": "Las Palmas, Islas Canarias",
+                "area": [
+                    "Espa\u00f1a",
+                    "Islas Canarias",
+                    "Las Palmas"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5133842862",
+            "company": {
+                "display_name": "Bitbox",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "DBA Manager"
+        },
+        {
+            "redirect_url": "https://www.adzuna.es/details/5345516394?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM0NTUxNjM5NCIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.xDRoLOLsO8uSpwh45WjGlpruaiZK0dFIx_-RKQzPelk",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-08-09T17:25:56Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Axpo Group"
+            },
+            "id": "5345516394",
+            "title": "Developer/Solution Engineer (f/m/d)",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -3.724726,
+            "description": "Workload: 100% Welcome to the land where data meets technology! In your role as data engineer, you will get to work first-hand on building and managing the data infrastructure that is at the heart of many of our energy- and trading processes. Building on your experience as a data engineer and your can-do attitude, you will not only be responsible for setting up data ingestion processes, ensuring data quality, and defining robust data models, but you will also be directly involved in shaping and\u2026",
+            "latitude": 40.429254,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-11-08T23:33:04Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4Nzc1NjU5MCIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.77FMOs3bwwcrRV2RsHYBtSDh8xhFawE4rSNCwUdDatI",
+            "redirect_url": "https://www.adzuna.es/details/5487756590?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Build the Bridge Between Data Science Innovation and Production Environments Join our Data Science and Insights Team as an MLOps Engineer who will help transform experimental models into reliable, production-ready infrastructure solutions. You'll be a key contributor linking data science experimentation with operational deployment, ensuring ML solutions deliver sustained value across IT Infrastructure. You'll contribute to establishing the MLOps foundation that enables our Data Scientists and A\u2026",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5487756590",
+            "company": {
+                "display_name": "Boehringer Ingelheim",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "MLOps (Machine Learning Operations) Engineer",
+            "salary_is_predicted": "0"
+        },
+        {
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Otros trabajos"
+            },
+            "created": "2025-10-21T15:13:58Z",
+            "redirect_url": "https://www.adzuna.es/details/5457548308?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1NzU0ODMwOCIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.dGVV-APKRhv-swa13tc3HTQAl3eGdhkHBajJkVJxFWQ",
+            "description": "Meet Aperture At Aperture, we create value and drive growth by delivering exceptional product consultancy and advertising services to our global partners. Through data-driven strategies, we harness our expertise in performance marketing, creative strategy, and product optimisation to achieve outstanding results. Founded in 2022 by industry visionary Hannah Parvaz, we\u2019ve quickly made waves. Already recognised as Business Consultant of the Year and named 2024\u2019s Most Innovative Growth Agency, our \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5457548308",
+            "company": {
+                "display_name": "Aperture",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Performance Manager (Apps)",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "created": "2025-12-10T10:39:07Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM2MDIwMzY1In0.rRTAZPjvYXuabQt7dajevSUZ-2MsAJzawFEqSPjSGUQ",
+            "redirect_url": "https://www.adzuna.es/land/ad/5536020365?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=489343DF77DCD15343A1DEB98663753332ABB02A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.4167,
+            "description": "Oferta Desarrollador/a Business Intelligence \u2013 \u00c1rea de Reporting (Valladolid) Empresa MADISON MK, empresa l\u00edder en soluciones de Marketing y Contact Center, busca reforzar su equipo de Reporting en Valladolid. Responsabilidades Dise\u00f1ar, desarrollar y mantener cuadros de mando en Qlik y Power BI orientados a la lectura operativa de KPIs y reporting avanzado. Participar en la migraci\u00f3n de Dashboards desde QlikView hacia Power BI, optimizando modelos y estructuras de datos. Implementar y mantener \u2026",
+            "longitude": 3.70325,
+            "location": {
+                "display_name": "Madrid, Comunidad de Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 70000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MADISON Experience Marketing"
+            },
+            "id": "5536020365",
+            "salary_max": 90000,
+            "title": "Informatica Developer",
+            "salary_is_predicted": "0"
+        },
+        {
+            "id": "5536020696",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SGS"
+            },
+            "salary_max": 110000,
+            "title": "MDM Integration Architect",
+            "salary_is_predicted": "0",
+            "salary_min": 90000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid, Comunidad de Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ]
+            },
+            "longitude": 3.70325,
+            "description": "Job Description Working in our Architecture, Intelligence and Technology Department (AI&T), you will play a key role in the configuration of our new Global MDM Team. We are seeking an experienced MDM Integration Architect to design, implement, and manage the integration layer of a global Master Data Management (MDM) program. This role will be responsible for defining the integration strategy between the MDM platform and surrounding enterprise systems, including both SaaS applications and custom\u2026",
+            "latitude": 40.4167,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.es/land/ad/5536020696?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=607696890E3745C52A8546D141D4DED7B4A346FB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjAyMDY5NiIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.H38Z2QlseaHb6W9nzjEfRzS8GDdZherhBKJHpLuUjUA",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-10T10:40:10Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Deloitte"
+            },
+            "id": "5518475107",
+            "title": "Conversational AI Architect",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "description": "En Deloitte, buscamos un/a arquitecto/a de soluciones conversacionales, con experiencia en el dise\u00f1o e implementaci\u00f3n de arquitecturas basadas en Conversational AI y Generative AI para la oficinade Barcelona o Madrid. En este rol, ser\u00e1s responsable de liderar el dise\u00f1o, desarrollo, implementaci\u00f3n y optimizaci\u00f3n de soluciones conversacionales avanzadas para nusetros clientes globales. Principales funciones y responsabilidades: Dise\u00f1o, desarrollo e implementaci\u00f3n de soluciones conversacionales en\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE4NDc1MTA3In0.lAsYSSa84hrdnJAiNeL-CR3d2YwF1ulAGMBc4C_MUHw",
+            "redirect_url": "https://www.adzuna.es/land/ad/5518475107?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A1392B489CBB78E9FD8D7CC582EB5BD213445584",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-11-28T21:36:17Z"
+        },
+        {
+            "company": {
+                "display_name": "Deloitte",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Conversational AI Architect",
+            "id": "5518475018",
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ],
+                "display_name": "Barcelona",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 2.168131,
+            "description": "En Deloitte, buscamos un/a arquitecto/a de soluciones conversacionales, con experiencia en el dise\u00f1o e implementaci\u00f3n de arquitecturas basadas en Conversational AI y Generative AI para la oficinade Barcelona o Madrid. En este rol, ser\u00e1s responsable de liderar el dise\u00f1o, desarrollo, implementaci\u00f3n y optimizaci\u00f3n de soluciones conversacionales avanzadas para nusetros clientes globales. Principales funciones y responsabilidades: Dise\u00f1o, desarrollo e implementaci\u00f3n de soluciones conversacionales en\u2026",
+            "latitude": 41.380002,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.es/land/ad/5518475018?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7B01C4475195CF4E1C5D112519E5D85B46649C17",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE4NDc1MDE4In0.tUChOXyvrpltgxDgiNBR17I0U_7LxhEmDkyP25jSVUU",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-11-28T21:36:11Z"
+        },
+        {
+            "id": "5170377142",
+            "company": {
+                "display_name": "Axiom Software Solutions Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Platform Engineer",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Position: Platform Engineer Location: Barcelona, Spain (Hybrid 3 days a week onsite) Duration: Long Term B2B Contract Job Description: \u2022 Provide technical support and troubleshoot issues related to the Starburst Enterprise Platform. \u2022 Ensure platform performance, availability, and reliability using Helm charts for resource management. Deployment and Configuration: \u2022 Manage deployment and configuration of the Starburst Enterprise Platform on Kubernetes using Helm charts and YAML-based values fil\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MTcwMzc3MTQyIn0.4BbKae97oUcDzz-7LY5Ohh-j4uVSUwLEQ7n9FcbvLvA",
+            "redirect_url": "https://www.adzuna.es/details/5170377142?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Otros trabajos",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-04-30T13:27:38Z"
+        },
+        {
+            "longitude": 2.141937,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Barcelona",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona",
+                    "Barcelona"
+                ]
+            },
+            "company": {
+                "display_name": "Exoticca",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "id": "5248629877",
+            "title": "Senior SEM Specialist",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 41.395615,
+            "description": "What Is Exoticca? Exoticca is a pioneering online travel agency that has revolutionized the conception, production, and ecommerce of longdistance dream trips. At the core of Exoticca's brand equity is the commitment to \"creating life milestones.\" We believe in delivering bestvalue trips, exploring unique destinations, curating extraordinary travel experiences, and demonstrating genuine care for both our customers and the planet. We are a professional, dynamic, multicultural team in rapid intern\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjQ4NjI5ODc3In0._Rs-36olKk_MFuuoaH-pCmcSSCzz0OD6u7WgI75SKhE",
+            "redirect_url": "https://www.adzuna.es/details/5248629877?utm_medium=api&utm_source=58c69264",
+            "created": "2025-06-13T16:00:38Z",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Trabajos en marketing, publicidad y relaciones p\u00fablicas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "*Please note this role is available to candidates based in Spain, UK, Poland and Portugal* A career at Booksy means you\u2019re part of a global team focused on helping people around the world feel great about themselves, every day. From empowering entrepreneurs to build successful businesses, to supporting their customers to arrange 'me time' moments, we\u2019re in the business of helping people thrive and feel fantastic. Working in an ever-changing, scale-up where things are messy, and resources are li\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a"
+            },
+            "company": {
+                "display_name": "Booksy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5535323897",
+            "title": "Senior Product Manager - Conversion",
+            "salary_is_predicted": "0",
+            "created": "2025-12-09T20:28:45Z",
+            "category": {
+                "label": "Otros trabajos",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5535323897?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTMyMzg5NyIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.oFs-9CNBzYjT7HGNE62ttIr5UvxH0p1bxnc2bx0LIr4"
+        },
+        {
+            "longitude": -3.724726,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Page Personnel ETT"
+            },
+            "id": "5477540268",
+            "title": "SQL Specialist",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.429254,
+            "description": "Desarrollar y optimizar consultas SQL para la gesti\u00f3n de bases de datos. Colaborar con el equipo de Tecnolog\u00eda para dise\u00f1ar soluciones de almacenamiento de datos. Garantizar la integridad y seguridad de la informaci\u00f3n almacenada en las bases de datos. Analizar y resolver problemas relacionados con el rendimiento de las bases de datos. Implementar procesos de ETL (Extracci\u00f3n, Transformaci\u00f3n y Carga) seg\u00fan las necesidades del negocio. Realizar informes y an\u00e1lisis de datos para apoyar la toma de d\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDc3NTQwMjY4In0.ZPuZBpnxbqVu4bIN_iRwJtrOrz_mqp0XIrIWwCyKC-0",
+            "redirect_url": "https://www.adzuna.es/details/5477540268?utm_medium=api&utm_source=58c69264",
+            "created": "2025-11-03T01:17:14Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            }
+        },
+        {
+            "longitude": 2.1734,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Barcelona, Catalu\u00f1a",
+                "area": [
+                    "Espa\u00f1a",
+                    "Catalu\u00f1a",
+                    "Barcelona"
+                ]
+            },
+            "salary_min": 70000,
+            "salary_max": 90000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Factorial"
+            },
+            "title": "Analytics Engineer",
+            "id": "5525619317",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 41.3851,
+            "description": "5 days ago Be among the first 25 applicants Hi there  As Factorial continues on our mission of boosting the next generation of people-first SMB's, we're hiring a Senior Analytics Engineer to help. The Team and you Factorial's mission is to empower businesses to make better decisions, and data is a key component in doing so. What we offer Ingestion (SaaS APIs, DDBBs, Streams) Storage (Data Lake, Stream Storage) Catalogue (Atlan) Modeling (Metabolic/DBT) Activation (Hightouch) Exploration & Visua\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI1NjE5MzE3In0.SuH9cPgEBNDFKd4DXDD6RNgKgM-TlAvHqWOOCFHIid8",
+            "redirect_url": "https://www.adzuna.es/land/ad/5525619317?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C2AC817A7BCE406AF9FC743C0AF0208426FE88B2",
+            "created": "2025-12-03T13:26:17Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "created": "2025-11-12T19:46:47Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en inform\u00e1tica",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5492601168?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MjYwMTE2OCIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.SB7qNLYW3Rq84Tr_bdw3Kzu_RZaf191QR4wlQEVilF4",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista Programador (Pentaho) Desde CMV Consultores buscamos un Analista-Programador con experiencia contrastada en Pentaho Data Integrator (PDI) para incorporarse a un equipo especializado en proyectos de integraci\u00f3n y transformaci\u00f3n de datos. La persona seleccionada deber\u00e1 ser aut\u00f3noma en el uso de PDI y contar con una base t\u00e9cnica s\u00f3lida en SQL, participando en el desarrollo, mantenimiento y optimizaci\u00f3n de procesos ETL en entornos de datos complejos. Responsabilidades Dise\u00f1ar, desarrollar \u2026",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "CMV Consultores",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 30000,
+            "title": "Analista Programador (Pentaho)",
+            "id": "5492601168",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "salary_min": 24000
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1Mzk4ODE1MDIwIn0.Ap1c0hffyYdU-BfAgAgo_HsIEUvS4oVjJKnkIiAjOs0",
+            "redirect_url": "https://www.adzuna.es/land/ad/5398815020?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=86BD03213A8828199F19D9C16466CDFC9DF3D362",
+            "created": "2025-09-14T10:27:26Z",
+            "category": {
+                "tag": "consultancy-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en consultor\u00eda"
+            },
+            "longitude": 3.70325,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid, Comunidad de Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ]
+            },
+            "salary_min": 70000,
+            "company": {
+                "display_name": "Jordan martorell s.l.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Power BI Senior Consultant",
+            "salary_max": 90000,
+            "id": "5398815020",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.4167,
+            "description": "Resumen Buscamos un/a Senior Consultant especializado en Power BI que act\u00fae como mano derecha en el liderazgo de proyectos de anal\u00edtica y reporting. Ser\u00e1s una pieza clave en la transformaci\u00f3n de la compa\u00f1\u00eda a trav\u00e9s de los datos, liderando el desarrollo de cuadros de mando, la definici\u00f3n de KPIs/OKRs y la gesti\u00f3n informacional, adem\u00e1s de aportar experiencia en entornos Azure y Databricks. Requisitos de acceso a la oferta Formaci\u00f3n acad\u00e9mica : Grado universitario en Ingenier\u00eda Inform\u00e1tica, Matem\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.es/land/ad/5426340117?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=6E6EF33494F502F81B15655017006F4CBE96BBBC",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDI2MzQwMTE3In0.6FTxGPuwNQ_A56_xQuYe_80-eGRdhTwV6ZK4AMQKYWE",
+            "created": "2025-10-02T10:51:45Z",
+            "category": {
+                "tag": "consultancy-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en consultor\u00eda"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madrid, Comunidad de Madrid",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ]
+            },
+            "longitude": 3.70325,
+            "company": {
+                "display_name": "Bravofly",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 90000,
+            "id": "5426340117",
+            "title": "Senior Business Analyst (Italian Speaker)",
+            "salary_is_predicted": "0",
+            "salary_min": 70000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Overview Senior Business Analyst (Italian Speaker) for lastminute.com. The role supports the Customer Acquisition area within the Marketing department, focused on a data-driven approach and understanding the dynamics of both marketing and data teams. The Company At lastminute.com, we live for the holidays. We are the European Travel-Tech leader in Dynamic Holiday Packages. With technology, we turn spontaneous thoughts into meaningful experiences, helping people travel the world. Job Description\u2026",
+            "latitude": 40.4167
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid, Comunidad de Madrid"
+            },
+            "longitude": 3.70325,
+            "company": {
+                "display_name": "NTT DATA, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Security Managed Services Engineer",
+            "salary_max": 90000,
+            "id": "5470811933",
+            "salary_is_predicted": "0",
+            "salary_min": 70000,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Overview Join to apply for the Security Managed Services Engineer role at NTT DATA, Inc. Make an impact with NTT DATA. Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion \u2013 it\u2019s a place where you can grow, belong and thrive. As a Security Managed Services Engineer (L2) at NTT DATA, your role will be to ensure \u2026",
+            "latitude": 40.4167,
+            "redirect_url": "https://www.adzuna.es/land/ad/5470811933?se=_CL3MNbW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=9336F83F733F59FEC8ED56EDBF6A6EC818789AE9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ3MDgxMTkzMyIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.V9_H7M0PedhEpSUYSGie9iy-EILBioEOp9tNoqcQ-Ws",
+            "created": "2025-10-30T11:29:19Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "Trabajos en inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are looking for a Backend Engineer for our Malaga offices, with experience in frameworks such as Spring / Spring boot and in real-time data processing (Kafka Streams/ Flink).  These will be your main tasks: \u2022 Development of applications and components. \u2022 Development and deployment of services. \u2022 Unit testing. \u2022 Debugging and error correction. \u2022 Continuous improvement. What we expect from you  You will surely fit into the team if you like technology, want to understand the risks that the Bank\u2026",
+            "location": {
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5044628192",
+            "company": {
+                "display_name": "Axiom Software Solutions Limited",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 60,
+            "title": "Backend Engineer for Business Telemetry",
+            "salary_is_predicted": "0",
+            "salary_min": 55,
+            "created": "2025-02-10T16:13:29Z",
+            "category": {
+                "label": "Otros trabajos",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5044628192?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MDQ0NjI4MTkyIn0.JPhtWBINDndv_sRHh7LgVeqXWUlQkxTb5DDXAdwf8FI"
+        },
+        {
+            "redirect_url": "https://www.adzuna.es/details/5510909690?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDkwOTY5MCIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.03MloYleg0PPN8j0yLWlXx3dpfsLe_smYQ_XzTlNtYo",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-11-24T01:33:10Z",
+            "id": "5510909690",
+            "company": {
+                "display_name": "Syngenta Seeds",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Crop Management Specialist",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "El Ejido, Almer\u00eda",
+                "area": [
+                    "Espa\u00f1a",
+                    "Andaluc\u00eda",
+                    "Almer\u00eda",
+                    "El Ejido"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -2.815304,
+            "description": "Job Description At Syngenta, our goal is to build the most collaborative and trustworthy team in agriculture, providing top-quality seeds and innovative crop protection solutions that improve farmers' success. To support this mission, Syngenta is seeking a Crop Management Specialist in El Ejido, Almer\u00eda, Spain . This role will support the delivery of our vegetable agronomy program by managing breeding, traits, and marketing trials while driving continuous improvement and implementing cutting-ed\u2026",
+            "latitude": 36.774063,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "latitude": 40.454632,
+            "description": "Qu\u00e9 har\u00e1s: Participaci\u00f3n y/o Liderazgo en el proceso arquitectura, dise\u00f1o de plataformas informacionales: BI (Data Warehouse) y Big Data (Data Lake o Data Warehouse aumentado) An\u00e1lisis, dise\u00f1o y desarrollo de soluciones y proyectos en el \u00e1mbito de la ingenier\u00eda de datos en BI y Big Data , como por ejemplo, desarrollo de procesos ETL/ELT, creaci\u00f3n y modelado de Data Marts en entornos relacionales, dimensionales y/o Tablones que sean consumidos por herramientas especializadas y obviamente que est\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Manager Madrid",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SDG Group"
+            },
+            "id": "4870490495",
+            "salary_is_predicted": "0",
+            "longitude": -3.697061,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Espa\u00f1a",
+                    "Comunidad de Madrid",
+                    "Madrid",
+                    "Madrid"
+                ],
+                "display_name": "Madrid"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2024-09-20T13:49:47Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDg3MDQ5MDQ5NSIsInMiOiJfQ0wzTU5iVzhCRzdnY3JqVkVhaUR3In0.Ufg-9xY-8Xs9tSpskccdYjClBl2SU6Wbplx25Y8-ZbU",
+            "redirect_url": "https://www.adzuna.es/details/4870490495?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-11-05T14:52:10Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Otros trabajos",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.es/details/5482231247?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDgyMjMxMjQ3In0.HFr2C962Sk9NtZ-f5n2ZhP0Sr5oRsxg2tjTS8EBgX0I",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "SupportYourApp is an international Support-as-a-Service company that has been providing business process outsourcing services to other IT companies around the globe (technical and customer support, services to improve customer experience) for the past 15 years. We have 1500 people in our international community. We operate globally, supporting clients in 60 languages, partnering with industry leaders like MasterCard, Calm and MacPaw. With international hubs and coworking spaces around the world\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Espa\u00f1a",
+                "area": [
+                    "Espa\u00f1a"
+                ]
+            },
+            "company": {
+                "display_name": "SupportYourApp",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5482231247",
+            "title": "(fluent Ukrainian) Growth Marketing Manager (Spain)",
+            "salary_is_predicted": "0"
+        },
+        {
+            "created": "2025-11-20T16:53:32Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Trabajos en ingenier\u00eda",
+                "tag": "engineering-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0NMM01OYlc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTA1MTg4MzY0In0.Fxre6xwlIoeMVNagsqIgm8iaK0QpU3P-_7xjkhdgsJ8",
+            "redirect_url": "https://www.adzuna.es/details/5505188364?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Ready to find your perfect job fit? Welcome to HomeBuddy , where making a home awesome is like seeing a vision come to life! We are on a mission to create a friendly and trusted platform to connect homeowners with the right contractors across the US. What started as a small idea has become a fast-growing home improvement platform focusing on lead quality and long-term partnerships based on trust and mutual success. We are a growth-oriented company with a long-term outlook - our platform consist\u2026",
+            "location": {
+                "area": [
+                    "Espa\u00f1a"
+                ],
+                "display_name": "Espa\u00f1a",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HomeBuddy"
+            },
+            "salary_is_predicted": "0",
+            "id": "5505188364",
+            "title": "Middle PHP Engineer"
+        }
+    ]
+}

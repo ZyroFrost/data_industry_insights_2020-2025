@@ -1,0 +1,1463 @@
+{
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "salary_is_predicted": "0",
+            "id": "5020163294",
+            "longitude": -46.98624,
+            "latitude": -22.70577,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 37103,
+            "company": {
+                "display_name": "MAIORH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "contract",
+            "salary_max": 37103,
+            "title": "Analista de Cadastro",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Jaguari\u00fana, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "Jaguari\u00fana"
+                ]
+            },
+            "description": "Vaga tempor\u00e1ria CSC Analista de Cadastro Junior (MDM) (2 posi\u00e7\u00f5es) Sal\u00e1rio: 3091,99 Benef\u00edcios: fretado  refei\u00e7\u00e3o no local Hor\u00e1rio de trabalho: de segunda a quinta das 08h00 as 18h00 e sexta das 08h00 as 17h00 Requisitos e qualifica\u00e7\u00f5es: Necess\u00e1rio Ensino Superior completo Desej\u00e1vel experi\u00eancia profissional na \u00e1rea de Master Data; Desej\u00e1vel experi\u00eancia em melhorias de processos. Necess\u00e1rio Idioma: Ingl\u00eas Avan\u00e7ado. Compet\u00eancias T\u00e9cnicas: Diferencial ter conhecimento de SAP e outras ferramentas r\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAyMDE2MzI5NCIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.OOQAWmoB9IYHbR7I_rIb9IS53gGVC8mBrTGRbHeqS0c",
+            "redirect_url": "https://www.adzuna.com.br/details/5020163294?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Vagas em Vendas",
+                "tag": "sales-jobs"
+            },
+            "created": "2025-01-22T17:32:58Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Leao Diesel"
+            },
+            "title": "Auxiliar De Ti \u2013 Desenvolvedor Fullstack",
+            "id": "5503720165",
+            "location": {
+                "display_name": "Londrina, Paran\u00e1",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Paran\u00e1",
+                    "Londrina"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -51.16479,
+            "description": "Atuar no suporte ao desenvolvimento e manuten\u00e7\u00e3o de aplica\u00e7\u00f5es web e APIs, colaborando com o time na implementa\u00e7\u00e3o de novas funcionalidades, corre\u00e7\u00e3o de bugs e evolu\u00e7\u00e3o cont\u00ednua dos sistemas. Contribuir em iniciativas voltadas \u00e0 integra\u00e7\u00e3o e ao processamento de dados para Data Lakes, participando de revis\u00f5es de c\u00f3digo, testes e propondo melhorias. Principais responsabilidades: Auxiliar no desenvolvimento e manuten\u00e7\u00e3o de aplica\u00e7\u00f5es web e APIs. Apoiar no desenvolvimento de solu\u00e7\u00f5es de integra\u00e7\u00e3o \u2026",
+            "latitude": -23.31039,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.br/details/5503720165?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzcyMDE2NSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.041dc0AoBka38tx7nKNLKcbV4fXlFvDxDUmvFQC5UwY",
+            "category": {
+                "label": "Vagas em Tecnologia Inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-19T15:05:54Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5531529439?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTUyOTQzOSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.qQ0shr8MHCjlTRMJVTCIO2AqV62X2RWD-GPdfxrmgBw",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-12-06T14:53:01Z",
+            "salary_is_predicted": "0",
+            "id": "5531529439",
+            "title": "Analista de Sharepoint Sr",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Globalweb"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ],
+                "display_name": "Brasilia, Distrito Federal",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -47.912034,
+            "description": "Descri\u00e7\u00e3o: Desenhar e desenvolver a arquitetura para servi\u00e7os de dados em todo o ecossistema de tecnologia e plataforma (Relacional, Colunar, NoSQL e Big Data), com o objetivo de suportar o consumo de dados pelas aplica\u00e7\u00f5es de BI e sistemas relacionados; Sustentar o modelo de servi\u00e7o de BI federado, atrav\u00e9s de uma mentalidade de selfservice BI e garantindo que h\u00e1 intera\u00e7\u00e3o da comunidade de publicadores nos diversos cat\u00e1logos de dados da empresa; Contribuir nas diversas demandas de consumo de da\u2026",
+            "latitude": -15.765286,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-10-18T05:28:00Z",
+            "redirect_url": "https://www.adzuna.com.br/details/5453562493?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MzU2MjQ5MyIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.5lzVcWts6ivKxhoi_jBNJ0Fqqb-Nt9vPt_8j9fg-MNA",
+            "description": "[BANCO DE TALENTOS] - Governan\u00e7a de Dados Estamos em busca de profissionais de Governan\u00e7a de Dados que queiram fazer parte do nosso Banco de Talentos , para futuras oportunidades em projetos desafiadores com grandes clientes. Ao se cadastrar, seu perfil ficar\u00e1 armazenado em nossa base e poder\u00e1 ser considerado em futuras posi\u00e7\u00f5es compat\u00edveis com sua experi\u00eancia, disponibilidade e modelo de atua\u00e7\u00e3o. As condi\u00e7\u00f5es espec\u00edficas, como modelo de contrata\u00e7\u00e3o, formato de trabalho (remoto, h\u00edbrido ou pres\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "[BANCO DE TALENTOS] - Governan\u00e7a de Dados",
+            "salary_is_predicted": "0",
+            "id": "5453562493",
+            "company": {
+                "display_name": "EVT IT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasil",
+                "area": [
+                    "Brasil"
+                ]
+            }
+        },
+        {
+            "created": "2025-11-08T07:47:49Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg2ODk1MzIzIn0.ftT4C75IhKjMidhqQd-78z8dsr8Hou-cSnlHu2QI3mw",
+            "redirect_url": "https://www.adzuna.com.br/details/5486895323?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Buscamos evolu\u00e7\u00e3o cont\u00ednua em nossos servi\u00e7os voltada \u00e0 satisfa\u00e7\u00e3o de nossos clientes e realiza\u00e7\u00e3o de nossos colaboradores. Requirements Buscamos um profissional com perfil de Engenheiro de Dados, com s\u00f3lida experi\u00eancia em desenvolvimento de pipelines de ingest\u00e3o e transforma\u00e7\u00e3o de dados utilizando Python e ferramentas do ecossistema Microsoft Fabric. Principais responsabilidades: \u00b7 Desenvolver e manter processos de ingest\u00e3o de dados de m\u00faltiplas fontes (APIs, bancos de dados, arquivos, etc.) u\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "title": "Engenheiro de Dados S\u00eanior",
+            "salary_is_predicted": "0",
+            "id": "5486895323",
+            "company": {
+                "display_name": "Kalendae",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Sobre a Acerto A Acerto \u00e9 uma fintech brasileira de negocia\u00e7\u00e3o digital de d\u00edvidas que conecta consumidores endividados a bancos e grandes varejistas, oferecendo acordos 100% online, seguros e personalizados para ajudar milh\u00f5es de pessoas a retomarem sua tranquilidade financeira. Sobre a oportunidade A posi\u00e7\u00e3o coordena o CRM de uma fintech B2C em fase de escala. Forte \u00eanfase em e\u2011mail como canal prim\u00e1rio, com uso intensivo de dados e automa\u00e7\u00e3o em Salesforce Marketing Cloud (SFMC) e Data Cloud. L\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil"
+                ],
+                "display_name": "Brasil"
+            },
+            "company": {
+                "display_name": "Vertico",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Coordenador/a de CRM",
+            "id": "5490323097",
+            "created": "2025-11-11T07:47:27Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MDMyMzA5NyIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.YTkTmNisEH-_FIfDSkEoG-nBXAKyKiHiPfKzpOmiIzo",
+            "redirect_url": "https://www.adzuna.com.br/details/5490323097?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! ResponsabilidadesMapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "latitude": -30.11121,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Analista De Requisitos E Processos",
+            "id": "5535190665",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Rio Grande do Sul",
+                    "Porto Alegre"
+                ],
+                "display_name": "Porto Alegre, Rio Grande do Sul"
+            },
+            "longitude": -51.25284,
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "created": "2025-12-09T16:00:13Z",
+            "redirect_url": "https://www.adzuna.com.br/details/5535190665?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTE5MDY2NSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.gMZ1CvHqJEn9e6Z38z66S-cetzdU_9qkjG18R4rT2zk"
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-09T15:54:29Z",
+            "redirect_url": "https://www.adzuna.com.br/details/5535126192?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1MTI2MTkyIn0.q3VFxWUuHQn9VOfXqpLC8UzTxC_P0Jau8JwTqDdClRg",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "latitude": -15.765286,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535126192",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ],
+                "display_name": "Brasilia, Distrito Federal",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -47.912034
+        },
+        {
+            "category": {
+                "label": "Vagas em Tecnologia Inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-10T16:29:30Z",
+            "redirect_url": "https://www.adzuna.com.br/details/5536893225?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM2ODkzMjI1In0.-TiI9sYNQH3knd7lg3ppf9w5nmrIrIOo0zbzJAvmP9g",
+            "description": "No seu dia a dia: Projetar, desenvolver e manter pipelines de dados robustos e escal\u00e1veis; Implementar processos de ingest\u00e3o, transforma\u00e7\u00e3o e integra\u00e7\u00e3o de dados em ambientes de Big Data; Garantir a qualidade, integridade e disponibilidade dos dados para diferentes \u00e1reas da empresa; Otimizar processos de ETL/ELT e monitorar performance das solu\u00e7\u00f5es; Trabalhar com arquiteturas de Data Lake e Data Warehouse , assegurando governan\u00e7a e seguran\u00e7a; Colaborar com times de Analytics e Ci\u00eancia de Dados \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Engenheiro de Dados - IT Onboarding",
+            "salary_is_predicted": "0",
+            "id": "5536893225",
+            "company": {
+                "display_name": "na BTG Pactual",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            }
+        },
+        {
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535218582",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "Ribeir\u00e3o Pires"
+                ],
+                "display_name": "Ribeir\u00e3o Pires, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -46.35596,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "latitude": -23.71057,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.br/details/5535218582?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTIxODU4MiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.MaCLhZNNOZy0Vnn_Jse3WhdhXH_f_XDyKEujXZVVcV4",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-09T16:02:23Z"
+        },
+        {
+            "latitude": -15.765286,
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea!ResponsabilidadesMapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funcio\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "id": "5535217203",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -47.912034,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ],
+                "display_name": "Brasilia, Distrito Federal"
+            },
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "created": "2025-12-09T16:02:17Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1MjE3MjAzIn0.V9Kc_EFsQt_XZJTfR4kG8-6i5ibDsTECEM1i-l8G1No",
+            "redirect_url": "https://www.adzuna.com.br/details/5535217203?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Bahia",
+                    "Salvador"
+                ],
+                "display_name": "Salvador, Bahia"
+            },
+            "salary_is_predicted": "0",
+            "id": "5535194733",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T16:00:37Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535194733?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1MTk0NzMzIn0.EYKOh64do_4_KZAHDJoEugRZTqcYUcmd-N7wTjAT_2s"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5535219908?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTIxOTkwOCIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.F8H3R8SZYd4Qz01H0wb2dNFoiGuAPFFa65GWgwGwk5A",
+            "created": "2025-12-09T16:02:28Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Norte",
+                    "Amazonas",
+                    "Manaus"
+                ],
+                "display_name": "Manaus, Amazonas"
+            },
+            "longitude": -59.733686,
+            "title": "Cloud Architectural Specialist",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5535219908",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Cloud Architectural Specialist - Key Responsibilities: Proficiency in BigQuery, Dataflow (Apache Beam), Cloud Storage, and Pub/Sub Experience with SQL, Oracle Database, and PostgreSQL Knowledge of orchestration using Cloud Composer (Airflow) Hands-on experience with CI/CD applied to data pipelines (Git, Terraform) Experience with cloud cost and performance optimization GCP certifications Knowledge of Kubernetes (GKE) and APIs on GCP Experience with Machine Learning pipelines (Vertex AI, AI Plat\u2026",
+            "latitude": -3.383662
+        },
+        {
+            "created": "2025-12-09T15:54:29Z",
+            "category": {
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTEyNjI5MCIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.rHePw0FXAi2EUUkm9Vg2UexaT4kZ_WQe-ABlc3Jwx3I",
+            "redirect_url": "https://www.adzuna.com.br/details/5535126290?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -30.11121,
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea Responsabilidades Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "longitude": -51.25284,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Porto Alegre, Rio Grande do Sul",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Rio Grande do Sul",
+                    "Porto Alegre"
+                ]
+            },
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "id": "5535126290",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado do Rio de Janeiro",
+                    "Rio de Janeiro"
+                ],
+                "display_name": "Rio de Janeiro, Estado do Rio de Janeiro",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5536877692",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! ResponsabilidadesMapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNjg3NzY5MiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.-Ez1P_mS6w89_trAq8opdq8n4T9WtZ6Ps0IX4saOcHI",
+            "redirect_url": "https://www.adzuna.com.br/details/5536877692?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-10T16:20:47Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTIyNDE4NSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.8KfyYPqiUByfX0sM6Sw1CKhJvcGk6a9ydB130SSVJwQ",
+            "redirect_url": "https://www.adzuna.com.br/details/5535224185?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-09T16:02:43Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Pernambuco",
+                    "Recife"
+                ],
+                "display_name": "Recife, Pernambuco"
+            },
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535224185",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026"
+        },
+        {
+            "longitude": -59.733686,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Manaus, Amazonas",
+                "area": [
+                    "Brasil",
+                    "Norte",
+                    "Amazonas",
+                    "Manaus"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5532767086",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -3.383662,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMjc2NzA4NiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.XgJeSML20b99VzHjZjUgwspcr8iQX7Ed7YIx4GxxLAo",
+            "redirect_url": "https://www.adzuna.com.br/details/5532767086?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-07T17:20:27Z",
+            "category": {
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            }
+        },
+        {
+            "description": "Project Description Join a team focused on backend and data engineering for headend applications at a leading video content provider. This role emphasizes Python-based services, AWS data workflows, and integration with AI/LLM frameworks to enable advanced media processing capabilities. Responsibilities - Design and develop backend and data pipelines using Python. - Development base on AWS services such as Glue, Step Functions, and SQS for data workflows  Serverless. - Integrate AI/LLM framework\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5537379403",
+            "salary_is_predicted": "0",
+            "title": "Python Developer",
+            "company": {
+                "display_name": "Luxoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil"
+                ],
+                "display_name": "Brasil",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "Vagas em Tecnologia Inform\u00e1tica",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T00:51:29Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3Mzc5NDAzIn0.peVyWeskS7KVj3qDeKQ8vpuFPfU-z1cIPYpzQTJrDHc",
+            "redirect_url": "https://www.adzuna.com.br/details/5537379403?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasilia, Distrito Federal",
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ]
+            },
+            "longitude": -47.912034,
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538359295",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eaniorIngl\u00eas Fluente5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Propo\u2026",
+            "latitude": -15.765286,
+            "redirect_url": "https://www.adzuna.com.br/details/5538359295?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM1OTI5NSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.MQnmVDjKvCrvB4vwspLXutjwYmcZhBM3-j8miWWLuW8",
+            "created": "2025-12-11T16:40:00Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            }
+        },
+        {
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "created": "2025-12-11T16:40:09Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4MzYxMjgzIn0.qZB5u7SuUvadk_-fpCGU5K-Mwr7Nc97bq-DwjE0PRWo",
+            "redirect_url": "https://www.adzuna.com.br/details/5538361283?utm_medium=api&utm_source=58c69264",
+            "latitude": -26.90826,
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! Responsabilidades Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e func\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5538361283",
+            "title": "Analista De Requisitos E Processos",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -48.6626,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Santa Catarina",
+                    "Itaja\u00ed"
+                ],
+                "display_name": "Itaja\u00ed, Santa Catarina"
+            }
+        },
+        {
+            "created": "2025-12-11T16:39:47Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM1Njc3MCIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.W1W3_0RKSyeD1OXwGcShWr1wRchS-GzqGlMYyeGiC3Y",
+            "redirect_url": "https://www.adzuna.com.br/details/5538356770?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -30.11121,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eaniorIngl\u00eas Fluente- 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. - Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. - Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o.\u2026",
+            "longitude": -51.25284,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Rio Grande do Sul",
+                    "Porto Alegre"
+                ],
+                "display_name": "Porto Alegre, Rio Grande do Sul"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5538356770"
+        },
+        {
+            "latitude": -3.383662,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "salary_is_predicted": "0",
+            "id": "5538342467",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -59.733686,
+            "location": {
+                "display_name": "Manaus, Amazonas",
+                "area": [
+                    "Brasil",
+                    "Norte",
+                    "Amazonas",
+                    "Manaus"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-11T16:37:20Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4MzQyNDY3In0.JPJZHprzKE2TyFIJ7-N_KqrB4RnhbJRlrBPJ9e_goas",
+            "redirect_url": "https://www.adzuna.com.br/details/5538342467?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDI0ODQ0In0.dSxezAQ60m8us5VUtuBcaz95vVms7fpAD8EJfAKZcAk",
+            "redirect_url": "https://www.adzuna.com.br/details/5538424844?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T16:49:59Z",
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538424844",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Curitiba, Paran\u00e1",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Paran\u00e1",
+                    "Curitiba"
+                ]
+            },
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea Responsabilidades Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Vigilante Vspp",
+            "company": {
+                "display_name": "GRUPO RCR",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538299729",
+            "location": {
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Estamos contratando vigilantes VSPP desej\u00e1vel experi\u00eancia e flexibilidade de hor\u00e1rio. Faz a vigil\u00e2ncia do local com postura ostensiva, controlando o fluxo e garantindo a ordem e prote\u00e7\u00e3o de todos; Monitora as imagens das c\u00e2meras de seguran\u00e7a; Faz rondas pelo local, assegurando-se de cobrir todas as \u00e1reas, inclusive \u00e1reas que n\u00e3o sejam as principais; Requisitos: desej\u00e1vel residir em Ribeir\u00e3o Preto, conhecimento em inform\u00e1tica, est\u00e1 com o curso de forma\u00e7\u00e3o de vigilante em dia, Extens\u00e3o em VSPP em\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODI5OTcyOSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.U3eYXTeG4LgvWnE2B6Q5QU9JAd9qWlCaFjH-i3s2Iec",
+            "redirect_url": "https://www.adzuna.com.br/details/5538299729?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-12-11T16:25:36Z"
+        },
+        {
+            "created": "2025-12-11T15:47:04Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5537966296?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3OTY2Mjk2In0.-oiKg-rVSPqhMQIPKOkovm2d42x5m5-nT5NL1PxBDNU",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Descri\u00e7\u00e3o: Respons\u00e1vel por planejar e implementar as atividades de TI, incluindo Data Analytics, Ci\u00eancia de Dados, RPA, Infraestrutura, Seguran\u00e7a da Informa\u00e7\u00e3o.? Garantir solu\u00e7\u00f5es eficientes alinhadas aos objetivos da organiza\u00e7\u00e3o.? Desenvolver estrutura para captura, tratamento e analise de dados para suporte \u00e0 tomada de decis\u00f5es.? Requisitos: Requisitos Essenciais:? Gradua\u00e7\u00e3o completa em Ci\u00eancia da Computa\u00e7\u00e3o, Engenharia da Computa\u00e7\u00e3o, Sistemas de Informa\u00e7\u00e3o ou \u00e1reas correlatas. P\u00f3s-gradua\u00e7\u00e3o \u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo"
+            },
+            "title": "Gerente de Tecnologia da Informa\u00e7\u00e3o",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "SICOOB CENTRAL CECRESP",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5537966296"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00eaResponsabilidadesMapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funcion\u2026",
+            "latitude": -19.910956,
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Minas Gerais",
+                    "Belo Horizonte"
+                ],
+                "display_name": "Belo Horizonte, Minas Gerais",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -44.035061,
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538375559",
+            "created": "2025-12-11T16:42:46Z",
+            "category": {
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538375559?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4Mzc1NTU5In0.ic8PPRrlA8CmnM26gGgOkLSn8F-ZMyY6R50oj3F4ozM"
+        },
+        {
+            "salary_is_predicted": "0",
+            "title": "Analista De Requisitos E Processos",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538376953",
+            "location": {
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! ResponsabilidadesMapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM3Njk1MyIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.tH7ki18gT-BwQhc6UtRlqFpQ_AjSiQs0uh1TsLy7PLw",
+            "redirect_url": "https://www.adzuna.com.br/details/5538376953?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T16:43:04Z"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! Responsabilidades- Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. - Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. - Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e\u2026",
+            "latitude": -19.910956,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Minas Gerais",
+                    "Belo Horizonte"
+                ],
+                "display_name": "Belo Horizonte, Minas Gerais"
+            },
+            "longitude": -44.035061,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Analista De Requisitos E Processos",
+            "id": "5538360242",
+            "created": "2025-12-11T16:40:05Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5538360242?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM2MDI0MiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.PgyZ_tL0rfoU5zkZbIbSixLqL6phGy5F7h3F1Sfun1Y"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM3MTE1NiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.psVUGj2OwjzfeSw4jORdu-9Mfn4r7DNpMuB3_mNqg8o",
+            "redirect_url": "https://www.adzuna.com.br/details/5538371156?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-11T16:41:51Z",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Financial Planning And Analysis Expert",
+            "id": "5538371156",
+            "longitude": -47.912034,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasilia, Distrito Federal",
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ]
+            },
+            "latitude": -15.765286,
+            "description": "Senior Financial Planning And Analysis Expert - Develop and enhance complex financial models for budgeting, forecasting, and reporting in Anaplan. Work collaboratively with cross-functional teams to translate business requirements into model designs. Create data visualizations, dashboards, and user interfaces that meet business needs. Implement data integrations using Anaplan Connect, CloudWorks, Informatica, MuleSoft, etc. Support existing Anaplan applications through maintenance, issue resolu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5538372229?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM3MjIyOSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.4S5U-N20TujjcIqJyyrUDL9r6vsxQqfMLIaSqy3f7o8",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "created": "2025-12-11T16:42:05Z",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Research Associate",
+            "id": "5538372229",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Rio de Janeiro, Estado do Rio de Janeiro",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado do Rio de Janeiro",
+                    "Rio de Janeiro"
+                ]
+            },
+            "description": "Research Associate - Data collection, curation, and integration from biomedical sources are key responsibilities, including data analysis, visualization, and feature engineering to drive research insights. Machine learning and deep learning models are developed, trained, and evaluated for predictive, diagnostic, and intervention purposes, leveraging scientific literature to inform research initiatives. Techincal documentation, manuscripts, and progress reports require collaboration with researc\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Paran\u00e1",
+                    "Curitiba"
+                ],
+                "display_name": "Curitiba, Paran\u00e1"
+            },
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538385557",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4Mzg1NTU3In0._fnji7q8ca5DWZsQuyzG2Z136CT8o9RNvDfzRQMqcyk",
+            "redirect_url": "https://www.adzuna.com.br/details/5538385557?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T16:44:35Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! ResponsabilidadesMapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "title": "Analista De Requisitos E Processos",
+            "id": "5538385575",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Curitiba, Paran\u00e1",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Paran\u00e1",
+                    "Curitiba"
+                ]
+            },
+            "category": {
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-11T16:44:35Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODM4NTU3NSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.iaaTNhW78qI5pginvrg2nSuG91I7swgvWnGcv5cD5N0",
+            "redirect_url": "https://www.adzuna.com.br/details/5538385575?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5538408682?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODQwODY4MiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.UFgQ8kIP-JRVQcfUwdUy3WWrK4D0y91rbMNCQd43kzU",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T16:47:53Z",
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538408682",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Norte",
+                    "Amazonas",
+                    "Manaus"
+                ],
+                "display_name": "Manaus, Amazonas"
+            },
+            "longitude": -59.733686,
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! ResponsabilidadesMapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "latitude": -3.383662,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Cear\u00e1",
+                    "Fortaleza"
+                ],
+                "display_name": "Fortaleza, Cear\u00e1"
+            },
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "id": "5538411540",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! Responsabilidades Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e func\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODQxMTU0MCIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.muBVF_JWaBdixT8s_KXJCJHqjsFFJ93L9zVD7Eo6rTQ",
+            "redirect_url": "https://www.adzuna.com.br/details/5538411540?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T16:48:23Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5538411567",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Salvador, Bahia",
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Bahia",
+                    "Salvador"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T16:48:24Z",
+            "redirect_url": "https://www.adzuna.com.br/details/5538411567?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDExNTY3In0.EX_B8DzFje1jwQgLHKsSQQx55Xwhs2YLBP7G7M4RB3Q"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5538409260?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDA5MjYwIn0.4n6K5PhhWqq4sR-2BVZFEMJtzOXqhwJ0D_3IlbHlnsQ",
+            "created": "2025-12-11T16:47:59Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "location": {
+                "display_name": "Salvador, Bahia",
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Bahia",
+                    "Salvador"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5538409260",
+            "title": "Analista De Requisitos E Processos",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! Responsabilidades- Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. - Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. - Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e\u2026"
+        },
+        {
+            "location": {
+                "display_name": "Manaus, Amazonas",
+                "area": [
+                    "Brasil",
+                    "Norte",
+                    "Amazonas",
+                    "Manaus"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -59.733686,
+            "salary_is_predicted": "0",
+            "id": "5538410736",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eaniorIngl\u00eas Fluente- 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. - Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. - Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o.\u2026",
+            "latitude": -3.383662,
+            "redirect_url": "https://www.adzuna.com.br/details/5538410736?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDEwNzM2In0.939m3OFylTDRaTkaIYyMk7MtEzCo76EGiMMLnLXwHCk",
+            "created": "2025-12-11T16:48:16Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea! Responsabilidades- Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. - Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. - Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado do Rio de Janeiro",
+                    "Rio de Janeiro"
+                ],
+                "display_name": "Rio de Janeiro, Estado do Rio de Janeiro"
+            },
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5538416705",
+            "created": "2025-12-11T16:49:07Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzODQxNjcwNSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.o8m8S4Wnit74ah0tyiE8b9vqchTKbB9DKAGFDPqtjkY",
+            "redirect_url": "https://www.adzuna.com.br/details/5538416705?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5535176831?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTE3NjgzMSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.lVRbAMLZopBkSG4_zmTUeHg-4RRrRtkAPKRFFhPB2gc",
+            "created": "2025-12-09T15:58:50Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Mato Grosso do Sul",
+                    "Dourados"
+                ],
+                "display_name": "Dourados, Mato Grosso do Sul",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -54.79252,
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535176831",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "latitude": -22.24794
+        },
+        {
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-09T16:00:28Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1MTkzMjQ3In0.q2sZeXuF3MIFjykEiaU-r5psgrwxrfYm8Gz8a-0Ad38",
+            "redirect_url": "https://www.adzuna.com.br/details/5535193247?utm_medium=api&utm_source=58c69264",
+            "latitude": -30.11121,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5535193247",
+            "longitude": -51.25284,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Porto Alegre, Rio Grande do Sul",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Rio Grande do Sul",
+                    "Porto Alegre"
+                ]
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": -15.765286,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "longitude": -47.912034,
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ],
+                "display_name": "Brasilia, Distrito Federal",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535190737",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T16:00:13Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1MTkwNzM3In0.esCwHXdrI4No_OKXC6Z3_GgkRAIx8jCOXldRohWgL1I",
+            "redirect_url": "https://www.adzuna.com.br/details/5535190737?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "created": "2025-12-09T16:02:15Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTIxNjYwNiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.JfSO-1hnUfwjXCBcIjFCb8O_Sx3tdFG4K5Wuu8PYG48",
+            "redirect_url": "https://www.adzuna.com.br/details/5535216606?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eaniorIngl\u00eas Fluente- 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. - Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. - Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o.\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Fortaleza, Cear\u00e1",
+                "area": [
+                    "Brasil",
+                    "Nordeste",
+                    "Cear\u00e1",
+                    "Fortaleza"
+                ]
+            },
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535216606",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5535205982?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTIwNTk4MiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.Zjotrz_ttCAmfi_wLGultDWGufP-sZ7NG5z4W0F-Sco",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "created": "2025-12-09T16:01:37Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Especialista Em Solu\u00e7\u00f5es De Dados",
+            "id": "5535205982",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Brasilia, Distrito Federal",
+                "area": [
+                    "Brasil",
+                    "Centro-Oeste",
+                    "Distrito Federal",
+                    "Brasilia"
+                ]
+            },
+            "longitude": -47.912034,
+            "description": "Especialista Em Solu\u00e7\u00f5es De Dados - Nosso objetivo \u00e9 impulsionar o setor de material de constru\u00e7\u00e3o em todo o Brasil, conectando ind\u00fastria, varejo e profissionais da obra por meio de um ecossistema de solu\u00e7\u00f5es inovadoras. Atrav\u00e9s de uma equipe diversa e inquieta, desenvolvemos processos de ingest\u00e3o de dados altamente eficientes para grandes volumes, garantindo a integridade, conformidade e resili\u00eancia dos dados. Projetamos, implementamos e otimizamos estruturas de dados no Data Lake/Lakehouse, o\u2026",
+            "latitude": -15.765286,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "salary_is_predicted": "0",
+            "id": "5535166629",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Rio Grande do Sul",
+                    "Porto Alegre"
+                ],
+                "display_name": "Porto Alegre, Rio Grande do Sul",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -51.25284,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "latitude": -30.11121,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com.br/details/5535166629?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTE2NjYyOSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.nJnIwhmhxSdmqS3i89nqEXUsD7DNBqxGrmR4AqNirB8",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-09T15:57:57Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5535169682?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM1MTY5NjgyIn0.LbVD7n1HIQHUaMIrPqGXU4EvHxzk8yMpE3Ap19wxXf0",
+            "created": "2025-12-09T15:58:13Z",
+            "category": {
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "location": {
+                "display_name": "Curitiba, Paran\u00e1",
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Paran\u00e1",
+                    "Curitiba"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535169682",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eaniorIngl\u00eas Fluente- 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. - Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. - Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o.\u2026"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Analista De Requisitos E Processos - Se voc\u00ea \u00e9 apaixonado por dados, tem perfil colaborativo e gosta de trabalhar em ambientes din\u00e2micos, essa oportunidade \u00e9 para voc\u00ea Responsabilidades Mapear, revisar e otimizar processos relacionados \u00e0 coleta, tratamento e uso estrat\u00e9gico dos dados. Levantar, detalhar e documentar requisitos para projetos de Data Analytics, dashboards e relat\u00f3rios inteligentes. Engajar-se com times multidisciplinares para definir, detalhar e validar crit\u00e9rios t\u00e9cnicos e funci\u2026",
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "title": "Analista De Requisitos E Processos",
+            "salary_is_predicted": "0",
+            "id": "5535195391",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-12-09T16:00:41Z",
+            "category": {
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535195391?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTE5NTM5MSIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.y3X-PpPaPzahoAX87b-nUe3z8nzStxgrBsC1DUS4tY4"
+        },
+        {
+            "created": "2025-12-09T16:02:00Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com.br/details/5535212232?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTIxMjIzMiIsInMiOiI1Qy1obXRMVzhCRzdnY3JqVkVhaUR3In0.iYRQJAdiTEU9UL5lnrHNDKpre4GHNmK4c_RoGVqpnkY",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "latitude": -19.910956,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Belo Horizonte, Minas Gerais",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Minas Gerais",
+                    "Belo Horizonte"
+                ]
+            },
+            "longitude": -44.035061,
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5535212232",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDE3ODMxIn0.mO8oJNMoCB4guMLljfZ5T6hCcDLtv0vzwtIntzE8-8I",
+            "redirect_url": "https://www.adzuna.com.br/details/5538417831?utm_medium=api&utm_source=58c69264",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "created": "2025-12-11T16:49:15Z",
+            "id": "5538417831",
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -48.6626,
+            "location": {
+                "area": [
+                    "Brasil",
+                    "Sul",
+                    "Santa Catarina",
+                    "Itaja\u00ed"
+                ],
+                "display_name": "Itaja\u00ed, Santa Catarina",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": -26.90826,
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5538423587?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDIzNTg3In0.VjDvzEz3-MoLmowoizmLy9oeg-kTPadUsu4FLYZbfUE",
+            "created": "2025-12-11T16:49:51Z",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Outras vagas",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ]
+            },
+            "id": "5538423587",
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eanior Ingl\u00eas Fluente 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o. Pro\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com.br/details/5538423729?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNUMtaG10TFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDIzNzI5In0.k4urlF9Y2WVoD69I_aZh-iWFCje8Xe-9GgkYi5qnZ7Q",
+            "category": {
+                "tag": "other-general-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Outras vagas"
+            },
+            "created": "2025-12-11T16:49:52Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Engenheiro(A) De Dados S\u00eanior",
+            "id": "5538423729",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Brasil",
+                    "Sudeste",
+                    "Estado de S\u00e3o Paulo",
+                    "S\u00e3o Paulo"
+                ],
+                "display_name": "S\u00e3o Paulo, Estado de S\u00e3o Paulo"
+            },
+            "description": "Engenheiro(A) De Dados S\u00eanior - Nossa especialidade \u00e9 impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Engenheiro(a) Dados S\u00eaniorIngl\u00eas Fluente- 5 a 7 anos em desenvolvimento de aplica\u00e7\u00f5es de BI. - Atua\u00e7\u00e3o com gest\u00e3o de configura\u00e7\u00e3o e libera\u00e7\u00e3o, testes de integra\u00e7\u00e3o e levantamento de requisitos. - Identifica\u00e7\u00e3o de riscos t\u00e9cnicos e de seguran\u00e7a com proposi\u00e7\u00e3o de mitiga\u00e7\u00e3o.\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        }
+    ],
+    "mean": 31611.7,
+    "count": 56089
+}

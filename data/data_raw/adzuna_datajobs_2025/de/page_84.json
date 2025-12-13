@@ -1,0 +1,1561 @@
+{
+    "mean": 72942.3,
+    "count": 33935,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "created": "2025-07-09T14:23:04Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.de/land/ad/5293589197?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=677A4794E911FBD4E99081576D686A980687A690",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTI5MzU4OTE5NyIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.cwETTkQZZIXCBleoqP6OF2ymuMB3B2nE8dKo60bRDn8",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "latitude": 52.53453,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Burgwedel, Region Hannover (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Region Hannover (Kreis)",
+                    "Burgwedel"
+                ]
+            },
+            "longitude": 9.88862,
+            "company": {
+                "display_name": "KIND GmbH & Co. KG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5293589197",
+            "salary_is_predicted": "0",
+            "title": "Solution Architekt (w/m/d)"
+        },
+        {
+            "created": "2025-07-09T14:23:03Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjkzNTg4ODEyIn0.dGAWKtRvqRNF7576dPAAOl74FE37VZxXWKHdTlz2Slk",
+            "redirect_url": "https://www.adzuna.de/land/ad/5293588812?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4DB330D3DB23F11F63053B69D27D2E93635A5D61",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.53453,
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "longitude": 9.88862,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Burgwedel, Region Hannover (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Region Hannover (Kreis)",
+                    "Burgwedel"
+                ]
+            },
+            "id": "5293588812",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "KIND GmbH & Co. KG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Informatiker Software Architektur (w/m/d)"
+        },
+        {
+            "redirect_url": "https://www.adzuna.de/land/ad/5293588813?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=151180C18443097685126081BB0759DCDC42A92C",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MjkzNTg4ODEzIn0.v01ml39ELS0qBs_R3XLzmPq75DGpQQS-YcYoJYLjAA0",
+            "created": "2025-07-09T14:23:03Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Burgwedel, Region Hannover (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Region Hannover (Kreis)",
+                    "Burgwedel"
+                ]
+            },
+            "longitude": 9.88862,
+            "id": "5293588813",
+            "title": "Solutions Architecture Azure Cloud (w/m/d)",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KIND GmbH & Co. KG"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "latitude": 52.53453
+        },
+        {
+            "redirect_url": "https://www.adzuna.de/land/ad/5484015312?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=38F15E6E880B86F2D38044842CBD55C064B38488",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg0MDE1MzEyIn0.R_wih7jypeWIPoNmrh_NYbOSric1DkoGh6se367Gpmo",
+            "category": {
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-11-06T16:26:56Z",
+            "salary_is_predicted": "0",
+            "id": "5484015312",
+            "company": {
+                "display_name": "KIND GmbH & Co. KG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Solution Architekt (w/m/d)",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Soltau, Soltau-Fallingbostel (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Soltau-Fallingbostel (Kreis)",
+                    "Soltau"
+                ]
+            },
+            "longitude": 9.83994,
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "latitude": 52.98667,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Region Hannover (Kreis)",
+                    "Lehrte"
+                ],
+                "display_name": "Lehrte, Region Hannover (Kreis)"
+            },
+            "longitude": 9.9771,
+            "id": "5484015311",
+            "company": {
+                "display_name": "KIND GmbH & Co. KG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Solution Architekt (w/m/d)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "latitude": 52.37262,
+            "redirect_url": "https://www.adzuna.de/land/ad/5484015311?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7258706055230BCE16C146517B0F4C40274D0148",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg0MDE1MzExIn0.1hyVoVk1dWds1NG6_dJlyLiPMhldIk1HcbQQECiFqOo",
+            "created": "2025-11-06T16:26:56Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen"
+            },
+            "contract_time": "full_time",
+            "created": "2025-11-06T16:26:56Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5484015295?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=B0329372298CC9C1F36950904D686109441BA34B",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg0MDE1Mjk1In0.3qAaWq8ARPVwB5wpGp4emjqG1-2_3cGg9X8K3Nlua5o",
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "latitude": 52.547691,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5484015295",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "KIND GmbH & Co. KG",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Solution Architekt (w/m/d)",
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Region Hannover (Kreis)",
+                    "Wedemark"
+                ],
+                "display_name": "Wedemark, Region Hannover (Kreis)",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 9.732157
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg0MDE1MzA4In0.W04BEBm0n_5O3NDNawygceUGwCwxoP2ocMPED_h-33g",
+            "redirect_url": "https://www.adzuna.de/land/ad/5484015308?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C6CA981BDA0A50E5198B96C83E03DEDBB5DC1034",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-06T16:26:56Z",
+            "salary_is_predicted": "0",
+            "id": "5484015308",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KIND GmbH & Co. KG"
+            },
+            "title": "Solution Architekt (w/m/d)",
+            "longitude": 10.095777,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Celle, Celle (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Celle (Kreis)",
+                    "Celle"
+                ]
+            },
+            "latitude": 52.639567,
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-11-06T16:26:56Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.de/land/ad/5484015315?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7D2CA1A28676A6DDB51D50DCA31FEA842F5C4316",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NDAxNTMxNSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.5YpwqjVEweAlEZkRDr4b_xcklXOMlwzVEVuSWjABpPE",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Willkommen bei KIND! Mit mehr als 3500 Mitarbeitenden betreiben wir rund 750 Fachgesch\u00e4fte im In- und Ausland. Gemeinsam arbeiten wir t\u00e4glich als Team mit viel Freude, Dynamik und Engagement. Als eines der f\u00fchrenden Unternehmen in der H\u00f6rakustik und Augenoptik wachsen wir stetig und suchen immer wieder frischen Wind f\u00fcr unsere Teams. Eine tolle Chance f\u00fcr Menschen, die mitgestalten wollen! Deine Aufgaben Als Solution Architekt:in arbeitest Du in unserem Architektur-Team und unterst\u00fctzt unsere i\u2026",
+            "latitude": 52.44643,
+            "location": {
+                "display_name": "Burgdorf, Region Hannover (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Region Hannover (Kreis)",
+                    "Burgdorf"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 10.00665,
+            "salary_is_predicted": "0",
+            "id": "5484015315",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KIND GmbH & Co. KG"
+            },
+            "title": "Solution Architekt (w/m/d)"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MTkzMjg5MSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.wskS0OwjuoKD8_iu8ja1qfsp9YXnVh7l2TFtdeC8ycw",
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932891?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=99CDC04CAB475D75F4A31DB7A7074146FABEAB36",
+            "created": "2025-08-21T14:29:03Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 13.20942,
+            "location": {
+                "display_name": "Hennigsdorf, Oberhavel (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Oberhavel (Kreis)",
+                    "Hennigsdorf"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "E.DIS Netz GmbH"
+            },
+            "id": "5361932891",
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.63864,
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932942?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F3C964696070928710D53DEB2D45731D081FD2A9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzYxOTMyOTQyIn0._YLvbv7jJuPOqkW-NfB5yf8ycl1bjlgnqlT9BWcaS3A",
+            "created": "2025-08-21T14:29:05Z",
+            "category": {
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_time": "full_time",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Magdeburg, Sachsen-Anhalt",
+                "area": [
+                    "Deutschland",
+                    "Sachsen-Anhalt",
+                    "Magdeburg"
+                ]
+            },
+            "longitude": 11.638721,
+            "company": {
+                "display_name": "E.DIS Netz GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5361932942",
+            "salary_is_predicted": "0",
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026",
+            "latitude": 52.125867
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MTkzMjk0NCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.2nLVBxTf9Fax-Dh5tv0ULFCFaA3z2qodiAtkyhnY7T4",
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932944?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A75767821B8FF8EC0298A2B90AE0A8652CA8869E",
+            "created": "2025-08-21T14:29:05Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": 11.86637,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Sachsen-Anhalt",
+                    "Stendal (Kreis)",
+                    "Stendal"
+                ],
+                "display_name": "Stendal, Stendal (Kreis)"
+            },
+            "id": "5361932944",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "E.DIS Netz GmbH"
+            },
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.60407,
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026"
+        },
+        {
+            "created": "2025-08-21T14:29:05Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MTkzMjk0MSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.Cos_CUkRphYGUwXcZdZfC7UuC-nJ0_0cPQMJWqLRt0M",
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932941?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1CCE35B2C5CF483230988FADBA0F41319C5CEBE7",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.29892,
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026",
+            "longitude": 13.62781,
+            "location": {
+                "display_name": "K\u00f6nigs Wusterhausen, Dahme-Spreewald (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Dahme-Spreewald (Kreis)",
+                    "K\u00f6nigs Wusterhausen"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "E.DIS Netz GmbH"
+            },
+            "id": "5361932941",
+            "salary_is_predicted": "0",
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung"
+        },
+        {
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026",
+            "latitude": 52.56652,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5361932898",
+            "company": {
+                "display_name": "E.DIS Netz GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Havelland (Kreis)",
+                    "Falkensee"
+                ],
+                "display_name": "Falkensee, Havelland (Kreis)"
+            },
+            "longitude": 13.10512,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-08-21T14:29:03Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932898?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=57580BF39D4B6B76AB73764194FD9E406F90E575",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MTkzMjg5OCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.NMgZ1L0aWIgu4sGHy9JfPJXol4tLaAhqKpEchE7Z0rM"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-08-21T14:29:05Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932940?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=32EB18D78A7CBA4C081491035C8C8027DDF05657",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzYxOTMyOTQwIn0.e4NHogv_SEKVjehJn8iPoGa9aSgFFJFOqGM_bVoyZEg",
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026",
+            "latitude": 52.37812,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5361932940",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "E.DIS Netz GmbH"
+            },
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "location": {
+                "display_name": "Werder (Havel), Potsdam-Mittelmark (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Potsdam-Mittelmark (Kreis)",
+                    "Werder (Havel)"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 12.93344
+        },
+        {
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026",
+            "latitude": 52.75561,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "E.DIS Netz GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5361932895",
+            "salary_is_predicted": "0",
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Oranienburg, Oberhavel (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Oberhavel (Kreis)",
+                    "Oranienburg"
+                ]
+            },
+            "longitude": 13.24101,
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT-Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "created": "2025-08-21T14:29:03Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932895?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A9765C12DEF174DA7DC2BCC5B8FC262E906684E0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MTkzMjg5NSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.vT4-v7-n_hXJn9dymx9XG9GfjPEY9djBWV_QjC8wbi0"
+        },
+        {
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932894?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=EB58EECB6AFBD68E5FCAF16C8342F1C389EF13D1",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1MzYxOTMyODk0In0.SQUmvhvhTHLqFYBkQSGb1vL4_0g6opBIJ1kjjkSl0N4",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen"
+            },
+            "contract_time": "full_time",
+            "created": "2025-08-21T14:29:03Z",
+            "salary_is_predicted": "0",
+            "id": "5361932894",
+            "company": {
+                "display_name": "E.DIS Netz GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Neuruppin, Ostprignitz-Ruppin (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Ostprignitz-Ruppin (Kreis)",
+                    "Neuruppin"
+                ]
+            },
+            "longitude": 12.79398,
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026",
+            "latitude": 52.92202,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "longitude": 12.554451,
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Brandenburg an der Havel"
+                ],
+                "display_name": "Brandenburg an der Havel, Brandenburg",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5361932901",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "E.DIS Netz GmbH"
+            },
+            "salary_is_predicted": "0",
+            "title": "Duales Studium \"Wirtschaftsingenieurwesen\" (B.Eng.) an der THB mit Schwerpunkt Netzregulierung",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.429131,
+            "description": "Stellenbeschreibung Warum brauchen wir dich? Zwei Seelen brennen in deiner Brust? Leidenschaft f\u00fcr Wirtschaft und Technik. Dann verbinde Beides im Studiengang Wirtschaftsingenieurwesen. Durch dein interdisziplin\u00e4res Fachwissen bildest du die Schnittstelle zwischen technischen und \u00f6konomischen Aspekten und unterst\u00fctzt die Kommunikation zwischen diesen beiden Bereichen. Wirtschaftliche und ingenieurwissenschaftliche Studieninhalte vermitteln die verschiedenen Denkweisen, Fragestellungen und Fachs\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MTkzMjkwMSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.3M2cBzJVXvZKuVqsNIrNB0HeJ7CdImkaj-eZbtAcZYE",
+            "redirect_url": "https://www.adzuna.de/land/ad/5361932901?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=12A69583A7E19B6A9CD418FE28EC6716A17B7A7D",
+            "created": "2025-08-21T14:29:03Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT-Stellen"
+            }
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen",
+                    "Steinfurt (Kreis)",
+                    "Lotte"
+                ],
+                "display_name": "Lotte, Steinfurt (Kreis)"
+            },
+            "longitude": 7.91596,
+            "id": "5504158972",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Honeywell"
+            },
+            "salary_is_predicted": "0",
+            "title": "Bachelor- / Masterarbeit im Bereich Digital Factory Data Analysis- Elektrotechnik, Automatisierung, Informatik & Wirtschaft (m/w/d)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Honeywell ist weltweit einer der f\u00fchrenden Hersteller hinsichtlich Technologie und Fertigungsverfahren. In \u00fcber 100 L\u00e4ndern der Erde entwickeln und fertigen 132.000 Mitarbeiter zukunftsweisende L\u00f6sungen f\u00fcr die Sparten Haus-, Geb\u00e4ude- und Industrieautomation sowie Produkte und Dienstleistungen f\u00fcr die Luftfahrt-, Automobil- und Chemieindustrie. Am Standort Lotte/Osnabr\u00fcck werden Spitzenprodukte und Systeml\u00f6sungen f\u00fcr die Sicherung, Messung und Regelung von Gasen hergestellt. Mit Haushaltsgasz\u00e4h\u2026",
+            "latitude": 52.27534,
+            "redirect_url": "https://www.adzuna.de/details/5504158972?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNDE1ODk3MiIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.c-hbAi9mCunARGEq91dtkXwrEpZN-mspKzwJjxUmiIM",
+            "created": "2025-11-19T22:25:51Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MjQ0NjcyIn0.i9lFHffYKapg-KfqfQDusaRz1SfNQ4FUhd_VQLVGLXs",
+            "redirect_url": "https://www.adzuna.de/details/5537244672?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T02:22:06Z",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "longitude": 9.47368,
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Stade (Kreis)",
+                    "Stade",
+                    "Hagen"
+                ],
+                "display_name": "Hagen, Stade",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5537244672",
+            "contract_type": "permanent",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Masters of Marketing GmbH"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 53.59901,
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzI0NDY1NSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.vV1LqdDklcwkWDdfUqs7g7fyuUchRpUXkuph2K3jhwM",
+            "redirect_url": "https://www.adzuna.de/details/5537244655?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "created": "2025-12-11T02:22:05Z",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "id": "5537244655",
+            "company": {
+                "display_name": "Masters of Marketing GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "longitude": 8.06871,
+            "location": {
+                "display_name": "Gartlage, Osnabr\u00fcck",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Osnabr\u00fcck (Kreis)",
+                    "Osnabr\u00fcck",
+                    "Gartlage"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 52.29175,
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "id": "5537244673",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Masters of Marketing GmbH"
+            },
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "longitude": 11.43431,
+            "location": {
+                "display_name": "Dachau, Dachau (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Bayern",
+                    "Dachau (Kreis)",
+                    "Dachau"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 48.2594,
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MjQ0NjczIn0.rSeC_Nur7g80eBJBYxU1N20on0qERWE24LgtkVBi91c",
+            "redirect_url": "https://www.adzuna.de/details/5537244673?utm_medium=api&utm_source=58c69264",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-11T02:22:06Z"
+        },
+        {
+            "latitude": 51.61871,
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5537244657",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Masters of Marketing GmbH"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "longitude": 7.19241,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen",
+                    "Recklinghausen (Kreis)",
+                    "Recklinghausen",
+                    "Stadtmitte"
+                ],
+                "display_name": "Stadtmitte, Recklinghausen"
+            },
+            "contract_time": "full_time",
+            "category": {
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "created": "2025-12-11T02:22:05Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MjQ0NjU3In0.fwx5HwuYgiYg9X_hx7n7a8dmpvnW6DsKxzgAH4gTCUI",
+            "redirect_url": "https://www.adzuna.de/details/5537244657?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "redirect_url": "https://www.adzuna.de/details/5537244656?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MjQ0NjU2In0.XgISfw8qR8sktPJfX9ImgUWvJ6W0L0ehqUneFlqxoEw",
+            "category": {
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-11T02:22:05Z",
+            "id": "5537244656",
+            "contract_type": "permanent",
+            "company": {
+                "display_name": "Masters of Marketing GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Wolfsburg",
+                    "Eichelkamp"
+                ],
+                "display_name": "Eichelkamp, Wolfsburg"
+            },
+            "longitude": 10.76094,
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026",
+            "latitude": 52.41001,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzI0NDY3NSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.AH99cSAaCZ86niASghtidGAxyFp8R4bouv4Ib198YEw",
+            "redirect_url": "https://www.adzuna.de/details/5537244675?utm_medium=api&utm_source=58c69264",
+            "created": "2025-12-11T02:22:06Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": 7.63075,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen",
+                    "Unna (Kreis)",
+                    "Bergkamen"
+                ],
+                "display_name": "Bergkamen, Unna (Kreis)"
+            },
+            "company": {
+                "display_name": "Masters of Marketing GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5537244675",
+            "salary_is_predicted": "0",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.613,
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026"
+        },
+        {
+            "created": "2025-12-11T02:22:05Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Stellen aus PR, Werbung & Marketing"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzI0NDY2NiIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.Fbz6fg_v9qIa2SFqD5QU-lTfYnQcHZLnxBLfVIit1EE",
+            "redirect_url": "https://www.adzuna.de/details/5537244666?utm_medium=api&utm_source=58c69264",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 50.55781,
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026",
+            "longitude": 9.68571,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Hessen",
+                    "Fulda (Kreis)",
+                    "Fulda",
+                    "Ziehers-Nord"
+                ],
+                "display_name": "Ziehers-Nord, Fulda"
+            },
+            "id": "5537244666",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Masters of Marketing GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "permanent",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools"
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Niedersachsen",
+                    "Hildesheim (Kreis)",
+                    "Hildesheim",
+                    "Neustadt"
+                ],
+                "display_name": "Neustadt, Hildesheim"
+            },
+            "longitude": 9.95078,
+            "id": "5537244660",
+            "company": {
+                "display_name": "Masters of Marketing GmbH",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "contract_type": "permanent",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026",
+            "latitude": 52.14555,
+            "redirect_url": "https://www.adzuna.de/details/5537244660?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MjQ0NjYwIn0.MPn9rZD9r9F4UgaTGrK7GEnaDIl2YJ4Uw0yvNb-qYkU",
+            "created": "2025-12-11T02:22:05Z",
+            "category": {
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "contract_time": "full_time"
+        },
+        {
+            "created": "2025-12-11T02:22:06Z",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "Stellen aus PR, Werbung & Marketing",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.de/details/5537244669?utm_medium=api&utm_source=58c69264",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MjQ0NjY5In0.Zd8-6HETbcOldg2xcHmjHM1Ob3exMEcCZZZKi7xvOlM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Masters of Marketing GmbH Wir von der Masters of Marketing GmbH haben uns auf Weiterbildungskurse im Bereich Online-Marketing spezialisiert. Als AZAV-zertifizierter Bildungstr\u00e4ger richten sich unsere Kurse an Personen, die arbeitslos gemeldet sind und \u00fcber den sogenannten Bildungsgutschein die M\u00f6glichkeit haben, kostenfrei an unseren Kursen teilzunehmen und von einer F\u00f6rderung durch die Bundesagentur f\u00fcr Arbeit oder das Jobcenter zu profitieren. In unseren praxisorientierten Kursen, die von erf\u2026",
+            "latitude": 50.65784,
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen",
+                    "Euskirchen (Kreis)",
+                    "Euskirchen",
+                    "Innenstadt"
+                ],
+                "display_name": "Innenstadt, Euskirchen",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 6.79192,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Masters of Marketing GmbH"
+            },
+            "id": "5537244669",
+            "title": "Data-Driven Marketing Manager (m/w/d) (Quereinsteiger willkommen) \u2013 Fokus auf datengetriebenes Marketing & AI-Tools",
+            "salary_is_predicted": "0",
+            "contract_type": "permanent"
+        },
+        {
+            "created": "2025-10-15T21:52:26Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.de/land/ad/5448964958?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8A8DC70E2E12943A06DA32DB9041A4B4D04409ED",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0ODk2NDk1OCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.T6AXqX2juJG3pFa4Dkm7vnIw3OfkvLWKiX7P66AfOhk",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description 1.Conducting data analysis to drive efficiency improvements and improve logistics partner performance 2.Create standard reports and analysis to monitor delivery performance and quality 3.Work with the business and ad-hoc analysis and deep dives to understand root causes of inefficiencies 4.Support business stakeholders in analysis and deep dives to eleminate waste 5.Identification of operational issues, development of solutions, and promotion of cross-departmental implementation\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nordrhein-Westfalen, Deutschland",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen"
+                ]
+            },
+            "id": "5448964958",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "JD.COM"
+            },
+            "salary_is_predicted": "0",
+            "title": "Partner Performance Analyst"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Job Description 1.Conducting data analysis to discover waste and inefficiencies and work with relevant stakeholders to drive efficiency improvements 2.Create standard reports and analysis to monitor delivery performance and quality 3.Work with the business and ad-hoc analysis and deep dives to understand root causes of inefficiencies 4.Support business stakeholders in analysis and deep dives to eliminate waste 5.Identification of operational issues, development of solutions, and promotion of cr\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen"
+                ],
+                "display_name": "Nordrhein-Westfalen, Deutschland"
+            },
+            "company": {
+                "display_name": "JD.COM",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5448964057",
+            "salary_is_predicted": "0",
+            "title": "Process Improvement Analyst",
+            "created": "2025-10-15T21:51:44Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "redirect_url": "https://www.adzuna.de/land/ad/5448964057?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8F1D2DAC99AB173F0008F24C2A9317E9535BC6D9",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDQ4OTY0MDU3In0.EbPZIGgdkKpi1pz5lu00qrRv3NR1Js7MlpYvIOuTUUs"
+        },
+        {
+            "created": "2025-11-28T07:49:48Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxNzQyNTUyMCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.vi1lepQXeCxOtYcKaqRLi2J_wdaB63ZZc7gOs-xshmk",
+            "redirect_url": "https://www.adzuna.de/land/ad/5517425520?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=ECA6E5DD27017D5188ACD0CBFB436F00CEB885C7",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Senior ServiceNow Consultant (HRSD/CSM) Hybrid/Home Office Locations: Berlin, Dortmund, D\u00fcsseldorf, Frankfurt am Main, Hamburg, Hannover, Ingolstadt, Karlsruhe, Cologne, Munich, Nuremberg, Stuttgart Our client, a leading global consultancy, is expanding its German ServiceNow practice and seeking an experienced Senior ServiceNow Consultant with deep expertise in either HR Service Delivery (HRSD) or Customer Service Management (CSM) . In this role, you will lead complex ServiceNow transformation \u2026",
+            "location": {
+                "display_name": "Deutschland",
+                "area": [
+                    "Deutschland"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5517425520",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MA "
+            },
+            "title": "Senior ServiceNow Consultant (HRSD/CSM)"
+        },
+        {
+            "description": "ServiceNow Consultant (ITSM) Home Office/Hybrid - Hannover A specialised, boutique ServiceNow Partner headquartered in Hannover is searching for a ServiceNow Consultant to join the team. With emphasis on long-term customer relationships, their mission is to deliver high-quality, tailored ServiceNow implementations for mid-market and enterprise clients. The role: Play a key role in designing, implementing and optimising ServiceNow solutions (ITSM/ITOM/HRSD/CSM) Conduct workshops and demos with c\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MA "
+            },
+            "id": "5525454599",
+            "title": "ServiceNow Consultant - up to 65.000",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Deutschland",
+                "area": [
+                    "Deutschland"
+                ]
+            },
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-12-03T09:09:39Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5525454599?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=89ADF219224E10351F6D4CBF541803FCAD8C6193",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI1NDU0NTk5In0.Ye1rt02Y346WufIN3MmiGpuAQQhm0YFCTKHVYNqkyDw"
+        },
+        {
+            "created": "2025-11-13T09:00:59Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MzE4NTE3NyIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.9vQ5NxDdZyT7HKCqnbZrXijN7tLUjDvjX2S873-NtzE",
+            "redirect_url": "https://www.adzuna.de/land/ad/5493185177?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=659A77E18CE227AAAD9759E8B8B365977BD52D43",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.507706,
+            "description": "Technology & Strategy : In more formal terms, we are a consulting firm specializing in engineering, IT and digital project management. We are an international company with a Franco-German DNA. Our 3,500 employees are of 45 different nationalities and are spread across 27 offices in 10 countries, including France, Germany, Switzerland, Belgium, the UK, Singapore, Hong Kong, Portugal, Egypt, and the Netherlands. Job Description Are you excited about building high-performance robotic systems that \u2026",
+            "longitude": 13.420806,
+            "location": {
+                "display_name": "Berlin, Deutschland",
+                "area": [
+                    "Deutschland",
+                    "Berlin"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "id": "5493185177",
+            "company": {
+                "display_name": "Technology & Strategy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Senior Software Engineer"
+        },
+        {
+            "created": "2025-11-15T22:07:21Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.de/land/ad/5498378687?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=FC67DB8763C6057F3FFD76FDE81A2D0A77727F07",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5ODM3ODY4NyIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.v-XkbMEsx9r3DPS5Haq-pYk6I7tTjxhhUI_h0QyOU7A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Lead SAP FICO Consultant (m/f/d) Hybrid or remote in Germany D\u00fcsseldorf, Freiburg, Munich, Saarbr\u00fccken, Hamburg, Berlin, Leipzig, Vienna ~20% travel to client site This company is a partner of SAP with around 2500 employees and 30 locations across Europe. With in-depth industry know-how, they support clients in the optimisation and implementation of efficient business processes specially in SAP solutions. They are now searching for a Lead SAP FICO Consultant to join the team to support SAP Fina\u2026",
+            "location": {
+                "display_name": "Deutschland",
+                "area": [
+                    "Deutschland"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5498378687",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "MA "
+            },
+            "salary_is_predicted": "0",
+            "title": "Lead SAP FICO Consultant (m/f/d)"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "We are currently seeking an experienced Project Planner to join our team, working on a 3&1 or 10&4 rotation on major Data Centre projects across Europe. Initially working on a project in Frankfurt, you will be responsible for developing, managing, and maintaining project schedules throughout the full lifecycle from preconstruction to final completion. The role requires strong planning expertise, excellent communication skills, and the ability to drive progress across multidisciplinary teams in \u2026",
+            "location": {
+                "area": [
+                    "Deutschland"
+                ],
+                "display_name": "Deutschland",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5525454610",
+            "company": {
+                "display_name": "MTM Engineering Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Project Planner (3&1 Rotation)",
+            "created": "2025-12-03T09:09:40Z",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "redirect_url": "https://www.adzuna.de/land/ad/5525454610?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=EC5AAC970584927C218FCE2B973B5A532CC8001F",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTI1NDU0NjEwIn0.0keelZqa0ArrkqXwv2Dtf-uDJAwgyGW3_L8QACwXm-M"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 51.476986,
+            "description": "\u201eLehrjahre sind keine Herrenjahre\u201c \u2013 Bei uns ist das anders. Wir glauben, dass eine Ausbildung auf Augenh\u00f6he der beste Weg zum Erfolg ist. Denn echte Entwicklung entsteht, wenn Du Verantwortung tr\u00e4gst und Dinge selbst in die Hand nimmst. Deshalb lernst Du bei uns nicht nur, Du gestaltest aktiv mit: Du organisierst Termine, jonglierst mit Zahlen, hast Abl\u00e4ufe stets im Blick und sorgst daf\u00fcr, dass aus Ideen echte Ergebnisse werden. Ab dem 1. August 2026 hast Du bei G DATA in Bochum die Chance, ge\u2026",
+            "longitude": 7.211571,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen",
+                    "Bochum"
+                ],
+                "display_name": "Bochum, Nordrhein-Westfalen"
+            },
+            "id": "5496677529",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "G DATA CyberDefense AG"
+            },
+            "salary_is_predicted": "0",
+            "title": "Ausbildung Kaufmann /-frau f\u00fcr B\u00fcromanagement (m/w/d) 2026",
+            "created": "2025-11-14T21:25:31Z",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NjY3NzUyOSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.3yb_gDREun-OuHAbRxSMfbd65dRMg7H504PFGxZJEdM",
+            "redirect_url": "https://www.adzuna.de/details/5496677529?utm_medium=api&utm_source=58c69264"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 49.97966,
+            "description": "About us Human health matters. That is why SCHOTT Pharma designs solutions grounded in science to ensure that medications are safe and easy to use for people around the world. Every day, a team of over 4,600 people from over 60 nations works at SCHOTT Pharma to contribute to global healthcare. The company is represented in all main pharmaceutical hubs with 14 manufacturing sites in Europe, North and South America, and Asia. SCHOTT Pharma AG & Co. KGaA is headquartered in Mainz, Germany and list\u2026",
+            "longitude": 8.24103,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Rheinland-Pfalz",
+                    "Mainz",
+                    "Bretzenheim"
+                ],
+                "display_name": "Bretzenheim, Mainz"
+            },
+            "id": "5534582248",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "SCHOTT",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Quality Process Digitalization Coordinator (m/f/d)*",
+            "created": "2025-12-09T13:55:20Z",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Sonstige/Allgemeine Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0NTgyMjQ4In0.3h1wdD8l3Ir9ODddVwIyng-j_hPVuzIykU_uusdJcq8",
+            "redirect_url": "https://www.adzuna.de/land/ad/5534582248?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=186B53B403E27CD0B33FB8074101487DE4958ACE"
+        },
+        {
+            "description": "About the Role: We are seeking an experienced IFS Integration Specialist with strong experience in IFS Applications 10 or IFS Cloud to join our client's team. The ideal candidate will be responsible for integrating IFS with internal and external systems, ensuring seamless data flow, and supporting process automation. Fluency in German is required to liaise effectively with our German-speaking stakeholders. Key Responsibilities: Design, develop, and maintain integrations between IFS (Apps 10 or \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "IT Works Recruitment Europe"
+            },
+            "id": "5502964760",
+            "salary_is_predicted": "0",
+            "title": "IFS Integration Specialist",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Nordrhein-Westfalen, Deutschland",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen"
+                ]
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-11-19T09:14:04Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjk2NDc2MCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.-Rmc4jK5Xm6PUt0P29Dguqo6fM1xF2f22jWpQYf-Ulg",
+            "redirect_url": "https://www.adzuna.de/land/ad/5502964760?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0E857393D0DA9DCA6925EE8505112B2E3E3D55BF"
+        },
+        {
+            "longitude": 13.396,
+            "location": {
+                "display_name": "Kreuzberg, Berlin",
+                "area": [
+                    "Deutschland",
+                    "Berlin",
+                    "Kreuzberg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5528473999",
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "AWS EMEA SARL ",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Software Development Manager, AWS Security, AWS Security",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 52.4984,
+            "description": "As a Software Development Manager (SDM), you\u2019ll help to build and manage services that detect and automate the mitigation of cybersecurity threats across Amazon\u2019s infrastructure. You\u2019ll manage software development engineers, security engineers and data scientists to develop innovative security solutions at massive scale. Our services protect the AWS cloud for all customers and preserves our customers\u2019 trust in us. You\u2019ll get to use the full power and breadth of AWS technologies to build service\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyODQ3Mzk5OSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.6h2kWFTz2cyxQVHNix8gYjopPsJbca7afiUgD5GOOHI",
+            "redirect_url": "https://www.adzuna.de/land/ad/5528473999?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=784FADEB6A9DAD805765A896CB78682CAEC02BDE",
+            "created": "2025-12-04T22:46:03Z",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sonstige/Allgemeine Stellen",
+                "tag": "other-general-jobs"
+            }
+        },
+        {
+            "description": "If you are a current Jazz employee please apply via the Internal Career site. Jazz Pharmaceuticals is a global biopharma company whose purpose is to innovate to transform the lives of patients and their families. We are dedicated to developing life-changing medicines for people with serious diseases \u2014 often with limited or no therapeutic options. We have a diverse portfolio of marketed medicines, including leading therapies for sleep disorders and epilepsy, and a growing portfolio of cancer tre\u2026",
+            "latitude": 48.13258,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5520891085",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Jazz Pharmaceuticals"
+            },
+            "title": "Sales Director Neuroscience",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Bayern",
+                    "M\u00fcnchen (Kreis)",
+                    "M\u00fcnchen",
+                    "Au-Haidhausen"
+                ],
+                "display_name": "Au-Haidhausen, M\u00fcnchen"
+            },
+            "longitude": 11.59129,
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-12-01T09:43:08Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5520891085?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=C96E3C0E8AFC0858E6E03E0BF0AECD53390E9C83",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyMDg5MTA4NSIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.1XwbC0HtjgUXAnDSYDj1yU-uYR-agzxK6X9En56wVuM"
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5538445560",
+            "company": {
+                "display_name": "Schwarz Corporate Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "contract_type": "permanent",
+            "title": "Wechselmanager mit Fokus Zeitreihen Qualit\u00e4t (m/w/d)",
+            "location": {
+                "display_name": "Neckarsulm, Heilbronn (Kreis)",
+                "area": [
+                    "Deutschland",
+                    "Baden-W\u00fcrttemberg",
+                    "Heilbronn (Kreis)",
+                    "Neckarsulm"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 9.2274,
+            "description": "Wechselmanager mit Fokus Zeitreihen Qualit\u00e4t Standort: Neckarsulm Abteilung / Bereich: Level: Berufserfahrene Referenznummer: 1094 Du hast Lust auf innovative und nachhaltige Bau- & Immobilienprojekte? Dann bist du bei uns genau richtig. Von B\u00fcros, Konferenzr\u00e4umen sowie Restaurants bis hin zu Wohnungen - Im TeamSCOS planen, bauen und betreuen wir ein gro\u00dfes Portfolio verschiedenster Immobilien \u2013 denn Vielfalt ist unsere St\u00e4rke! Bei uns kannst du spannende Projekte von Beginn bis zur Umsetzung b\u2026",
+            "latitude": 49.18975,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.de/land/ad/5538445560?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4590EE6F36C687E5F591CE77583B242916D0E590",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM4NDQ1NTYwIn0.U-EINCdZXlZZ8quczQXDN6BTTkl-7fJ5xW7E1fnTEeo",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown",
+                "tag": "unknown"
+            },
+            "created": "2025-12-11T21:01:43Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "id": "5518355764",
+            "company": {
+                "display_name": "Amazon Kaiserslautern GmbH - M49",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Industriemeister:in / Meister:in als Teamleitung",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "Deutschland",
+                    "Hamburg",
+                    "Neustadt"
+                ],
+                "display_name": "Neustadt, Hamburg"
+            },
+            "longitude": 9.98553,
+            "description": "Unser Wartungs- und Instandhaltungsteam (Reliability Maintenance Engineering Team oder RME-Team) ist der Kern von Amazons Engagement f\u00fcr Innovation. Amazon entwickelt sich weiter und dieses Team sorgt daf\u00fcr, dass dies auch die von uns verwendeten Technologien und Tools tun. Als Senior RME Technician hilfst Du uns, der Entwicklung einen Schritt voraus zu bleiben. Du setzt die neuesten Technologien ein und identifizierst neue, effiziente Arbeitsmethoden. In dieser Rolle achtest Du genau auf unser\u2026",
+            "latitude": 53.55197,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.de/land/ad/5518355764?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=539BD27537A643A37E508CB113450C59881E2494",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxODM1NTc2NCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.AcwK3lpXAG9j2-ievab8SPiFsr6x0IJ1Wz3ZLR1Xm9Y",
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "created": "2025-11-28T20:20:34Z"
+        },
+        {
+            "description": "Diese Stelle ist in DRP1, Viernheim, angesiedelt. Unser Wartungs- und Instandhaltungsteam (Reliability Maintenance Engineering Team oder RME-Team) ist der Kern von Amazons Engagement f\u00fcr Innovation. Amazon entwickelt sich weiter und dieses Team sorgt daf\u00fcr, dass dies auch die von uns verwendeten Technologien und Tools tun. Als Senior RME Technician hilfst Du uns, der Entwicklung einen Schritt voraus zu bleiben. Du setzt die neuesten Technologien ein und identifizierst neue, effiziente Arbeitsme\u2026",
+            "latitude": 53.55197,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5503135386",
+            "company": {
+                "display_name": "Amazon Deutschland W12 Transport GmbH - J53",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Teamleiter:in Instandhaltung",
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Hamburg",
+                    "Neustadt"
+                ],
+                "display_name": "Neustadt, Hamburg",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 9.98553,
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-11-19T13:31:02Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5503135386?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=115FBE2C6579427E462205460D5579649635C701",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMzEzNTM4NiIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.1DBT7l_ckMgcFQ95PRD9ksPvhlx877MIXjV-iQnMNCo"
+        },
+        {
+            "redirect_url": "https://www.adzuna.de/land/ad/5500972456?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=AB6D376FA9B04A4886DBC05F706BC8696CDB0BCE",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMDk3MjQ1NiIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.U0Yn-mhNKgpDu37IlbJK56g1WryXCevK1sd36W1FWQg",
+            "created": "2025-11-17T23:19:42Z",
+            "category": {
+                "tag": "unknown",
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Hamburg",
+                    "Neustadt"
+                ],
+                "display_name": "Neustadt, Hamburg",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 9.98553,
+            "id": "5500972456",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Amazon Kaiserslautern GmbH - M49"
+            },
+            "title": "Teamleiter / Schichtleiter :in Instandhaltung",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Unser Wartungs- und Instandhaltungsteam (Reliability Maintenance Engineering Team oder RME-Team) ist der Kern von Amazons Engagement f\u00fcr Innovation. Amazon entwickelt sich weiter und dieses Team sorgt daf\u00fcr, dass dies auch die von uns verwendeten Technologien und Tools tun. Als Senior RME Technician hilfst Du uns, der Entwicklung einen Schritt voraus zu bleiben. Du setzt die neuesten Technologien ein und identifizierst neue, effiziente Arbeitsmethoden. In dieser Rolle achtest Du genau auf unser\u2026",
+            "latitude": 53.55197
+        },
+        {
+            "redirect_url": "https://www.adzuna.de/land/ad/5524877763?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=971E26DF4AEECAEED200ED29422BBC0BC9BA27C6",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNDg3Nzc2MyIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.jY6yCFqZEq8STrqKAVyVnQZqeabRptPUNsjVLB2z_M0",
+            "category": {
+                "label": "Unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "unknown"
+            },
+            "created": "2025-12-02T21:33:03Z",
+            "title": "Instandhaltungstechniker :in",
+            "id": "5524877763",
+            "company": {
+                "display_name": "Amazon VZ Berlin-Brandenburg GmbH - H69",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Neustadt, Hamburg",
+                "area": [
+                    "Deutschland",
+                    "Hamburg",
+                    "Neustadt"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 9.98553,
+            "description": "Das Wartungs- und Instandhaltungsteam (Reliability Maintenance Engineering Team oder RME-Team) ist f\u00fcr unseren Betrieb von fundamentaler Bedeutung \u2013 es sorgt daf\u00fcr, dass unsere technischen Systeme und Anlagen laufend funktionieren. Als Instandhaltungstechniker:in bist Du f\u00fcr die Wartung und Instandhaltung unserer f\u00f6rder- und haustechnischen Anlagen sowie Produktionsanlagen zust\u00e4ndig. Du hilfst, die h\u00f6chsten Sicherheitsstandards im Arbeitsschutz zu gew\u00e4hrleisten und Maschinenausfallzeiten zu ver\u2026",
+            "latitude": 53.55197,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "latitude": 52.51551,
+            "description": "As a Software Development Manager (SDM), you\u2019ll help to build and manage services that detect and automate the mitigation of cybersecurity threats across Amazon\u2019s infrastructure. You\u2019ll manage software development engineers, security engineers and data scientists to develop innovative security solutions at massive scale. Our services protect the AWS cloud for all customers and preserves our customers\u2019 trust in us. You\u2019ll get to use the full power and breadth of AWS technologies to build service\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5526482394",
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "AWS EMEA SARL "
+            },
+            "title": "Software Development Manager, AWS Security, AWS Security",
+            "longitude": 13.38475,
+            "location": {
+                "display_name": "Mitte, Berlin",
+                "area": [
+                    "Deutschland",
+                    "Berlin",
+                    "Mitte"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "label": "Sonstige/Allgemeine Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-03T20:33:52Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyNjQ4MjM5NCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.wahd1E1mnsnmye_r94A_i_v0hnghW-8SNzM0N_IbZH4",
+            "redirect_url": "https://www.adzuna.de/land/ad/5526482394?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4800D93E89BF90AD526351F7E56FA260E8D63F01"
+        },
+        {
+            "description": "E.ON is one of Europe's largest operators of energy networks and infrastructure and a provider of innovative energy solutions. Our employees are constantly working to digitise the energy world, achieve net zero and connect everyone to good energy. To achieve this, we are focusing our actions on sustainability, digitalisation and growth. We strongly believe that differences make us stronger and welcome all people into our inclusive and diverse culture. We are looking for a Working Student Divers\u2026",
+            "latitude": 51.444823,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5537221840",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "E.ON SE"
+            },
+            "title": "Working Student Diversity, Equity & Inclusion (f/m/d)",
+            "location": {
+                "display_name": "Essen, Nordrhein-Westfalen",
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen",
+                    "Essen"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": 7.014478,
+            "category": {
+                "tag": "unknown",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Unknown"
+            },
+            "contract_time": "full_time",
+            "created": "2025-12-11T01:44:09Z",
+            "redirect_url": "https://www.adzuna.de/land/ad/5537221840?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E404F30902A3C3415335A3B5A5F9748509487C05",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzIyMTg0MCIsInMiOiJZalVzWWRYVzhCRzdnY3JqVkVhaUR3In0.h6qQ7tkBsNyV0HpDLcSKjSzHtKATPjVY8rVmfhKaxjM"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM0NTQ2NDg1In0.snfq_mKFD9oqZWChPRjrnfU9vAOGJrS7v3eICIJcGsQ",
+            "redirect_url": "https://www.adzuna.de/land/ad/5534546485?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=B3E0125052352052D9B37B9F3B7AB16F1B97D918",
+            "contract_time": "part_time",
+            "category": {
+                "label": "Sonstige/Allgemeine Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-12-09T12:47:39Z",
+            "id": "5534546485",
+            "title": "E-Bike Rider / Courier (m/f/d) \u2013 English speaking & Flexible",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Flink"
+            },
+            "salary_is_predicted": "0",
+            "longitude": 13.10641,
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Brandenburg",
+                    "Potsdam"
+                ],
+                "display_name": "Potsdam, Brandenburg",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 52.39407,
+            "description": "Introduction: Flink, the leading online supermarket, is experiencing rapid growth and is now operational in all major cities across Germany. Our delivery hubs are strategically located in densely populated urban areas, facilitating swift deliveries with our fleet of electric bikes. We are currently seeking enthusiastic riders to join our dynamic team in your city! Do you want to be a part of this grocery revolution? Your mission: You are the face of Flink and consistently provide exceptional cu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "latitude": 49.972243,
+            "description": "Introduction: Flink, the leading online supermarket, is experiencing rapid growth and is now operational in all major cities across Germany. Our delivery hubs are strategically located in densely populated urban areas, facilitating swift deliveries with our fleet of electric bikes. We are currently seeking enthusiastic riders to join our dynamic team in your city! Do you want to be a part of this grocery revolution? Your mission: You are the face of Flink and consistently provide exceptional cu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "0",
+            "id": "5429600624",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Flink"
+            },
+            "title": "Bike Courier at Flink",
+            "longitude": 9.144634,
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Bayern",
+                    "Aschaffenburg (Kreis)",
+                    "Aschaffenburg"
+                ],
+                "display_name": "Aschaffenburg, Aschaffenburg (Kreis)",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "contract_time": "part_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sonstige/Allgemeine Stellen",
+                "tag": "other-general-jobs"
+            },
+            "created": "2025-10-03T17:31:10Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDI5NjAwNjI0In0.TD85p8xbPh1HL457fEBs15E_RFZ9TJGvLpB24L_Q2XI",
+            "redirect_url": "https://www.adzuna.de/land/ad/5429600624?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4208261E362EAC03195061DDFAAF16EB94020CD1"
+        },
+        {
+            "longitude": 8.697363,
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Baden-W\u00fcrttemberg",
+                    "Pforzheim"
+                ],
+                "display_name": "Pforzheim, Baden-W\u00fcrttemberg",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "id": "5429600658",
+            "company": {
+                "display_name": "Flink",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "title": "Flink: Meal & Grocery Delivery Driver (Bike)",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 48.883606,
+            "description": "Introduction: Flink, the leading online supermarket, is experiencing rapid growth and is now operational in all major cities across Germany. Our delivery hubs are strategically located in densely populated urban areas, facilitating swift deliveries with our fleet of electric bikes. We are currently seeking enthusiastic riders to join our dynamic team in your city! Do you want to be a part of this grocery revolution? Your mission: You are the face of Flink and consistently provide exceptional cu\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDI5NjAwNjU4In0.Agnc1XV4xkm5iZxIvuVc1sFtLo8Yn7E4iYnG_emTk9I",
+            "redirect_url": "https://www.adzuna.de/land/ad/5429600658?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=684C5AFD56D54D84B2DB76C0A813D1EFB57C64DF",
+            "created": "2025-10-03T17:31:11Z",
+            "contract_time": "part_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Sonstige/Allgemeine Stellen",
+                "tag": "other-general-jobs"
+            }
+        },
+        {
+            "id": "5429600682",
+            "company": {
+                "display_name": "Flink",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Bike Courier at Flink",
+            "salary_is_predicted": "0",
+            "longitude": 6.089788,
+            "location": {
+                "area": [
+                    "Deutschland",
+                    "Nordrhein-Westfalen",
+                    "Aachen (Kreis)",
+                    "Aachen"
+                ],
+                "display_name": "Aachen, Aachen (Kreis)",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 50.773914,
+            "description": "Introduction: Flink, the leading online supermarket, is experiencing rapid growth and is now operational in all major cities across Germany. Our delivery hubs are strategically located in densely populated urban areas, facilitating swift deliveries with our fleet of electric bikes. We are currently seeking enthusiastic riders to join our dynamic team in your city! Do you want to be a part of this grocery revolution? Your mission: You are the face of Flink and consistently provide exceptional cu\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWWpVc1lkWFc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDI5NjAwNjgyIn0.wMuWe0bjiM44sHKeXINoQAo-fPdjqBtUk7WfpRmKe08",
+            "redirect_url": "https://www.adzuna.de/land/ad/5429600682?se=YjUsYdXW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F70BC768B70B2C3109D3C2508ECADF68546C8B76",
+            "contract_time": "part_time",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Sonstige/Allgemeine Stellen",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-03T17:31:11Z"
+        }
+    ]
+}

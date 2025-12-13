@@ -1,0 +1,1656 @@
+{
+    "mean": 96134.22,
+    "count": 1294405,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "created": "2025-10-23T19:32:27Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5461666828?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7CA9F5BA58F5F96C0010314D6EFCB62FC2EA80FD",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTY2NjgyOCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.jdWAYY3oU921iCFrNMWm14FYjz4DgtVJbnyPmTk70fs",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 34.752418,
+            "location": {
+                "area": [
+                    "US",
+                    "Arkansas",
+                    "Pulaski County",
+                    "Cammack Village"
+                ],
+                "display_name": "Cammack Village, Pulaski County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -92.344809,
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "id": "5461666828",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "salary_max": 131046.2,
+            "salary_min": 131046.2
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5461735753?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D6AB82C2B49273FBB620933505EB31E1086B0B50",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTczNTc1MyIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.f4jNss3MhA_eLRZPsOaeumx2YAtzTrCRhEXtNQ5B20A",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-10-23T19:56:42Z",
+            "salary_max": 89925.98,
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "id": "5461735753",
+            "company": {
+                "display_name": "CVS Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 89925.98,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "West Virginia",
+                    "Kanawha County",
+                    "Charleston"
+                ],
+                "display_name": "Charleston, Kanawha County"
+            },
+            "longitude": -81.63006,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 38.35162,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-10-23T19:32:38Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5461668796?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=B00CE687FF975AE907C527C963FA276CA38231AB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTY2ODc5NiIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.1kYYNTY4Dl5jqnfdMmpT5Qh_repQ2JghzEu2LfGub8A",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 32.378649,
+            "location": {
+                "display_name": "Chisolm, Montgomery County",
+                "area": [
+                    "US",
+                    "Alabama",
+                    "Montgomery County",
+                    "Chisolm"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -86.278545,
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "id": "5461668796",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "salary_max": 77644.74,
+            "salary_min": 77644.74
+        },
+        {
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Kansas",
+                    "Shawnee County",
+                    "Topeka"
+                ],
+                "display_name": "Topeka, Shawnee County"
+            },
+            "longitude": -95.68007,
+            "title": "Analytic Data Engineer",
+            "salary_is_predicted": "1",
+            "company": {
+                "display_name": "CVS Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5461663572",
+            "salary_max": 88940.2,
+            "salary_min": 88940.2,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 39.04853,
+            "redirect_url": "https://www.adzuna.com/land/ad/5461663572?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=225821839A19E467531EFD178BC251B0BC609D22",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTY2MzU3MiIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.k_dfuNLAJwn2H9vitc76mL7Tqb0pP2yHh2NTIORJ6V4",
+            "created": "2025-10-23T19:31:02Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5461672172?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=765F4FCD6089284B139D8213065E55AEAE992068",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxNjcyMTcyIn0.CVKJRsj_6U83C-RcdSay3WhkW4TOUq5wCmc72Izv5tU",
+            "created": "2025-10-23T19:33:06Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "Saint Paul, Ramsey County",
+                "area": [
+                    "US",
+                    "Minnesota",
+                    "Ramsey County",
+                    "Saint Paul"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -93.09298,
+            "salary_max": 85496.59,
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "id": "5461672172",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "salary_min": 85496.59,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 44.94452
+        },
+        {
+            "latitude": 43.07611,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 88987.8,
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "id": "5461683006",
+            "company": {
+                "display_name": "CVS Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 88987.8,
+            "longitude": -89.3816,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Madison, Dane County",
+                "area": [
+                    "US",
+                    "Wisconsin",
+                    "Dane County",
+                    "Madison"
+                ]
+            },
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-10-23T19:36:26Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTY4MzAwNiIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.62lKqsMAaYvslSA43Vg-5l4SsC7M0LFyXyAg_6mscR8",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461683006?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E2562668F4214692A79F8C4E2CEEBB5DF2650798"
+        },
+        {
+            "created": "2025-10-23T19:33:59Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5461675228?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F7A81351BAE5861498D5B33D92C2AE6EBFEFB4DA",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxNjc1MjI4In0.huncVttUSlUKbtYsK1wPnm4CK3swDOsff4x3a9mmN8c",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 40.72693,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bonnie, Utah County",
+                "area": [
+                    "US",
+                    "Utah",
+                    "Utah County",
+                    "Bonnie"
+                ]
+            },
+            "longitude": -111.88763,
+            "company": {
+                "display_name": "CVS Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "id": "5461675228",
+            "salary_max": 89767.88,
+            "salary_min": 89767.88
+        },
+        {
+            "longitude": -122.870669,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Washington",
+                    "Thurston County",
+                    "Tumwater"
+                ],
+                "display_name": "Tumwater, Thurston County"
+            },
+            "salary_min": 88580.78,
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "salary_max": 88580.78,
+            "id": "5461695303",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 47.031096,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxNjk1MzAzIn0.q1lkiJSxIZYfsqQwV6sCMDV3119I5P-38OeFqLC4XIk",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461695303?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=AB2669D334AB48475524CE0EF5C094E2C60B7871",
+            "created": "2025-10-23T19:41:01Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-23T19:46:24Z",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461714618?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F012D6B2044A0B98B2DB5B2947539CADD9BE4D6A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTcxNDYxOCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.EramQHHwnxBIugzvT0l0MJmAvAi9GsbfFJCDkzP5vzo",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 42.67264,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "id": "5461714618",
+            "salary_max": 97903.48,
+            "salary_min": 97903.48,
+            "location": {
+                "area": [
+                    "US",
+                    "New York",
+                    "Albany County",
+                    "Ny State Campus"
+                ],
+                "display_name": "Ny State Campus, Albany County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -73.77562
+        },
+        {
+            "created": "2025-10-23T14:24:54Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxMzMyNTE5In0.m5r8Ace2Nwzb9HDjr7izkj0PL-ECuJb6BcQK5vgynRM",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461332519?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=032F9CBD6C2374A54EF7C7E8D5BFC2C50B92D86E",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 35.691854,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "longitude": -105.942534,
+            "location": {
+                "display_name": "La Cienga, Santa Fe County",
+                "area": [
+                    "US",
+                    "New Mexico",
+                    "Santa Fe County",
+                    "La Cienga"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 119944.12,
+            "salary_is_predicted": "1",
+            "id": "5461332519",
+            "title": "Analytic Data Engineer",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "salary_max": 119944.12
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5461330738?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D7149BE15A5FF52DC4F27537C233AE9AC3E49136",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTMzMDczOCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.VEXXSNyh77h3QI92Ei-uRjy-DtP02_Yl1PeEfF9ayK8",
+            "created": "2025-10-23T14:23:03Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "US",
+                    "Maryland",
+                    "Anne Arundel County",
+                    "Annapolis"
+                ],
+                "display_name": "Annapolis, Anne Arundel County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -76.533695,
+            "salary_is_predicted": "1",
+            "title": "Analytic Data Engineer",
+            "id": "5461330738",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "salary_max": 107250.85,
+            "salary_min": 107250.85,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 38.982355
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5461653320?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A1F5DBCDA0E6B53EF8DCDB076DE7E0EB7CCBDCEB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTY1MzMyMCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.2jj-Uws495f0efeMbRwAykZcBZR6Hu3vyLEnMhHTF3Q",
+            "created": "2025-10-23T19:25:51Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Helena, Lewis and Clark County",
+                "area": [
+                    "US",
+                    "Montana",
+                    "Lewis and Clark County",
+                    "Helena"
+                ]
+            },
+            "longitude": -112.03544,
+            "salary_is_predicted": "1",
+            "salary_max": 88992.47,
+            "title": "Analytic Data Engineer",
+            "id": "5461653320",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "salary_min": 88992.47,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 46.60281
+        },
+        {
+            "salary_min": 117114.46,
+            "title": "Analytic Data Engineer",
+            "salary_is_predicted": "1",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "id": "5461644354",
+            "salary_max": 117114.46,
+            "longitude": -69.7445,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Augusta, Kennebec County",
+                "area": [
+                    "US",
+                    "Maine",
+                    "Kennebec County",
+                    "Augusta"
+                ]
+            },
+            "latitude": 44.33616,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2MTY0NDM1NCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.HxuXhgMJEMcTVDKjLZ2dv5aE9f3pOe0OsPpZfyv4ws0",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461644354?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=BF28855412B9C4753600DF2F843AE44225E228D6",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-23T19:24:24Z"
+        },
+        {
+            "salary_min": 79948.57,
+            "salary_is_predicted": "1",
+            "id": "5461669575",
+            "title": "Analytic Data Engineer",
+            "salary_max": 79948.57,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "longitude": -90.200343,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Mississippi",
+                    "Hinds County",
+                    "Jackson"
+                ],
+                "display_name": "Jackson, Hinds County"
+            },
+            "latitude": 32.307985,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxNjY5NTc1In0.SrgJcEhe0iSsLO6A2uqqcmu_9LYYYf6Z2Qqt2nEcsW8",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461669575?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D5497F0FBF9D499AC0F1D5773ABD603733B9AAB1",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-10-23T19:32:47Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxNjYxOTkwIn0.lFFPLVmSSktxoq899CSlWfyFVnd3JO484UcBtL39dTc",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461661990?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=6367C62BD9214BA8D292CB97B0AC3CBDC5F3F5F8",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-23T19:29:20Z",
+            "salary_min": 85094.42,
+            "salary_is_predicted": "1",
+            "salary_max": 85094.42,
+            "title": "Analytic Data Engineer",
+            "id": "5461661990",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CVS Health"
+            },
+            "longitude": -91.130243,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Baton Rouge, East Baton Rouge Parish",
+                "area": [
+                    "US",
+                    "Louisiana",
+                    "East Baton Rouge Parish",
+                    "Baton Rouge"
+                ]
+            },
+            "latitude": 30.446919,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "salary_min": 94559.14,
+            "title": "Analytic Data Engineer",
+            "salary_is_predicted": "1",
+            "salary_max": 94559.14,
+            "id": "5461662110",
+            "company": {
+                "display_name": "CVS Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -84.8721,
+            "location": {
+                "display_name": "Frankfort, Franklin County",
+                "area": [
+                    "US",
+                    "Kentucky",
+                    "Franklin County",
+                    "Frankfort"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 38.2008,
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDYxNjYyMTEwIn0.Yv_ydE9sjXLXgslTJOHOnghwY2SI1ZNQQ3pmMqibDqs",
+            "redirect_url": "https://www.adzuna.com/land/ad/5461662110?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=FACA6B09774840678DC32A0AC44DB2EF2C83EFF9",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-10-23T19:29:34Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5515240886?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4D358EC14DAA39C63BA81B3FAC7D81D98BEEF3B0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTE1MjQwODg2In0.b7nM2YlKAfcVY2WI1Wvw_-x9dATA13tpMAMXyLT7I3g",
+            "created": "2025-11-26T14:26:59Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Des Moines, Polk County",
+                "area": [
+                    "US",
+                    "Iowa",
+                    "Polk County",
+                    "Des Moines"
+                ]
+            },
+            "longitude": -93.63911,
+            "title": "Analytic Data Engineer",
+            "salary_is_predicted": "1",
+            "company": {
+                "display_name": "CVS Health",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5515240886",
+            "salary_max": 84663.95,
+            "salary_min": 84663.95,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "At CVS Health, we're building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care. As the nation's leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues - caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all w\u2026",
+            "latitude": 41.58345
+        },
+        {
+            "location": {
+                "display_name": "Glendale, Denver",
+                "area": [
+                    "US",
+                    "Colorado",
+                    "Denver",
+                    "Glendale"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -104.984167,
+            "title": "Senior Data Engineer",
+            "salary_is_predicted": "1",
+            "salary_max": 129332.84,
+            "id": "5464659034",
+            "company": {
+                "display_name": "Audacy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 129332.84,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Overview Job Title: Senior Data Engineer Department: Digital Reporting To: Manager, Data Engineering Employment Type: Full-Time Pay Transparency: The anticipated starting salary range for Denver, CO based individuals expressing interest in this position is $140,000/yr. - $160,000/yr.Salary to be determined by the education, experience, knowledge, skills, abilities and location of the applicant, as well as internal and external equity. Audacy offers benefits eligible employees a comprehensive be\u2026",
+            "latitude": 39.739167,
+            "redirect_url": "https://www.adzuna.com/land/ad/5464659034?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8124C8DDFBEAC707A529737AA595C113608FC881",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDY0NjU5MDM0In0.QcplrdVMYAzQV8JMnFPJANbeCRKuAguqKi0u7dZH6Vc",
+            "created": "2025-10-25T19:33:23Z",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            }
+        },
+        {
+            "created": "2025-10-25T19:43:09Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ2NDY5Mzg5NyIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.GWdli6QP5PxtBy7yg0drOCPhx93IvhS3iHvta-GG5jI",
+            "redirect_url": "https://www.adzuna.com/land/ad/5464693897?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=AA4D55C83FB3D95ACEB19BA830E8630851D3A507",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.755381,
+            "description": "Overview Job Title: Senior Data Engineer Department: Digital Reporting To: Manager, Data Engineering Employment Type: Full-Time Pay Transparency: The anticipated starting salary range for Denver, CO based individuals expressing interest in this position is $140,000/yr. - $160,000/yr.Salary to be determined by the education, experience, knowledge, skills, abilities and location of the applicant, as well as internal and external equity. Audacy offers benefits eligible employees a comprehensive be\u2026",
+            "longitude": -73.978504,
+            "location": {
+                "display_name": "Grand Central, Manhattan",
+                "area": [
+                    "US",
+                    "New York",
+                    "New York City",
+                    "Manhattan",
+                    "Grand Central"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 155331.03,
+            "title": "Senior Data Engineer",
+            "salary_is_predicted": "1",
+            "salary_max": 155331.03,
+            "id": "5464693897",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Audacy"
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDE2NjE3NjM4In0.Y5o-YE8rNShG6vhniIXb2HlI91i9XUndZ-ti6LqfBrc",
+            "redirect_url": "https://www.adzuna.com/land/ad/5416617638?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=381D66A98076040ADCE99877A7E7F3C81E84D2C8",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-09-26T19:25:43Z",
+            "salary_min": 89690.27,
+            "salary_is_predicted": "1",
+            "title": "Data Engineer III",
+            "id": "5416617638",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Simplot"
+            },
+            "salary_max": 89690.27,
+            "longitude": -116.21582,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Idaho",
+                    "Ada County",
+                    "Boise"
+                ],
+                "display_name": "Boise, Ada County"
+            },
+            "latitude": 43.61421,
+            "description": "Data Engineer III The J.R. Simplot Company is a diverse, privately held global food and agriculture company headquartered in Boise, Idaho. We are a true farm-to-table company with an integrated portfolio including food processing and food brands, phosphate mining, fertilizer manufacturing, farming, ranching and cattle production, and other enterprises related to agriculture. Summary This role applies intermediate, to advanced data engineering principles, theories, and concepts to solve a range \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "longitude": -86.78903,
+            "location": {
+                "area": [
+                    "US",
+                    "Tennessee",
+                    "Davidson County",
+                    "Nashville"
+                ],
+                "display_name": "Nashville, Davidson County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 92349.39,
+            "id": "5531770144",
+            "salary_is_predicted": "1",
+            "title": "Data Quality Manager",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HCA Healthcare"
+            },
+            "salary_max": 92349.39,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 36.14946,
+            "description": "Description Introduction Do you have the career opportunities as a Manager, Data Quality you want with your current employer? We have an exciting opportunity for you to join HCA Healthcare which is part of the nation's leading provider of healthcare services, HCA Healthcare. Benefits HCA Healthcare, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:  Comprehensive medical coverage that covers many com\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTc3MDE0NCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.C__2sztEG5NonUldVmDljnXkUFqUnfeUoXPBUaUyagg",
+            "redirect_url": "https://www.adzuna.com/land/ad/5531770144?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=F38EF1ECAFC9C6FD3AA85B67E268CE2DF7C7AA61",
+            "created": "2025-12-06T17:15:14Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "created": "2025-07-26T17:38:05Z",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5323977117?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=CE6D82A342E8DB736D1463DF47E505E286A9C616",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMyMzk3NzExNyIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.awt0ISpPKijZ-0ATeF3eeZuO8AkhlUk6k81qkG0QMtM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Responsibilities Position Overview: We are seeking a highly skilled Data Architect / Data Engineer to support the design, development, and governance of mission-critical data infrastructure for the FAA's next-generation air traffic control (ATC) systems . This role will be instrumental in modernizing how the National Airspace System (NAS) leverages real-time and historical data to enhance safety, efficiency, and system resilience . You will design end-to-end data architectures, define authorita\u2026",
+            "latitude": 38.89969,
+            "location": {
+                "area": [
+                    "US",
+                    "Washington, D.C."
+                ],
+                "display_name": "Washington, D.C., US",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -77.02717,
+            "salary_is_predicted": "1",
+            "company": {
+                "display_name": "Noblis",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Architect / Engineer",
+            "id": "5323977117",
+            "salary_max": 162800.73,
+            "salary_min": 162800.73
+        },
+        {
+            "title": "Principal Data Scientist",
+            "salary_is_predicted": "1",
+            "salary_max": 170585.08,
+            "id": "5404201248",
+            "company": {
+                "display_name": "Oracle",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 170585.08,
+            "location": {
+                "area": [
+                    "US",
+                    "Washington",
+                    "King County",
+                    "International"
+                ],
+                "display_name": "International, King County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -122.326064,
+            "description": "Job Description The Oracle Cloud Infrastructure Compute team is seeking a passionate, experienced Principal Data Scientist to tackle complex technical challenges of the Compute and AI Infrastructure, building sophisticated analytical and optimization system to drive infrastructure optimization and efficiency improvements through data analysis, AI/ML/DL modeling and data visualization. As OCI continues to scale to the demand of an ever-growing customer base and regions, we need hands-on scientis\u2026",
+            "latitude": 47.602485,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.com/land/ad/5404201248?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3998CFF34F33E34CDB7608F750F8D118432BCA32",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDA0MjAxMjQ4In0.McNlqz_yPCHDbXBGv2xa4MkU3DOmnSCs8HqnJeofM0w",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-09-17T19:22:13Z"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTM3MzY2Mjc3In0.KIuDL-yNhgSXyZRngyxNvGPAPDEefgHFUuO_ozeAQDs",
+            "redirect_url": "https://www.adzuna.com/land/ad/5537366277?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=045EFA338A67B6066D23BF5A8E169C511AAFAAD4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-12-10T22:19:18Z",
+            "salary_min": 170309.39,
+            "salary_max": 170309.39,
+            "salary_is_predicted": "1",
+            "title": "Data Analytics IC4",
+            "id": "5537366277",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Microsoft Corporation"
+            },
+            "longitude": -122.114799,
+            "location": {
+                "area": [
+                    "US",
+                    "Washington",
+                    "King County",
+                    "Redmond"
+                ],
+                "display_name": "Redmond, King County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 47.6742,
+            "description": "Overview Microsoft's Global Media and Partnerships team is a diverse, collaborative, solutions-oriented team committed to planning, activating and fiscally managing all paid media/advertising, strategic partnerships and agency relationships across Microsoft.? The team works across business groups to tie objectives, insights and innovation together to drive business impact through world-class media investment and measurement strategies. We are seeking a highly skilled and experienced Senior Data\u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 47.6742,
+            "description": "Overview Microsoft's Global Media and Partnerships team is a diverse, collaborative, solutions-oriented team committed to planning, activating and fiscally managing all paid media/advertising, strategic partnerships and agency relationships across Microsoft.? The team works across business groups to tie objectives, insights and innovation together to drive business impact through world-class media investment and measurement strategies. We are seeking a highly skilled and experienced Senior Data\u2026",
+            "longitude": -122.114799,
+            "location": {
+                "area": [
+                    "US",
+                    "Washington",
+                    "King County",
+                    "Redmond"
+                ],
+                "display_name": "Redmond, King County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 174645.05,
+            "salary_is_predicted": "1",
+            "id": "5537366290",
+            "title": "Data Science IC4",
+            "company": {
+                "display_name": "Microsoft Corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 174645.05,
+            "created": "2025-12-10T22:19:18Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzM2NjI5MCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.r9gXip1UIZ6mepZStDUZwM2jIBjlLLmIHXPRIG21sFg",
+            "redirect_url": "https://www.adzuna.com/land/ad/5537366290?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=EAB09D543575D18EFDB83A2A69D4ECD5086C9139"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5416576064?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=EE004CDDD098C242F1E7272E9978230C90776AF8",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNjU3NjA2NCIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.hRMZ2bNruh9_ESh_igRCt0YMBIhe6KVmFU0aC7emOxg",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-26T19:02:49Z",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer (Analytics)",
+            "salary_max": 104937.48,
+            "id": "5416576064",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 104937.48,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Jackson, Hinds County",
+                "area": [
+                    "US",
+                    "Mississippi",
+                    "Hinds County",
+                    "Jackson"
+                ]
+            },
+            "longitude": -90.200343,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "latitude": 32.307985,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-09-26T19:02:49Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5416576059?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0AE4719CE6318915F90079685BDEBFA8470F831A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNjU3NjA1OSIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.ABBIq5k616La5R320jjsffYqL0RDOK2LyR6_U_oGOAM",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "latitude": 32.307985,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Jackson, Hinds County",
+                "area": [
+                    "US",
+                    "Mississippi",
+                    "Hinds County",
+                    "Jackson"
+                ]
+            },
+            "longitude": -90.200343,
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "id": "5416576059",
+            "salary_max": 94918.19,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "salary_min": 94918.19
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDA0MTQ3MzM3In0.2Hko67f_gqL2mNs7Ba9GAPcMFoCnrEU6I2GmNEzWKCA",
+            "redirect_url": "https://www.adzuna.com/land/ad/5404147337?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=63817C7217BF4BF4048215A31D66F5E4DB34754C",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-09-17T19:03:31Z",
+            "salary_min": 135003.11,
+            "salary_is_predicted": "1",
+            "id": "5404147337",
+            "title": "Data Engineer, Analytics",
+            "salary_max": 135003.11,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "longitude": -72.683866,
+            "location": {
+                "display_name": "Talcott Village, Hartford County",
+                "area": [
+                    "US",
+                    "Connecticut",
+                    "Hartford County",
+                    "Talcott Village"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 41.7657,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "latitude": 33.795821,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Georgia",
+                    "Fulton County",
+                    "Atlanta"
+                ],
+                "display_name": "Atlanta, Fulton County"
+            },
+            "longitude": -84.38763,
+            "title": "Data Engineer, Analytics",
+            "salary_is_predicted": "1",
+            "salary_max": 175723.97,
+            "id": "5404163847",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 175723.97,
+            "created": "2025-09-17T19:10:40Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5404163847?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=AEAC9875110976636DE73E5D6E9DB8EA9A7CA3BB",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwNDE2Mzg0NyIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.w4LBa0HiUqq2HvJECggBooXLCJQEkz9BkOeheB6m6j8"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDE2NTg1MjcxIn0.WF9oEofsux2I46OzSOq6awXNjjYxEdYR3SEw69_sZJg",
+            "redirect_url": "https://www.adzuna.com/land/ad/5416585271?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=4B1C374948C093974359EBE6BA5229E92D3BC701",
+            "created": "2025-09-26T19:04:10Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": -71.065917,
+            "location": {
+                "display_name": "Boston, Suffolk County",
+                "area": [
+                    "US",
+                    "Massachusetts",
+                    "Suffolk County",
+                    "Boston"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 107964.38,
+            "salary_is_predicted": "1",
+            "id": "5416585271",
+            "title": "Data Engineer (Analytics)",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 107964.38,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 42.356644,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDE2NTg1MjcyIn0.EwHcQSCMZiLSjLAt6L4mYSCSNxc_-jsAECuMqcL2Kq4",
+            "redirect_url": "https://www.adzuna.com/land/ad/5416585272?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=1BBE424A48FD8D87C16F2E7B3F7E7ACF91EB6094",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-09-26T19:04:10Z",
+            "salary_min": 97656.18,
+            "salary_is_predicted": "1",
+            "id": "5416585272",
+            "title": "Data Engineer, Analytics",
+            "salary_max": 97656.18,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "longitude": -71.065917,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Massachusetts",
+                    "Suffolk County",
+                    "Boston"
+                ],
+                "display_name": "Boston, Suffolk County"
+            },
+            "latitude": 42.356644,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDA0MTUzNDg1In0.uK5UjbcTdBZaoVEbW5tbxcop3dkIZHSiHNz66tKI2KU",
+            "redirect_url": "https://www.adzuna.com/land/ad/5404153485?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E8D580230F92A576D4BC3DFEB4A66B050817E418",
+            "created": "2025-09-17T19:06:11Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "longitude": -84.8721,
+            "location": {
+                "display_name": "Frankfort, Franklin County",
+                "area": [
+                    "US",
+                    "Kentucky",
+                    "Franklin County",
+                    "Frankfort"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 135399.47,
+            "salary_is_predicted": "1",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "title": "Data Engineer, Analytics",
+            "id": "5404153485",
+            "salary_max": 135399.47,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 38.2008,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNjQxNjg4NiIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.LsG0PPXsVJ3XTi3qUDVtCEY2458E0qW1ZEKJtXJhRYk",
+            "redirect_url": "https://www.adzuna.com/land/ad/5416416886?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=3DCAE6677D960391C9024F65E8F87297C5B7F56D",
+            "created": "2025-09-26T17:46:24Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "longitude": -86.1587,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Uptown, Marion County",
+                "area": [
+                    "US",
+                    "Indiana",
+                    "Marion County",
+                    "Uptown"
+                ]
+            },
+            "salary_min": 127069.7,
+            "title": "Data Engineer, Analytics",
+            "salary_is_predicted": "1",
+            "id": "5416416886",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 127069.7,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 39.7878,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026"
+        },
+        {
+            "longitude": -86.1587,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Indiana",
+                    "Marion County",
+                    "Uptown"
+                ],
+                "display_name": "Uptown, Marion County"
+            },
+            "salary_min": 140482.67,
+            "salary_is_predicted": "1",
+            "salary_max": 140482.67,
+            "title": "Data Engineer (Analytics)",
+            "id": "5416416871",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 39.7878,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxNjQxNjg3MSIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.bercE5pa350zujtant8jT-VuxwFixv-GPeBq2H9Fclk",
+            "redirect_url": "https://www.adzuna.com/land/ad/5416416871?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=A1F677EF76C7ADF6838F56A793BEAA6C1986A562",
+            "created": "2025-09-26T17:46:24Z",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-26T19:01:33Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDE2NTY0OTg1In0.A_bT08QmwJ37b1EzRztMXmOR-FO_6nqCWsBoIYXjZVQ",
+            "redirect_url": "https://www.adzuna.com/land/ad/5416564985?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=356EBD16E23621BE78B69CA8C001640BD7AC9DA3",
+            "latitude": 34.752418,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 155583.36,
+            "id": "5416564985",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "salary_max": 155583.36,
+            "longitude": -92.344809,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Arkansas",
+                    "Pulaski County",
+                    "Cammack Village"
+                ],
+                "display_name": "Cammack Village, Pulaski County"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5416564983?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=7602E727196C4D363A3FA21E9892CC945197593A",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDE2NTY0OTgzIn0.jpeY8oVsrmMHOvIG-IiF9cyFGDx2G02HKMAZin1olzY",
+            "created": "2025-09-26T19:01:33Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Arkansas",
+                    "Pulaski County",
+                    "Cammack Village"
+                ],
+                "display_name": "Cammack Village, Pulaski County"
+            },
+            "longitude": -92.344809,
+            "id": "5416564983",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer (Analytics)",
+            "salary_max": 172006.3,
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_min": 172006.3,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "latitude": 34.752418
+        },
+        {
+            "salary_min": 112143.85,
+            "title": "Data Engineer (Analytics)",
+            "salary_is_predicted": "1",
+            "id": "5489714963",
+            "salary_max": 112143.85,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "longitude": -72.58082,
+            "location": {
+                "area": [
+                    "US",
+                    "Vermont",
+                    "Washington County",
+                    "Montpelier"
+                ],
+                "display_name": "Montpelier, Washington County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 44.26173,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4OTcxNDk2MyIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.kgrZEfex1dqvOwY7kAl1e59SDrQrm2_3cgwCD-RFCvM",
+            "redirect_url": "https://www.adzuna.com/land/ad/5489714963?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DD6DA51B795722B4CDC13263927A1417D4E35456",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-10T14:06:54Z"
+        },
+        {
+            "salary_min": 127428.66,
+            "title": "Data Engineer, Analytics",
+            "salary_is_predicted": "1",
+            "salary_max": 127428.66,
+            "id": "5403694580",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "longitude": -112.03544,
+            "location": {
+                "display_name": "Helena, Lewis and Clark County",
+                "area": [
+                    "US",
+                    "Montana",
+                    "Lewis and Clark County",
+                    "Helena"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 46.60281,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDAzNjk0NTgwIn0.34fpBEwLCQIrOspAYKIugDc4yQIJLNInoBDA7SvHHAY",
+            "redirect_url": "https://www.adzuna.com/land/ad/5403694580?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=9F54C406451B003295F51EB29497FF5ED0A01BD6",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "created": "2025-09-17T18:37:55Z"
+        },
+        {
+            "redirect_url": "https://www.adzuna.com/land/ad/5482593126?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=AD694C5E2193F27BE0E05792350AF0BCC8996046",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDgyNTkzMTI2In0.CvDcpp4WbANgD3c0_5HSTE7ubfkBrVVEogNmDKxcvj4",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-05T13:54:44Z",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "id": "5482593126",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "salary_max": 128483.23,
+            "salary_min": 128483.23,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Providence, Providence County",
+                "area": [
+                    "US",
+                    "Rhode Island",
+                    "Providence County",
+                    "Providence"
+                ]
+            },
+            "longitude": -71.419732,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "latitude": 41.82195,
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 39.16387,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "longitude": -119.76618,
+            "location": {
+                "area": [
+                    "US",
+                    "Nevada",
+                    "Carson City",
+                    "Carson Mall"
+                ],
+                "display_name": "Carson Mall, Carson City",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 131518.7,
+            "salary_max": 131518.7,
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "id": "5482516591",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2025-11-05T13:03:37Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjUxNjU5MSIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.FhowrzQ0LbyM7df59V8tQxpebJj087W11-JJ6VEuNCw",
+            "redirect_url": "https://www.adzuna.com/land/ad/5482516591?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=E756569939B1F248EF9710B9F52F4B4B63652F1B"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg5NjY5MTg4In0.BcTv28VBL0d_7_PhtU20qahlB0GTfmKnIjA_OPNQGEg",
+            "redirect_url": "https://www.adzuna.com/land/ad/5489669188?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=D49CFD75AF2D0B6CBC3324BF025F13270986555F",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "created": "2025-11-10T13:31:14Z",
+            "salary_min": 117825.73,
+            "id": "5489669188",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer (Analytics)",
+            "salary_max": 117825.73,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "longitude": -111.88763,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bonnie, Utah County",
+                "area": [
+                    "US",
+                    "Utah",
+                    "Utah County",
+                    "Bonnie"
+                ]
+            },
+            "latitude": 40.72693,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDgyNTk0NDg2In0.rKbYlJnIzwadNdKI2aBP-8RXHOVwnjzRIM3uCcWBl6I",
+            "redirect_url": "https://www.adzuna.com/land/ad/5482594486?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DD1B189D381DAF71A505B9E5C71B445DDEB07890",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-05T13:55:58Z",
+            "salary_min": 119645.49,
+            "salary_is_predicted": "1",
+            "salary_max": 119645.49,
+            "title": "Data Engineer, Analytics",
+            "id": "5482594486",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "longitude": -100.7568,
+            "location": {
+                "display_name": "Bismarck, Burleigh County",
+                "area": [
+                    "US",
+                    "North Dakota",
+                    "Burleigh County",
+                    "Bismarck"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "latitude": 46.79472,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjUzNTU2MyIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.ZGSreYSh0hbPvJjN4J5EQM9WdncHdENi6tfx2hjgaU0",
+            "redirect_url": "https://www.adzuna.com/land/ad/5482535563?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=0502E2B4DFC27374C2C196756EE446C0E55F7DB9",
+            "created": "2025-11-05T13:19:08Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": -111.88763,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bonnie, Utah County",
+                "area": [
+                    "US",
+                    "Utah",
+                    "Utah County",
+                    "Bonnie"
+                ]
+            },
+            "salary_min": 128538.87,
+            "id": "5482535563",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 128538.87,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.72693,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026"
+        },
+        {
+            "created": "2025-12-06T18:01:32Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzMTgzNDkxNiIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.1j5WWMLe3C0wVkaUnbhykPjh8vmIL7sl5AVVrS1cozs",
+            "redirect_url": "https://www.adzuna.com/land/ad/5531834916?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=79E28279C6D0E85653CB81F071009A0D2B7D73E3",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 39.991073,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "longitude": -83.000202,
+            "location": {
+                "display_name": "Grandview Heights, Franklin County",
+                "area": [
+                    "US",
+                    "Ohio",
+                    "Franklin County",
+                    "Grandview Heights"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 128042.62,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "META"
+            },
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "id": "5531834916",
+            "salary_max": 128042.62
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "latitude": 35.432646,
+            "location": {
+                "area": [
+                    "US",
+                    "Oklahoma",
+                    "Oklahoma County",
+                    "Oklahoma City"
+                ],
+                "display_name": "Oklahoma City, Oklahoma County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "longitude": -97.524283,
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "salary_max": 101936.7,
+            "id": "5510749840",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "salary_min": 101936.7,
+            "created": "2025-11-23T17:55:03Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5510749840?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=97359486DA99D015318E32598D911EFDFAE5CFAA",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NTEwNzQ5ODQwIn0.bMsJhvkoFUZs3M-26ttzRPc7HOoz1WJ3oHKajuoeufM"
+        },
+        {
+            "longitude": -123.02826,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Salem, Marion County",
+                "area": [
+                    "US",
+                    "Oregon",
+                    "Marion County",
+                    "Salem"
+                ]
+            },
+            "salary_min": 99016.73,
+            "id": "5509748776",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer, Analytics",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "salary_max": 99016.73,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 44.94379,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwOTc0ODc3NiIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.DPUtxPE3o0WDkiHuV47Bp8i1nOS1W9r-EEWdVRGRc9Q",
+            "redirect_url": "https://www.adzuna.com/land/ad/5509748776?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=DCB11BEDF3B34F4B1351003A580C6AB286523980",
+            "created": "2025-11-22T16:12:09Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "longitude": -96.676821,
+            "location": {
+                "area": [
+                    "US",
+                    "Nebraska",
+                    "Lancaster County",
+                    "State House"
+                ],
+                "display_name": "State House, Lancaster County",
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 141811.11,
+            "id": "5489650130",
+            "salary_is_predicted": "1",
+            "title": "Data Engineer (Analytics)",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 141811.11,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.822932,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUnVzV2djelc4Qkc3Z2NyalZFYWlEdyIsImkiOiI1NDg5NjUwMTMwIn0.FRK3maPXMP5fHRO7CyHIDUcklaVQphQMBh5_mvOZobA",
+            "redirect_url": "https://www.adzuna.com/land/ad/5489650130?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=8BE624A6E5A2B87A5E1DA18899F616731844653A",
+            "created": "2025-11-10T12:58:39Z",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "latitude": 39.16387,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "US",
+                    "Nevada",
+                    "Carson City",
+                    "Carson Mall"
+                ],
+                "display_name": "Carson Mall, Carson City"
+            },
+            "longitude": -119.76618,
+            "title": "Data Engineer (Analytics)",
+            "salary_is_predicted": "1",
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "id": "5489655325",
+            "salary_max": 120557.44,
+            "salary_min": 120557.44,
+            "created": "2025-11-10T13:07:54Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.com/land/ad/5489655325?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=CED3A211394D0EDE20DECD06D5F45CC5435F0197",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4OTY1NTMyNSIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.TPYMniMdc27USw5NLFrvRaZckJhVPVgqfO0-49PGp-4"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "created": "2025-11-05T13:21:15Z",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4MjUzNzgzNiIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.J94W73rj-0TIFSU8wMYJFP7lTF4eA8u9dreMel0L_Ps",
+            "redirect_url": "https://www.adzuna.com/land/ad/5482537836?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=38A0A5F5C7CB1CAEF154A1CDBB43806F511CBC2C",
+            "latitude": 40.21938,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "salary_min": 131669.8,
+            "salary_is_predicted": "1",
+            "id": "5482537836",
+            "title": "Data Engineer, Analytics",
+            "salary_max": 131669.8,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Meta"
+            },
+            "longitude": -74.73156,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Trenton, Mercer County",
+                "area": [
+                    "US",
+                    "New Jersey",
+                    "Mercer County",
+                    "Trenton"
+                ]
+            }
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMDc0ODcxNSIsInMiOiJSdXNXZ2N6VzhCRzdnY3JqVkVhaUR3In0.ZkCagGx_wCsJO2yFdN6eePUMQN5SLa9IuiZBgvEQbkk",
+            "redirect_url": "https://www.adzuna.com/land/ad/5510748715?se=RusWgczW8BG7gcrjVEaiDw&utm_medium=api&utm_source=58c69264&v=ECB878F6437F36D00E9D6DE8644702FAA7BA55A5",
+            "created": "2025-11-23T17:54:22Z",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "longitude": -96.676821,
+            "location": {
+                "display_name": "State House, Lancaster County",
+                "area": [
+                    "US",
+                    "Nebraska",
+                    "Lancaster County",
+                    "State House"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_min": 128271.42,
+            "salary_is_predicted": "1",
+            "id": "5510748715",
+            "title": "Data Engineer, Analytics",
+            "salary_max": 128271.42,
+            "company": {
+                "display_name": "Meta",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 40.822932,
+            "description": "Summary: Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click \u2026"
+        }
+    ]
+}
