@@ -38,7 +38,7 @@ data_industry_insights_2020-2025/
 │
 ├── database/                             # Database schema & ERD
 │   ├── schema.sql                        # SQL script to create tables
-│   ├── erd.png                           # Entity Relationship Diagram
+│   ├── ERD.png                           # Entity Relationship Diagram
 │   └── README.md                         # Explanation of data model
 │
 ├── .streamlit/                           # Streamlit configuration (secrets, settings)
