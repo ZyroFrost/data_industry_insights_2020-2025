@@ -26,7 +26,7 @@ data_industry_insights/
 │   └── data_processing/                    # Transformed intermediate data / Dữ liệu chuyển đổi (file CSV sau khi parse từ JSON)
 │   │   ├── data_extracted/                 # Extracted raw fields / Dữ liệu trích xuất trực tiếp từ JSON
 │   │   ├── data_mapped/                    # Mapped & standardized data / Dữ liệu đã map và chuẩn hóa cột
-│   │   └── data_merge/                     # Merged data by logical tables / Dữ liệu gộp theo bảng logic (theo schema)
+│   │   └── data_merged/                     # Merged data by logical tables / Dữ liệu gộp theo bảng logic (theo schema)
 │   ├── data_processed/                     # Cleaned final data for analytics / Dữ liệu cuối để phân tích (đã merge và tách bảng)
 │   ├── data_seeds/                         # Lookup & reference data / Dữ liệu chuẩn tra cứu (không dùng cho pipeline chính)
 │   └── metadata/                           # Schema & source documentation / Tài liệu mô tả cấu trúc JSON của từng nguồn web
