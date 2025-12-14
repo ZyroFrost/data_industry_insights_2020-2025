@@ -22,8 +22,8 @@ APP_ID = os.getenv("ADZUNA_APP_ID")
 ROOT = Path(__file__).resolve().parents[4]
 
 RAW_DIR = ROOT / "data" / "data_raw" / "adzuna_datajobs"
-PROCESSING_DIR = ROOT / "data" / "data_processing"
-METADATA_DIR = ROOT / "data" / "metadata"
+PROCESSING_DIR = ROOT / "data" / "data_processing" / "data_extracted"
+METADATA_DIR = ROOT / "data" / "metadata" / "source"
 
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 PROCESSING_DIR.mkdir(parents=True, exist_ok=True)

@@ -1,0 +1,196 @@
+{
+  "skill_name": {
+    "table": "Skills",
+    "type": "string",
+    "description": "Tên kỹ năng đã normalize (vd: Python, SQL, Spark, AWS, Tableau, Power BI)"
+  },
+  "skill_category": {
+    "table": "Skills",
+    "type": "string",
+    "enum": [
+      "Programming",
+      "Data Engineering",
+      "Machine Learning",
+      "Cloud",
+      "Visualization",
+      "Database",
+      "DevOps",
+      "Analytics"
+    ]
+  },
+  "certification_required": {
+    "table": "Skills",
+    "type": "boolean",
+    "default": false,
+    "description": "Job có yêu cầu chứng chỉ cho kỹ năng này hay không (vd: AWS Certified, GCP Professional)"
+  },
+
+  "skill_alias_raw": {
+    "table": "Skill_Aliases",
+    "type": "string",
+    "description": "Tên kỹ năng thô lấy từ job description (vd: py, python3, aws cloud, gcp platform)"
+  },
+
+  "company_name": {
+    "table": "Companies",
+    "type": "string",
+    "description": "Tên công ty (vd: Google, Amazon, FPT Software, Accenture)"
+  },
+  "company_size": {
+    "table": "Companies",
+    "type": "string",
+    "enum": ["Startup", "Small", "Medium", "Large", "Enterprise"]
+  },
+  "industry": {
+    "table": "Companies",
+    "type": "string",
+    "enum": [
+      "Technology",
+      "Finance",
+      "Banking",
+      "Insurance",
+      "Healthcare",
+      "Education",
+      "E-commerce",
+      "Manufacturing",
+      "Consulting",
+      "Government",
+      "Telecommunications",
+      "Energy",
+      "Retail",
+      "Logistics",
+      "Real Estate"
+    ]
+  },
+
+  "city": {
+    "table": "Locations",
+    "type": "string",
+    "description": "Tên thành phố (vd: Ho Chi Minh City, Hanoi, Toronto, New York)"
+  },
+  "country": {
+    "table": "Locations",
+    "type": "string",
+    "description": "Tên quốc gia (vd: Vietnam, United States, Canada, India)"
+  },
+  "latitude": {
+    "table": "Locations",
+    "type": "decimal",
+    "description": "Vĩ độ địa lý, số thực (vd: 10.8231)"
+  },
+  "longitude": {
+    "table": "Locations",
+    "type": "decimal",
+    "description": "Kinh độ địa lý, số thực (vd: 106.6297)"
+  },
+  "population": {
+    "table": "Locations",
+    "type": "int",
+    "description": "Dân số thành phố (có thể null nếu không có data)"
+  },
+
+  "role_name": {
+    "table": "Role_Names",
+    "type": "string",
+    "enum": [
+      "Data Analyst",
+      "Business Intelligence Analyst",
+      "Data Engineer",
+      "Analytics Engineer",
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "AI Engineer",
+      "Data Architect",
+      "BI Developer",
+      "Data Manager"
+    ]
+  },
+  "level": {
+    "table": "Role_Names",
+    "type": "string",
+    "enum": ["Intern", "Junior", "Mid", "Senior", "Lead"]
+  },
+  "department": {
+    "table": "Role_Names",
+    "type": "string",
+    "enum": ["Data", "Engineering", "Analytics", "IT", "Product", "Business"]
+  },
+  "employment_type": {
+    "table": "Role_Names",
+    "type": "string",
+    "enum": [
+      "Full-time",
+      "Part-time",
+      "Contract",
+      "Internship",
+      "Temporary"
+    ]
+  },
+
+  "skill_importance_level": {
+    "table": "Job_Skills",
+    "type": "string",
+    "enum": ["Required", "Preferred", "Nice-to-have"],
+    "description": "Mức độ quan trọng của kỹ năng trong job"
+  },
+  "skill_level_required": {
+    "table": "Job_Skills",
+    "type": "string",
+    "enum": ["Basic", "Intermediate", "Advanced", "Expert"],
+    "description": "Mức độ thành thạo kỹ năng được yêu cầu"
+  },
+
+  "posted_date": {
+    "table": "Job_Postings",
+    "type": "date",
+    "description": "Ngày đăng job (YYYY-MM-DD)"
+  },
+  "expired_date": {
+    "table": "Job_Postings",
+    "type": "date",
+    "description": "Ngày hết hạn job (có thể null)"
+  },
+  "min_salary": {
+    "table": "Job_Postings",
+    "type": "decimal",
+    "description": "Mức lương tối thiểu (numeric, theo currency)"
+  },
+  "max_salary": {
+    "table": "Job_Postings",
+    "type": "decimal",
+    "description": "Mức lương tối đa (numeric, theo currency)"
+  },
+  "currency": {
+    "table": "Job_Postings",
+    "type": "string",
+    "default": "USD",
+    "description": "Đơn vị tiền tệ ISO-3 (vd: USD, EUR, VND, INR)"
+  },
+  "required_exp_years": {
+    "table": "Job_Postings",
+    "type": "int",
+    "description": "Số năm kinh nghiệm yêu cầu (vd: 0, 1, 3, 5)"
+  },
+  "education_level": {
+    "table": "Job_Postings",
+    "type": "string",
+    "enum": [
+      "High School",
+      "Bachelor",
+      "Master",
+      "PhD",
+      "Unknown"
+    ]
+  },
+  "job_description": {
+    "table": "Job_Postings",
+    "type": "text",
+    "description": "Mô tả chi tiết job (free text, dài)"
+  },
+  "remote_option": {
+    "table": "Job_Postings",
+    "type": "boolean",
+    "default": false,
+    "description": "Job có cho remote hay không"
+  }
+}

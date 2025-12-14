@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parents[4]
 RAW_DIR = ROOT / "data" / "data_raw" / "usa_government_datajobs_2020-2025"
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
-PROC_DIR = ROOT / "data" / "data_processing"
+PROC_DIR = ROOT / "data" / "data_processing" / "data_extracted"
 PROC_DIR.mkdir(parents=True, exist_ok=True)
 
 META_DIR = ROOT / "data" / "metadata" / "usa_government_datajobs"
@@ -132,7 +132,6 @@ def crawl_usa_jobs_all_years(start=2020, end=2025):
         "crawler": "usa_government_datajobs",
         "description": "USA Jobs Federal Portal — Data/AI/ML Jobs 2020–2025.",
         "total_records": len(all_jobs),
-        "csv_output": str(csv_path),
         "raw_years": [f"{year}.json" for year in range(start, end + 1)],
         "crawl_timestamp": datetime.now().isoformat(),
     }

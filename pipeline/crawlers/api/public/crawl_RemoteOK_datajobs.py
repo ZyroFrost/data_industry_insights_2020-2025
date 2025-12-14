@@ -22,10 +22,10 @@ ROOT = Path(__file__).resolve().parents[4]
 RAW_DIR = ROOT / "data" / "data_raw" / "remoteok_datajobs_2025"
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
-META_DIR = ROOT / "data" / "metadata"
+META_DIR = ROOT / "data" / "metadata" / "source"
 META_DIR.mkdir(parents=True, exist_ok=True)
 
-PROC_DIR = ROOT / "data" / "data_processing"
+PROC_DIR = ROOT / "data" / "data_processing" / "data_extracted"
 PROC_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -152,7 +152,6 @@ def save_metadata(total, csv_path):
             "year": "int",
         },
         "total_records": total,
-        "csv_output": str(csv_path),
         "crawl_timestamp": datetime.now().isoformat(),
     }
 

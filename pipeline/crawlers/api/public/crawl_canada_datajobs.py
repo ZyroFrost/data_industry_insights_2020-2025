@@ -39,8 +39,8 @@ ROWS_PER_PAGE = 1000
 ROOT = Path(__file__).resolve().parents[4]
 
 RAW_DIR = ROOT / "data" / "data_raw" / "canada_government_datajobs_2020-2025"
-META_DIR = ROOT / "data" / "metadata"
-PROC_DIR = ROOT / "data" / "data_processing"
+META_DIR = ROOT / "data" / "metadata" / "source"
+PROC_DIR = ROOT / "data" / "data_processing" / "data_extracted"
 
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 META_DIR.mkdir(parents=True, exist_ok=True)

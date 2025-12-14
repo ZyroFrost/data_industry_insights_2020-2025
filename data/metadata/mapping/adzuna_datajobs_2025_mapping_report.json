@@ -1,0 +1,23 @@
+{
+  "source_file": "adzuna_datajobs_2025.csv",
+  "active_source_columns": 13,
+  "erd_total": 27,
+  "erd_missing": [
+    "skill_name",
+    "certification_required",
+    "skill_alias_raw",
+    "company_size",
+    "industry",
+    "population",
+    "level",
+    "department",
+    "skill_importance_level",
+    "skill_level_required",
+    "expired_date",
+    "currency",
+    "required_exp_years",
+    "education_level",
+    "remote_option"
+  ],
+  "missing_value_convention": "__NA__ means source does not provide this field"
+}

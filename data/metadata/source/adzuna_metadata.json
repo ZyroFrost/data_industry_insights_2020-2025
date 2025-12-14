@@ -1,0 +1,39 @@
+{
+    "__CLASS__": "str",
+    "results": [
+        {
+            "longitude": "float",
+            "id": "str",
+            "salary_is_predicted": "str",
+            "__CLASS__": "str",
+            "latitude": "float",
+            "redirect_url": "str",
+            "adref": "str",
+            "created": "str",
+            "category": {
+                "tag": "str",
+                "__CLASS__": "str",
+                "label": "str"
+            },
+            "contract_time": "str",
+            "location": {
+                "display_name": "str",
+                "area": [
+                    "str"
+                ],
+                "__CLASS__": "str"
+            },
+            "title": "str",
+            "contract_type": "str",
+            "salary_max": "int",
+            "company": {
+                "display_name": "str",
+                "__CLASS__": "str"
+            },
+            "salary_min": "int",
+            "description": "str"
+        }
+    ],
+    "mean": "float",
+    "count": "int"
+}

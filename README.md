@@ -16,6 +16,11 @@ data_industry_insights/
 ├── dashboard/                              # Power BI dashboard
 │   └── Data_Industry_Insights.pbix
 │
+├── database/                               # Database schema & ERD (chỉ chứa cấu trúc tạo bảng SQL và mô hình ERD)
+│   ├── schema.sql                          # SQL schema / Tạo bảng database
+│   ├── ERD.png                             # Entity Relationship Di
+│   └── README.md                           # Database structure and usage notes / Giải thích cấu trúc và cách dùng database
+│
 ├── data/                                   # DATA FILES ONLY / FOLDER CHỈ CHỨA DATA (JSON VÀ CSV SAU KHI LẤY TỪ PIPELINE)
 │   ├── data_raw/                           # Raw scraped data (API / HTML / JSON) / Dữ liệu thô (file JSON lấy trực tiếp từ web)
 │   ├── data_processing/                    # Transformed intermediate data / Dữ liệu chuyển đổi (file CSV sau khi parse từ JSON)
@@ -41,9 +46,4 @@ data_industry_insights/
 │   │   └── column_mapper_app.py            # Column mapping and normalization tool / App hỗ trợ map và kiểm tra tên cột
 │   │
 │   └── main.py                             # Pipeline entry point / File chạy chính
-│
-├── database/                               # Database schema & ERD (chỉ chứa cấu trúc tạo bảng SQL và mô hình ERD)
-│   ├── schema.sql                          # SQL schema / Tạo bảng database
-│   ├── ERD.png                             # Entity Relationship Di
-│   └── README.md                           # Database structure and usage notes / Giải thích cấu trúc và cách dùng database
 ```
