@@ -23,7 +23,10 @@ data_industry_insights/
 │
 ├── data/                                   # DATA FILES ONLY / FOLDER CHỈ CHỨA DATA (JSON VÀ CSV SAU KHI LẤY TỪ PIPELINE)
 │   ├── data_raw/                           # Raw scraped data (API / HTML / JSON) / Dữ liệu thô (file JSON lấy trực tiếp từ web)
-│   ├── data_processing/                    # Transformed intermediate data / Dữ liệu chuyển đổi (file CSV sau khi parse từ JSON)
+│   └── data_processing/                    # Transformed intermediate data / Dữ liệu chuyển đổi (file CSV sau khi parse từ JSON)
+│   │   ├── data_extracted/                 # Extracted raw fields / Dữ liệu trích xuất trực tiếp từ JSON
+│   │   ├── data_mapped/                    # Mapped & standardized data / Dữ liệu đã map và chuẩn hóa cột
+│   │   └── data_enriched/                  # After augmentation & derivation) / Dữ liệu đã được làm giàu (bổ sung, suy diễn thêm thuộc tính)
 │   ├── data_processed/                     # Cleaned final data for analytics / Dữ liệu cuối để phân tích (đã merge và tách bảng)
 │   ├── data_seeds/                         # Lookup & reference data / Dữ liệu chuẩn tra cứu (không dùng cho pipeline chính)
 │   └── metadata/                           # Schema & source documentation / Tài liệu mô tả cấu trúc JSON của từng nguồn web
