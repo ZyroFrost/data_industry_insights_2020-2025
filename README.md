@@ -55,10 +55,10 @@ data_industry_insights/
 │   ├── tools/                              # Helper tools for data processing / Công cụ hỗ trợ chạy thủ công
 │   │   └── column_mapper_app.py            # Column mapping and normalization tool / App hỗ trợ map và kiểm tra tên cột
 │   │
-│   └── main.py                             # Pipeline entry point / File chạy chính
+│   └── pipeline_app.py                     # Pipeline entry point / File chạy chính
 │ 
-├── .env
-├── .gitignore
+├── .env                                    
+├── .gitignore                  
 ├── README.md
 └── requirements.txt
 ```
