@@ -15,5 +15,11 @@
     "type": "string",
     "description": "Cột chứa cả city và country. Dùng để tách ra city và country khi export. Không lưu field này vào dữ liệu mapped.",
     "derive_to": ["city", "country"]
+  },
+
+  "work_from_home_flag": {
+  "type": "boolean_flag",
+  "derive_to": ["remote_option"],
+  "description": "Boolean or flag column indicating whether the job allows remote / work from home"
   }
  }

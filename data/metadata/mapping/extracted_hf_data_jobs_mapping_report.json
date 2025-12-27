@@ -1,0 +1,20 @@
+{
+  "source_file": "extracted_hf_data_jobs.csv",
+  "active_source_columns": 15,
+  "erd_total": 25,
+  "erd_missing": [
+    "company_size",
+    "country_iso",
+    "latitude",
+    "longitude",
+    "population",
+    "level",
+    "skill_level_required",
+    "min_salary",
+    "max_salary",
+    "currency",
+    "required_exp_years",
+    "education_level",
+    "job_description"
+  ]
+}

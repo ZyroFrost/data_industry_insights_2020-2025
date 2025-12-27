@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "red"
+
+[theme.sidebar]
+backgroundColor = "white" # màu nền sidebar
+secondaryBackgroundColor = "white" #nền vùng input trong sidebar
+textColor = "black" # màu chữ
+primaryColor = "darkGoldenrod" # màu accent (focus, hover, selection) trong sidebar
+borderColor = "mediumSlateBlue" # showWidgetBorder: màu và hiển thị border
+showWidgetBorder = true
+
+[client]
+showSidebarNavigation = false

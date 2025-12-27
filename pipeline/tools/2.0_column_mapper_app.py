@@ -56,6 +56,14 @@ import json
 from pathlib import Path
 from difflib import SequenceMatcher
 
+@st.cache_data(show_spinner=False)
+def load_csv_preview(path):
+    return pd.read_csv(path, nrows=50)
+
+@st.cache_data(show_spinner=False)
+def load_csv_full(path):
+    return pd.read_csv(path)
+
 # ======================================================
 # PATH CONFIG
 # ======================================================
@@ -108,8 +116,8 @@ RULE_BASED_MAP = {
     "__source_id": ["id", "job_id", "jobid", "posting_id","dataset_id","index"],
 
     # Skills table
-    "skill_name": ["skill","skills","skillset"],
-    "skill_category": ["skill_category","skill_type","skill group"],
+    "skill_name": ["skill","skills","skillset","job_skills"],
+    "skill_category": ["skill_category","skill_type","skill group","job_type_skills"],
     #"certification_required": ["certification_required","certificate_required","cert_required","requires_certification"],
 
     # Companies table
@@ -126,9 +134,9 @@ RULE_BASED_MAP = {
     "population": ["population","city_population"],
 
     # Role_Names table
-    "role_name": ["role","title","job_title","job title","position"],
+    "role_name": ["role","title","job_title","job title","position","job_title_short"],
     "level": ["level","job_level","role_level","seniority_level"],
-    "employment_type": ["employment_type","employment type","contract_time","job_type","work_type"],
+    "employment_type": ["employment_type","employment type","contract_time","job_type","work_type","job_schedule_type"],
 
     # Job_Skills table
     "skill_level_required": ["skill_level","skill_proficiency","required_skill_level"],
@@ -145,7 +153,10 @@ RULE_BASED_MAP = {
 
     # Split Help
     "salary_min_max": ["salary","salary_estimate","salary estimate","salary_range","pay","compensation","salary_in_usd"],
-    "location_city_country": ["location","job_location","company_location","city_country","location_text"]
+    "location_city_country": ["location","job_location","company_location","city_country","location_text"],
+
+    # Remote / Work from home flag
+    "work_from_home_flag": ["job_work_from_home", "work_from_home", "remote_flag", "is_remote", "remote_allowed"],
 }
 
 AUTO_ERD_FIELDS = {
@@ -160,11 +171,12 @@ AUTO_DROP_FIELDS = {
     "rating", "num_resources", "num_raw_files",
     "employee_residence", "raw_urls", "portal_url",
     "region", "salary_predicted", "search_keyword", 
-    "category", "job_category",
+    "category", "job_category", "search_location",
     "founded", "headquarters", "type of ownership",
-    "Revenue", "competitors", "Easy Apply",
-    "contract_type",
-    "last_update"
+    "Revenue", "competitors", "Easy Apply", "job_no_degree_mention",
+    "contract_type", "job_via", "job_no_degree_mention"
+    "last_update", "job_health_insurance",
+    "salary_year_avg", "salary_hour_avg"
 }
 
 SIMILARITY_WHITELIST = {
@@ -384,8 +396,9 @@ with c1:
         st.session_state["_last_selected_file"] = selected_file
 
 
-df_preview = pd.read_csv(selected_file, nrows=50)
-df_full = pd.read_csv(selected_file)
+df_preview = load_csv_preview(selected_file)
+df_full = load_csv_full(selected_file)
+
 
 # ======================================================
 # CALCULATE PROGRESS (DÙNG CHUNG)
@@ -516,12 +529,9 @@ with st.container(height=520):
 
         key = f"map_{col}"
 
-        # 🔴 FIX: nếu state CHƯA tồn tại thì set theo suggested
+        # ✅ CHỈ SET DEFAULT 1 LẦN DUY NHẤT
         if key not in st.session_state:
-            if suggested:
-                st.session_state[key] = suggested
-            else:
-                st.session_state[key] = "— Select —"
+            st.session_state[key] = suggested if suggested else "— Select —"
 
 
         with c4:
@@ -632,9 +642,20 @@ with btn_check:
             }
 
             if duplicate_erd:
-                st.session_state.check_ok = False
-                dialog_duplicate_erd(duplicate_erd)
-                st.stop()
+                st.warning("⚠️ Multiple source columns are mapped to the same ERD field.")
+                st.markdown("**The following ERD fields will be merged:**")
+
+                for erd, cols in duplicate_erd.items():
+                    st.markdown(f"- **{erd}** ← {', '.join(cols)}")
+
+                confirm_merge = st.checkbox(
+                    "✅ I understand and confirm merging these columns"
+                )
+
+                if not confirm_merge:
+                    st.session_state.check_ok = False
+                    st.stop()
+
 
             # ===== NO DUPLICATE → PASS CHECK =====
             st.session_state.check_ok = True
@@ -679,7 +700,8 @@ if export_clicked:
         if not erd_col or erd_col in ("— Select —", "__DROP__"):
             continue
 
-        erd_to_source[erd_col] = col
+        erd_to_source.setdefault(erd_col, []).append(col)
+
 
     # ----------------------------------
     # 2. DERIVED FROM HELPING SCHEMA
@@ -708,9 +730,14 @@ if export_clicked:
         if not isinstance(meta, dict) or not meta.get("derive_to"):
             continue
 
-        source_col = erd_to_source.get(helping_col)
-        if not source_col:
+        source_cols = erd_to_source.get(helping_col)
+        if not source_cols:
             continue
+
+        # helping field chỉ cho 1 source column
+        source_col = source_cols[0]
+        raw_series = df_full[source_col]
+
 
         raw_series = df_full[source_col]
 
@@ -762,6 +789,32 @@ if export_clicked:
             df_out["country"] = country_vals
             df_out["remote_option"] = remote_vals
 
+        elif helping_col == "work_from_home_flag":
+            flag_vals = []
+
+            for v in raw_series:
+                if pd.isna(v):
+                    flag_vals.append(NA_VALUE)
+                    continue
+
+                val = str(v).strip().lower()
+
+                if val in ("true", "1", "yes", "y"):
+                    flag_vals.append("Remote")
+                elif val in ("false", "0", "no", "n"):
+                    flag_vals.append("Onsite")
+                else:
+                    flag_vals.append(NA_VALUE)
+
+            # ⬇️ CHỈ ĐIỀN KHI remote_option CHƯA CÓ
+            if "remote_option" in df_out.columns:
+                df_out["remote_option"] = [
+                    r if r != NA_VALUE else f
+                    for r, f in zip(df_out["remote_option"], flag_vals)
+                ]
+            else:
+                df_out["remote_option"] = flag_vals
+
     # ----------------------------------
     # 3. REAL ERD FIELDS
     # ----------------------------------
@@ -769,8 +822,40 @@ if export_clicked:
         if erd_col in df_out.columns:
             continue
 
-        source_col = erd_to_source.get(erd_col)
-        df_out[erd_col] = df_full[source_col] if source_col else NA_VALUE
+        source_cols = erd_to_source.get(erd_col)
+
+        if not source_cols:
+            df_out[erd_col] = NA_VALUE
+            continue
+
+        if len(source_cols) == 1:
+            df_out[erd_col] = df_full[source_cols[0]]
+        else:
+            merged = []
+
+            for _, row in df_full[source_cols].iterrows():
+                parts = []
+
+                for c in source_cols:
+                    v = row[c]
+
+                    if pd.isna(v):
+                        continue
+
+                    v = str(v).strip()
+
+                    if v == NA_VALUE or v == "":
+                        continue
+
+                    parts.append(v)
+
+                if parts:
+                    merged.append(" | ".join(parts))
+                else:
+                    merged.append(NA_VALUE)
+
+            df_out[erd_col] = merged
+
 
      # ----------------------------------
     # 3.1 SOURCE METADATA (AUTO)

@@ -211,6 +211,22 @@ for _, row in emp_map_df.iterrows():
     })
 
 # =========================
+# LOAD JOB LEVEL MAPPING
+# =========================
+
+level_df = pd.read_csv(
+    REF_DIR / "job_level_mapping.csv",
+    dtype=str
+)
+
+LEVEL_MAPPING = []
+for _, row in level_df.iterrows():
+    LEVEL_MAPPING.append({
+        "level": row["level"],
+        "keywords": [k.strip() for k in row["keywords"].lower().split("|")]
+    })
+
+# =========================
 # HELPERS
 # =========================
 def normalize_currency(c):
@@ -517,6 +533,16 @@ def extract_employment_type(text: str, NA="__NA__"):
 
     return NA
 
+def extract_job_level(text: str, NA="__NA__"):
+    text = text.lower()
+
+    for row in LEVEL_MAPPING:
+        for kw in row["keywords"]:
+            if kw in text:
+                return row["level"]
+
+    return NA
+
 # =========================
 # PROCESS SINGLE FILE
 # =========================
@@ -548,6 +574,7 @@ def extract_from_description(file_path: Path):
     filled_industry = 0
     filled_company_size = 0
     filled_employment = 0
+    filled_level = 0
 
     for i, row in df.iterrows():
         desc = row["job_description"]
@@ -667,6 +694,16 @@ def extract_from_description(file_path: Path):
                 df.at[i, "employment_type"] = emp
                 filled_employment += 1
 
+        # -------- JOB LEVEL (FROM DESCRIPTION) --------
+        if (
+            "level" in df.columns
+            and df.at[i, "level"] == NA_VALUE
+        ):
+            lvl = extract_job_level(desc_lower)
+            if lvl != NA_VALUE:
+                df.at[i, "level"] = lvl
+                filled_level += 1
+
     # =========================
     # SAVE OUTPUT (CSV UTF-8-SIG)
     # =========================
@@ -703,6 +740,7 @@ def extract_from_description(file_path: Path):
         f"    - Industry filled from desc: {filled_industry}\n"
         f"    - Company size filled      : {filled_company_size}\n"
         f"    - Employment type filled   : {filled_employment}\n"
+        f"    - Job level filled         : {filled_level}\n"
         f"  → Folder saved               : {OUTPUT_DIR}"
     )
 

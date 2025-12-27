@@ -17,10 +17,12 @@ Purpose:
 Behavior:
 - Count extracted files
 - Count mapped files
+- Count total rows per file (extracted & mapped)
 - Fail immediately if any extracted file is missing a mapped version
 """
 
 import sys
+import pandas as pd
 from pathlib import Path
 
 # ======================================================
@@ -52,6 +54,26 @@ extracted_count = len(extracted_files)
 mapped_count = len(mapped_files)
 
 # ======================================================
+# ROW COUNT HELPERS
+# ======================================================
+
+def count_rows(file_path: Path) -> int:
+    try:
+        if file_path.suffix.lower() == ".csv":
+            total = 0
+            for chunk in pd.read_csv(file_path, chunksize=100_000, low_memory=False):
+                total += len(chunk)
+            return total
+
+        elif file_path.suffix.lower() == ".xlsx":
+            return len(pd.read_excel(file_path))
+
+    except Exception:
+        return -1  # error marker
+
+    return -1
+
+# ======================================================
 # OUTPUT
 # ======================================================
 
@@ -60,9 +82,28 @@ print("\n🔎 STEP 02 – MAPPING CHECK\n")
 print(f"📂 Extracted files : {extracted_count}")
 print(f"📂 Mapped files    : {mapped_count}")
 
-print(
-    f"\n📊 Mapping result  : {mapped_count} / {extracted_count} files mapped"
-)
+print(f"\n📊 Mapping result  : {mapped_count} / {extracted_count} files mapped")
+
+print("\n---------------- FILE ROW COUNTS ----------------")
+
+total_extracted_rows = 0
+total_mapped_rows = 0
+
+print("\n📄 Extracted files:")
+for f in extracted_files:
+    rows = count_rows(f)
+    total_extracted_rows += max(rows, 0)
+    print(f"  - {f.name}: {rows if rows >= 0 else 'ERROR'} rows")
+
+print("\n📄 Mapped files:")
+for f in mapped_files:
+    rows = count_rows(f)
+    total_mapped_rows += max(rows, 0)
+    print(f"  - {f.name}: {rows if rows >= 0 else 'ERROR'} rows")
+
+print("\n📊 TOTAL ROWS")
+print(f"  • Extracted total rows : {total_extracted_rows}")
+print(f"  • Mapped total rows    : {total_mapped_rows}")
 
 # ======================================================
 # FINAL RESULT
